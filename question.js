@@ -549,7 +549,7 @@ let questions = [
   },
   {
     question: "Aturan minum ciprofloxacin yang tepat pada pasien pielonefritis adalah?",
-    answer: "Minum obat dengan banyak air putih untuk mencegah kristaluria",
+    answer: "MMinum dengan banyak air putih",
     options: [
       "Minum setelah makan",
       "Minum dengan banyak air putih",
@@ -805,7 +805,7 @@ let questions = [
 },
 {
   question: "Pasien dengan cystitis diberikan antibiotik golongan fluoroquinolon. Mekanisme kerja fluoroquinolon adalah?",
-  answer: "Menghambat pertumbuhan bakteri dengan menyerang DNA gyrase dan topoisomerase",
+  answer: "Menghambat replikasi dan transkripsi DNA dengan menghambat DNA gyrase dan topoisomerase",
   options: [
     "Menghambat sintesis dinding sel bakteri",
     "Menghambat transkripsi RNA dengan berikatan pada RNA polimerase",

@@ -81,28 +81,28 @@ function showQuestions(index) {
   }
 }
 
-// Mencegah akses DevTools (Inspect Element)
-document.addEventListener('keydown', function (e) {
-  // Cegah F12 (DevTools)
-  if (e.key === 'F12') {
-    e.preventDefault();
-  }
-  // Cegah Ctrl+Shift+I (Inspect Element)
-  if (e.ctrlKey && e.shiftKey && e.key === 'I') {
-    e.preventDefault();
-  }
-  // Cegah Ctrl+U (View Source)
-  if (e.ctrlKey && e.key === 'U') {
-    e.preventDefault();
-  }
-});
+// // Mencegah akses DevTools (Inspect Element)
+// document.addEventListener('keydown', function (e) {
+//   // Cegah F12 (DevTools)
+//   if (e.key === 'F12') {
+//     e.preventDefault();
+//   }
+//   // Cegah Ctrl+Shift+I (Inspect Element)
+//   if (e.ctrlKey && e.shiftKey && e.key === 'I') {
+//     e.preventDefault();
+//   }
+//   // Cegah Ctrl+U (View Source)
+//   if (e.ctrlKey && e.key === 'U') {
+//     e.preventDefault();
+//   }
+// });
 
-// Mencegah klik kanan
-document.addEventListener('contextmenu', function (e) {
-  e.preventDefault();
-});
+// // Mencegah klik kanan
+// document.addEventListener('contextmenu', function (e) {
+//   e.preventDefault();
+// });
 
-// Mencegah copy paste
-document.addEventListener('copy', function(e) {
-  e.preventDefault();
-});
+// // Mencegah copy paste
+// document.addEventListener('copy', function(e) {
+//   e.preventDefault();
+// });
