@@ -4,6 +4,9 @@ const home = document.querySelector ('.home');
 const quizSection = document.querySelector ('.question-box');
 const option = document.querySelector ('.option');
 const nextBtn = document.querySelector ('.next');
+const mute = document.querySelector('.mute');
+
+
 
 
 startBtn.onclick = () => {
@@ -93,6 +96,15 @@ function goNext () {
 
 nextBtn.onclick = () => {
   goNext ();
+}
+
+mute.onclick = () => {
+  muteAudio();
+}
+
+function muteAudio(){
+  correctSound.muted = true;
+  wrongSound.muted = true;
 }
 
 
