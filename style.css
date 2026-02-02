@@ -1,9 +1,19 @@
 body {
-	color: #413b3b;
+	color: #F5F4F4;
 	font-family: "Inter", sans-serif;
 	margin: 0;
 	height: 100dvh;
 	height: 100vh;
+}
+
+::selection {
+  background: #FFD01C;
+  color: #323437;
+}
+
+.kuning {
+	background: #FFD01C;
+  color: #323437;
 }
 
 .home {
@@ -11,7 +21,7 @@ body {
 	height: 100dvh;
 	display: flex;
 	justify-content: center;
-	background-color: #f8f8f8;
+	background-color: #323437;
 	background-image: url(assets/vector.png);
 	background-size: cover;
 }
@@ -31,11 +41,12 @@ body {
 	font-size: 12vw;
 	font-weight: 800;
 	margin: 0;
+	margin-bottom: 20px;
 }
 
 .home-content p {
 	font-size: 1.7vw;
-	font-weight: 500;
+	font-weight: 400;
 	margin-top: 0;
 	margin-bottom: 30px;
 	max-width: 60%;
@@ -45,14 +56,15 @@ body {
 .home-content .start-btn {
 	width: 300px;
 	height: 55px;
-	background-color: #413b3b;
+	background-color: #FFD01C;
 	border: none;
 	font-size: 25px;
 	font-weight: 900;
-	color: white;
+	color: #323437;
 	letter-spacing: 1px;
 	cursor: pointer;
 	transition: .5s ease;
+	border-radius: 10px;
 }
 
 .home-content .start-btn:hover {
@@ -76,8 +88,7 @@ body {
 	display: none;
 	flex-direction: column;
 	opacity: 1;
-	background: #f8f8f8;
-	border-radius: 10px;
+	background: #323437;
 
 }
 
@@ -135,7 +146,7 @@ body {
 .option-list .option {
 	padding: 12px;
 	max-width: 90%;
-	background: #EBEBEB;
+	background: #434547;
 	font-size: 17px;
 	font-weight: 600;
 	border-radius: 10px;
@@ -148,7 +159,8 @@ body {
 }
 
 .option-list .option:hover {
-	background: #c3c3c3;
+	background: #F5F4F4;
+	color: #434547;
 }
 
 .main {
@@ -200,3 +212,4 @@ body {
 	margin-bottom: 30px;
 	width: 80%;
 }
+

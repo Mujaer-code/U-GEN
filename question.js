@@ -549,7 +549,7 @@ let questions = [
   },
   {
     question: "Aturan minum ciprofloxacin yang tepat pada pasien pielonefritis adalah?",
-    answer: "MMinum dengan banyak air putih",
+    answer: "Minum dengan banyak air putih",
     options: [
       "Minum setelah makan",
       "Minum dengan banyak air putih",
