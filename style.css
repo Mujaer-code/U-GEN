@@ -12,11 +12,6 @@ body {
   color: #323437;
 }
 
-.kuning {
-	background: #FFD01C;
-  color: #323437;
-}
-
 .home {
 	height: 100vh;
 	height: 100dvh;
@@ -42,7 +37,6 @@ body {
 	font-size: 12vw;
 	font-weight: 800;
 	margin: 0;
-	margin-bottom: 20px;
 }
 
 .home-content p {
