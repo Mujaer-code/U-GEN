@@ -56,8 +56,7 @@ function showQuestions(index) {
 
     answer.classList.add('correct');
     
-    var audio = new Audio('assets/correct.mp3');
-    audio.play();
+    correctSound.play();
 
     setTimeout(() => {
       quizSection.classList.remove('correct');
@@ -76,10 +75,16 @@ function showQuestions(index) {
   } else {
     console.log("Jawaban salah!");
     answer.classList.add('incorrect');
-    var audio = new Audio('assets/incorrect.mp3');
-    audio.play();
+    wrongSound.play();
   }
 }
+
+const correctSound = new Audio("assets/correct.mp3");
+const wrongSound = new Audio("assets/incorrect.mp3");
+
+correctSound.preload = "auto";
+wrongSound.preload = "auto";
+
 
 // // Mencegah akses DevTools (Inspect Element)
 // document.addEventListener('keydown', function (e) {
