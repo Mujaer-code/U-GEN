@@ -85,6 +85,7 @@ body {
 	opacity: 1;
 	background: #323437;
 
+
 }
 
 .main.active {
@@ -96,7 +97,8 @@ body {
 	margin-right: 10%;
 	display: flex;
 	flex-direction: column;
-	padding: 5%;
+	padding-top: 5%;
+	padding-bottom: 2%;
 }
 
 .question-text {
@@ -189,11 +191,13 @@ body {
 }
 
 .quiz-header {
-	width: 98%;
+	width: 300px;
 	position: absolute;
 	bottom: 0;
+	right: 0;
 	text-align: right;
 	margin-bottom: 20px;
+	margin-right: 20px;
 }
 
 .quiz-header h1 {
@@ -215,3 +219,16 @@ body {
 	width: 80%;
 }
 
+.next {
+	z-index: 1;
+	width: 200px;
+	height: 50px;
+	background: #FFD01C;
+  color: #323437;
+  font-weight: 800;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  margin-left: 40%;
+}

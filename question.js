@@ -22,17 +22,7 @@ let questions = [
     "HEV"
   ]
 },
-{
-  question: "Tuan A mengalami Hepatitis B selama 8 tahun dan mengalami gagal ginjal. Obat antivirus yang dikontraindikasikan adalah?",
-  answer: "Adefovir",
-  options: [
-    "Interferon",
-    "Lamivudin",
-    "Adefovir",
-    "Entecavir",
-    "Zidovudin"
-  ]
-},
+
 {
   question: "Seorang ibu berusia 45 tahun mengeluh nyeri di bagian belakang tulang iga dan terdapat luka mengelembung berisi air. Ibu merasa susah tidur dan nyeri saat berpakaian. Dokter mendiagnosis Herpes Zoster. Apa terapi obat yang tepat?",
   answer: "Acilovir",
@@ -505,7 +495,7 @@ let questions = [
   },
   {
     question: "Terapi yang tepat untuk infeksi gonore oleh Neisseria gonorrhoeae adalah?",
-    answer: "Cefixime + Doksisiklin",
+    answer: "Cefixime + doksisiklin",
     options: [
       "Azitromisin + amoksisilin",
       "Klindamisin + azitromisin",

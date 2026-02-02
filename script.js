@@ -3,6 +3,8 @@ const main = document.querySelector ('.main');
 const home = document.querySelector ('.home');
 const quizSection = document.querySelector ('.question-box');
 const option = document.querySelector ('.option');
+const nextBtn = document.querySelector ('.next');
+
 
 startBtn.onclick = () => {
 	main.classList.add('active');
@@ -11,6 +13,7 @@ startBtn.onclick = () => {
 	showQuestions(0);
 
 }
+
 
 let questionCount = 0;
 
@@ -55,12 +58,7 @@ function showQuestions(index) {
     console.log("Jawaban benar!");
 
     answer.classList.add('correct');
-    
     correctSound.play();
-
-    setTimeout(() => {
-      quizSection.classList.remove('correct');
-    }, 1000);
 
      // **✅ Cek jika sudah soal terakhir**
     if (questionCount < questions.length - 1) {
@@ -72,12 +70,32 @@ function showQuestions(index) {
 
   
 
-  } else {
-    console.log("Jawaban salah!");
-    answer.classList.add('incorrect');
-    wrongSound.play();
-  }
+    } else {
+      console.log("Jawaban salah!");
+      answer.classList.add('incorrect');
+      wrongSound.play();
+    }
 }
+
+function showResultBox(){
+  main.classList.remove('active');
+  home.classList.remove('deactive');
+}
+
+function goNext () {
+  if (questionCount < questions.length - 1) {
+      questionCount++; // Pindah ke soal berikutnya
+      showQuestions(questionCount);
+    } else {
+      showResultBox(); // **Tampilkan hasil jika semua soal terjawab**
+    }
+}
+
+nextBtn.onclick = () => {
+  goNext ();
+}
+
+
 
 const correctSound = new Audio("assets/correct.mp3");
 const wrongSound = new Audio("assets/incorrect.mp3");
