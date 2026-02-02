@@ -1150,13 +1150,13 @@ let questions = [
 },
 {
   question: "Pasien hamil 6 minggu dengan infeksi H. pylori. Regimen yang paling tepat adalah?",
-  answer: "ranitidine + amoxicilin + klaritromisin",
+  answer: "Ranitidine + amoxicillin + klaritromisin",
   options: [
     "Omeprazole + amoxicilin + bismuth",
     "Omeprazole + metronidazole + klindamisin",
     "Ranitidine + amoxicillin + klaritromisin",
     "Omeprazole + amoxicillin + klaritromisin",
-    "Ranitidine + amoxicilin + klaritromisin"
+    "Ranitidine + Metronidazol + klaritromisin"
   ]
 },
 
@@ -1885,8 +1885,9 @@ let questions = [
   ]
 },
 
-
 ///END Infeksi
+
+
 
 
 ];
