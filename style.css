@@ -63,8 +63,8 @@ body {
 }
 
 .home-content .start-btn:hover {
-	font-size: 30px;
-	opacity: 1;
+	background: #F5F4F4;
+
 
 }
 
@@ -315,3 +315,43 @@ body {
 	justify-content: center;
 }
 
+.TO {
+margin: 30px;
+
+
+border-radius: 20px;
+text-align: center;
+}
+
+.TO a {
+  color: #323437;
+  background-color: #FFD01C;
+  margin: 10px;
+  padding: 3px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.mute-x {
+	 color: #FFD01C;
+	 width: 60px; 
+	 height: 55px;
+	 width: 60px; 
+	 background-color: #FFD01C; 
+	 color: #323437; 
+	 border: none; 
+	 border-radius: 10px; 
+	 font-size: 20px; 
+	 cursor: pointer; 
+	 transition: .3s; 
+	 display: flex; 
+	 justify-content: 
+	 center; 
+	 align-items: center;"
+}
+
+.mute-x:hover {
+	background-color: #F5F4F4;
+}

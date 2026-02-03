@@ -190,7 +190,16 @@ mute.onclick = () => {
 function muteAudio(){
   correctSound.muted = true;
   wrongSound.muted = true;
+  alert("Efek sound telah dimatikan!")
 }
+
+const muteX = document.querySelector('.mute-x');
+
+// Mute
+muteX.onclick = () => {
+  muteAudio();
+}
+
 
 const correctSound = new Audio("assets/correct.mp3");
 const wrongSound = new Audio("assets/incorrect.mp3");
