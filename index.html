@@ -20,7 +20,11 @@
           	
             <h2>U-GEN</h2>
             <p>U-Gen adalah singkatan dari UKMPPAI Generator. Sebuah platform untuk pemantapan materi melalui latihan soal. So, kalo ada salah jawaban, kabarin aja yaw</p>
-            <button class="start-btn">CEKIDOT!</button>
+
+            <div class="tombol">
+            <button class="start-btn">START!</button>
+            <button class="refresh"><i class="fa-solid fa-arrows-rotate fa-xl"></i></button>
+          </div>
           </div>
 
 
@@ -31,37 +35,45 @@
 
 <main class="main">
 
+
+
 <span class="mute" style="color: #FFD01C; position: fixed; right: 0; margin: 30px; cursor: pointer;">
 	<i class="fa-solid fa-volume-xmark fa-xl" ></i></span>
 
 	<div class="question-box">
+		<div class="counter-box">
+  <h2 id="display-nomor">Menghitung soal...</h2>
+</div>
 	<h2 class="question-text">What does?</h2>
 
 	<div class="option-list">
-		<div class="option">
+		<div class="option" data-index="0">
 			<span>A. apa</span>
 		</div>
 
-		<div class="option">
+		<div class="option" data-index="1"> 
 			<span>B. apa</span>
 		</div>
 
-		<div class="option">
+		<div class="option" data-index="2">
 			<span>C. apa</span>
 		</div>
 
-		<div class="option">
+		<div class="option" data-index="3">
 			<span>D. apa</span>
 		</div>
 
-		<div class="option">
+		<div class="option" data-index="4">
 			<span>E. apa</span>
 		</div>
 
 	</div>
 </div>
-
-<button class="next">Next</button>
+<div class="tombol">
+	<button class="prev"><i class="fa-solid fa-arrow-left fa-xl"></i></button>
+<button class="save-btn">Save</button>
+<button class="next"><i class="fa-solid fa-arrow-right fa-xl"></i></button>
+</div>
 
 <div class="quiz-header">
        <h1>U-GEN</h1>
@@ -69,9 +81,9 @@
     
       </div>
 </main>
-
-<script src="script.js"></script>
 <script src="question.js"></script>
+<script src="script.js"></script>
+
 <script src="https://kit.fontawesome.com/5a44f7470c.js" crossorigin="anonymous"></script>
 
 </body>

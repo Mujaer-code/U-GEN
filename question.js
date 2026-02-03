@@ -3161,7 +3161,1196 @@ let questions = [
     ]
   },
 
+  {
+    question: "Seorang wanita berusia 58 tahun dengan riwayat sirosis hepatis akibat hepatitis B kronis datang ke Unit Gawat Darurat (UGD) dengan keluhan perut membesar, sulit bernapas, dan berat badan meningkat drastis dalam dua bulan terakhir. Pemeriksaan fisik menunjukkan distensi abdomen yang signifikan, shifting dullness positif, dan edema ekstremitas bawah bilateral. Dokter mendiagnosis pasien dengan asites akibat hipertensi portal, yang dikonfirmasi melalui pemeriksaan ultrasonografi. Apoteker diminta untuk merekomendasikan terapi farmakologis pertama yang paling tepat untuk mengontrol asites dan mencegah komplikasi lebih lanjut. Obat apakah yang paling sesuai sebagai terapi lini pertama untuk menangani asites pada pasien ini?",
+    answer: "Spironolactone",
+    options: [
+      "Furosemide",
+      "Spironolactone",
+      "Albumin",
+      "Propranolol",
+      "Mannitol"
+    ]
+  },
+  {
+    question: "Seorang pasien laki-laki usia 56 tahun menderita hipertensi dan Diabetes Mellitus. Hasil pemeriksaan menunjukkan tekanan darah pasien mencapai 170/110 mmHg. Berapa target tekanan darah pasien tersebut?",
+    answer: "<130/80 mmHg",
+    options: [
+      "<150/90 mmHg",
+      "<130/80 mmHg",
+      "<160/90 mmHg",
+      "<140/90 mmHg",
+      "<140/80 mmHg"
+    ]
+  },
+  {
+    question: "Obat hipertensi yang aman untuk pasien dengan riwayat asma adalah",
+    answer: "Nebivolol",
+    options: [
+      "Amlodipin",
+      "Nifedipine",
+      "Minoxidil",
+      "Nebivolol",
+      "Nadolol"
+    ]
+  },
+  {
+    question: "Seorang pasien datang ke apotek membawa resep Furosemide 40 mg, dengan aturan pakai 2 dd 40 mg. Efek samping apa yang terjadi bila pasien mengkonsumsi Furosemid?",
+    answer: "Hipokalemia",
+    options: [
+      "Hiperkalsemia",
+      "Hipokalsemia",
+      "Hipervolemia",
+      "Hiperkalemia",
+      "Hipokalemia"
+    ]
+  },
+  {
+    question: "Seorang wanita usia 67 tahun memiliki riwayat penyakit jantung dibawa ke ICU dengan keluhan sulit bernafas. Terdapat penumpukan cairan pada paru-parunya. Obat apa yang direkomendasikan untuk wanita tersebut?",
+    answer: "Furosemide",
+    options: [
+      "Spironolakton",
+      "Hydrochlorothiazide",
+      "Furosemide",
+      "Amiloride",
+      "Indapamid"
+    ]
+  },
+  {
+    question: "Pasien dengan diagnosa hipertensi, diberi obat HCT 1 mg x 1 hari. Pasien mengambil tindakan untuk berhenti minum obat karna mengeluh tidak bisa tidur karena bolak balik kamar mandi utnuk BAK. Tindakan apa yang harus dilakukan apoteker?",
+    answer: "Menginformasikan kepada pasien untuk meminum obat pagi hari",
+    options: [
+      "Menyarankan dokter supaya dosis obat bisa diturunkan",
+      "Menyarankan dokter supaya obat diganti golongan lain",
+      "Menyarankan kepada dokter supaya obat dihentikan sementara",
+      "Menginformasikan kepada pasien untuk meminum obat pagi hari",
+      "Menginformasikan kepada pasien untuk mengurangi minum"
+    ]
+  },
+  {
+    question: "Seorang Bapak (50 th, BB 60 kg, TB 160 cm) mengeluh pusing kepala, beliau mengaku memiliki HT. Setelah dicek TD 159/100 mmHg, kadar gula acak 200, dan creatinin 4,8. Dokter telah memberikan ibesartan 300 (1 x 1). Dokter meminta pendapat apoteker untuk memberikan obat HT golongan diuretik. Sebagai apoteker, obat apa yg anda berikan ?",
+    answer: "Hidroklotiazid",
+    options: [
+      "Hidroklotiazid",
+      "Furosemide",
+      "Spironolakton",
+      "Klortalidon",
+      "Manitol"
+    ]
+  },
+  {
+    question: "Pasien pria berusia 40 tahun, baru didiagnosis hipertensi dan menerima terapi kaptopril. Satu minggu kemudian pasien mengeluhkan batuk kering. Zat apa yang memodulasi inflamasi dan menyebabkan batuk?",
+    answer: "Bradikinin",
+    options: [
+      "Histamin",
+      "Angiotensin",
+      "Prostaglandin",
+      "Bradikinin",
+      "Renin"
+    ]
+  },
+  {
+    question: "Seorang pasien wanita berumur 28 tahun mendapatkan pengobatan amlodipine untuk penyakit hipertensi yang dideritanya. Namun 3 bulan kemudian diketahui ia sedang hamil 4 minggu. Obat apakah yang cocok untuk pasien tersebut?",
+    answer: "Labetalol",
+    options: [
+      "Captropril",
+      "Labetalol",
+      "Bisoprolol",
+      "Furosemid",
+      "Amlodipin"
+    ]
+  },
+  {
+    question: "Seorang pasien umur 32 tahun datang ke RS dengan keluhan sakit kepala dan dinyatakan bahwa hipertensi dgn TD 220/100, tetapi pasien menderita gagal ginjal dgn klirens 3,0. Apa obat antihipertensi yang cocok?",
+    answer: "Kaptopril",
+    options: [
+      "Propanolol",
+      "Kaptopril",
+      "Bisoprolol",
+      "Furosemid",
+      "Amlodipin"
+    ]
+  },
+  {
+    question: "Seorang pasien wanita umur 30 tahun didiagnosa dokter mengalami hipertensi dengan tekanan darah 150/90 mmHg, dan peningkatan kadar asam urat. Obat Hipertensi apakah yang dapat menyebakan peningkatan kadar asam urat?",
+    answer: "HCT",
+    options: [
+      "Amlodipin",
+      "HCT",
+      "Valsartan",
+      "Bisoprolol",
+      "Lisinopril"
+    ]
+  },
+  {
+    question: "Seorang pasien laki-laki mengeluhkan sesak napas, namun pasien mempunyai riwayat hipertensi. Obat Hipertensi apakah yang kotraindikasi untuk pasien tersebut?",
+    answer: "Propanolol",
+    options: [
+      "HCT",
+      "Atenolol",
+      "Bisoprolol",
+      "Propanolol",
+      "Lisinopril"
+    ]
+  },
 
+  {
+    question: "Seorang pasien umur 45 tahun dengan GDS 240 mmHg/dL dan riwayat jantung koroner dengan tekanan darah 170/110 mmHg. Antihipertensi apa yang direkomendasikan kepada pasien?",
+    answer: "Bisoprolol",
+    options: [
+      "Amlodipin",
+      "Metildopa",
+      "Valsartan",
+      "Bisoprolol",
+      "Lisinopril"
+    ]
+  },
+  {
+    question: "Pasien pria didiagnosis dokter Hipertensi dengan tekanan darah 160/90 mmHg dokter meresepkan salah satu obat hipertensi golongan Diuretik hemat kalium, yang tergolong dalam diuretik hemat kalium adalah?",
+    answer: "Spironolacton",
+    options: [
+      "Furosemid",
+      "Hidroclorothiazide",
+      "Manitol",
+      "Spironolacton",
+      "Asam etakrinat"
+    ]
+  },
+  {
+    question: "Seorang pasien laki-laki berusia 40 tahun menderita hipertensi dan mengeluhkan adanya efek samping disfungsi ereksi. Obat apakah yang memberikan efek samping tersebut?",
+    answer: "Spironolacton",
+    options: [
+      "Hidroclorothiazide",
+      "Bisoprolol",
+      "Amlodipin",
+      "Spironolacton",
+      "Furosemid"
+    ]
+  },
+  {
+    question: "Seorang pasien umur 32 tahun datng ke RS dengan keluhan sakit kepala dan dinyatakan bahwa hipertensi dgn TD 220/100, tetapi pasien menderita gagal ginjal dgn klirens 3,0, dan mendapat terapi kaptopril, kapan kah waktu minum obat yang tepat buat pasien?",
+    answer: "30 Menit sebelum makan",
+    options: [
+      "1 Jam sesudah makan",
+      "Bersama makanan",
+      "Saat perut kosong",
+      "30 Menit sebelum makan",
+      "2 Jam sebelum makan"
+    ]
+  },
+  {
+    question: "Pasien perempuan berusia 28 tahun memiliki hipertensi, sebagai apoteker Anda menyarankan untuk menjalani terapi non farmakologi, dengan mengurai konsumsi makanan tertentu. Apakah kandungan di makanan yang harus dikurangi pasien?",
+    answer: "Natrium",
+    options: [
+      "Natrium",
+      "Zink",
+      "Besi",
+      "Kalium",
+      "Magnesium"
+    ]
+  },
+  {
+    question: "Seorang pasien memiliki riwayat hipertensi, dan penyakit jantung dibawa ke ICU diketahui terdapat cairan di paru parunya, terapi apa yang seharusnya diberikan kepada pasien?",
+    answer: "Furosemid",
+    options: [
+      "Furosemid",
+      "Spironolakton",
+      "HCT",
+      "Manitol",
+      "Verapamil"
+    ]
+  },
+  {
+    question: "Seorang wanita hamil 3 bulan dibawa ke IGD karena kejang, sebelumnya diketahui pasien memiliki riwayat hipertensi dan konsumsi metildopa, dokter mendiagnosa eklampsia, terapi yang tepat diberikan kepada pasien adalah?",
+    answer: "Labetolol & inj.MgSO4",
+    options: [
+      "Metildopa & inj. diazepam",
+      "Nifedipin & inj.diazepam",
+      "Labetolol & inj.MgSO4",
+      "Furosemid & inj. MgSO4",
+      "Captopril & inj. MgSO4"
+    ]
+  },
+  {
+    question: "Seorang bapak berumur 50 tahun masuk IGD dengan tekanan darah 165/90 mmHg. pasien mengalami Hipertensi dan gagal ginjal. Berdasakan JNC VIII apa rekomendasi terapi first line hipertensi pasien CKD dan targetnya terapinya?",
+    answer: "Captopril dan target terapi 140/90 mmHg",
+    options: [
+      "Valsartan dan target terapi 150/90 mmHg",
+      "Ibersartan dan target terapi 150/80 mmHg",
+      "Captopril dan target terapi 140/90 mmHg",
+      "Lisinopril dan target terapi 140/80 mmHg",
+      "Enalapril dan target terapi 130/90 mmHg"
+    ]
+  },
+  {
+    question: "Seorang pasien wanita usia 56 tahun terdiagnosa diabetes mellitus tipe 2 saat 9 tahun yang lalu dan mendapat terapi metformin dan glibenklamid, saat ini kondisi diabetes nya terkontrol dengan nilai HbA1c 6,5%. Lima tahun yang lalu pasien terdiagnosa hipertensi dan telah mendapat obat captopril 20 mg 1x1 tab, saat ini tekanan darah pasien 158/89 mmHg. Jika dokter ingin menambahkan obat kedua selain captopril, obat manakah yang kontraindikasi untuk pasien tersebut:",
+    answer: "Losartan",
+    options: [
+      "Hidroklorotiazid",
+      "Amlodipin",
+      "Losartan",
+      "Metildopa",
+      "Bisoprolol"
+    ]
+  },
+  {
+    question: "Seorang bapak berumur 57 tahun masuk IGD, pasien mengalami gagal jantung kronik stage II & III, setelah dilakukan pemeriksaan pasien tersebut diberikan terapi valsartan 160 mg. Dari kasus diatas kadar apa yang harus dipantau?",
+    answer: "Clcr",
+    options: [
+      "Clcr",
+      "SGOT/SGPT",
+      "Hba1c",
+      "BUN",
+      "Asam urat"
+    ]
+  },
+  {
+    question: "Ibu 62 th mengalami gagal jantung 1 th yang lalu. Memiliki hipertensi sudah 10 th mendapatkan terapi hidroklortiazid. Tekanan darahnya akhir-akhir ini terus meningkat. Obat yang kontra indikasi jika diberikan kepada ibu tersebut adalah",
+    answer: "Misoprostol",
+    options: [
+      "Misoprostol",
+      "Valsartan",
+      "Furosemid",
+      "Verapamil",
+      "Lisinopril"
+    ]
+  },
+  {
+    question: "Seorang pasien masuk IGD dengan keluhan kepala pusing seperti melayang dan kesulitan menggunakan anggota gerak. Pasien mempunyai riwayat penyakit HT dan ditemukan edema di kedua tungkainya. Pasien mendapat furosemid. Efek samping yang terjadi pada pasien tersebut adalah?",
+    answer: "Hipokalemia",
+    options: [
+      "Hiponatremia",
+      "Hipokalsemia",
+      "Hipoglikemi",
+      "Hipokalemia",
+      "Hipomagnesia"
+    ]
+  },
+  {
+    question: "Seorang perempuan hamil berusia 27 tahun mengeluh mengalami nyeri kepala, lemas dan mual. Pasien mempunyai riwayat hipertensi dan saat ini tekanan darahnya 160/90 mmHg. Obat manakah yang paling tepat untuk kasus tersebut?",
+    answer: "Metildopa",
+    options: [
+      "Verapamil",
+      "Klonidin",
+      "Kaptopril",
+      "Metildopa",
+      "Atenolol"
+    ]
+  },
+  {
+    question: "Seorang pasien laki-laki 40 tahun, menderita hipertensi dan gagal jantung. Obat antihipertensi apakah yang dapat digunakan untuk kasus tersebut?",
+    answer: "Enalapril",
+    options: [
+      "Atenolol",
+      "Propanolol",
+      "Enalapril",
+      "Amlodipin",
+      "Furosemide"
+    ]
+  },
+  {
+    question: "Pasien wanita dengan kondisi hamil 12 minggu datang ke apotek untuk menebus obat dari dokter yang salah satu obatnya adalah asetosal 80 mg sehari. Pasien tersebut menerangkan bahwa dokter mengatakan bahwa ia mengalami peningkatan tekanan darah. Sebagai apoteker tindakan yang harus dilakukan adalah",
+    answer: "Tetap memberikan obat sesuai permintaan dokter",
+    options: [
+      "Tetap memberikan obat sesuai permintaan dokter",
+      "Menghubungi dokter dan menanyakan kebenaran resep",
+      "Tidak memberikan asetosal karena khawatir dengan risiko pendarahan",
+      "Menghubungi dokter dan menyarankan penggantian obat",
+      "Menolak keseluruhan resep karena beresiko"
+    ]
+  },
+  {
+    question: "Seorang wanita usia 69 tahun didiagnosis menderita gagal jantung. Dokter meresepkan obat untuk mencegah remodelling jantung. Apa obat yang direkomendasikan?",
+    answer: "Kaptopril",
+    options: [
+      "Valsartan",
+      "Kaptopril",
+      "Amlodipin",
+      "Verapamil",
+      "Furosemid"
+    ]
+  },
+
+  {
+    question: "Seorang wanita usia 58 tahun datang ke klinik dengan keluhan pembengkakan pada pergelangan kaki dan kaki (edema pedis) selama beberapa minggu terakhir. Pasien memiliki riwayat hipertensi dan sedang mengonsumsi amlodipin 10 mg sekali sehari. Tidak ada tanda-tanda insufisiensi vena kronis atau gangguan ginjal yang terlihat. Apa mekanisme yang paling mungkin menyebabkan efek samping ini?",
+    answer: "Vasodilatasi arteriol yang menyebabkan peningkatan tekanan hidrostatik kapiler dan ekstravasasi cairan.",
+    options: [
+      "Peningkatan retensi natrium dan air akibat aktivasi sistem renin-angiotensin-aldosteron (RAAS).",
+      "Vasodilatasi arteriol yang menyebabkan peningkatan tekanan hidrostatik kapiler dan ekstravasasi cairan.",
+      "Efek inotropik negatif yang menyebabkan gagal jantung kongestif ringan dan edema perifer.",
+      "Peningkatan permeabilitas vaskular yang menyebabkan kebocoran protein plasma ke jaringan interstisial.",
+      "Stimulasi langsung pada reseptor mineralokortikoid yang menyebabkan retensi cairan."
+    ]
+  },
+  {
+    question: "Pasien gagal ginjal mengalami hipertensi. Dokter ingin memberikan obat tambahan berupa diuretik. Diuretik apakah yang aman untuk digunakan?",
+    answer: "Furosemide",
+    options: ["Amilorid", "Tramteren", "Furosemide", "Spironolakton", "Eplerenon"]
+  },
+  {
+    question: "Pasien baru saja diberikan kaptopril 12,5 mg 2x1 untuk pertama kalinya. Kapan pasien disarakan untuk kontrol kembali?",
+    answer: "2 minggu",
+    options: ["1 minggu", "2 minggu", "2 bulan", "3 bulan", "4 bulan"]
+  },
+  {
+    question: "Pasien wanita berusia 20 tahun telah hamil selama 16 minggu memiliki tekanan darah 160/90 mmHg. Obat apa yang dikontraindikasikan dengan pasien tersebut?",
+    answer: "Kaptopril",
+    options: ["Kaptopril", "Nifedipin", "Amlodipin", "Labetalol", "Metildopa"]
+  },
+  {
+    question: "Seorang pria berusia 50 tahun dengan berat badan 60 kg didiagnosis menderita stroke iskemia. Tekanan darah pasien 200/130 mmHg. Pasien memiliki keadaan fisik yang lemah. Obat apa yang dapat digunakan untuk menurunkan tekanan darah dari pasien tersebut?",
+    answer: "Lisinopril",
+    options: ["Valsartan", "Lisinopril", "Doksazosin", "Nifedipin", "Bisoprolol"]
+  },
+  {
+    question: "Obat hipertensi yang dapat meningkatkan nilai total kolesterol dan trigliserida adalah",
+    answer: "Bisoprolol",
+    options: ["Acebutolol", "Bisoprolol", "Prazosin", "Nadolol", "Labetalol"]
+  },
+  {
+    question: "Obat hipertensi yang dapat menurunkan nilai triiodotirosnin adalah",
+    answer: "Propanolol",
+    options: ["Propanolol", "Kaptopril", "Furosemide", "Amlodipin", "Aliskiren"]
+  },
+  {
+    question: "Bapak T didiagnosis CKD. Dokter memberikan hidroklortiazid. Pemeriksaan apa yang harus dilakukan?",
+    answer: "Serum kreatinin",
+    options: ["ALT/AST", "Frekuensi denyut jantung", "Serum kreatinin", "aPTT", "HbA1C"]
+  },
+  {
+    question: "Obat hipertensi yang menghasilkan refleks takikardia adalah?",
+    answer: "Amlodipin",
+    options: ["Amlodipin", "Kaptopril", "Furosemide", "Hidroklortiazid", "Spironolakton"]
+  },
+  {
+    question: "Informasi konseling khas pada pasien hipotensi ortostatik adalah",
+    answer: "Jangan pindah posisi terlalu cepat",
+    options: [
+      "Obat diminum bersamaan dengan makanan",
+      "Menerapkan pola makan DASH",
+      "Cek elektrolit darah secara rutin",
+      "Jangan pindah posisi terlalu cepat",
+      "Jangan mengemudikan kendaraan"
+    ]
+  },
+  {
+    question: "Seorang pasien laki-laki menderita hipertensi dan mengalami udem. Obat apa yang dapat direkomendasikan?",
+    answer: "Furosemide",
+    options: ["Metildopa", "Furosemide", "Kaptopril", "Amlodipin", "Labetalol"]
+  },
+  {
+    question: "Pasien hipertensi dengan komplikasi DM dan gagal ginjal sebaiknya menggunakan obat golongan",
+    answer: "ACEI",
+    options: ["CCB", "ACEI", "Beta bloker", "Alfa bloker", "Furosemide"]
+  },
+  {
+    question: "Wanita umur 62 tahun didiagnosis gagal ginjal 1 tahun dan menderita hipertensi selama 10 tahun. Tiga bulan terakhir tidak terkontrol dan terus meningkat, perlu tambahan terapi kombinasi. Obat apakah yang dikontraindikasikan pasien tersebut?",
+    answer: "Verapamil",
+    options: ["Metoprolol", "Furosemide", "Verapamil", "Lisinopril", "Valsartan"]
+  },
+  {
+    question: "Seorang ibu, berusia 29 tahun, hamil pertama dengan usia kandungan 29 minggu. Ketika periksa ke dokter puskesmas diketahui tekanan darahnya mencapai 170/110 mmHg. Pada saat itu, ibu juga mengeluh pusing dan nyeri perut. Untuk mengetahui ibu menderita preeklamsia atau tidak, data laboratorium apa saja yang diperlukan untuk pemeriksaan penunjang?",
+    answer: "Jumlah Protein dalam urin",
+    options: ["Serum kreatinin", "Hitung darah lengkap", "ALT/AST", "Albumin", "Jumlah Protein dalam urin"]
+  },
+  {
+    question: "Pasien wanita didiagnosis hipertensi stge II. Lima hari lalu dirawat di RS. Dokter meresepkan valsartan 160 mg 1x1. Parameter apa yang harus diperhatikan?",
+    answer: "BUN",
+    options: ["BUN", "Kalsium", "Natrium", "Asam urat", "Fosfat"]
+  },
+  {
+    question: "Pada suatu pagi, seorang pasien laki-laki dengan hipertensi terjatuh saat bangun tidur. Obat apakah yang dikonsumsinya yang berpotensi menyebabkan kejadian ini?",
+    answer: "Prazosin",
+    options: ["Prazosin", "Verapamil", "Nifedipin", "Metildopa", "Labetalol"]
+  },
+  {
+    question: "Obat hipertensi yang mempunyai efek samping konstipasi adalah",
+    answer: "Verapamil",
+    options: ["Verapamil", "Furosemid", "Hidroklortiazid", "Amlodipin", "Metildopa"]
+  },
+  {
+    question: "Pasien menggunakan furosemide. Monitor terapi yang sebaiknya dilakukan adalah",
+    answer: "Serum kreatinin",
+    options: ["Frekuensi denyut jantung", "TSH", "LDL, VLDL, HDL", "Serum kreatinin", "aPTT"]
+  },
+  {
+    question: "Pasien hipertensi diketahui mempunyai riwayat gagal jantung. Dokter telah memberikan salah satu obat dari golongan ACEI, tetapi tekanan darah tidak terkontrol secara adekuat. Obat hipertensi lain yang dapat diberikan adalah",
+    answer: "Bisoprolol",
+    options: ["Valsartan", "Amlodipin", "Bisoprolol", "Prazosin", "Hidralazin"]
+  },
+  {
+    question: "Seorang pasien laki laku berusia 50 tahun diketahui dengan tinggi badan 160 cm dan BB 50 kg. Hasil pemeriksaan serum kretinin pasien adalah 5 mg/dL dan BUN 50 mg/dL. Tekanan darah pasien 160/96 mmHg. Obat hipertensi yang tepat adalah",
+    answer: "Kaptopril",
+    options: ["Kaptopril", "Diltiazem", "Propanolol", "Verapamil", "Furosemide"]
+  },
+  {
+    question: "Seorang pria berusia 46 tahun didiagnosis menderita diabetes melitus tipe 2 dan diberikan terapi obat glimepiride serta lisinopril. Penggunaan kedua obat tersebut menyebabkan terjadinya interaksi obat, yaitu lisinopril meningkatkan konsentrasi glimepiride. Efek apa yang perlu diperhatikan dan penggunaan obat tersebut?",
+    answer: "Hipoglikemia",
+    options: ["Efek batuk", "Hipertensi", "Hipotensi", "Hipoglikemia", "Hiperglikemia"]
+  },
+  {
+    question: "Seorang pasien pria berumur 45 tahun masuk rumah sakit karnea keluhan hipertensi. Pemeriksaan TD pasien 155/90 mmHg. Dokter memberikan oabt antihipertensi. Obat antihipertensi golongan inhibitor 5-a-reduktase adalah",
+    answer: "Finasteride",
+    options: ["Terazosin", "Finasteride", "Fenoksibenzamin", "Tamsulosin", "Diltiazem"]
+  },
+  {
+    question: "Seorang pria berusia 54 tahun menderita hipertensi. Selain itu, dia juga tidak mempunyai riwayat diatebes melitus dan penyakit ginjal kronis. Pasien bertanya kepada apoteker berapa target tekanan darah yang harus dicapai agar dapat dikatakan normal. Berapakah target tekanan darah pria tersebut?",
+    answer: "<140/90 mmHg",
+    options: ["<120/80 mmHg", "120/80 mmHg", "<130/80 mmHg", "140/90 mmHg", "<140/90 mmHg"]
+  },
+
+{
+  question: "Seorang pria berusia 30 tahun masuk rumah sakit dengan riwayat penyakit hipertensi, atrial fibrilasi dan CKD. Obat hipertensi berikut yang dapat memperlambat penurunan fungsi ginjal adalah",
+  answer: "Valsartan",
+  options: [
+    "Amlodipin",
+    "Verapamil",
+    "Furosemide",
+    "Valsartan",
+    "Spironolakton"
+  ]
+},
+{
+  question: "Pasien berusia 65 tahun menderita hipertensi dan sudah mendapatkan terapi antihipertensi. Pasien tidak memiliki komplikasi DM dan ginjal. Berapa target tekanan darah pasien?",
+  answer: "<140/90",
+  options: [
+    "<140/80",
+    "<150/80",
+    "<140/90",
+    "<150/90",
+    "<135/80"
+  ]
+},
+{
+  question: "Pasien hipertensi diketahui mempunyai riwayat gagal jantung. Dokter telah memberikan salah satu obat dari golongan ACEI, tetapi tekanan darah tidak terkontrol secara adekuat. Apa obat hipertensi yang dapat ditambahkan?",
+  answer: "Bisoprolol",
+  options: [
+    "Amlodipin",
+    "Bisoprolol",
+    "Prazosin",
+    "Hidralazin",
+    "Verapamil"
+  ]
+},
+{
+  question: "Seorang pekerja proyek mengeluhkan pilek. Sehari-hari pasien mengkonsumsi obat candesartan untuk mengobati hipertensi yang dideritanya. Apa pilihan obat pilek yang tepat untuk pasien?",
+  answer: "Loratadine",
+  options: [
+    "Pseudoefedrin",
+    "Efedrin",
+    "Loratadine",
+    "Fenilefrin",
+    "Fenilpropanolamin"
+  ]
+},
+{
+  question: "Dokter menuliskan resep kepada pasien hipertensi: R/ Kaptopril 25 mg s 3 dd 1. Kapan obat tersebut sebaiknya digunakan?",
+  answer: "1 jam sebelum makan",
+  options: [
+    "15 menit sesudah makan",
+    "30 menit sesudah makan",
+    "1 jam sesudah makan",
+    "Saat makan",
+    "1 jam sebelum makan"
+  ]
+},
+{
+  question: "Seorang laki-laki berumur 55 tahun masuk RS dengan diagnosis hipertensi dan CKD. Tekanan darah pasien belum mencapai target setelah pemberian kaptopril. Dokter meminta saran pada apoteker terkait terapi tambahan. Apakah obat yang tepat?",
+  answer: "Irbesartan",
+  options: [
+    "Lisinopril",
+    "Irbesartan",
+    "Hidroklortiazid",
+    "Amlodipin",
+    "Spironolakton"
+  ]
+},
+{
+  question: "Bapak A masuk RS dengan TD 150/110 mmHg. Pasien memiliki riwayat stroke iskemik, maka pilihan obat hipertensi yang tepat adalah",
+  answer: "Hidroklortiazid + Kaptopril",
+  options: [
+    "Bisoprolol + Kaptopril",
+    "Kaptopril + Valsartan",
+    "Hidroklortiazid + Kaptopril",
+    "Diltiazem + Losartan",
+    "Amlodipin + Beta bloker"
+  ]
+},
+{
+  question: "Seorang bapak bekerja sebagai supir truk mengalami pilek, hidung tersumbat, kurang enak badan. Bapak tersebut memiliki riwayat penggunaan obat amlodipin. Obat apa yang tepat?",
+  answer: "Cetirizine 10 mg 1x sehari",
+  options: [
+    "Fenilefrin tab 25 mg, 4x sehari",
+    "Fenilefrin spray 0,25%",
+    "Pseudoefedrin HCl 60 mg",
+    "Difenhidramin 15 mg",
+    "Cetirizine 10 mg 1x sehari"
+  ]
+},
+{
+  question: "Seorang pasien dengan diagnosa gagal jantung diberikan obat kaptopril. Diketahui pasien tidak memiliki riwayat DM. Apa fungsi pemberian kaptopril pada pasien?",
+  answer: "Antiremodelling",
+  options: [
+    "Antihipertensi",
+    "Antiremodelling",
+    "Renoprotektif",
+    "Mencegah stroke",
+    "Antidiabetik"
+  ]
+},
+{
+  question: "Seorang pasien laki-laki berusia 65 tahun dengan diagnosis BPH dan riwayat hipertensi. Obat apa yang tepat diberikan?",
+  answer: "Terazosin",
+  options: [
+    "Sildenafil",
+    "Tadafil",
+    "Dutasteride",
+    "Terazosin",
+    "Finasteride"
+  ]
+},
+{
+  question: "Obat hipertensi yang dapat bermanfaat untuk mengurangi gejala tirotoksikosis dengan cepat, dapat diberikan bersama obat-obat antitiroid atau sebagai tambahan terapi dengan iodium radiokatif?",
+  answer: "Propanolol",
+  options: [
+    "Propanolol",
+    "Kaptopril",
+    "Furosemide",
+    "Amlodipin",
+    "Aliserin"
+  ]
+},
+{
+  question: "Pasien memperoleh obat kaptopril, propanolol, dan asetosal lalu merasa lemas, lelah, pusing. Hal ini disebabkan oleh",
+  answer: "Eliminasi propanolol tinggi",
+  options: [
+    "BA kaptopril tinggi",
+    "Vd asetosal tinggi",
+    "Metabolisme kaptopril tinggi",
+    "Absorpsi kaptopril rendah",
+    "Eliminasi propanolol tinggi"
+  ]
+},
+{
+  question: "Pasien stroke mendapatkan alteplase, aspirin, atorvastatin, kaptopril, vitamin B kompleks. Obat yang berfungsi mencegah kekambuhan stroke adalah",
+  answer: "Aspirin",
+  options: [
+    "Aspirin",
+    "Alteplase",
+    "Atorvastatin",
+    "Kaptopril",
+    "Vitamin B kompleks"
+  ]
+},
+{
+  question: "Pasien hamil 7 bulan dengan TD 160/110 mmHg dan kontraksi. Terapi aman yang direkomendasikan adalah",
+  answer: "Nifedipin",
+  options: [
+    "MgSO4",
+    "Nifedipin",
+    "Terbutalin",
+    "Kaptopril",
+    "Valsartan"
+  ]
+},
+{
+  question: "Pasien gagal jantung mengalami hipokalemia (K+ 2,1 mmol/L) setelah terapi. Obat penyebabnya adalah",
+  answer: "Furosemide",
+  options: [
+    "Metformin",
+    "Propanolol",
+    "Furosemide",
+    "ISDN",
+    "Kaptopril"
+  ]
+},
+{
+  question: "Pasien hemodialisa dengan GFR 15 ml/min mengalami hipertensi. Obat tambahan yang direkomendasikan adalah",
+  answer: "Amlodipin",
+  options: [
+    "Furosemide",
+    "Hidroklortiazid",
+    "Spironolakton",
+    "Kaptopril",
+    "Amlodipin"
+  ]
+},
+{
+  question: "Pasien diberikan nitroprusside. Parameter apa yang perlu dimonitor?",
+  answer: "Kadar gas dalam darah",
+  options: [
+    "Kadar gas dalam darah",
+    "Hb",
+    "Trombosit",
+    "Kreatinin",
+    "Kalium"
+  ]
+},
+{
+  question: "Pasien hipertensi mengalami ginekomastia setelah penambahan obat. Obat tersebut adalah",
+  answer: "Antagonist aldosteron",
+  options: [
+    "ACEI",
+    "ARB",
+    "CCB",
+    "Antagonist aldosteron",
+    "Agonis alfa 2"
+  ]
+},
+{
+  question: "Pasien PMI mengalami gingiva hiperplasia setelah 1 bulan terapi. Obat penyebabnya adalah",
+  answer: "Amlodipin",
+  options: [
+    "Aspirin",
+    "Amlodipin",
+    "Simvastatin",
+    "Lisinopril",
+    "Bisoprolol"
+  ]
+},
+{
+  question: "Pasien asma sebelumnya mendapat propanolol lalu diganti metoprolol. ESO yang mendasari adalah",
+  answer: "Bronkokonstriksi",
+  options: [
+    "Bronkodilatasi",
+    "Bronkokonstriksi",
+    "Diuresis",
+    "Vasodilatasi",
+    "Vasokontriksi"
+  ]
+},
+{
+  question: "Pasien nyeri sendi jari kaki dengan riwayat hipertensi dan DM. Obat yang menyebabkan efek samping adalah",
+  answer: "HCT",
+  options: [
+    "Kaptopril",
+    "HCT",
+    "Glimepirid",
+    "Metformin",
+    "Simvastatin"
+  ]
+},
+{
+  question: "Pasien dengan edema tungkai mendapat furosemide dan mengalami pusing serta kelemahan. Efek sampingnya adalah",
+  answer: "Hipokalemia",
+  options: [
+    "Hipokalemia",
+    "Hipokalsemia",
+    "Hipofosfatemia",
+    "Hiponatremia",
+    "Hipoglikemia"
+  ]
+},
+{
+  question: "Pasien PJK mengalami disfungsi ereksi setelah konsumsi obat. Obat penyebabnya adalah",
+  answer: "HCT",
+  options: [
+    "Klopidogrel",
+    "Aspirin",
+    "Imidapril",
+    "Nitrogliserin",
+    "HCT"
+  ]
+},
+{
+  question: "Pasien hipertensi mengalami disfungsi ereksi setelah penambahan obat. Obat tersebut adalah",
+  answer: "b-blocker",
+  options: [
+    "ACEI",
+    "ARB",
+    "CCB",
+    "b-blocker"
+  ]
+},
+
+{
+  question: "Pasien laki-laki usia 65 tahun menderita hipertensi (TD 150/110) mendapatkan terapi furosemid 40 mg dan valsartan 80 mg. Pasien juga mengalami osteoartritis dan mendapatkan selekoksib 100 mg sekali sehari. Setelah 3 bulan menjalani terapi, pasien mengalami peningkatan tekanan darah (160/110). Menurut saudara apakah penyebab peningkatan tekanan darah pada pasien ini?",
+  answer: "Selekoksib menurunkan aliran darah ke ginjal",
+  options: [
+    "Selekoksib meningkatkan eksresi furosemid",
+    "Selekoksib meningkatkan metabolisme valsartan",
+    "Selekoksib menurunkan aliran darah ke ginjal",
+    "Selekoksib menyebabkan vasokontriksi pada arteri perifer",
+    "Selekoksib memacu metabolisme basal"
+  ]
+},
+{
+  question: "Pasien pria usia 50 tahun BB 80 kg akan melakukan pemeriksaan rutin. Hasil laboratorium menunjukkan tekanan darah 170/100 mmHg, gula darah acak 220 mg/dl, kreatinin 4,8 mg/dl. Riwayat pengobatan Irbesartan 300 mg (1x1). Dokter akan memberikan obat tambahan yaitu diuretik. Obat apa yang tepat untuk pasien tersebut?",
+  answer: "Furosemide",
+  options: [
+    "Hidroklotiazid",
+    "Furosemide",
+    "Spironolakton",
+    "Klortalidon",
+    "Manitol"
+  ]
+},
+{
+  question: "Seorang laki-laki (70) tahun datang ke rumah sakit mengeluh nyeri persendian tulang. Selain itu pasien memiliki tekanan darah tinggi. Pasien memerlukan obat penurun tekanan darah tinggi dan menghambat demineralisasi tulang. Obat apa yang dibutuhkan ?",
+  answer: "Hidroklorotiazid",
+  options: [
+    "Kaptopril",
+    "Furosemid",
+    "Hidroklorotiazid",
+    "Losartan",
+    "Amlodipin"
+  ]
+},
+{
+  question: "Seorang laki-laki berusia 47 tahun didiagnosa oleh dokter menderita BPH (Benign Prostatic Hyperplasia) disertai retensi urin, pasien mendapatkan terapi obat tamsulosin. Apakah mekanisme kerja dari obat tersebut ?",
+  answer: "Menghambat reseptor α1-adrenergik pada otot polos prostat dan kandung kemih",
+  options: [
+    "Menghambat enzim 5-alpha reduktase",
+    "Menghambat pertumbuhan kelenjar prostat",
+    "Menghambat reseptor α1-adrenergik pada otot polos prostat dan kandung kemih",
+    "Merangsang produksi cairan prostat",
+    "Merangsang kerja kelenjar prostat"
+  ]
+},
+
+{
+  question: "Seorang pasien didiagnosa dokter mengalami DM dan kolesterol. Kemudian diberikan terapi metformin 3 x 1 dan simvastatin 1x1 kadar LDL 170 mg/dl. Target terapi LDL yang akan dicapai adalah",
+  answer: "70 mg/dl",
+  options: [
+    "70 mg/dl",
+    "130 mg/dl",
+    "150 mg/dL",
+    "100 mg/dl",
+    "140 mg/dl"
+  ]
+},
+{
+  question: "Seorang pasien melakukan pemeriksaan profil lipid karena memiliki riwayat keluarga penyakit jantung koroner. Hasil pemeriksaan menunjukkan: kadar kolesterol total 250 mg/dL, LDL 170 mg/dL, HDL 40 mg/dL dan trigliserida 200 mg/dL. Dokter menyarankan modifikasi gaya hidup dan memberikan obat simvastatin 10 mg 1x1 tab malam hari. Meningkatkan aktivitas fisik dengan berolahraga dapat memperbaiki profil lipid pasien yaitu?",
+  answer: "meningkatkan kadar kolesterol HDL",
+  options: [
+    "meningkatkan kadar kolesterol total",
+    "meningkatkan kadar kolesterol HDL",
+    "meningkatkan kadar kolesterol LDL",
+    "meningkatkan kadar trigliserida",
+    "meningkatkan kadar lipid plasma"
+  ]
+},
+{
+  question: "Pasien laki-laki 45 tahun dengan kadar kolesterol total tinggi tetapi nilai LDL, HDL, dan TG normal. Dokter mendiagnosis pasien menderita dyslipidemia. Obat apa yang direkomendasikan untuk pasien ?",
+  answer: "HMG CoA Reductase inhibitor",
+  options: [
+    "HMG CoA Reductase inhibitor",
+    "Fibrat",
+    "Resin/ Bile acid binding resins",
+    "Nikotinat",
+    "Gemfibrozil"
+  ]
+},
+{
+  question: "Seorang pasien perempuan mengalami hiperlipidemia dan mendapat terapi ezetimibe. Mekanisme ezetimibe adalah?",
+  answer: "Menghambat absorbsi kolesterol",
+  options: [
+    "Menurunkan LDL",
+    "Menghambat absorbsi kolesterol",
+    "Menurunnkan VLDL",
+    "Menghambat sintesis VLDL",
+    "Meningkatkan LDL"
+  ]
+},
+{
+  question: "Seorang pasien laki-laki, mengeluh pusing. Hasil pemeriksaan kolesterol total 380 mg/dL, LDL 180 mg/dL. Pasien mendapat Obat yang bekerja menghambat enzim HMG CoA reduktase. Obat apakah yang dimaksudkan?",
+  answer: "Simvastatin",
+  options: [
+    "Simvastatin",
+    "Acarbose",
+    "Kolestiramin",
+    "Fenofibrat",
+    "Niasin"
+  ]
+},
+{
+  question: "Seorang wanita umur 40 tahun mengalami Hiperlipidemia, dengan kolesterol total 200 mg/dL, LDL 250 mg/dL, dan TG 150 mg/dL dan dokter meresepkan Simvastatin 1 x 1. 1 bulan yang lalu pasien mendapat terapi gemfibrozil. Efek samping yang terjadi jika pasien menggunakan simvastatin dan gemfibrozil bersama adalah?",
+  answer: "Rhabdomiolisis",
+  options: [
+    "Anemia megaloblastika",
+    "Hipersensitivitas",
+    "Hipokalemia",
+    "Rhabdomiolisis",
+    "Miopati"
+  ]
+},
+{
+  question: "Seorang pasien perempuan berumur 50 tahun, didiagnosa dokter kolesterolimia dengan hasil pemeriksaan laboratorium total kadar kolesterol 290 mg/dL, LDL 250 mg/dL, HDL 55 mg/dL. Dokter memberikan tablet simvastatin 10 mg 1 x 1. Informasi apa yang sebaiknya disampaikan kepada pasien tentang cara penggunaan obat tersebut?",
+  answer: "Diminum sebelum tidur pada malam hari",
+  options: [
+    "Diminum bersama makan pada pagi hari",
+    "Diminum bersama makan pada siang hari",
+    "Diminum sebelum makan pada siang hari",
+    "Diminum sebelum makan pada malam hari",
+    "Diminum sebelum tidur pada malam hari"
+  ]
+},
+{
+  question: "Seorang pasien laki-laki dengan kadar kolesterol total 202 mg/dL, kadar LDL 100 mg/dL dan kadar trigliserida diatas 250 mg/dL, rekomendasi terapi apa yg diberikan apoteker kepada dokter?",
+  answer: "Gemfibrozil",
+  options: [
+    "Gemfibrozil",
+    "Niasin",
+    "Ezemtimibe",
+    "Simvastatin",
+    "Kolestiramin"
+  ]
+},
+{
+  question: "Seorang pasien berumur 60 tahun mendapat obat oral antikolesterol. Setelah konsumsi selama 1 bulan pasien mengeluh mengalami gusi berdarah dan protrombine tipe (PT) memanjang akibat defisiensi vitamin K, karena gangguan absorbsi antikolesterol. Efek samping obat yang menyebabkan hal tersebut adalah?",
+  answer: "Kolesteramin",
+  options: [
+    "Simvastatin",
+    "Probukal",
+    "Niasin",
+    "Gemfibrozil",
+    "Kolesteramin"
+  ]
+},
+{
+  question: "Seorang pasien berusia 40 tahun, bobot badan 56 kg. Hasil pemeriksaan kolesterol total 369 mg/dL, LDL 185 mg/dL, TG 150 mg/dL. Obat apakah yang sesuai dengan algoritma terapi?",
+  answer: "Simvastatin",
+  options: [
+    "Kolesteramin",
+    "Ezetimib",
+    "Fenofibrat",
+    "Niasin",
+    "Simvastatin"
+  ]
+},
+{
+  question: "Seorang perempuan berumur 45 tahun melakukan general medical check up. Diketahui kadar trigliserida 353 mg/dL. Rekomendasi obat apa yang diberikan pada pasien tersebut?",
+  answer: "Fenofibrat",
+  options: [
+    "Simvastatin",
+    "Fenofibrat",
+    "Kolestiramin",
+    "Kolestipol",
+    "Provastatin"
+  ]
+},
+{
+  question: "Pasien datang ke klinik mengeluhkan sakit seluruh badan sudah dirasakan selama 1 bulan, dan pasien memiliki riwayat hipertensi, hiperlipidemia, diabetes dengan data lab LDL 200, trigliserida 130 dan HDL 40, dokter meminta saran ke apoteker, obat yang tepat adalah",
+  answer: "Atorvastatin",
+  options: [
+    "Atorvastatin",
+    "Ezetimib",
+    "Fenofibrat",
+    "Gemfibrozil",
+    "Niastimib"
+  ]
+},
+{
+  question: "Seorang laki-laki berusia 58 tahun penderita diabetes melitus tipe II, pemeriksaan IMT 32, hasil pemeriksaan lipid yang mungkin ditemukan adalah",
+  answer: "Perbandingan kadar trigliserida dan HDL meningkat",
+  options: [
+    "Kadar trigliserida normal",
+    "LDL kolesterol normal",
+    "Perbandingan kadar trigliserida dan HDL meningkat",
+    "Kadar HDL kolesterol meningkat",
+    "Total kolesterol normal atau turun"
+  ]
+},
+{
+  question: "Proses oksidasi oleh radikal bebas dalam tubuh dapat dilihat dari",
+  answer: "LDL kolesterol teroksidasi",
+  options: [
+    "HDL kolesterol",
+    "Trigliserida",
+    "LDL kolesterol teroksidasi",
+    "Kolesterol total",
+    "Nitrit Oksida"
+  ]
+},
+{
+  question: "Dibawah ini termasuk lipoprotein",
+  answer: "Kilomikron",
+  options: [
+    "Kolesterol",
+    "Kilomikron",
+    "Lipid",
+    "Trigliserida",
+    "Sterol"
+  ]
+},
+{
+  question: "Dokter bertanya kepada apoteker, apakah efek pemberian simvastatin kepada ibu yang sedang hamil. Apoteker menjawab bahwa simvastatin memiliki efek teratogenik jika diberikan kepada ibu yang hamil dan dikontraindikasikan bagi ibu hamil. Termasuk dalam kategori apakah keamanan pemberian simvastatin pada ibu hamil tersebut (menurut FDA).",
+  answer: "Kategori X",
+  options: [
+    "Kategori A",
+    "Kategori C",
+    "Kategori X",
+    "Kategori B",
+    "Kategori D"
+  ]
+},
+{
+  question: "Seorang pasien lakilaki 58 tahun dengan tinggi badan 170 cm, bobot badan 108 kg menderita penyakit hipertensi dan diabetes mellitus tipe 2 sejak 4 tahun yang lalu. Pasien tersebut mendapat obat captopril 12,5 mg 1x1tab dan metformin 500 mg 2x1tab. Hasil pemeriksaan fisik menunjukkan tekanan darah 150/100 mmHg, glukosa puasa 120 mg/dL dan glukosa 2 jam setelah makan adalah 200 mg/dL, kolesterol total 240 mg/dL. Jika dokter meminta saran apoteker mengenai terapi untuk menurunkan kolesterol total, obat golongan yang manakah yang kontraindikasi untuk pasien tersebut:",
+  answer: "Niasin",
+  options: [
+    "Simvastatin",
+    "Gemfibrozil",
+    "Kolestiramin",
+    "Niasin",
+    "Ezetimibe"
+  ]
+},
+
+  {
+    question: "Seorang pria berusia 52 tahun datang ke klinik untuk pemeriksaan rutin. Ia memiliki riwayat hipertensi dan diabetes melitus tipe 2, yang saat ini dikelola dengan amlodipin dan metformin. Hasil pemeriksaan laboratorium menunjukkan kadar trigliserida 500 mg/dL, sementara kadar kolesterol LDL dan HDL masih dalam batas normal. Dokter ingin menurunkan kadar trigliserida pasien untuk mengurangi risiko pankreatitis akut. Obat apakah yang paling tepat?",
+    answer: "Fenofibrat",
+    options: ["Atorvastatin", "Fenofibrat", "Ezetimibe", "Alirocumab", "Kolesevelam"]
+  },
+  {
+    question: "Seorang pasien pria usia 55 tahun dengan riwayat hiperkolesterolemia sedang menjalani terapi simvastatin 20 mg per hari. Setelah 6 bulan terapi, pasien mengeluhkan kelemahan otot. Suplementasi apa yang dianjurkan?",
+    answer: "Koenzim Q10",
+    options: ["Vitamin B6", "Vitamin B12", "Asam folat", "Vitamin B3 (niasin)", "Koenzim Q10"]
+  },
+  {
+    question: "Seorang pasien yang sedang mengonsumsi simvastatin melaporkan peningkatan kadar kreatinin dan urin berwarna cokelat. Efek samping yang mungkin dialami?",
+    answer: "Rhabdomiolisis",
+    options: ["Hepatitis", "Rhabdomiolisis", "Disfungsi ginjal akut", "Gangguan pencernaan", "Hipoglikemia"]
+  },
+  {
+    question: "Wanita 64 tahun dengan dislipidemia campuran mendapat rosuvastatin dan fenofibrate. Setelah 2 bulan timbul nyeri otot, CK meningkat 7 kali, eGFR 35 mL/menit. Langkah terbaik?",
+    answer: "Hentikan fenofibrate, pantau gejala otot, dan pertimbangkan omega-3 fatty acids",
+    options: [
+      "Hentikan fenofibrate dan lanjutkan rosuvastatin dosis lebih rendah",
+      "Hentikan kedua obat dan mulai gemfibrozil",
+      "Hentikan fenofibrate, pantau gejala otot, dan pertimbangkan omega-3 fatty acids",
+      "Ganti fenofibrate dengan clofibrate",
+      "Lanjutkan fenofibrate dan ganti rosuvastatin dengan atorvastatin"
+    ]
+  },
+  {
+    question: "Seorang wanita hamil berusia 30 tahun didiagnosis hiperlipidemia. Obat antihiperlipidemia paling aman diberikan?",
+    answer: "Kolestiramin",
+    options: ["Simvastatin", "Kolestiramin", "Gemfibrozil", "Ezetimibe", "Asam nikotinat"]
+  },
+  {
+    question: "Pria 55 tahun dengan DM tipe 2, hipertensi, riwayat stroke iskemik, eGFR 48 mL/menit. Terapi lipid paling tepat?",
+    answer: "Statin dan ezetimibe kombinasi",
+    options: [
+      "Tidak perlu terapi statin karena pasien memiliki CKD",
+      "Statin monoterapi",
+      "Ezetimibe monoterapi",
+      "Statin dan ezetimibe kombinasi",
+      "Fibrat"
+    ]
+  },
+  {
+    question: "Pasien dengan kadar trigliserida 289 mg/dL. Terapi yang dapat diberikan?",
+    answer: "Simvastatin",
+    options: ["Simvastatin", "Fenofibrate", "Aspirin", "Niacin", "Metformin"]
+  },
+  {
+    question: "Pasien DM tipe 2 menggunakan glimepirid dan gemfibrozil. Efek interaksi yang mungkin terjadi?",
+    answer: "Hipoglikemia",
+    options: ["Hiperglikemia", "Hepatotoksisitas", "Hipoglikemia", "Penurunan efektivitas gemfibrozil", "Penurunan berat badan"]
+  },
+
+  {
+    question: "Seorang pasien pria berusia 55 tahun memiliki kadar LDL 180 mg/dL, HDL 40 mg/dL, dan trigliserida 150 mg/dL. Pasien memiliki riwayat hipertensi tetapi tidak ada riwayat penyakit jantung koroner atau diabetes. Obat apa yang sebaiknya diberikan untuk menurunkan kadar LDL pada pasien ini?",
+    answer: "Simvastatin",
+    options: ["Fenofibrat", "Simvastatin", "Ezetimibe", "Niacin", "Omega-3 fatty acids"]
+  },
+  {
+    question: "Pasien 40 tahun terapi obat menggunakan digoksin dan kolestiramin. Apoteker menyarankan penggunaan kedua obat dijeda 2 jam karena adanya interaksi obat. Interaksi apa yang terjadi?",
+    answer: "Menghambat absorpsi",
+    options: ["Menghambat absorpsi", "Pergeseran ikatan dengan protein", "Meningkatkan metabolisme", "Menghambat sekresi aktif tubular", "Meningkatkan reabsorsi tubulus"]
+  },
+  {
+    question: "Bapak X usia 30 tahun datang ke puskesmas dengan keluhan nyeri di area dada. Beliau punya riwayat hipertensi, diabetes mellitus serta asma. Hasil pemeriksaan lab menunjukkan nilai LDL 250 mg/dL, HDL 40 mg/dL, TG 110 mg/dL. Dokter meminta saran kepada apoteker mengenai terapi untuk mengatasi hiperlipidemia dari pasien. Obat apa yang disarankan?",
+    answer: "Atorvastatin",
+    options: ["Simvastatin", "Ezetimibe", "Kolestipol", "Atorvastatin", "Gemfibrozil"]
+  },
+  {
+    question: "Pasien lansia umur 68 tahun rutin mengkonsumsi fenofibrat untuk mengontrol kadar lemak darahnya. Efek samping apa yang umum dialami oleh pasien tersebut?",
+    answer: "Kolelitiasis",
+    options: ["Kolelitiasis", "Gangguan ginjal", "Gangguan hati", "Sakit kepala", "Diuresis"]
+  },
+  {
+    question: "Seorang pasien yang sedang menderita dislipidemia sedang mengkonsumsi simvastatin. Ia juga rutin mengkonsumsi jus kesukaannya yaitu grapefruit. Setelah 2 minggu, pasien mengeluh bahwa ototnya mengalami nyeri. Apakah yang menyebabkan hal tersebut?",
+    answer: "Grapefruit menghambat metabolisme simvastatin",
+    options: [
+      "Grapefruit menghambat metabolisme simvastatin",
+      "Grapefruit meningkatkan metabolisme simvastatin",
+      "Grapefruit menghambat absorpsi simvastatin",
+      "Grapefruit meningkatkan absorpsi simvastatin",
+      "Grapefruit menurunkan eliminasi simvastatin"
+    ]
+  },
+  {
+    question: "Seorang pasien, laki-laki usia 49 tahun, penderita hiperkolesterolemia menerima obat diresepkan dokter di suatu apotek. Pasien mendengarkan penjelasan apoteker tentang kegunaan obatnya. Salah satunya adalah obat ezetimibe 10 mg (1 dd tab dc pagi). Bagaimanakah mekanisme aksi obat tersebut?",
+    answer: "Menghambat sterol transporter NPC1L1 di usus halus",
+    options: [
+      "Menghambat sterol transporter NPC1L1 di usus halus",
+      "Meningkatkan aktivitas enzim LPL",
+      "Meningkatkan aktivitas HMG Coa Reduktase",
+      "Menghambat aktivitas enzim LPL",
+      "Menghambat aktivitas enzim HMG CoA Reduktase"
+    ]
+  },
+  {
+    question: "Seorang pasien berusia 57 tahun melakukan profil lipid darah, didiagnosis menderita hiperlipidemia familial tipe 5. Rekomendasi terapi yang diberikan adalah",
+    answer: "Gemfibrozil",
+    options: ["Ezetimibe", "Simvastatin", "Gemfibrozil", "Probukol", "Kolestiramin"]
+  },
+  {
+    question: "Seorang pasien datang ke rumah sakit mengeluh nyeri otot yang berat, pasien memiliki riwayat hiperlipidemia, hipertensi dan diabetes dengan terapi amlodipine, glimepiride, kaptopril, metformin dan simvastatin. Hasil laboratorium menunjukkan bahwa kadar kreatinin kinase adalah 600 IU/L. Obat apa yang menyebabkan keluhan tersebut?",
+    answer: "Simvastatin",
+    options: ["Amlodipin", "Glimepirid", "Kaptopril", "Metformin", "Simvastatin"]
+  },
+  {
+    question: "Interaksi obat yang mungkin terjadi apabila pasien mengkonsumsi simvastatin dan gemfibrozil secara bersamaan?",
+    answer: "Rhabdomiolisis",
+    options: ["Hipertensi", "Rhabdomiolisis", "Batuk kering", "Miopati", "Hiperlipid"]
+  },
+  {
+    question: "Seorang pasien diberikan resep obat gemfibrozil. Kapan waktu yang tepat untuk mengkonsumsi obat?",
+    answer: "Diminum 30 menit sebelum sarapan dan makan malam",
+    options: [
+      "Diminum setelah makan dan sebelum tidur",
+      "Diminum 30 menit sebelum sarapan dan makan malam",
+      "Diminum sebelum makan",
+      "Diminum sesudah makan",
+      "Bersama dengan makan"
+    ]
+  },
+  {
+    question: "Seorang pasien mendapatkan obat-obatan sebagai berikut: Simvastatin 20 mg, metformin 500 mg, glibenklamid 5 mg, niasin 500 mg, amlodipin 10 mg. Selang beberapa lama pengobatan pasien mengalami peningkatan serum AST/ALT. Obat manakah yang mengakibatkan hal tersebut?",
+    answer: "Simvastatin",
+    options: ["Simvastatin", "Metformin", "Niasin", "Glibenklamid", "Amlodipin"]
+  },
+  {
+    question: "Pasien hiperlipidemia tidak lagi merespon dengan pemberian statin intensitas sedang, dokter akan meresepkan penggantian obat dengan statin intensitas tinggi. Dokter menanyakan kepada apoteker, obat apa yang tepat diberikan?",
+    answer: "Rosuvastatin 20 mg",
+    options: ["Rosuvastatin 20 mg", "Atorvastatin 20 mg", "Simvastatin 40 mg", "Lovastatin 80 mg", "Pravastatin 20 mg"]
+  },
+  {
+    question: "Seorang pasien laki-laki 62 tahun datang ke puskesmas untuk menanyakan penggunaan obat atorvastatin yang diketahui penggunaannya pada siang hari 1x1. Apakah yang mendasari waktu penggunaan obat tersebut?",
+    answer: "Waktu paruh lama",
+    options: ["Waktu paruh lama", "Onset kerja cepat", "Metabolisme yang cepat", "Dosis besar", "Volume distribusi yang kecil"]
+  },
+  {
+    question: "Tn A mengeluh akhir-akhir ini sering mengalami dispepsia setelah mengkonsumsi obat hiperlipid. Obat manakah yang memiliki risiko tinggi menyebabkan dispepsia?",
+    answer: "Kolestipol",
+    options: ["Gemfibrozil", "Ezetimibe", "Simvastatin", "Kolestipol", "Asam nikotinat"]
+  },
+  {
+    question: "Tn. K berusia 50 tahun dengan riwayat DM 5 tahun dan komplikasi jantung koroner. 2 tahun yang lalu Tn. K menebus resep obat di apotek, terapi yang diperoleh Tn. K diantaranya glibenklamid, metformin, kaptopril dan simvastatin. Berapa target kolesterol LDL Tn. K?",
+    answer: "70 mg/dL",
+    options: ["70 mg/dL", "110 mg/dL", "130 mg/dL", "180 mg/dL", "200 mg/dL"]
+  },
+  {
+    question: "Ny. H (55 tahun) didiagnosa hiperlipidemia dan diberikan terapi fenofibrat. Bagaimana mekanisme dari obat tersebut?",
+    answer: "Mengurangi jumlah trigliserida dalam plasma",
+    options: [
+      "Mencegah reabsorpsi asam empedu",
+      "Menghambat lipolisis jaringan adiposa",
+      "Mencegah absorpsi kolesterol di usus halus",
+      "Menghambat enzim HMG CoA reduktase",
+      "Mengurangi jumlah trigliserida dalam plasma"
+    ]
+  },
+  {
+    question: "Seorang pasien rutin mengkonsumsi simvastatin selama kurun waktu 6 bulan. Apoteker akan melakukan monitoring efek samping obat terhadap fungsi organ vital pasien tersebut. Apakah organ vital yang dimaksud?",
+    answer: "Hati",
+    options: ["Hati", "Ginjal", "Paru-paru", "Jantung", "Lambung"]
+  },
+
+  {
+    question: "Seorang apoteker menyampaikan kepada pasien risiko efek samping yang sering muncul dalam penggunaan orlistat yaitu",
+    answer: "Feses berlemak",
+    options: ["Berat badan meningkat", "Nafsu makan bertambah", "Takikardia", "Feses berlemak", "Diare"]
+  },
+  {
+    question: "Seorang pasien berjenis kelamin laki-laki dengan risiko tinggi yang sudah mendapat terapi statin satu kali sehari, akan tetapi kadar TG masih >200 mg/dL. Saran pengobatan apa yang dianjurkan?",
+    answer: "Fenofibrat",
+    options: ["Atorvastatin", "Fenofibrat", "Gemfibrozil", "Ezetimibe", "Asam lemak Omega 3"]
+  },
+  {
+    question: "Seorang pasien berusia 45 tahun berjenis kelamin laki-laki dengan riwayat merokok memiliki kadar LDL 145 mg/dL dengan hipertensi 139/88 mmHg. Hasil pemeriksaan menyatakan bahwa pasien sudah tidak mentoleransi pemberian statin sebelumnya. Apa rekomendasi obat untuk pasien yang tidak dapat mentoleransi statin?",
+    answer: "Ezetimibe",
+    options: ["Atorvastatin", "Ezetimibe", "Asam lemak omega 3", "Terapi kombinasi", "Fenofibrat"]
+  },
+  {
+    question: "Seorang pasien di bangsal perawatan dengan diagnosa hipertensi dan hiperlipidemia didapatkan hasil laboratorium sebagai berikut: LDL 160 mg/dL, HDL 59 mg/dL dan TG 100 mg/dL. Saran rekomendasi obat yang cocok untuk pasien di atas adalah?",
+    answer: "Statin",
+    options: ["Statin", "Bile acid", "Ezetimibe", "Inhibitor PCSK9", "Terapi kombinasi"]
+  },
+  {
+    question: "Seorang pasien usia 39 tahun dengan riwayat penyakit DM, pengobatan rutin digunakan serta kadar gula darah terkontrol dan penyakit kardiovaskular belum pernah mendapatkan pengobatan kolesterol sebelumnya, mendapatkan hasil lab menyatakan bahwa kadar LDL yang tinggi yakni 160 mg/dL. Rekomendasi obat apa yang ditujukan untuk kasus di atas?",
+    answer: "Statin",
+    options: ["Statin", "Ezetimibe", "Terapi kombinasi", "Golongan fibrat", "Niasin"]
+  },
+  {
+    question: "Bapak Y sudah 3 bulan mengkonsumsi obat hipertensi yakni amlodipin 1x10 mg malam hari dan mengkonsumsi obat diabetes yaitu metformin 3x500 mg, pioglitazon 1x30 mg. Hasil pemeriksaan laboratorium menunjukkan kadar kolesterol total meningkat (230 mg/dL), dibandingkan 3 bulan sebelumnya (180 mg/dL). Dari obat yang dikonsumsi di atas, manakah yang memiliki efek samping untuk menaikkan kadar kolesterol total?",
+    answer: "Pioglitazon",
+    options: ["Metformin", "Amlodipin", "Pioglitazon", "Kaptopril", "Akarbosa"]
+  },
+  {
+    question: "Seorang pasien didiagnosa dokter mengalami DM dan kolesterol. Kemudian diberikan terapi metformin 3x1 dan simvastatin 1x1. Kadar LDL 170 mg/dL, target terapi LDL yang akan dicapai adalah",
+    answer: "70 mg/dL",
+    options: ["70 mg/dL", "100 mg/dL", "<130 mg/dL", "140 mg/dL", "150 mg/dL"]
+  },
+  {
+    question: "Pasien berusia 68 tahun menjalani rawat inap di RS setelah mengalami nyeri dada hilang timbul dan dokter mendiagnosis CAD setelah melihat gambaran EKG yang normal. Riwayat penyakit yang terakhir dimiliki adalah hipertensi sejak 8 tahun terakhir. Tekanan darah 130/80 mmHg. Hasil pemeriksaan lab menunjukkan kadar LDL-C 130 mg/dL, Trigliserida 140 mg/dL, HDL-C 50 mg/dL. Bagaimana rekomendasi anda terkait penggunaan statin pada pasien tersebut?",
+    answer: "Pasien perlu mendapat statin karena tergolong high risk kardiovaskular",
+    options: [
+      "Pasien tidak perlu mendapat statin karena nilai lipid masih dalam batas normal",
+      "Pasien tidak perlu mendapat statin karena masih tergolong CAD",
+      "Pasien tidak perlu mendapat statin karena tidak memiliki riwayat DM",
+      "Pasien perlu mendapat statin karena memiliki riwayat hipertensi",
+      "Pasien perlu mendapat statin karena tergolong high risk kardiovaskular"
+    ]
+  },
+  {
+    question: "Laki-laki 72 tahun dengan riwayat penyakit hipertensi dan hiperlipid. TG 240 mg/dL, kolesterol total 202 mg/dL, HDL 40 mg/dL, LDL 150 mg/dL, Terapi obat apa yang tepat untuk pasien tersebut?",
+    answer: "Atorvastatin",
+    options: ["Simvastatin", "Atorvastatin", "Niasin", "Gemfibrozil", "Kolestipol"]
+  },
+  {
+    question: "R/ Gemfibrozil 300 mg no X S 2 dd 1 cap. Dari resep di atas, kapan waktu yang tepat untuk meminum obat tersebut?",
+    answer: "Diminum 30 menit sebelum sarapan dan makan malam",
+    options: [
+      "Diminum setelah makan dan sebelum tidur",
+      "Diminum 30 menit sebelum sarapan dan makan malam",
+      "Diminum sebelum makan",
+      "Diminum sesudah makan",
+      "Bersama dengan makanan"
+    ]
+  },
+  {
+    question: "Seorang pria menebus resep ulangan yang berisi simvastatin untuk penggunaan selama 1 bulan ke depan di sebuah apotek. Dari hasil penggalian informasi diketahui bahwa pasien mengalami nyeri dan radang pada ototnya sejak sebulan lalu. Rekomendasi apa yang dapat anda sampaikan pada pasien tersebut?",
+    answer: "Merujuk ke dokter",
+    options: [
+      "Mengganti simvastatin dengan atorvastatin",
+      "Menurunkan dosis simvastatin",
+      "Menghentikan sementara penggunaan simvastatin",
+      "Merujuk ke dokter",
+      "Memodifikasi waktu penggunaan simvastatin"
+    ]
+  },
+  {
+    question: "Seorang laki-laki 42 tahun dengan riwayat DM 5 tahun, mengalami komplikasi jantung koroner yang tahun lalu datang ke apotek menebus resep obat. Terapi yang didapat pasien adalah glibenklamid, metformin, kaptopril, dan simvastatin. Berapa target kolesterol LDL pasien tersebut?",
+    answer: "70 mg/dL",
+    options: ["70 mg/dL", "110 mg/dL", "130 mg/dL", "180 mg/dL", "200 mg/dL"]
+  },
+  {
+    question: "Seorang pria berusia 70 tahun memiliki profil kadar LDL >200 mg/dL. Pasien sebelumnya sudah mengkonsumsi simvastatin 20 mg tetapi belum menunjukkan penurunan kadar LDL yang signifikan. Obat apa yang direkomendasikan ke dokter?",
+    answer: "Ezetimibe",
+    options: ["Kolestipol", "Niasin", "Ezetimibe", "Gemfibrozil", "Fenofibrat"]
+  },
+
+
+
+
+
+
+
+
+///END KARDIOVASKULAR
 
 
 

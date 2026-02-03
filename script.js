@@ -1,63 +1,129 @@
-const startBtn = document.querySelector ('.start-btn');
-const main = document.querySelector ('.main');
-const home = document.querySelector ('.home');
-const quizSection = document.querySelector ('.question-box');
-const option = document.querySelector ('.option');
-const nextBtn = document.querySelector ('.next');
+const startBtn = document.querySelector('.start-btn');
+const main = document.querySelector('.main');
+const home = document.querySelector('.home');
+const quizSection = document.querySelector('.question-box');
+const optionList = document.querySelector('.option-list');
+const nextBtn = document.querySelector('.next');
 const mute = document.querySelector('.mute');
-
-
-
-
-startBtn.onclick = () => {
-	main.classList.add('active');
-	home.classList.add('deactive');
-	shuffleArray(questions);
-	showQuestions(0);
-
-}
+const saveBtn = document.querySelector('.save-btn');
+const prevBtn = document.querySelector('.prev');
 
 
 let questionCount = 0;
+let questionOrder = [];
+let userAnswers = [];
 
-const optionList = document.querySelector('.option-list');
 
-// Fungsi untuk menampilkan soal baru
-function showQuestions(index) {
-  const questionText = document.querySelector('.question-text');
-  questionText.textContent = `${questions[index].question}`;
+function resetProgress() {
+    // 1. Hapus data dari memori browser
+    localStorage.removeItem("quizProgress");
 
-  let optionTag = `<div class="option"><span class="circle"></span><span>${questions[index].options[0]}</span></div>
-  <div class="option"><span class="circle"></span><span>${questions[index].options[1]}</span></div>
-  <div class="option"><span class="circle"></span><span>${questions[index].options[2]}</span></div>
-  <div class="option"><span class="circle"></span><span>${questions[index].options[3]}</span></div>
-  <div class="option"><span class="circle"></span><span>${questions[index].options[4]}</span></div>`;
+    // 2. Kembalikan variabel ke nilai awal
+    questionCount = 0;
+    questionOrder = [];
+    userAnswers = [];
+    
+    alert("Progress telah dihapus. Soal akan diacak dan silahkan belajar lagi");
+}
 
-  optionList.innerHTML = optionTag;
 
-  const option = document.querySelectorAll('.option');
-  for (let i = 0; i < option.length; i++) {
-    option[i].setAttribute('onclick', 'optionSelected(this)');
-  }}
+// 3. Fungsi untuk update tampilan di HTML
+function updateProgress() {
+   // Supaya mulai dari 1, bukan 0
+   const nomorAktif = questionCount + 1;
+   const totalSoal = questions.length;
 
-  function shuffleArray(array) {
+  document.getElementById('display-nomor').innerText = `${nomorAktif} / ${totalSoal}`;
+}
+
+
+// Panggil fungsi ini setiap kali tombol "Next" diklik
+
+
+
+// Load progress jika ada
+let savedData = JSON.parse(localStorage.getItem("quizProgress"));
+if(savedData) {
+  questionOrder = savedData.questionOrder;
+  questionCount = savedData.currentQuestionIndex;
+  userAnswers = savedData.userAnswers;
+}
+
+// Fungsi acak array
+function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [array[i], array[j]] = [array[j], array[i]];
   }
 }
 
+// Start Button
+startBtn.onclick = () => {
+  main.classList.add('active');
+  home.classList.add('deactive');
 
-  function optionSelected(answer) {
-  console.log("Jawaban yang diklik:", answer.textContent);
+  // Kalau belum ada progress, acak soal
+  if(questionOrder.length === 0) {
+    questionOrder = questions.map((_, i) => i);
+    shuffleArray(questionOrder);
+  }
 
-  let userAnswer = answer.textContent.trim();
-  let correctAnswer = questions[questionCount].answer.trim();
+  showQuestions(questionCount);
+  updateProgress()
 
-  console.log("User Answer:", userAnswer);
-  console.log("Correct Answer:", correctAnswer);
+}
 
-  if (userAnswer === correctAnswer) {
+const refresh = document.querySelector('.refresh')
+
+refresh.onclick =() => {
+  resetProgress();
+}
+
+// Menampilkan pertanyaan
+function showQuestions(index) {
+  const qIndex = questionOrder[index];
+  const questionText = document.querySelector('.question-text');
+  questionText.textContent = questions[qIndex].question;
+
+  let optionTag = '';
+  questions[qIndex].options.forEach(opt => {
+    optionTag += `<div class="option"><span class="circle"></span><span>${opt}</span></div>`;
+  });
+  optionList.innerHTML = optionTag;
+
+  const option = document.querySelectorAll('.option');
+  option.forEach((el, i) => {
+    el.setAttribute('onclick', 'optionSelected(this)');
+
+    // 1. Ambil jawaban yang pernah disimpan untuk soal ini
+    const jawabanDulu = userAnswers[index];
+    // 2. Ambil teks opsi yang sedang dilooping ini
+    const teksOpsi = el.innerText.trim();
+    // 3. Ambil jawaban yang benar dari database
+    const jawabanBenar = questions[qIndex].answer.trim();
+
+    // 4. LOGIKA WARNA ULANG:
+    if(jawabanDulu === teksOpsi) {
+      // Jika opsi ini adalah yang dipilih user dulu...
+      if(teksOpsi === jawabanBenar) {
+        el.classList.add('correct'); // Kasih warna hijau jika benar
+      } else {
+        el.classList.add('incorrect'); // Kasih warna merah jika salah
+      }
+    }
+  });
+}
+
+// Pilih jawaban
+function optionSelected(answer) {
+  const qIndex = questionOrder[questionCount];
+  const userAnswer = answer.textContent.trim();
+  const correctAnswer = questions[qIndex].answer.trim();
+
+  userAnswers[questionCount] = userAnswer;
+
+
+   if (userAnswer === correctAnswer) {
     console.log("Jawaban benar!");
 
     answer.classList.add('correct');
@@ -71,33 +137,52 @@ function showQuestions(index) {
       showResultBox(); // **Tampilkan hasil jika semua soal terjawab**
     }
 
-  
-
-    } else {
-      console.log("Jawaban salah!");
-      answer.classList.add('incorrect');
-      wrongSound.play();
-    }
+  } else {
+    answer.classList.add('incorrect');
+    wrongSound.play();
+  }
 }
 
+// Next Button
+nextBtn.onclick = () => {
+  console.log("Klik terdeteksi! Nilai sebelum ditampung:", questionCount);
+
+  if(questionCount < questions.length - 1) {
+    questionCount++;
+    console.log("Nilai setelah ditambah:", questionCount); // Cek apakah naiknya satu-satu?
+    showQuestions(questionCount);
+    updateProgress();
+  }
+  // ... sisanya
+}
+
+prevBtn.onclick = () => {
+  if (questionCount > 0) {
+    questionCount--;
+    showQuestions(questionCount);
+    updateProgress();
+  }
+};
+
+
+// Save Progress Button
+saveBtn.onclick = () => {
+  const progress = {
+    questionOrder,
+    currentQuestionIndex: questionCount,
+    userAnswers
+  };
+  localStorage.setItem("quizProgress", JSON.stringify(progress));
+  alert("Progress berhasil disimpan! Nanti kalo mau lanjut, tekan Start! ya, jangan refresh");
+}
+
+// Tampilkan Result Box
 function showResultBox(){
   main.classList.remove('active');
   home.classList.remove('deactive');
 }
 
-function goNext () {
-  if (questionCount < questions.length - 1) {
-      questionCount++; // Pindah ke soal berikutnya
-      showQuestions(questionCount);
-    } else {
-      showResultBox(); // **Tampilkan hasil jika semua soal terjawab**
-    }
-}
-
-nextBtn.onclick = () => {
-  goNext ();
-}
-
+// Mute
 mute.onclick = () => {
   muteAudio();
 }
@@ -107,8 +192,6 @@ function muteAudio(){
   wrongSound.muted = true;
 }
 
-
-
 const correctSound = new Audio("assets/correct.mp3");
 const wrongSound = new Audio("assets/incorrect.mp3");
 
@@ -116,28 +199,3 @@ correctSound.preload = "auto";
 wrongSound.preload = "auto";
 
 
-// // Mencegah akses DevTools (Inspect Element)
-// document.addEventListener('keydown', function (e) {
-//   // Cegah F12 (DevTools)
-//   if (e.key === 'F12') {
-//     e.preventDefault();
-//   }
-//   // Cegah Ctrl+Shift+I (Inspect Element)
-//   if (e.ctrlKey && e.shiftKey && e.key === 'I') {
-//     e.preventDefault();
-//   }
-//   // Cegah Ctrl+U (View Source)
-//   if (e.ctrlKey && e.key === 'U') {
-//     e.preventDefault();
-//   }
-// });
-
-// // Mencegah klik kanan
-// document.addEventListener('contextmenu', function (e) {
-//   e.preventDefault();
-// });
-
-// // Mencegah copy paste
-// document.addEventListener('copy', function(e) {
-//   e.preventDefault();
-// });

@@ -97,19 +97,24 @@ body {
 	margin-right: 10%;
 	display: flex;
 	flex-direction: column;
-	padding-top: 5%;
 	padding-bottom: 2%;
 }
 
 .question-text {
 	width: 90%;
 	font-size: 20px;
-	text-align: justify;
+	
 }
 
 
 .option-list .option.correct {
-  background: #4CAF50;
+  background: #46a54a;
+  color: white;
+  border-color: #B13131;
+}
+
+.option-list .option.correct:hover {
+  background: #46a54a;
   color: white;
   border-color: #B13131;
 }
@@ -221,6 +226,42 @@ body {
 
 .next {
 	z-index: 1;
+	width: 70px;
+	height: 50px;
+	background: #FFD01C;
+  color: #323437;
+  font-weight: 800;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.next:hover {
+	background: #F5F4F4;
+}
+
+.prev {
+	z-index: 1;
+	width: 70px;
+	height: 50px;
+	background: #FFD01C;
+  color: #323437;
+  font-weight: 800;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.prev:hover {
+	background: #F5F4F4;
+}
+
+.save-btn {
+	z-index: 1;
 	width: 200px;
 	height: 50px;
 	background: #FFD01C;
@@ -230,5 +271,47 @@ body {
   border-radius: 10px;
   font-size: 20px;
   cursor: pointer;
-  margin-left: 40%;
+  transition: .3s;
 }
+
+.save-btn:hover {
+	background: #F5F4F4;
+}
+
+.refresh {
+	width: 60px;
+	height: 55px;
+	background: #FFD01C;
+  color: #323437;
+  font-weight: 800;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: .3s;
+}
+
+.refresh:hover {
+	background: #F5F4F4;
+}
+
+
+.tombol {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+}
+
+#display-nomor {
+	margin-top: 2%;
+	text-align: left;
+	width: 120px;
+	color: #656666;
+	font-size: 20px;
+}
+
+.counter-box {
+	display: flex;
+	justify-content: center;
+}
+
