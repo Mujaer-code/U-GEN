@@ -398,7 +398,7 @@ let questions = [
     question: "Terapi lini pertama diare akibat Shigella adalah?",
     answer: "Ciprofloxacin",
     options: [
-      "Kotrimoksazol",
+      "Amoksisilin",
       "Ciprofloxacin",
       "Azitromisin",
       "Ceftriaxone",
@@ -1875,7 +1875,1294 @@ let questions = [
   ]
 },
 
+  {
+    question: "Ibu hamil 4 bulan didiagnosa mengalami infeksi saluran kemih dan memiliki riwayat alergi amoksisilin. Antibiotik apa yang aman dan tepat digunakan?",
+    answer: "Sefiksim",
+    options: [
+      "Kotrimoksazol",
+      "Sefiksim",
+      "Tetrasiklin",
+      "Amoksiklav",
+      "Siprofloksasin"
+    ]
+  },
+  {
+    question: "Antibiotik yang tidak boleh diberikan pada wanita hamil 4 bulan dengan infeksi saluran kemih adalah?",
+    answer: "Kotrimoksazol",
+    options: [
+      "Kotrimoksazol",
+      "Amoksisilin",
+      "Cefadroxil",
+      "Azitromisin",
+      "Nitrofurantoin"
+    ]
+  },
+  {
+    question: "Seorang pasien laki-laki berusia 40 tahun didiagnosis mengalami infeksi saluran kemih. Pasien diketahui mengalami penyakit ginjal kronis sejak 5 tahun yang lalu. Obat manakah di bawah ini yang kontraindinkasi pada pasien tersebut?",
+    answer: "Kotrimoksazol",
+    options: [
+      "Kotrimoksazol",
+      "Amoksisilin",
+      "Ciprofloxacin",
+      "Levofloxacin",
+      "Azitromisin"
+    ]
+  },
+  {
+    question: "Antibiotik empiris yang dapat diberikan pada pasien sepsis akibat ISK adalah?",
+    answer: "Levofloxacin",
+    options: [
+      "Levofloxacin",
+      "Amoksiklav",
+      "Kotrimoksazol",
+      "Gentamisin",
+      "Nitrofurantoin"
+    ]
+  },
+  {
+    question: "Antibiotik yang tepat untuk wanita hamil trimester 3 dengan ISK adalah?",
+    answer: "Amoksiklav",
+    options: [
+      "Kotrimoksazol",
+      "Eritromisin",
+      "Levofloxacin",
+      "Nitrofurantoin",
+      "Amoksiklav"
+    ]
+  },
+  {
+    question: "Obat alternatif untuk ISK resisten terhadap penisilin adalah?",
+    answer: "Nitrofurantoin",
+    options: [
+      "Nitrofurantoin",
+      "Amoksisilin",
+      "Ceftriaxone",
+      "Tetrasiklin",
+      "Klindamisin"
+    ]
+  },
+  {
+    question: "Seorang pasien mengalami infeksi saluran kemih. Ketika berkemih terasa nyeri. Antibiotik golongan sefalosporin yang tepat untuk pengobatan tersebut adalah?",
+    answer: "Seftriakson",
+    options: [
+      "Seftriakson",
+      "Ciprofloxacin",
+      "Eritromisin",
+      "Amoksisilin",
+      "Nitrofurantoin"
+    ]
+  },
+  {
+    question: "Seorang pasien didiagnosa mengalami Infeksi Saluran Kemih bagian atas. Terapi lini pertama apa yang tepat untuk diberikan pada pasien?",
+    answer: "Ciprofloxacin",
+    options: [
+      "Ciprofloxacin",
+      "Metronidazole",
+      "Nitrofurantoin",
+      "Fosfomisin",
+      "Penisilin"
+    ]
+  },
+  {
+    question: "Seorang pria berusia 50 tahun datang ke rumah sakit dengan keluhan demam tinggi, nyeri pada bagian pinggang, serta nyeri saat buang air kecil. Hasil pemeriksaan urine dan kultur darah menunjukkan adanya infeksi saluran kemih atas (pyelonefritis akut). Pasien memiliki riwayat alergi terhadap antibiotik golongan fluoroquinolon. Apa jenis antibiotik yang paling tepat untuk pasien ini, mengingat kondisi tersebut?",
+    answer: "Kotrimoksazol",
+    options: [
+      "Kotrimoksazol",
+      "Amoksisilin",
+      "Amikasin",
+      "Doksisiklin",
+      "Levofloxacin"
+    ]
+  },
+  {
+    question: "Pasien laki-laki berumur 45 tahun mendapat obat gentamicin untuk infeksi saluran kemih. Pasien memiliki riwayat gagal ginjal. Untuk mengatasi kejadian nefrotoksis apa yang harus dilakukan sebagai apoteker?",
+    answer: "Memanjangkan interval pemberian obat",
+    options: [
+      "Mempertahankan hidrasi",
+      "Menghentikan obat",
+      "Memanjangkan interval pemberian obat",
+      "Menurunkan dosis",
+      "Memberikan loading dose"
+    ]
+  },
+
+  {
+  question: "Seorang anak berusia 4 tahun mengeluhkan sakit saat buang air kecil dan disertai dengan demam. Diagnosis anak tersebut yaitu mengalami infeksi saluran kemih. Antibiotik apakah yang dikontraindikasikan pada anak tersebut?",
+  answer: "Kuinolon",
+  options: [
+    "Kuinolon",
+    "Betalaktam",
+    "Makrolida",
+    "Aminoglikosida",
+    "Sefalosporin"
+  ]
+},
+{
+  question: "Seorang pasien wanita usia 25 tahun datang konsultasi ke dokter karena nyeri berkemih dan mengalami ISK berulang. Rekomendasi obat yang tepat adalah?",
+  answer: "Kotrimoksazol",
+  options: [
+    "Sefaleksin",
+    "Kotrimoksazol",
+    "Amoksiklav",
+    "Ciprofloksasin",
+    "Fosfomisin"
+  ]
+},
+{
+  question: "Pasien ISK mendapat Ciprofloxacin dan suplemen Zinc. Apa tindakan apoteker terkait interaksi obat tersebut?",
+  answer: "Menganjurkan pasien untuk mengonsumsi Zinc 2 jam setelah Ciprofloxacin",
+  options: [
+    "Menghentikan pemberian Zinc dan Ciprofloxacin",
+    "Menganjurkan pasien untuk mengonsumsi Zinc 2 jam setelah Ciprofloxacin",
+    "Menganjurkan pasien untuk mengonsumsi Zinc bersama Ciprofloxacin",
+    "Menganjurkan pasien untuk mengonsumsi Zinc bersama makanan, terpisah dengan Ciprofloxacin",
+    "Tidak ada tindakan yang perlu diambil"
+  ]
+},
+{
+  question: "Seorang anak berusia 8 tahun diberikan resep ciprofloxacin oleh dokter untuk mengatasi infeksi saluran kemih, apakah PIO efek samping dari ciprofloxacin untuk anak?",
+  answer: "Gangguan pada sendi dan tulang",
+  options: [
+    "Gangguan penglihatan",
+    "Peningkatan berat badan",
+    "Gangguan pada sendi dan tulang",
+    "Peningkatan kadar glukosa darah",
+    "Gangguan pendengaran"
+  ]
+},
+{
+  question: "Seorang apoteker sedang memberikan edukasi kepada pasien mengenai penggunaan obat kotrimoksazol, yang diresepkan untuk mengatasi infeksi saluran kemih. Pasien merupakan seorang wanita berusia 28 tahun dengan riwayat alergi terhadap beberapa obat antibiotik. Selama konseling, pasien bertanya mengenai cara minum obat kotrimoksazol untuk memastikan efektivitas terapi sekaligus menghindari efek samping. Apa saja hal penting yang harus dijelaskan oleh apoteker terkait aturan minum kotrimoksazol?",
+  answer: "Minum obat dengan segelas air putih, hindari paparan sinar matahari langsung, dan perbanyak asupan cairan",
+  options: [
+    "Minum obat setelah makan dengan segelas air putih dan hindari paparan sinar matahari langsung",
+    "Minum obat dengan susu dan hindari alkohol",
+    "Minum obat sebelum makan dan konsumsi jus jeruk",
+    "Minum obat dengan segelas air putih, hindari paparan sinar matahari langsung, dan perbanyak asupan cairan",
+    "Minum obat setelah makan dan konsumsi probiotik"
+  ]
+},
+{
+  question: "Seorang wanita hamil usia 25 tahun pada trimester kedua didiagnosis dengan bakteriuria asimtomatik setelah hasil urinalisis menunjukkan 5CFU/mL Escherichia coli. Pasien tidak memiliki gejala klinis infeksi saluran kemih. Dokter ingin memulai terapi antibiotik untuk mencegah komplikasi kehamilan. Antibiotik mana yang paling sesuai untuk pasien ini?",
+  answer: "Fosfomisin sebagai dosis tunggal",
+  options: [
+    "Trimethoprim-sulfametoksazol selama 7 hari",
+    "Nitrofurantoin selama 5 hari",
+    "Ciprofloxacin dosis tunggal",
+    "Doksisiklin selama 7 hari",
+    "Fosfomisin sebagai dosis tunggal"
+  ]
+},
+{
+  question: "Wanita berusia 30 tahun mendapat resep Ciprofloxacin 500 mg 2x1 tablet untuk keluhan infeksi saluran kemih. Informasi apa yang diberikan terkait penggunaan obat ?",
+  answer: "Obat diminum tiap 12 jam sesudah makan",
+  options: [
+    "Obat diminum tiap 12 jam sebelum makan",
+    "Obat diminum tiap 12 jam sesudah makan",
+    "Obat diminum tiap 12 jam sesaat sesudah makan",
+    "Obat diminum tiap 12 jam ½ jam sesudah makan",
+    "Obat diminum tiap 12 jam 1 jam sesudah makan"
+  ]
+},
+{
+  question: "Ny. Lisa sedang hamil 3 bulan mengalami infeksi saluran kemih, selain itu diketahui bahwa wanita tersebut mengalami defisiensi glukosa-6-phosphate dehydrogenase (G6PD). Apakah terapi antibiotik yang dikontraindikasikan dengan pasien tersebut?",
+  answer: "Trimetropim",
+  options: [
+    "Karbapenem",
+    "Azitromisin",
+    "Amoksiklav",
+    "Trimetropim",
+    "Cefadroxil"
+  ]
+},
+{
+  question: "Wanita usia 28 tahun datang ke RS dengan bakteri Asimptomatis yang kemudian didiagnosa infeksi saluran kemih dengan riwayat obat trimethoprim 200 mg 2x sehari. Wanita tersebut juga sedang hamil 4 minggu. Obat apa yang dapat direkomendasikan sebagai anti infeksi?",
+  answer: "Sefiksim",
+  options: [
+    "Sefiksim",
+    "Gentamisin",
+    "Kloramfenikol",
+    "Ciprofloxacin",
+    "Tetrasiklin"
+  ]
+},
+{
+  question: "Seorang pasien laki-laki 25 tahun mengeluh nyeri saat buang air kecil dan demam selaam 4 hari. Dokter mendiagnosa pasien mengalami ISK. Rekomendasi yang tepat untuk pasien tersebut?",
+  answer: "Ciprofloxacin",
+  options: [
+    "Ciprofloxacin",
+    "Amoxicilin",
+    "Cefadroxil",
+    "Asam nalidikstat",
+    "Azitromisin"
+  ]
+},
+{
+  question: "Seorang ibu menyebutkan penyakit anaknya yang berusia 4 tahun dengan keluhan sakit perut bagian bawah, sering berkemih, urin berwarna keruh. Dokter mendiagnosa anaknya menderita infeksi saluran kemih. Rekomendasi apa yang dapat diberikan apoteker?",
+  answer: "Nitrofurantoin",
+  options: [
+    "Ciprofloxacin",
+    "Asam nalidikstat",
+    "Metanamid",
+    "Nitrofurantoin",
+    "Asam pimemidat"
+  ]
+},
+{
+  question: "Antibiotik untuk complicated acute pyelonephritis dengan kultur Pseudomonas aeruginosa adalah?",
+  answer: "Ciprofloxacin",
+  options: [
+    "Kotrimoksazol",
+    "Amoksiklav",
+    "Ciprofloxacin",
+    "Cefalexim",
+    "Asam nalidiksat"
+  ]
+},
+{
+  question: "Antibiotik yang disarankan pada ibu hamil trimester 3 dengan ISK adalah?",
+  answer: "Amoksiklav",
+  options: [
+    "Kotrimoksazol",
+    "Eritromisin",
+    "Levofloxacin",
+    "Nitrofurantoin",
+    "Amoksiklav"
+  ]
+},
+{
+  question: "Seorang perempuan berusia 40 tahun mengalami demam, sulit BAK dan kadang sakit, BAK juga pernah terdapat darah. Pasien alergi antibiotik golongan penisilin dan resisten terhadap kuinolon. Rekomendasi antibiotik?",
+  answer: "Kotrimoksazol",
+  options: [
+    "Kotrimoksazol",
+    "Cefadroxil",
+    "Kloramfenikol",
+    "Metronidazol",
+    "Azitromisin"
+  ]
+},
+{
+  question: "Seorang pasien mengalami infeksi saluran kemih. Hasil uji kultur mikrobiologis belum didapatkan sehingga dokter meresepkan antibiotik empiris. Pasien saat ini sedang hamil 10 minggu dengan riwayat alergi terhadap antibiotik golongan sefalosporin. Saran antibiotik yang dapat diberikan?",
+  answer: "Nitrofurantoin",
+  options: [
+    "Kotrimoksazol",
+    "Amoksilav",
+    "Ciprofloxacin",
+    "Nitrofurantoin",
+    "Cefixime"
+  ]
+},
+{
+  question: "Seorang pasien 26 tahun terkena ISK. Dokter meresepkan antibiotik kontrimoksazol yang berisi kombinasi sulfametoksazol dan trimetoprim. Berapakah dosis kedua kombinasi tersebut?",
+  answer: "400 mg dan 60 mg",
+  options: [
+    "100 mg dan 25 mg",
+    "200 mg dan 40 mg",
+    "400 mg dan 60 mg",
+    "500 mg dan 75 mg",
+    "960 mg dan 120 mg"
+  ]
+},
+{
+  question: "Rekomendasi antibiotik untuk ISK pada kehamilan 30 minggu adalah?",
+  answer: "Cefalexim",
+  options: [
+    "Kotrimoksazol",
+    "Tetrasiklin",
+    "Ciprofloxacin",
+    "Metronidazole",
+    "Cefalexim"
+  ]
+},
+{
+  question: "Seorang ibu hamil mengeluh sakit perut bagian bawah, setelah pemeriksaan urin terdapat bakteri gram negatif. Dokter menyarankan antibiotik yang cocok diberikan?",
+  answer: "Ceftriaxone",
+  options: [
+    "Cefadroxil",
+    "Tetrasiklin",
+    "Penisilin",
+    "Cefotaxime",
+    "Ceftriaxone"
+  ]
+},
+{
+  question: "Seorang pasien mengalami pyolenefritis akut, saat dilakukan konseling diketahui pasien tersebut alergi golongan kuinolon. Apa terapi antibiotik yang dapat direkomendasikan untuk pasien tersebut?",
+  answer: "Ceftriaxone",
+  options: [
+    "Ciprofloxacin",
+    "Amoxicilin",
+    "Ceftriaxone",
+    "Kotrimoksazol",
+    "Nitrofurantoin"
+  ]
+},
+
+
+
 ///END Infeksi
+
+///START INFEKSI JAMUR
+{
+  question: "Seorang pria merasakan gatal dan ditemukan bercak putih dipermukaan kulitnya. Apakah mikroba yang menyebabkan hal tersebut?",
+  answer: "M furfur",
+  options: [
+    "P acnes",
+    "M furfur",
+    "S pyrogens",
+    "C albicans",
+    "S aureus"
+  ]
+},
+{
+  question: "Seorang ibu datang ke apotek dengan keluhan infeksi ringan pada kuku di bagian ibu jari kaki. Obat apa yang direkomendasikan apoteker untuk ibu tersebut?",
+  answer: "Terbinafin",
+  options: [
+    "Ketokonazol",
+    "Terbinafin",
+    "Griseofulvin",
+    "Nistatin",
+    "Amfoterisin"
+  ]
+},
+{
+  question: "Seorang pasien pria berusia 36 tahun menderita penyakit infeksi jamur kulit. Dokter meminta rekomendasi obat kepada apoteker. Obat apakah yang anda sarankan?",
+  answer: "Salep ketokonazol",
+  options: [
+    "Salep asiklovir",
+    "Salep ketokonazol",
+    "Salep hidrokortison",
+    "Salep kloramfenikol",
+    "Salep gentamisin"
+  ]
+},
+{
+  question: "Seorang pasien dibawa ke rumah sakit karena mengalami infeksi jamur berat. Dokter meresepkan obat golongan polien. Obat apa yang diberikan?",
+  answer: "Amfoterisin B",
+  options: [
+    "Flukonazol",
+    "Ketokonazol",
+    "Amfoterisin B",
+    "Mikonazol",
+    "Terbinafin"
+  ]
+},
+{
+  question: "Seorang pasien pria usia 50 tahun mengalami penebalan kuku disertai bau tidak sedap. Kuku berubah warna menjadi kuning kecoklatan. Setelah diperiksa, diketahui pasien mengalami onikomikosis. Apa obat yang tepat ?",
+  answer: "Terbinafin oral",
+  options: [
+    "Terbinafin oral",
+    "Terbinafin krim",
+    "Ketokonazol oral",
+    "Ketokonazol salep",
+    "Nistatin drop"
+  ]
+},
+{
+  question: "Seorang pasien wanita berusa 61 tahun terkena infeksi meningitis kriptokokus. Pasien ternyata memiliki riwayat CKD stage 2. Obat antijamur apakah yang dikontraindikasikan untuk pasien tersebut?",
+  answer: "Amfoterisin B",
+  options: [
+    "Nistatin",
+    "Amfoterisin B",
+    "Flukonazol",
+    "Itrakonazol",
+    "Ketokonazol"
+  ]
+},
+{
+  question: "Seorang ibu datang ke apotek membeli obat kutu untuk anaknya yang berusia 6 tahun. Terapi yang dapat diberikan apoteker tanpa resep dokter adalah",
+  answer: "Permetrin 1%",
+  options: [
+    "Ketokonazol",
+    "Permetrin 1%",
+    "Zink perition",
+    "Permetrin 5%",
+    "Selenium sulfida"
+  ]
+},
+{
+  question: "Seorang pasien wanita usia 61 tahun terkenena infeksi jamur. Pasien ternayta memiliki riwayat CKD stage 2. Obat antijamur apakah yang dikontraindikasikan untuk pasien tersebut?",
+  answer: "Amfoterisin B",
+  options: [
+    "Amfoterisin B",
+    "Flukonazol",
+    "Nistatin",
+    "Itrakonazol",
+    "Ketokonazol"
+  ]
+},
+{
+  question: "Seorang pasien laki-laki 55 tahun mengeluh demam, flu, mual. Diagnosa dokter pasien terkena infeksi jamur aspergillus fomigatus. Sebagai apoteker obat apa yang dapat diberikan?",
+  answer: "Itrakonazol",
+  options: [
+    "Itrakonazol",
+    "Ketokonazol",
+    "Ampoterisin B",
+    "Miconazol",
+    "Metronidazol"
+  ]
+},
+{
+  question: "Seorang wanita berusia 28 tahun datang ke klinik dengan keluhan gatal dan rasa terbakar di sekitar selangkangan, yang semakin parah dalam beberapa hari terakhir. Pemeriksaan fisik menunjukkan adanya bercak kemerahan, bersisik, dan terdapat sedikit kelembaban pada kulit di area lipatan paha. Dokter mendiagnosis pasien mengalami infeksi jamur pada kulit (tinea cruris). Obat apa yang tepat untuk mengatasi infeksi jamur pada pasien tersebut?",
+  answer: "Krim butenafin",
+  options: [
+    "Krim clotrimazole",
+    "Krim mikonazol",
+    "Krim butenafin",
+    "Krim hidrokortison",
+    "Krim mupirocin"
+  ]
+},
+{
+  question: "Seorang pasien laki-laki berusia 45 tahun datang dengan keluhan kuku jari kakinya yang berubah warna menjadi kekuningan, menebal, dan terasa rapuh. Pasien mengeluh bahwa kuku jari kakinya berbau dan tumbuh tidak normal. Dokter mendiagnosis pasien dengan onychomycosis dan memberikan resep pengobatan. Obat apa yang paling tepat untuk mengobati onychomycosis pada pasien ini?",
+  answer: "Terbinafin",
+  options: [
+    "Griseofulvin",
+    "Ketokonazol",
+    "Terbinafin",
+    "Mikonazol",
+    "Klotrimazol"
+  ]
+},
+{
+  question: "Seorang pasien wanita usia 25 tahun dengan kehamilan usia 10 minggu datang ke dokter dengan keluhan vagina terasa gatal, panas, dan keputihan berwarna putih susu yang menggumpal. Setelah pemeriksaan, dokter mendiagnosa pasien terkena kandidiasis vaginalis. Dokter berdiskusi dengan apoteker obat apa yang tepat untuk pasien. Apa yang anda rekomendasikan?",
+  answer: "Klotrimazol tablet vagina",
+  options: [
+    "Metronidazol ovula",
+    "Metronidazol oral",
+    "Nistatin ovula",
+    "Klotrimazol tablet vagina",
+    "Flukonazol oral"
+  ]
+},
+{
+  question: "Seorang anak mengalami ruam merah dan rasa gatal. Dokter mendiagnosis adanya infeksi bakteri akibat penggunaan popok. Obat yang diberikan oleh dokter adalah",
+  answer: "mupirosin",
+  options: [
+    "kortikosteroid",
+    "Mikonazol",
+    "lanolin",
+    "zinc oxide",
+    "mupirosin"
+  ]
+},
+{
+  question: "Seorang pasien laki-laki umur 27 tahun menderita infeksi jamur dan mendapat resep tablet ketoconazole. Pasien diketahui menderita ulkus peptic dan rutin minum antasida secara bersamaan. Reaksi manakah yang terjadi antar kedua obat?",
+  answer: "Antasida mempengaruhi absorbsi ketoconazole",
+  options: [
+    "Antasida mempengaruhi disolusi ketoconazole",
+    "Antasida mempengaruhi absorbsi ketoconazole",
+    "Antasida mempengaruhi distribusi ketoconazole",
+    "Antasida mempengaruhi metabolisme ketoconazole",
+    "Antasida mempengaruhi ekskresi ketoconazole"
+  ]
+},
+{
+  question: "Seorang pasien umur 30 tahun mengalami gatal-gatal di kulit, kemerahan dan bersisik. Dokter mendiagnosa pasien menderita infeksi jamur dan diberikan kaplet Griseofulvin, apakah mikroorganisme yang menginfeksi pasien?",
+  answer: "Candida albicans",
+  options: [
+    "Candida albicans",
+    "Calvatia gigantia",
+    "Rhizopus stolonifera",
+    "Aspergilus niger",
+    "Saccharomyces cereviceae"
+  ]
+},
+{
+  question: "Pasien (laki-laki, 27 thn) datang ke apotek mengeluh ada bercak putih dengan batas tegas, bersisik halus dan terasa gatal terutama bila berkeringat pada kulit di ketiak dan lengan. Keluhan ini dirasakan sejak dua minggu yang lalu. Obat apakah yang diberikan apoteker untuk pasien tersebut",
+  answer: "Mikonazol krim",
+  options: [
+    "Mikonazol krim",
+    "Gentamisin kim",
+    "Hidrokortison krim",
+    "Povidon Iodin Krim",
+    "Asiklovir krim"
+  ]
+},
+{
+  question: "Seorang pasien datang ke dokter dengan keluhan kulit bersisik, mengelupas antara jari kaki, dan gatal. Dokter memberikan resep berisi obat terbinafin. Bagaimana mekanisme kerja terbinafin sebagai antijamur?",
+  answer: "Menghambat kerja enzim squalen epoksidase",
+  options: [
+    "Menghambat mitosis fungi",
+    "Membentuk pori pada membran",
+    "Mengganggu sintesis asam nukleat dan protein jamur",
+    "Meningkatkan sintesis ergosterol",
+    "Menghambat kerja enzim squalen epoksidase"
+  ]
+},
+{
+  question: "Seorang pasien usia 45 tahun datang ke klinik mengeluhkan kuku jari kakinya yang terlihat berubah warna, menebal, tidak rata dan berbau. Dokter mendiagnosa onychomycosis. Sebagai apoteker, terapi apa yang anda sarankan?",
+  answer: "Flukonazol",
+  options: [
+    "Flukonazol",
+    "Ketokonazol",
+    "Griseofulvin",
+    "Klotrimazol",
+    "Mikonazol"
+  ]
+},
+{
+  question: "Seorang pria berusia 27 tahun mengalami infeksi jamur pada kulit. Dokter meminta saran pengobatan topikal untuk pasien. Setelah berdiskusi, dokter meminta apoteker memberikan golongan imidazole. Sebagai apoteker, obat apa yang anda sarankan?",
+  answer: "Salep ketokonazol",
+  options: [
+    "Salep hidrokortison",
+    "Salep ketokonazol",
+    "Salep flukonazol",
+    "Salep asiklovir",
+    "Salep kloramfenikol"
+  ]
+},
+{
+  question: "Pasien laki-laki 25 tahun dengan gejala oral flush didiagnosa HIV-AIDS dan kandiasis. Diketahui CD4 300 sel/mm3. Apa obat yang direkomendasikan untuk pasien?",
+  answer: "Flukonazol",
+  options: [
+    "Itrakonazol",
+    "Mikonazol",
+    "Flukonazol",
+    "Ketokonazol",
+    "Griseofulvin"
+  ]
+},
+{
+  question: "Seorang wanita datang ke klinik dengan keluhan jempol kaki kuning dan berbau seperti terinfeksi jamur. Setelah dilakukan pemeriksaan, dokter mendiagnosa pasien terinfeksi Tinea Pedis. Dokter meresepkan klotrimazol topikal. Sebagai apoteker informasi apa yang perlu disampaikan pada pasien?",
+  answer: "Digunakan 2-3 kali sehari minimal 10 hari dan maksimal 5 minggu",
+  options: [
+    "Digunakan 2-3 kali sehari minimal 10 hari dan maksimal 5 minggu",
+    "Setelah dibuka dapat digunakan sampai 3 hari",
+    "Digunakan pada malam hari",
+    "Dioleskan ke seluruh tubuh",
+    "Digunakan selama 1 minggu"
+  ]
+},
+
+///END INFEKSI JAMUR
+
+///START INFEKSI CACING
+{
+  question: "Seorang pasien didiagnosis terinfeksi Ascaris lumbricoides, apa rekomendasi obat yang tepat diberikan?",
+  answer: "Mebendazole",
+  options: [
+    "Niklosamid",
+    "Pirantel pamoat",
+    "Dietilkarbamazin",
+    "Mebendazole",
+    "Praziquantel"
+  ]
+},
+{
+  question: "Seorang ibu memperoleh resep pirantel pamoat untuk anaknya yang terinfeksi cacing kremi, setelah berapa lama dosis pirantel pamoat boleh diulang?",
+  answer: "2 minggu",
+  options: [
+    "1 minggu",
+    "2 minggu",
+    "3 minggu",
+    "1 bulan",
+    "1 tahun"
+  ]
+},
+{
+  question: "Wanita terdiagnosis nekatoriasis dan diresepkan mebendazole 100 mg. Berapa lama penggunaan mebendazole yang dianjurkan?",
+  answer: "3 hari",
+  options: [
+    "10 hari",
+    "5 hari",
+    "7 hari",
+    "3 hari",
+    "14 hari"
+  ]
+},
+{
+  question: "Pria dengan bengkak tungkai, kulit menebal, kering, dan gelap setelah dinas dari Papua diresepkan dietilkarbamazin. Penyebab penyakit tersebut adalah?",
+  answer: "Filariasis",
+  options: [
+    "Filariasis",
+    "Trikuriasis",
+    "Skisotoma",
+    "Askariasis",
+    "Taeniasis"
+  ]
+},
+{
+  question: "Anak usia 5 tahun terinfeksi nekatoriasis (cacing tambang). Terapi yang dapat diberikan adalah?",
+  answer: "Mebendazol",
+  options: [
+    "Flukonazol",
+    "Mebendazol",
+    "Metronidazol",
+    "Benzatin",
+    "Valsiklovir"
+  ]
+},
+{
+  question: "Pasien terinfeksi nematoda Wuchereria bancrofti. Obat yang direkomendasikan adalah?",
+  answer: "Dietilkarbamazepin",
+  options: [
+    "Dietilkarbamazepin",
+    "Mebendazole",
+    "Ivermectin",
+    "Pirantel pamoat",
+    "Piperazin"
+  ]
+},
+{
+  question: "Pria terinfeksi nematoda yang ditularkan nyamuk Culex quinquefasciatus (Wuchereria bancrofti). Obat yang direkomendasikan?",
+  answer: "Dietilkarbamazin",
+  options: [
+    "Dietilkarbamazin",
+    "Mebendazole",
+    "Pirantel pamoat",
+    "Ivermectin",
+    "Piperazin"
+  ]
+},
+{
+  question: "Terapi obat cacing gelang untuk anak umur 3 tahun yang paling sesuai adalah?",
+  answer: "Albendazole",
+  options: [
+    "Mebendazole",
+    "Albendazole",
+    "Mebendazole + albendazole",
+    "Pirantel pamoat",
+    "Mebendazole + pirantel pamoat"
+  ]
+},
+{
+  question: "Pasien dengan filariasis (larva berselubung muncul malam hari). Obat yang paling tepat adalah?",
+  answer: "Dietilkarbamazin",
+  options: [
+    "Mebendazol",
+    "Levomisol",
+    "Pirantel pamoat",
+    "Piperazin",
+    "Dietilkarbamazin"
+  ]
+},
+{
+  question: "Anak 7 tahun dengan trikuriasis (Trichuris trichiura). Obat yang direkomendasikan adalah?",
+  answer: "Albendazol",
+  options: [
+    "Prazikuantel",
+    "Pirantel pamoat",
+    "Dietilkarbamazin",
+    "Metronidazol",
+    "Albendazol"
+  ]
+},
+{
+  question: "Salah satu obat anticacing yang dikontraindikasikan pada ibu hamil (kategori X) adalah?",
+  answer: "Dietilkarbamazin",
+  options: [
+    "Mebendazol",
+    "Albendazol",
+    "Ivermektin",
+    "Dietilkarbamazin",
+    "Pirantel pamoat"
+  ]
+},
+{
+  question: "Anak usia 2 tahun terinfeksi Ascaris lumbricoides. Obat yang tepat adalah?",
+  answer: "Albendazol",
+  options: [
+    "Pirantel pamoat",
+    "Praziquantel",
+    "Albendazol",
+    "Piperazin",
+    "Dietilkarbamazin"
+  ]
+},
+{
+  question: "Anak 7 tahun terinfeksi cacing gelang (Ascaris lumbricoides). Obat yang paling tepat adalah?",
+  answer: "Albendazol",
+  options: [
+    "Albendazol",
+    "Metronidazol",
+    "Praziquantel",
+    "Nitazoxanide",
+    "Ivermectin"
+  ]
+},
+
+///END INFEKSI CACING
+
+///START KARDIOVASKULAR
+
+{
+  question: "Berapakah target tekanan darah pasien hipertensi dengan komorbid DM?",
+  answer: "<130/80",
+  options: [
+    "<120/80",
+    "120/80",
+    "<130/80",
+    "<140/90",
+    "140/90"
+  ]
+},
+{
+  question: "Pasien wanita, usia 50 tahun mengeluhkan pusing dan hasil pemeriksaan tekanan darahnya 155/100 mmHg. Pasien memiliki riwayat DM tipe 2. Pasien diberikan terapi losartan untuk menurunkan TDnya. Berapa target tekanan darah pasien berdasarkan JNC VIII?",
+  answer: "140/90 mmHg",
+  options: [
+    "150/90 mmHg",
+    "140/80 mmHg",
+    "130/80 mmHg",
+    "150/80 mmHg",
+    "140/90 mmHg"
+  ]
+},
+{
+  question: "Seorang bapak berumur 50 tahun masuk IGD dengan tekanan darah 165/90 mmHg dan GDS 289 mg/dL. Dokter mendiagnosa pasien mengalami Hipertensi dan Diabetes. Berdasakan JNC VIII apa rekomendasi terapi first line hipertensi pasien DM dan targetnya terapinya?",
+  answer: "Captopril dan target terapi 140/90 mmHg",
+  options: [
+    "Valsartan dan target terapi 150/90 mmHg",
+    "Ibersartan dan target terapi 150/80 mmHg",
+    "Captopril dan target terapi 140/90 mmHg",
+    "Lisinopril dan target terapi 140/80 mmHg",
+    "Enalapril dan target terapi 130/90 mmHg"
+  ]
+},
+{
+  question: "Seorang ibu hamil datang ke puskesmas, sebelumnya belum pernah menerima terapi prenatal, diketahui tekanan darah pasien minimal 150/90. Dinyatakan oleh dokter, pasien mengalami hipertensi. Obat apa yang sesuai untuk pasien tersebut?",
+  answer: "Metildopa",
+  options: [
+    "Kaptopril",
+    "Valsartan",
+    "Metildopa",
+    "Furosemid",
+    "Amlodipin"
+  ]
+},
+{
+  question: "Seorang wanita 34 tahun mengeluhkan sakit kepala. Tekanan darah saat berkunjung ke dokter yaitu 140/100 mmHg. Oleh dokter didiagnosa terkena hipertensi. Obat yang diberikan adalah",
+  answer: "Valsartan",
+  options: [
+    "Valsartan",
+    "Furosemide",
+    "Spironolakton",
+    "Atenolol",
+    "Propranolol"
+  ]
+},
+{
+  question: "Seorang pasien laki-laki ke apotek bawa hasil lab yang baru saja dilakukan. Total kolesterol 250 mg/dL. Pasien diketahui menderita hipertensi dan menggunakan antihipertensi. Hasil lab tersebut diperkirakan merupakan efek samping penggunaan obat hipertensinya. Obat hipertensi apa yang menyebabkan abnormalitas hasil lab tersebut?",
+  answer: "Hidrochlorotiazide",
+  options: [
+    "Hidrochlorotiazide",
+    "Spironolacton",
+    "Losartan",
+    "Propranolol",
+    "Verapamil"
+  ]
+},
+{
+  question: "Seorang pria berusia 58 tahun mempunyai riwayat hipertensi dan hiperkolesteromia dan didiagnosis menderita penyakit jantung. Salah satu obat yang diberikan adalah Furosemid. Mekanisme dari obat tersebut adalah",
+  answer: "Menghambat reabsorpsi Na, Cl, dan K",
+  options: [
+    "Menghambat reabsorpsi Na, Cl, dan K",
+    "Menghambat reabsorpsi Na dan K",
+    "Menghambat reabsorpsi Na dan Cl",
+    "Menghambat reabsorpsi aldosteron",
+    "Meningkatkan reabsorpsi aldosteron"
+  ]
+},
+{
+  question: "Seorang wanita datang ke apotek dengan tekanan darah sebesar 140/90 mmHg dan wanita tersebut sedang hamil. Obat apa yang dikontraindikasikan untuk pasien tersebut?",
+  answer: "Captopril",
+  options: [
+    "Nifedipin",
+    "Propranolol",
+    "Labetalol",
+    "Captopril",
+    "Amlodipin"
+  ]
+},
+{
+  question: "Pasien wanita usia 50 tahun datang ke rumah sakit dengan keluhan kaki bengkak selama 2 minggu terakhir. Pasien sedang terapi antihipertensi dan antihiperlipidemia dengan lisinopril, amlodipine, simvastatin, meloksikam, vitamin B kompleks. Dokter diskusi dengan apoteker jika bengkak kaki karena efek samping dari terapi. Obat mana yang mengakibatkan efek samping tersebut?",
+  answer: "Amlodipine",
+  options: [
+    "Amlodipine",
+    "Lisinopril",
+    "Simvastatin",
+    "Meloksikam",
+    "Vitamin B kompleks"
+  ]
+},
+{
+  question: "Seorang pasien datang ke IGD rumah sakit dan memiliki tekanan darah >180/120 disertai kerusakan organ akut. Obat apakah yang dapat diberikan terhadap pasien?",
+  answer: "Nikardipin",
+  options: [
+    "Nikardipin",
+    "Furosemide",
+    "Spironolakton",
+    "Kaptopril",
+    "Kandersatan"
+  ]
+},
+{
+  question: "Pasien wanita (30 tahun) didiagnosis mengalami hipertensi. Wanita tersebut sedang hamil 5 minggu. Dokter berkonsultasi dengan apoteker terkait obat yang dapat direkomendasikan untuk pasien tersebut. Di bawah ini, obat manakah yang tidak boleh digunakan untuk wanita tersebut?",
+  answer: "Kaptopril",
+  options: [
+    "Labetalol",
+    "Nifedipin",
+    "Metildopa",
+    "Kaptopril",
+    "Amlodipin"
+  ]
+},
+{
+  question: "Pasien (lakilaki 54 thn) dengan hipertensi (TD 150/90 mmHg) datang ke apotek menerima resep Captopril 25 mg (3dd1). Kapankah waktu yang efektif untuk mengkonsumsi obat captopril",
+  answer: "Sebelum makan",
+  options: [
+    "Sebelum makan",
+    "Satu jam sesudah makan",
+    "Sesudah makan",
+    "Sebelum atau sesudah makan",
+    "Saat makan"
+  ]
+},
+{
+  question: "Informasi mengenai efek samping obat yang harus disampaikan berkaitan dengan mekanisme kerja captopril yang menghambat penguraian bradikinin adalah",
+  answer: "Batuk kering",
+  options: [
+    "Reaksi alergi",
+    "Hipertensi",
+    "Batuk kering",
+    "Diare",
+    "Tukak lambung"
+  ]
+},
+{
+  question: "Pasien 47 tahun menderita hipertensi dengan CKD dan DM. target tekanan darah yang tepat adalah …",
+  answer: "130/80",
+  options: [
+    "150/90",
+    "150/80",
+    "140/90",
+    "140/80",
+    "130/80"
+  ]
+},
+{
+  question: "Penggunaan obat golongan beta bloker yang non selektif pada pasien hipertensi yang mengalami asma harus dihindari karena efek samping yang sering terjadi pada penggunaan obat tersebut, antara lain….",
+  answer: "Bronkospasme",
+  options: [
+    "Batuk",
+    "Bronkospasme",
+    "Hipokalemia",
+    "Udema",
+    "Bradikardia"
+  ]
+},
+{
+  question: "Seorang laki-laki umur 35 tahun masuk ke IGD, tekanan darah 220/120 mmHg. Didiagnosa hipertensi emergency. Obat apa yang diberikan untuk menangani pasien tersebut?",
+  answer: "Natrium nitroprusid",
+  options: [
+    "Amlodipin",
+    "HCT",
+    "Natrium nitroprusid",
+    "Klonidin",
+    "Propanolol"
+  ]
+},
+{
+  question: "Seorang Perempuan berumur 32 tahun, dengan kondisi hamil 6 bulan dilarikan ke IGD karena mengalami kejang. Pasien menderita hipertensi dan sedang mengkonsumsi metildopa. Dokter mendiagnosa pasien mengalami eklamsia dan diberikan terapi yang tepat untuk pengobatannya. Obat apa yang direkomendasikan?",
+  answer: "MgSO4",
+  options: [
+    "MgSO4",
+    "Amlodipin",
+    "Valsartan",
+    "Furosemid",
+    "Propanolol"
+  ]
+},
+
+{
+  question: "Pasien hipertensi mendapat terapi amlodipin, kemudian mengalami udem, terapi apa yg dapat diberikan sebagai tambahan",
+  answer: "Hidroklortiazid",
+  options: [
+    "Furosemid",
+    "Spironolakton",
+    "Manitol",
+    "Hidroklortiazid",
+    "Amlodipin"
+  ]
+},
+{
+  question: "Seorang laki-laki berusia 66 thn, datang ke apotek dengan keluhan nyeri sendi dan hasil lab menunjukkan kadar asam urat diatas normal. Pasien memiliki riwayat hipertensi & DM serta rutin menggunakan obat hidroklortiazid, amlodipine, alprazolam, glibenklamid dan metformin Apakah obat yang dapat menyebabkan efek samping tersebut ?",
+  answer: "Hidroklortiazid",
+  options: [
+    "Hidroklortiazid",
+    "Amlodipine",
+    "Alprazolam",
+    "Glibenklamid",
+    "Metformin"
+  ]
+},
+
+{
+  question: "Seorang pasien wanita usia 56 tahun terdiagnosa diabetes mellitus tipe 2 saat 9 tahun yang lalu dan mendapat terapi metformin dan glibenklamid, saat ini kondisi diabetes nya terkontrol dengan nilai HbA1c 6,5%. Lima tahun yang lalu pasien terdiagnosa hipertensi dan telah mendapat obat captopril 20 mg 1x1 tab, saat ini tekanan darah pasien 158/89 mmHg. Jika dokter ingin menambahkan obat kedua selain captopril, obat manakah yang kontraindikasi untuk pasien tersebut:",
+  answer: "Bisoprolol",
+  options: [
+    "Hidroklorotiazid",
+    "Metildopa",
+    "Amlodipin",
+    "Bisoprolol",
+    "Losartan"
+  ]
+},
+{
+  question: "Pasien wanita usia 45 tahun mengeluh sakit kepala dan kaku di bagian leher belakang (tengkuk). Dokter memeriksa tekanan darah pasien tersebut adalah 170/100 mmHg. Dokter memberikan obat furosemid 40 mg dengan aturan pakai 1x1 tab pagi hari dan captopril 12,5 mg sehari 3x1 tab. Berapa target tekanan darah yang harus dicapai pasien dengan pengobatannya?",
+  answer: "Kurang dari 140/90 mmHg",
+  options: [
+    "Kurang dari 120/80 mmHg",
+    "Kurang dari 130/80 mmHg",
+    "Kurang dari 150/90 mmHg",
+    "Kurang dari 140/90 mmHg",
+    "Kurang dari 160/90 mmHg"
+  ]
+},
+{
+  question: "Pasien dengan riwayat jantung iskemik, kemudian didiagnosa angina pektoris mendapat terapi diltiazem. Apa efek samping dari diltiazem?",
+  answer: "Edema dan sakit kepala",
+  options: [
+    "Edema dan sakit kepala",
+    "Diare dan nyeri perut",
+    "Ruam dan pendarahan",
+    "Mengantuk dan pusing",
+    "Nyeri di ulu hati"
+  ]
+},
+
+{
+  question: "Seorang pasien pria 40 tahun menderita hipertensi dengan riwayat asma. Dokter memberikan beta bloker untuk penngobatan. Beta bloker yang tepat adalah",
+  answer: "Atenolol",
+  options: [
+    "Nasdolol",
+    "Timolol",
+    "Propanolol",
+    "Atenolol",
+    "Asebutolol"
+  ]
+},
+{
+  question: "Seorang laki-laki usia 67 tahun menderita hipertensi dan rutin mengonsumsi kaptropil. Saat kontrol rutin ke dokter, tekanan darah pasien mencapai 160/110 mmHg. Dokter mempertimbangkan untuk menambahkan terapi beta bloker. Pasien diketahui memiliki riwayat asma persisten. Obat beta bloker apakah yang aman diberikan untuk pasien tersebut?",
+  answer: "Metoprolol",
+  options: [
+    "Propanolol",
+    "Karvedilol",
+    "Labetolol",
+    "Timolol",
+    "Metoprolol"
+  ]
+},
+{
+  question: "Seorang wanita berusia 54 tahun dirawat di Rumah Sakit. Pasien memiliki riwayat diabetes melitus sejak 15 tahun lalu. Hasil pemeriksaan tekanan darah menunjukkan pasien mengalami hipertensi dengan TD 155/92 mmHg. Hasil urinalisis menunjukkan adanya proteinurea. Dokter berkonsultasi dengan apoteker terkait terapi untuk pasien. Obat antihipertensi apa yang tepat diberikan untuk pasien tersebut?",
+  answer: "Kaptopril",
+  options: [
+    "Kaptopril",
+    "Bisoprolol",
+    "Amlodipin",
+    "Furosemid",
+    "Spironolakton"
+  ]
+},
+{
+  question: "Tn. A datang ke dokter dengan keluhan kaki bengkak. Pasien menyebutkan bahwa ia rutin mengonsumsi obat antihipertensi dan hiperlipidemia yang diberikan dokter. Obat apakah yang menyebabkan keluhan pasien?",
+  answer: "Amlodipine",
+  options: [
+    "Amlodipine",
+    "Simvastatin",
+    "Bile Acid Renin",
+    "Furosemid",
+    "Kaptropil"
+  ]
+},
+{
+  question: "Seorang wanita usia 25 tahun dengan riwayat hipertensi kronis datang ke dokter untuk berkonsultasi karena pasien baru menikah dan sedang merencanakan kehamilan. Pasien saat ini mengkonsumsi valsartan 80 mg 1 kali sehari dengan TD terkontrol 130/80 mmHg. Dokter berdiskusi dengan apoteker terkait pemilihan obat yang tepat untuk pasien. Pasien diketahui memiliki riwayat major depressive disorder dan rutin mengkonsumsi sertraline. Apa rekomendasi yang tepat?",
+  answer: "Mengganti valsartan dengan metildopa",
+  options: [
+    "Mengganti valsartan dengan nifedipin oral immediate-release",
+    "Mengganti valsartan nifedipin oral extended-release",
+    "Mengganti valsartan dengan metildopa",
+    "Melanjutkan valsartan dengan pengaturan dosis 40 mg 2 kali sehari",
+    "Mengganti valsartan dengan hidroklortiazid"
+  ]
+},
+{
+  question: "Seorang pasien wanita berusia 60 tahun datang ke rumah sakit dengan riwayat gagal jantung dan hipertensi yang tidak terkontrol. Pasien telah menjalani pengobatan dengan captopril selama 2 bulan, tetapi tekanan darahnya masih berada di atas target yang diinginkan. Dokter memutuskan untuk menambahkan obat antihipertensi lain untuk memperbaiki pengendalian tekanan darah, namun dokter juga mencatat bahwa beberapa obat dapat memengaruhi efektivitas atau menyebabkan efek samping yang berbahaya jika dikombinasikan dengan captopril. Obat tambahan mana yang harus dihindari untuk pasien ini yang sedang mengonsumsi captopril?",
+  answer: "Losartan",
+  options: [
+    "Amlodipin",
+    "Atenolol",
+    "Furosemid",
+    "Losartan",
+    "Spironolakton"
+  ]
+},
+{
+  question: "Seorang pasien Tn. Y menderita hipertensi resisten dan diresepkan kaptopril, amlodipin, dan spironolakton. Apoteker mengkaji resep dan menemukan drug related problem terkait interaksi obat yang menyebabkan potensiasi efek samping obat. Parameter lab apa yang harus di monitor?",
+  answer: "Kalium serum",
+  options: [
+    "Kalium serum",
+    "SGOT/SGPT",
+    "BUN",
+    "Tekanan darah",
+    "Serum kreatinin"
+    ]
+},
+{
+  question: "Seorang pasien, Bapak Z yang berusia 50 tahun, telah menjalani pengobatan untuk hipertensi selama beberapa bulan dengan resep dari dokternya. Meskipun tekanan darahnya telah terkontrol dengan baik, Bapak Z merasa tidak ada gejala yang mengganggu dan memutuskan untuk menghentikan obat-obatan tersebut secara tiba-tiba. Setelah beberapa minggu, ia mulai merasakan gejala peningkatan tekanan darah yang drastis, dengan keluhan sakit kepala hebat dan pusing yang semakin parah. Setelah diperiksa oleh dokter, diketahui bahwa penghentian mendadak salah satu obatnya menyebabkan rebound hypertension. Obat manakah yang kemungkinan besar menyebabkan lonjakan tekanan darah (rebound hypertension) setelah penghentian mendadak oleh Bapak Z?",
+  answer: "Atenolol",
+  options: [
+    "Diltiazem",
+    "Enalapril",
+    "Atenolol",
+    "Amlodipin",
+    "Valsartan"
+  ]
+},
+{
+  question: "Pasien perempuan umur 54 tahun terdiagnosa hipertensi stage I dengan tekanan darah 140/90 mmHg. Karena pasien juga memiliki riwayat penyakit gout arthritis, apoteker menyarankan kepada dokter untuk memilih obat antihipertensi yang bisa memberika manfaat tambahan menurunkan asam urat. Obat apakah yang dimaksud?",
+  answer: "Losartan",
+  options: [
+    "Hidroklortiazid",
+    "Losartan",
+    "Bisoprolol",
+    "Ramipril",
+    "Nifedipin"
+  ]
+},
+{
+  question: "Seorang pasien didiagnosis dengan hiperglikemia, hipertensi, dan proteinuria. Pasien telah diberikan terapi dapagliflozin untuk mengatasi hiperglikemia. Terapi tambahan apa yang tepat untuk mengatasi hipertensi pasien?",
+  answer: "Losartan",
+  options: [
+    "Amlodipin",
+    "Bisoprolol",
+    "Losartan",
+    "Hidroklortiazid",
+    "Klonidin"
+  ]
+},
+{
+  question: "Seorang wanita hamil berusia 35 tahun datang ke klinik kandungan pada usia kehamilan 15 minggu. Pada kehamilan pertama, wanita ini memiliki riwayat preeklamsia. Dokter memutuskan untuk memberikan terapi pencegahan guna mengurangi risiko terjadinya preeklamsia pada kehamilan kedua. Apa obat yang tepat diberikan sebagai pencegahan preeklamsia?",
+  answer: "Aspirin",
+  options: [
+    "Clopidogrel",
+    "Aspirin",
+    "Heparin",
+    "Warfarin",
+    "Dabigatran"
+  ]
+},
+
+  {
+    question: "Seorang pasien dengan riwayat hipertensi mendapatkan terapi kaptopril selama 6 bulan. Setelah beberapa waktu mengonsumsi obat tersebut, pasien melaporkan gejala batuk kering yang tidak kunjung hilang. Dalam konsultasi dengan dokter, pasien bertanya kepada apoteker mengenai penyebab batuk tersebut. Apoteker menjelaskan bahwa batuk adalah salah satu efek samping yang sering terjadi pada penggunaan inhibitor enzim konversi angiotensin (ACE), termasuk kaptopril. Apa yang menyebabkan efek samping batuk pada penggunaan kaptopril?",
+    answer: "Penghambatan degradasi bradikinin",
+    options: [
+      "Penghambatan produksi angiotensi II",
+      "Peningkatan kadar natriuretik",
+      "Penghambatan degradasi bradikinin",
+      "Efek samping alergi terhadap obat",
+      "Stimulasi reseptor beta di paru-paru"
+    ]
+  },
+  {
+    question: "Seorang pasien pria berusia 55 tahun datang dengan keluhan tekanan darah yang sangat tinggi. Setelah pemeriksaan, tekanan darah pasien tercatat 200/140 mmHg, namun tidak ada tanda kerusakan organ. Apa terapi yang paling tepat untuk pasien ini?",
+    answer: "Captopril p.o",
+    options: [
+      "Captopril p.o",
+      "Nikardipin IV",
+      "Amlodipin p.o",
+      "Hidralazin IV",
+      "Atenolol p.o"
+    ]
+  },
+  {
+    question: "Seorang wanita hamil mengalami hipertensi dan telah diberikan terapi dengan metildopa. Meskipun telah menjalani terapi ini, tekanan darah pasien masih belum terkontrol dengan baik. Dokter perlu mempertimbangkan penambahan terapi lain yang aman untuk digunakan selama kehamilan guna mengontrol tekanan darah pasien secara lebih efektif. Mengingat wanita ini sedang hamil, pemilihan obat harus mempertimbangkan keselamatan ibu dan janin. Obat tambahan yang tepat untuk mengontrol hipertensi pada pasien hamil yang telah menerima terapi metildopa, namun tekanan darahnya masih belum terkontrol adalah?",
+    answer: "Nifedipin",
+    options: [
+      "Nifedipin",
+      "Lisinopril",
+      "Atenolol",
+      "Furosemid",
+      "Spironolakton"
+    ]
+  },
+  {
+    question: "Seorang pasien perempuan berusia 28 tahun dengan riwayat hipertensi kronis diketahui sedang hamil 16 minggu. Dokter meresepkan metildopa sebagai terapi antihipertensi. Setelah beberapa minggu, pasien mengeluhkan kelelahan, pusing, dan kulit tampak pucat. Hasil pemeriksaan darah menunjukkan kadar hemoglobin 8,2 g/dL (normal: 12–16 g/dL) dengan hasil tes Coombs langsung positif. Efek samping apa yang paling mungkin terkait dengan penggunaan metildopa pada pasien ini?",
+    answer: "Anemia hemolitik",
+    options: [
+      "Anemia hemolitik",
+      "Rebound hypertension",
+      "Peningkatan sekresi prolaktin",
+      "Hepatitis",
+      "Depresi pasca melahirkan"
+    ]
+  },
+  {
+    question: "PSeorang pasien dengan hipertensi telah menjalani terapi dengan kombinasi obat-obatan kaptopril, amlodipin, dan hidroklorotiazid. Meskipun telah menjalani pengobatan ini, tekanan darah pasien masih belum terkontrol dengan baik. Setelah evaluasi lebih lanjut, dokter mempertimbangkan untuk menambahkan terapi lain guna mencapai kontrol tekanan darah yang optimal. Apa obat tambahan yang tepat?",
+    answer: "Spironolakton",
+    options: [
+      "Spironolakton",
+      "Doxazosin",
+      "Atenolol",
+      "Verapamil",
+      "Lisinopril"
+    ]
+  },
+  {
+    question: "Seorang pria berusia 55 tahun datang ke klinik dengan keluhan nyeri hebat di sendi jempol kaki yang membengkak dan kemerahan. Setelah pemeriksaan, dokter mendiagnosis pasien dengan gout akut akibat kadar asam urat plasma yang tinggi (8,5 mg/dL). Riwayat pengobatan pasien menunjukkan bahwa 2 bulan belakangan memulai terapi antihipertensi. Apa obat antihipertensi yang dapat menyebabkan peningkatan asam urat?",
+    answer: "Hidroklortiazid",
+    options: [
+      "Kaptopril",
+      "Hidroklortiazid",
+      "Amlodipin",
+      "Bisoprolol",
+      "Candesartan"
+    ]
+  },
+  {
+    question: "Seorang pria berusia 58 tahun datang ke klinik dengan keluhan nyeri sendi yang sering terjadi di jempol kaki kanan selama beberapa bulan terakhir. Setelah pemeriksaan, pasien didiagnosis dengan gout kronis. Pasien memiliki riwayat hipertensi dan dislipidemia yang dikelola dengan amlodipin dan atorvastatin. Kadar asam urat serum terakhir tercatat 8,5 mg/dL. Dokter ingin menyesuaikan terapi pasien untuk mengatasi kadar asam urat yang tinggi sambil tetap memperhatikan pengelolaan komorbiditasnya. Manakah langkah terbaik untuk mengelola kadar asam urat pasien ini sambil mempertimbangkan komorbiditasnya?",
+    answer: "Ganti amlodipin dengan losartan karena losartan dapat menurunkan kadar asam urat",
+    options: [
+      "Ganti amlodipin dengan losartan karena losartan dapat menurunkan kadar asam urat",
+      "Ganti atorvastatin dengan fenofibrat",
+      "Tambahkan probenesid",
+      "Mulai kolkisin",
+      "Ganti amlodipin dengan lisinopril"
+    ]
+  },
+  {
+    question: "Seorang pasien hipertensi diberikan resep kaptopril. Apoteker menjelaskan cara penggunaan obat tersebut kepada pasien. Kapan waktu yang tepat untuk mengonsumsi kaptopril?",
+    answer: "30 menit sebelum makan",
+    options: [
+      "30 menit sebelum makan",
+      "15 menit sebelum makan",
+      "Bersama makanan",
+      "15 menit setelah makan",
+      "30 menit setelah makan"
+    ]
+  },
+  {
+    question: "Seorang wanita berusia 62 tahun dengan riwayat hipertensi tidak terkontrol (tekanan darah 165/102 mmHg) dan diabetes mellitus datang ke klinik. Fungsi ginjal pasien menunjukkan eGFR 42 mL/min/1,73 m², dan albuminuria terdeteksi pada pemeriksaan urin. Pasien belum pernah menggunakan terapi antihipertensi sebelumnya. Apa pilihan terapi awal yang paling tepat untuk pasien ini?",
+    answer: "Losartan",
+    options: [
+      "Losartan",
+      "Hidroklortiazid",
+      "Metoprolol",
+      "Clonidine",
+      "Diltiazem"
+    ]
+  },
+  {
+    question: "Seorang wanita berusia 65 tahun dengan riwayat infark miokard (MI) 2 tahun lalu dan hipertensi datang untuk evaluasi lanjutan. Pasien sedang menggunakan aspirin dan atorvastatin. Tekanan darah pasien adalah 155/95 mmHg. Dia tidak memiliki gejala angina aktif. Dokter ingin memulai terapi untuk menurunkan tekanan darah sekaligus mengurangi risiko kardiovaskular. Apa kombinasi terapi yang paling tepat untuk pasien ini?",
+    answer: "Bisoprolol + enalapril",
+    options: [
+      "Bisoprolol + amlodipin",
+      "Bisoprolol + enalapril",
+      "Amlodipin + losartan",
+      "Diltiazem + spironolakton",
+      "Furosemid + lisinopril"
+    ]
+  },
+  {
+    question: "Langkah awal paling tepat pada pasien hamil dengan preeklamsia berat adalah?",
+    answer: "Berikan magnesium sulfat untuk mencegah kejang dan antihipertensi segera",
+    options: [
+      "Observasi tanpa intervensi",
+      "Berikan metildopa",
+      "Berikan magnesium sulfat untuk mencegah kejang dan antihipertensi segera",
+      "Berikan ACE inhibitor",
+      "Segera lakukan persalinan tanpa terapi medis"
+    ]
+  },
+  {
+    question: "Antihipertensi yang direkomendasikan pada preeklamsia berat adalah?",
+    answer: "Nikardipin",
+    options: [
+      "Amlodipin",
+      "Lisinopril",
+      "Magnesium sulfat",
+      "Nikardipin",
+      "Atenolol"
+    ]
+  },
+  {
+    question: "Terapi obat pertama yang sebaiknya diberikan pada preeklamsia setelah usia kehamilan 20 minggu adalah?",
+    answer: "Nifedipin",
+    options: [
+      "Verapamil",
+      "Nifedipin",
+      "Lovastatin",
+      "Furosemid",
+      "Aspirin"
+    ]
+  },
+  {
+    question: "Seorang pasien dengan hipertensi dan diabetes mellitus tipe 2 menggunakan kombinasi amlodipin, hidroklorotiazid (HCT), dan metformin. Parameter laboratorium apa yang harus dimonitor secara berkala?",
+    answer: "Kreatinin",
+    options: [
+      "Kalium",
+      "Kalsium",
+      "Natrium",
+      "Kreatinin",
+      "Hemoglobin"
+    ]
+  },
+  {
+    question: "Seorang ibu hamil trimester ketiga mengalami tekanan darah 180/110 mmHg. Dokter mendiagnosis preeklamsia berat dan memulai terapi antihipertensi. Apa antihipertensi yang direkomendasikan untuk kondisi ini?",
+    answer: "Nikardipin",
+    options: [
+      "Nikardipin",
+      "Losartan",
+      "Furosemid",
+      "Hidroklortiazid",
+      "Propranolol"
+    ]
+  },
+  {
+    question: "Seorang pria berusia 55 tahun datang ke apotek untuk membeli pseudoephedrine sebagai dekongestan untuk mengatasi hidung tersumbat akibat flu. Pasien memiliki riwayat hipertensi yang saat ini sedang diobati dengan amlodipine. Apoteker mempertimbangkan risiko penggunaan pseudoephedrine pada pasien ini. Manakah pernyataan yang paling tepat mengenai pemberian pseudoephedrine pada pasien tersebut?",
+    answer: "Sebaiknya dihindari karena dapat meningkatkan tekanan darah",
+    options: [
+      "Dapat diberikan tanpa pengawasan",
+      "Aman dalam dosis tinggi",
+      "Sebaiknya dihindari karena dapat meningkatkan tekanan darah",
+      "Hanya boleh dengan antihistamin",
+      "Aman dengan MAOI"
+    ]
+  },
+  {
+    question: "Seorang pasien pria usia 60 tahun didiagnosis hipertensi esensial dan diberi terapi dengan kombinasi losartan dan spironolakton. Setelah satu bulan, hasil laboratorium menunjukkan kadar kalium 5,8 mmol/L (batas normal: 3,5-5,0 mmol/L). Obat apa yang kemungkinan besar menyebabkan hiperkalemia pada pasien ini?",
+    answer: "Valsartan",
+    options: [
+      "Amlodipin",
+      "Bisoprolol",
+      "Valsartan",
+      "Furosemid",
+      "Hidroklortiazid"
+    ]
+  },
+  {
+    question: "Seorang pria berusia 58 tahun dengan riwayat diabetes mellitus tipe 2 selama 12 tahun datang ke klinik untuk evaluasi fungsi ginjal. Pemeriksaan lab menunjukkan kadar albuminuria 120 mg/g dan laju filtrasi glomerulus (eGFR) 52 mL/min/1.73 m². Pasien saat ini mengonsumsi metformin dan memiliki riwayat hipertensi yang terkontrol dengan amlodipin. Dokter ingin memulai terapi yang dapat menurunkan progresivitas penyakit ginjal dan mengurangi proteinuria. Obat apakah yang paling direkomendasikan sebagai terapi lini pertama untuk kondisi pasien ini?",
+    answer: "Lisinopril",
+    options: [
+      "Amlodipin",
+      "Lisinopril",
+      "Furosemide",
+      "Dapagliflozin",
+      "Spironolactone"
+    ]
+  },
+  {
+    question: "Seorang pasien yang mengalami edema berat dan hipertensi diberikan resep furosemid oleh dokter. Apoteker diminta untuk memberikan informasi mengenai waktu yang tepat untuk mengonsumsi furosemid ?",
+    answer: "Pagi hari",
+    options: [
+      "Sebelum tidur",
+      "Pagi hari",
+      "Siang hari",
+      "Malam hari",
+      "Setelah makan malam"
+    ]
+  },
+
+
+
 
 
 
