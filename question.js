@@ -4343,18 +4343,775 @@ let questions = [
     options: ["Kolestipol", "Niasin", "Ezetimibe", "Gemfibrozil", "Fenofibrat"]
   },
 
+  {
+    "question": "Pasien terkena serangan angina diberikan nitrogliserin sublingual, tetapi pasien masih merasakan nyeri di dadanya, ternyata nitrogliserin sublingual tidak berefek pada pasien. Hal yang harus dilakukan?",
+    "answer": "Mengganti dengan injeksi nitrogliserin",
+    "options": [
+      "Mengganti dengan ISDN sublingual",
+      "Mengganti dengan nitrogliserin patch",
+      "Mengganti dengan ISDN retard oral",
+      "Mengganti dengan injeksi nitrogliserin",
+      "Dosis dinaikkan"
+    ]
+  },
+  {
+    "question": "Dokter memberikan obat warfarin kepada pasien. Tentukan pengujian lab yang penting untuk diamati pada pasien tersebut.",
+    "answer": "INR",
+    "options": [
+      "SGOT",
+      "Serum kreatinin",
+      "Protombin time",
+      "INR",
+      "BU"
+    ]
+  },
+  {
+    "question": "Hayley Bieber mengalami shock anafilaksis setelah mengkonsumsi penisilin untuk penyakit infeksi yang dideritanya. Pertolongan pertama yang diberikan kepada Hayley adalah?",
+    "answer": "Epinefrin",
+    "options": [
+      "Dobutamine",
+      "Epinefrin",
+      "Nalokson",
+      "NaCl 0,9 %",
+      "Glukosa 40%",
+      "Fentanyl"
+    ]
+  },
+  {
+    "question": "Seorang wanita tiba-tiba pingsan karena telah makan udang, dia mengalami bengkak pada muka khususnya bibir, mata dan sesak napas. Dokter mendiagnosa anafilatik syok. Terapi yang digunakan?",
+    "answer": "Epinefrin",
+    "options": [
+      "Salbutamol",
+      "Prednisone",
+      "Difenhidramin",
+      "Teofilin",
+      "Epinefrin"
+    ]
+  },
+  {
+    "question": "Pasien laki-laki usia 25 tahun dibawa ke IGD dengan kondisi syok anafilaktik. Pasien sudah diberikan epineferin dan salbutamol inhalasi namun tidak ada perbaikan. Diketahui pasien rutin mengkonsumsi propranolol. Apa obat yang tepat untuk mengatasi kondisi darurat tersebut?",
+    "answer": "Glukagon",
+    "options": [
+      "Dopamin",
+      "Norepinefrin",
+      "Glukagon",
+      "Cetirizine",
+      "Ranitidin"
+    ]
+  },
+  {
+    "question": "Terapi apa yang tepat untuk diberikan pada pasien dengan syok sepsis untuk meningkatkan tekanan darah dan perfusi organ?",
+    "answer": "Norepinefrin",
+    "options": [
+      "Dopamin",
+      "Norepinefrin",
+      "Adrenalin",
+      "Furosemid",
+      "Hidrokortison"
+    ]
+  },
+  {
+    "question": "Seorang pria berusia 45 tahun mengalami trauma abdominal dan menunjukkan tanda syok hemoragik (TD 80/50 mmHg). Apa strategi resusitasi cairan yang paling sesuai sebelum operasi?",
+    "answer": "Pemberian cairan kristaloid dalam aliquit kecil untuk mencapai tekanan arteri rata-rata (MAP) >60 mmHg",
+    "options": [
+      "Pemberian bolus 1 liter normal saline untuk meningkatkan tekanan darah",
+      "Pemberian cairan kristaloid dalam aliquit kecil untuk mencapai tekanan arteri rata-rata (MAP) >60 mmHg",
+      "Resusitasi cairan agresif dengan cairan hipertonik untuk memperbaiki perfusi organ",
+      "Hindari pemberian cairan hingga operasi selesai untuk kontrol sumber perdarahan",
+      "Pemberian cairan hipotoni untuk meminimalkan risiko hemodilusi"
+    ]
+  },
+  {
+    "question": "Seorang pasien laki-laki berumur 49 tahun mengalami sesak nafas dan tidak sadarkan diri setelah mengonsumsi udang. Apakah obat yang dapat diberikan kepada pasien tersebut?",
+    "answer": "Epinefrin",
+    "options": [
+      "Norepinefrin",
+      "Epinefrin",
+      "Nitrogliserin",
+      "Dopamin",
+      "Dobutamin"
+    ]
+  },
+  {
+    "question": "Seorang pasien pria berusia 60 tahun dengan riwayat jantung koroner mengalami kelelahan, penurunan BB, dan tremor setelah 6 bulan mengonsumsi obat jantung. Obat apa yang paling mungkin menyebabkan gangguan tiroid tersebut?",
+    "answer": "Amiodaron",
+    "options": [
+      "Digoxin",
+      "Bisoprolol",
+      "Amiodaron",
+      "Verapamil",
+      "Atorvastatin"
+    ]
+  },
+  {
+    "question": "Seorang pasien pria usia 65 tahun didiagnosis NSTEMI. Pasien memiliki riwayat hipertensi dan DM. Obat apa yang sebaiknya diberikan sebagai terapi awal?",
+    "answer": "Aspirin dan Klopidogrel",
+    "options": [
+      "Nitrat sublingual",
+      "Aspirin dan Klopidogrel",
+      "Streptokinase",
+      "Alteplase",
+      "Bisoprolol"
+    ]
+  },
+  {
+    "question": "Seorang bapak berumur 68 tahun menderita hipertensi dan mengonsumsi lisinopril, asetosal, warfarin, ISDN, dan omeprazol. Ia mengeluh sakit kepala dan trombosit turun. Interaksi obat apa yang paling mungkin menyebabkan hal tersebut?",
+    "answer": "Asetosal dan Warfarin",
+    "options": [
+      "Lisinopril dan ISDN",
+      "Warfarin dan Omeprazol",
+      "Asetosal dan Warfarin",
+      "Asetosal dan ISDN",
+      "Lisinopril dan Omeprazol"
+    ]
+  },
+  {
+    "question": "Pria 50 tahun mengalami kelemahan sisi tubuh dan penurunan penglihatan mendadak. CT Scan menunjukkan tidak ada pendarahan otak. Terapi obat yang harus diberikan adalah?",
+    "answer": "Alteplase",
+    "options": [
+      "Aspirin",
+      "Alteplase",
+      "Clopidogrel",
+      "Amlodipin",
+      "Atenolol"
+    ]
+  },
+  {
+    "question": "Dokter ingin memberikan antiplatelet yang efektif untuk pasien STEMI yang sedang dirawat. Apakah antiplatelet lini pertama yang tepat disarankan?",
+    "answer": "Aspirin",
+    "options": [
+      "Aspirin",
+      "Dispiridamol",
+      "Cilostazol",
+      "Prasugrel",
+      "Clopidogrel"
+    ]
+  },
+  {
+    "question": "Seorang pasien didiagnosis dengan Coronary Artery Disease (CAD) dan mengalami disfungsi ventrikel. Obat apa yang sesuai untuk mencegah remodeling jantung?",
+    "answer": "Metoprolol",
+    "options": [
+      "Metoprolol",
+      "Amlodipin",
+      "Losartan",
+      "Isosorbid dinitrat",
+      "Digoksin"
+    ]
+  },
+  {
+    "question": "Laki-laki usia 50 tahun membawa aspirin 100 mg dan menanyakan manfaatnya karena sebelumnya pernah minum dosis 500 mg. Apa informasi indikasi yang diberikan?",
+    "answer": "Pengencer darah",
+    "options": [
+      "Pengencer darah",
+      "Penurun demam",
+      "Pereda nyeri",
+      "Penurun tekanan darah",
+      "Pereda bengkak"
+    ]
+  },
+  {
+    "question": "Seorang pasien laki-laki berumur 50 tahun didiagnosis terkena angina dengan riwayat hiperkolesterol. Obat apa yang tepat diberikan untuk mengatasi serangan akut tersebut?",
+    "answer": "Isosorbid dinitrat",
+    "options": [
+      "Isosorbid dinitrat",
+      "Bisoprolol",
+      "Nikardipin",
+      "Clopidogrel",
+      "Verapamil"
+    ]
+  },
 
+  {
+    "question": "Wanita umur 53 tahun didiagnosa coronary acute syndrome (STEMI) dan diberikan fondaparinux selama 5 hari. Parameter apa yang harus diperhatikan selama mengkonsumsi obat tersebut?",
+    "answer": "Fungsi ginjal",
+    "options": [
+      "Nyeri dada",
+      "Tekanan darah",
+      "Fungsi ginjal",
+      "Saturasi oksigen",
+      "Waktu pendarahan"
+    ]
+  },
+  {
+    "question": "Seorang pria didiagnosa stroke iskemik dan diberikan alteplase IV 2,5 jam setelah gejala muncul. Bagaimana mekanisme kerja obat tersebut?",
+    "answer": "Fibrinolitik",
+    "options": [
+      "Antinyeri",
+      "Antirombolitik",
+      "Antiplatelet",
+      "Fibrinolitik",
+      "Antikoagulan"
+    ]
+  },
+  {
+    "question": "Pasien wanita 46 tahun menggunakan warfarin untuk stroke. Apoteker memonitor nilai INR. Apa interpretasi nilai INR jika di atas nilai normal?",
+    "answer": "Risiko terjadi pendarahan karena darah terlalu encer",
+    "options": [
+      "Risiko terjadi asidosis metabolik",
+      "Risiko terjadi tromboemboli",
+      "Risiko terjadi pendarahan karena darah terlalu encer",
+      "Risiko terjadi pengentalan darah",
+      "Risiko terjadi rhabdomyolisis"
+    ]
+  },
+  {
+    "question": "Seorang pasien laki-laki didiagnosa mengalami NSTEMI (Non-ST Segment Elevation Myocardial Infarction). Terapi awal apa yang harus diberikan untuk mengatasi nyeri dada akut?",
+    "answer": "Nitrogliserin sublingual",
+    "options": [
+      "Alteplase",
+      "Isosorbid mononitrat",
+      "Amlodipin",
+      "Nitrogliserin sublingual",
+      "Bisoprolol"
+    ]
+  },
+  {
+    "question": "Pria 46 tahun mengalami syok hemodinamik dengan hipotensi dan low cardiac output. Obat apa yang termasuk agen inotropik dengan efek pada neuron adrenergik?",
+    "answer": "Dobutamin",
+    "options": [
+      "Deksametason",
+      "Atropin sulfat",
+      "Furosemid",
+      "Dobutamin",
+      "Nikardipin"
+    ]
+  },
+  {
+    "question": "Pasien PJK dengan kolesterol normal menanyakan urgensi penggunaan simvastatin. Sebagai apoteker, apa tindakan yang paling tepat?",
+    "answer": "Menjelaskan simvastatin digunakan untuk mencegah kekambuhan PJK",
+    "options": [
+      "Menjelaskan simvastatin digunakan untuk mencegah kekambuhan PJK",
+      "Menghentikan simvastatin karena kadar kolesterol normal",
+      "Menghentikan simvastatin dan mengubah pola hidup",
+      "Mengganti simvastatin dengan omega 3",
+      "Menyuruh pasien kembali ke dokter untuk meminta penjelasan kegunaan simvastatin"
+    ]
+  },
+  {
+    "question": "Seorang pasien laki-laki didiagnosa menderita Syndroma Koroner Akut (SKA). Terapi kombinasi apa yang perlu direkomendasikan?",
+    "answer": "Asam salisilat dan nitrat",
+    "options": [
+      "Furosemid dan RTPA",
+      "rTPA dan asan salisilat",
+      "RTA dan propanolol",
+      "Propanolol dan Nifedipin",
+      "Asam salisilat dan nitrat"
+    ]
+  },
+  {
+    "question": "Pasien 73 tahun dengan riwayat hipertensi dan diabetes mengeluh sesak napas dan jantung berdebar. Pengobatan pertama untuk mengurangi sesak napas (edema paru pada gagal jantung) adalah?",
+    "answer": "ISDN sublingual",
+    "options": [
+      "ISDN sublingual",
+      "Bisoprolol",
+      "Atorvastatin",
+      "Candesartan",
+      "Injeksi manitol"
+    ]
+  },
+  {
+    "question": "Pasien mengonsumsi klopidogrel dan omeprazole secara bersamaan. Bagaimana dampak interaksi obat yang terjadi?",
+    "answer": "Efektivitas klopidogrel berkurang",
+    "options": [
+      "Efektivitas klopidogrel berkurang",
+      "Efektivitas klopidogrel bertambah",
+      "Efektivitas omeprazole meningkat",
+      "Efektivitas omeprazole berkurang",
+      "Semua efektivitas obat tetap"
+    ]
+  },
+  {
+    "question": "Pasien diberikan terapi akarbosa dan digoksin. Apa interaksi obat yang dihasilkan?",
+    "answer": "Penurunan konsentrasi serum digoksin oleh akarbosa",
+    "options": [
+      "Penurunan konsentrasi serum digoksin oleh akarbosa",
+      "Penurunan konsentrasi serum akarbose oleh digoksin",
+      "Peningkatan konsentrasi serum digoksin oleh akarbosa",
+      "Peningkatan konsentrasi serum akarbosa oleh digoksin",
+      "Peningkatan absorbsi digoksin"
+    ]
+  },
+  {
+    "question": "Seorang pasien stroke iskemik diberikan manitol 0,25 g/kgBB. Bagaimana mekanisme kerja manitol?",
+    "answer": "Menurunkan tekanan intrakranial",
+    "options": [
+      "Menghentikan pendarahan",
+      "Pengendalian kejang",
+      "Menurunkan tekanan intrakranial",
+      "Stabilisasi jalan napas",
+      "Pengendalian gula darah"
+    ]
+  },
+  {
+    "question": "Pasien syok kardiogenik dengan TD <70 mmHg dan SVR tinggi membutuhkan vasopresor. Obat apa yang sebaiknya diberikan?",
+    "answer": "Norepinefrin",
+    "options": [
+      "Dopamin",
+      "Dobutamin",
+      "Epinefrin",
+      "Norepinefrin",
+      "Katekolamin"
+    ]
+  },
+  {
+    "question": "Seorang pasien pria masuk IGD dengan diagnosa serangan angina akut. Pilihan terapi lini pertama untuk meredakan nyeri dada adalah?",
+    "answer": "Nitrat",
+    "options": [
+      "ARB",
+      "ACEI",
+      "Beta bloker",
+      "CCB",
+      "Nitrat"
+    ]
+  },
+  {
+    "question": "Wanita hamil 2 bulan dengan kadar D-dimer tinggi membutuhkan antikoagulan yang aman. Obat apa yang tepat direkomendasikan?",
+    "answer": "Heparin",
+    "options": [
+      "Fondaparinux",
+      "Enoksaparin",
+      "Heparin",
+      "Warfarin",
+      "Dabigatran"
+    ]
+  },
+  {
+    "question": "Pasien mengalami nyeri dada dan memiliki intoleransi terhadap aspirin. Dokter ingin memberikan antagonis reseptor adenosin difosfat (ADP). Obat apa yang dimaksud?",
+    "answer": "Clopidogrel",
+    "options": [
+      "Nitrogliserin",
+      "Clopidogrel",
+      "Isosorbid mononitrat",
+      "Asetosal",
+      "Heparin"
+    ]
+  },
+  {
+    "question": "Pasien laki-laki 50 tahun mengalami STEMI (ST-Elevation Myocardial Infarction). Terapi awal untuk dilatasi pembuluh darah koroner adalah?",
+    "answer": "ISDN",
+    "options": [
+      "Aspirin",
+      "Propanolol",
+      "Clopidogrel",
+      "Ticagrelor",
+      "ISDN"
+    ]
+  },
 
+  {
+    "question": "Wanita umur 53 tahun didiagnosa coronary acute syndrome (STEMI) dan diberikan fondaparinux selama 5 hari. Parameter apa yang harus diperhatikan selama mengkonsumsi obat tersebut?",
+    "answer": "Fungsi ginjal",
+    "options": [
+      "Nyeri dada",
+      "Tekanan darah",
+      "Fungsi ginjal",
+      "Saturasi oksigen",
+      "Waktu pendarahan"
+    ]
+  },
+  {
+    "question": "Seorang pria didiagnosa stroke iskemik dan diberikan alteplase IV 2,5 jam setelah gejala muncul. Bagaimana mekanisme kerja obat tersebut?",
+    "answer": "Fibrinolitik",
+    "options": [
+      "Antinyeri",
+      "Antirombolitik",
+      "Antiplatelet",
+      "Fibrinolitik",
+      "Antikoagulan"
+    ]
+  },
+  {
+    "question": "Pasien wanita 46 tahun menggunakan warfarin untuk stroke. Apoteker memonitor nilai INR. Apa interpretasi nilai INR jika di atas nilai normal?",
+    "answer": "Risiko terjadi pendarahan karena darah terlalu encer",
+    "options": [
+      "Risiko terjadi asidosis metabolik",
+      "Risiko terjadi tromboemboli",
+      "Risiko terjadi pendarahan karena darah terlalu encer",
+      "Risiko terjadi pengentalan darah",
+      "Risiko terjadi rhabdomyolisis"
+    ]
+  },
+  {
+    "question": "Seorang pasien laki-laki didiagnosa mengalami NSTEMI (Non-ST Segment Elevation Myocardial Infarction). Terapi awal apa yang harus diberikan untuk mengatasi nyeri dada akut?",
+    "answer": "Nitrogliserin sublingual",
+    "options": [
+      "Alteplase",
+      "Isosorbid mononitrat",
+      "Amlodipin",
+      "Nitrogliserin sublingual",
+      "Bisoprolol"
+    ]
+  },
+  {
+    "question": "Pria 46 tahun mengalami syok hemodinamik dengan hipotensi dan low cardiac output. Obat apa yang termasuk agen inotropik dengan efek pada neuron adrenergik?",
+    "answer": "Dobutamin",
+    "options": [
+      "Deksametason",
+      "Atropin sulfat",
+      "Furosemid",
+      "Dobutamin",
+      "Nikardipin"
+    ]
+  },
+  {
+    "question": "Pasien PJK dengan kolesterol normal menanyakan urgensi penggunaan simvastatin. Sebagai apoteker, apa tindakan yang paling tepat?",
+    "answer": "Menjelaskan simvastatin digunakan untuk mencegah kekambuhan PJK",
+    "options": [
+      "Menjelaskan simvastatin digunakan untuk mencegah kekambuhan PJK",
+      "Menghentikan simvastatin karena kadar kolesterol normal",
+      "Menghentikan simvastatin dan mengubah pola hidup",
+      "Mengganti simvastatin dengan omega 3",
+      "Menyuruh pasien kembali ke dokter untuk meminta penjelasan kegunaan simvastatin"
+    ]
+  },
+  {
+    "question": "Seorang pasien laki-laki berumur 55 tahun, tinggi badan 165 cm, BB 65 kg, datang ke rumah sakit dengan keluhan mudah lelah dan nyeri dada sebelah kiri. Didiagnosa pasien menderita syndroma koroner akut (SKA). Obat apa yang perlu direkomendasikan?",
+    "answer": "rTPA dan asan salisilat",
+    "options": [
+      "Furosemid dan RTPA",
+      "rTPA dan asan salisilat",
+      "RTA dan propanolol",
+      "Propanolol dan Nifedipin",
+      "Asam salisilat dan nitrat"
+    ]
+  },
+  {
+    "question": "Pasien 73 tahun dengan riwayat hipertensi dan diabetes mengeluh sesak napas dan jantung berdebar. Pengobatan pertama untuk mengurangi sesak napas (edema paru pada gagal jantung) adalah?",
+    "answer": "ISDN sublingual",
+    "options": [
+      "ISDN sublingual",
+      "Bisoprolol",
+      "Atorvastatin",
+      "Candesartan",
+      "Injeksi manitol"
+    ]
+  },
+  {
+    "question": "Pasien mengonsumsi klopidogrel dan omeprazole secara bersamaan. Bagaimana dampak interaksi obat yang terjadi?",
+    "answer": "Efektivitas klopidogrel berkurang",
+    "options": [
+      "Efektivitas klopidogrel berkurang",
+      "Efektivitas klopidogrel bertambah",
+      "Efektivitas omeprazole meningkat",
+      "Efektivitas omeprazole berkurang",
+      "Semua efektivitas obat tetap"
+    ]
+  },
+  {
+    "question": "Pasien diberikan terapi akarbosa dan digoksin. Apa interaksi obat yang dihasilkan?",
+    "answer": "Penurunan konsentrasi serum digoksin oleh akarbosa",
+    "options": [
+      "Penurunan konsentrasi serum digoksin oleh akarbosa",
+      "Penurunan konsentrasi serum akarbose oleh digoksin",
+      "Peningkatan konsentrasi serum digoksin oleh akarbosa",
+      "Peningkatan konsentrasi serum akarbosa oleh digoksin",
+      "Peningkatan absorbsi digoksin"
+    ]
+  },
+  {
+    "question": "Seorang pasien stroke iskemik diberikan manitol 0,25 g/kgBB. Bagaimana mekanisme kerja manitol?",
+    "answer": "Menurunkan tekanan intrakranial",
+    "options": [
+      "Menghentikan pendarahan",
+      "Pengendalian kejang",
+      "Menurunkan tekanan intrakranial",
+      "Stabilisasi jalan napas",
+      "Pengendalian gula darah"
+    ]
+  },
+  {
+    "question": "Pasien syok kardiogenik dengan TD <70 mmHg dan SVR tinggi membutuhkan vasopresor. Obat apa yang sebaiknya diberikan?",
+    "answer": "Dobutamin",
+    "options": [
+      "Dopamin",
+      "Dobutamin",
+      "Epinefrin",
+      "Norepinefrin",
+      "Katekolamin"
+    ]
+  },
+  {
+    "question": "Seorang pasien pria masuk IGD dengan diagnosa serangan angina akut. Pilihan terapi lini pertama untuk meredakan nyeri dada adalah?",
+    "answer": "Nitrat",
+    "options": [
+      "ARB",
+      "ACEI",
+      "Beta bloker",
+      "CCB",
+      "Nitrat"
+    ]
+  },
+  {
+    "question": "Wanita hamil 2 bulan dengan kadar D-dimer tinggi membutuhkan antikoagulan yang aman. Obat apa yang tepat direkomendasikan?",
+    "answer": "Enoksaparin",
+    "options": [
+      "Fondaparinux",
+      "Enoksaparin",
+      "Heparin",
+      "Warfarin",
+      "Dabigatran"
+    ]
+  },
+  {
+    "question": "Pasien mengalami nyeri dada dan memiliki intoleransi terhadap aspirin. Dokter ingin memberikan antagonis reseptor adenosin difosfat (ADP). Obat apa yang dimaksud?",
+    "answer": "Clopidogrel",
+    "options": [
+      "Nitrogliserin",
+      "Clopidogrel",
+      "Isosorbid mononitrat",
+      "Asetosal",
+      "Heparin"
+    ]
+  },
+  {
+    "question": "Pasien laki-laki 50 tahun mengalami STEMI (ST-Elevation Myocardial Infarction). Terapi awal untuk dilatasi pembuluh darah koroner adalah?",
+    "answer": "Aspirin",
+    "options": [
+      "Aspirin",
+      "Propanolol",
+      "Clopidogrel",
+      "Ticagrelor",
+      "ISDN"
+    ]
+  },
+
+  {
+    "question": "Pria didiagnosa unstable angina. Terapi yang didapatkan heparin. Apoteker akan melakukan data objektif. Parameter data objektif apa yang dipantau?",
+    "answer": "aPTT",
+    "options": [
+      "HR",
+      "INR",
+      "aPTT",
+      "AST/ALT",
+      "TIBC, TD, RR"
+    ]
+  },
+  {
+    "question": "Pasien mengeluh nyeri dada pada dada kiri yang menjalar sampai ke leher, pundak dan sekitarnya. Obat yang tepat diberikan kepada pasien adalah",
+    "answer": "Nitrogliserin",
+    "options": [
+      "Clopidogrel",
+      "Amlodipin",
+      "Verapamil",
+      "Nitrogliserin",
+      "Aspirin"
+    ]
+  },
+  {
+    "question": "Syok kardiogenik dengan TD 60 mmHg dengan gejala shock, diberikan terapi?",
+    "answer": "Norepinefrin",
+    "options": [
+      "Norepinefrin",
+      "Dopamin",
+      "Atropin",
+      "Dobutamin",
+      "MgSO4"
+    ]
+  },
+  {
+    "question": "Seorang pasien dilarikan ke UGD mengalami bengkak. Pasien menderita gagal jantung dan dokter mendiagnosis terkena syok kardiogenik. Terapi apa yang tepat untuk diberikan kepada pasien?",
+    "answer": "Norepinefrin",
+    "options": [
+      "Norepinefrin",
+      "Digoksin",
+      "Hidralazin",
+      "Atropin sulfat",
+      "Ringer laktat"
+    ]
+  },
+  {
+    "question": "Obat antiaritmia yang bekerja pada kanal kalium",
+    "answer": "Amiodaron",
+    "options": [
+      "Lidokain",
+      "Mexiletine",
+      "Beta bloker",
+      "Amiodaron",
+      "Verapamil"
+    ]
+  },
+  {
+    "question": "Mekanisme kerja obat verapamil",
+    "answer": "Blokade kanal kalsium",
+    "options": [
+      "Blokade kanal kalium",
+      "Blokade kanal kalsium",
+      "Beta bloker",
+      "Alfa bloker",
+      "Antikoagulan"
+    ]
+  },
+  {
+    "question": "Seorang perempuan (25 th) menderita sindrom koroner akut dan dirawat di IGD dengan pemberian terapi nitrogliserin sublingual. Nyeri dadanya masih dirasakan pasien sudah menggunakan nitrogliserin IV. Terapi tambahan apa yang digunakan untuk pasien mengurangi nyeri pada pasien?",
+    "answer": "Morfin",
+    "options": [
+      "Saturasi Oksigen",
+      "ISDN sublingual",
+      "Morfin",
+      "Aspilet",
+      "Alteplase"
+    ]
+  },
+  {
+    "question": "seorang pasien berumur 50 tahun menderita penyakit kongesif dan diberikan tearpi warfarin. pasien juga kesulitan untuk tidur dan dokter memberikan fenobarbital ternyata pasien keadaannya tidak membaik terjadi penumpukan thrombus di pembuluh jantungnya. mekanisme interaksi yang pontensial terjadi?",
+    "answer": "Percepatan metabolisme",
+    "options": [
+      "Pergeseran ikatan protein plasma",
+      "Penghambat filtrasi glomerulus",
+      "Penghambat absorbsi",
+      "Percepatan metabolisme",
+      "Penghambat ekskresi renal"
+    ]
+  },
+  {
+    "question": "Untuk Deep Vein Thrombosis dengan D-Dimer 3000 mg/L, yang lebih disarankan apa?",
+    "answer": "Heparin",
+    "options": [
+      "Heparin",
+      "Warfarin",
+      "Klopidogrel",
+      "Aspirin",
+      "Fondaparinux"
+    ]
+  },
+  {
+    "question": "Seorang pasien berusia 40 tahun datang ke IGD dengan keluhan nyeri dada hilang timbul, hasil EKG dan Troponin menunjukkan gambaran normal, dokter mendiagnosa angina stabil, pasien memiliki riwayat Hipertensi dan Diabetes 10 tahun terakhir. TD 140/100, Glukosa darah sewaktu 300 mg/dl. Antitrombik apakah yang cocok untuk pasien ini adalah?",
+    "answer": "Klopidogrel",
+    "options": [
+      "Heparin",
+      "Enoxaparin",
+      "Fundaparinox",
+      "Warfarin",
+      "Klopidogrel"
+    ]
+  },
+  {
+    "question": "Pasien terkena serangan angina diberikan nitrogliserin sublingual, tetapi pasien masih merasakan nyeri di dadanya, ternyata nitrogliserin sublingual tidak berefek pada pasien. Hal yang harus dilakukan adalah",
+    "answer": "Mengganti dengan injeksi nitrogliserin",
+    "options": [
+      "Mengganti dengan ISDN sublingual",
+      "Mengganti dengan nitrogliserin patch",
+      "Mengganti dengan ISDN retard oral",
+      "Mengganti dengan injeksi nitrogliserin",
+      "Dosis dinaikkan"
+    ]
+  },
+  {
+    "question": "Pria berusia 48 tahun datang kerumah sakit dengan keluhan sakit kepala dan pusing berat. sebelumnya dia telah di diagnosis pre myocardial infarction dan diberi terapi amlodipin 1x10mg, lisinopril 1x5mg, bisoprolol 1x10mg, ISDN 3x5mg, dan simvastatin 1x20mg. obat apa yang menyebabkan pria tersebut sakit kepala?",
+    "answer": "ISDN",
+    "options": [
+      "Captopril",
+      "Lisinopril",
+      "Bisoprolol",
+      "ISDN",
+      "Simvastatin"
+    ]
+  },
+  {
+    "question": "Seorang pasien berusia 46 thn datang ke IGD dengan keluhan gejala hipotensi dan low cardiac output. Dokter mendiagnosa syok kardiogenik. Dokter meminta terapi obat inotropik dgn efek neuron adrenergik. Obat apa yg tepat utk direkomendasikan?",
+    "answer": "Dobutamin",
+    "options": [
+      "Dexamethasone",
+      "Atropin sulfat",
+      "Furosemid",
+      "Dobutamin",
+      "Nikardipin"
+    ]
+  },
+  {
+    "question": "Seorang pasien laki-laki berusia 60 tahun mengeluhkan nyeri dada menjalar ke bahu, pasien diketahui telah menkonsumsi obat kuat sildenafil, dokter mendiagnosa angina pectoris, obat yang kontraindikasi untuk pasien adalah",
+    "answer": "Nitrogliserin",
+    "options": [
+      "Bisoprolol",
+      "Diltiazem",
+      "Amlodipin",
+      "Nitrogliserin",
+      "Lisinopril"
+    ]
+  },
+  {
+    "question": "Seorang pasien 60 tahun mengeluhkan sakit pada bagian dada, dokter memberikan heparin secara iv dengan dosis 70 ucg/KgBB, pasien memiliki riwayat pemasangan ring pada pembuluh jantung. Setelah beberapa hari pasien mengalami efek samping penggunaan heparin. Efek samping apa yang terajdi?",
+    "answer": "Trombositopenia",
+    "options": [
+      "Myalgia",
+      "Trombositopenia",
+      "Tromboemboli",
+      "Ulcerasi",
+      "Tremor"
+    ]
+  },
+  {
+    "question": "Seorang pasien dengan stroke iskemik yang dirawat di rumah sakit diberikan heparin sebagai antikoagulan profilaksis. Parameter mana yang perlu dimonitoring?",
+    "answer": "aPTT",
+    "options": [
+      "Hb",
+      "aPTT",
+      "LED",
+      "INR",
+      "PT"
+    ]
+  },
+  {
+    "question": "Seorang wanita berusia 35 tahun, hamil 30 minggu, didiagnosa kemungkinan besar adanya emboli paru. Sedang terjadi kelangkaan stok LMWH. Manakah pilihan terapi alternatif paling tepat untuk pasien ini?",
+    "answer": "Unfractionated heparin (UFH)",
+    "options": [
+      "Warfarin",
+      "Unfractionated heparin (UFH)",
+      "Rivaroxaban",
+      "Dabigatran",
+      "Fondaparinux"
+    ]
+  },
+  {
+    "question": "Apa alasan utama fondaparinux menjadi pilihan antikoagulan yang tepat untuk pasien NSTE-ACS dengan risiko tinggi perdarahan?",
+    "answer": "Fondaparinux tidak membutuhkan pemantauan terapi dan memiliki risiko perdarahan yang lebih rendah",
+    "options": [
+      "Fondaparinux memiliki efikasi yang lebih tinggi dibandingkan enoxaparin pada NSTE-ACS",
+      "Fondaparinux tidak membutuhkan pemantauan terapi dan memiliki risiko perdarahan yang lebih rendah",
+      "Fondaparinux lebih efektif dibandingkan unfractionated heparin (UFH) pada STEMI",
+      "Fondaparinux mengurangi risiko trombosis kateter dibandingkan dengan UFH pada PCI",
+      "Fondaparinux telah terbukti lebih baik dalam semua populasi ACS dibandingkan LMWH"
+    ]
+  },
+  {
+    "question": "Seorang pasien dengan diagnosis DVT (Deep Vein Thrombosis) diberikan terapi antikoagulan fondaparinux. Parameter apa yang perlu dimonitor selama penggunaan fondaparinux?",
+    "answer": "Kreatinin",
+    "options": [
+      "INR",
+      "aPTT",
+      "Hb",
+      "PT",
+      "Kreatinin"
+    ]
+  },
+  {
+    "question": "Pasien fibrilasi atrium pengguna warfarin mengalami mimisan dan INR sebesar 5,0. Tindakan utama apa yang sebaiknya dilakukan?",
+    "answer": "Menghentikan warfarin sementara dan memberikan vitamin K",
+    "options": [
+      "Menghentikan warfarin sementara dan memberikan vitamin K",
+      "Menurunkan dosis warfarin tanpa intervensi lain",
+      "Memberikan plasma beku segar untuk mengontrol pendarahan",
+      "Menghentikan warfarin sepenuhnya dan mengganti dengan aspirin",
+      "Melanjutkan dosis warfarin yang sama sambil memantau INR"
+    ]
+  },
+  {
+    "question": "Seorang wanita berusia 52 tahun yang mengonsumsi obat CCB dihidropiridin mengeluhkan pembengkakan pada kakinya. Manakah yang tepat untuk menggantikan obat pasien dan mengatasi pembengkakan?",
+    "answer": "Enalapril",
+    "options": [
+      "Enalapril",
+      "Amlodipin",
+      "Hidroklortiazid",
+      "Diltiazem",
+      "Spironolakton"
+    ]
+  },
 
 
 
 
 
 ///END KARDIOVASKULAR
-
-
-
-
 
 ];
 
