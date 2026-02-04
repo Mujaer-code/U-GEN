@@ -95,20 +95,20 @@ function showQuestions(index) {
   option.forEach((el, i) => {
     el.setAttribute('onclick', 'optionSelected(this)');
 
-    // 1. Ambil jawaban yang pernah disimpan untuk soal ini
+  
     const jawabanDulu = userAnswers[index];
-    // 2. Ambil teks opsi yang sedang dilooping ini
+
     const teksOpsi = el.innerText.trim();
-    // 3. Ambil jawaban yang benar dari database
+
     const jawabanBenar = questions[qIndex].answer.trim();
 
-    // 4. LOGIKA WARNA ULANG:
+
     if(jawabanDulu === teksOpsi) {
-      // Jika opsi ini adalah yang dipilih user dulu...
+   
       if(teksOpsi === jawabanBenar) {
-        el.classList.add('correct'); // Kasih warna hijau jika benar
+        el.classList.add('correct'); 
       } else {
-        el.classList.add('incorrect'); // Kasih warna merah jika salah
+        el.classList.add('incorrect');
       }
     }
   });
@@ -133,7 +133,6 @@ function optionSelected(answer) {
     if (questionCount < questions.length - 1) {
       questionCount++; // Pindah ke soal berikutnya
       showQuestions(questionCount);
-      updateProgress();
     } else {
       showResultBox(); // **Tampilkan hasil jika semua soal terjawab**
     }
@@ -155,7 +154,6 @@ nextBtn.onclick = () => {
     updateProgress();
     oneMinute();
   }
-  // ... sisanya
 }
 
 prevBtn.onclick = () => {

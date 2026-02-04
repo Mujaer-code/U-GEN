@@ -5849,7 +5849,7 @@ let questions = [
       "Efek kumulatif seluruh ARV"
     ]
   },
-  
+
   {
     "question": "Seorang ODHA laki-laki 52 tahun dengan riwayat osteoporosis dan hipertensi terkontrol menjalani terapi ARV berbasis Tenofovir, Emtricitabine, dan Efavirens selama 4 tahun. Pasien datang tanpa keluhan spesifik, namun hasil evaluasi rutin menunjukkan penurunan signifikan densitas mineral tulang dibandingkan tahun sebelumnya. Tidak ditemukan gangguan fungsi ginjal maupun kelainan elektrolit bermakna. Obat manakah yang paling berkontribusi terhadap temuan tersebut?",
     "answer": "Tenofovir",
@@ -6203,9 +6203,807 @@ let questions = [
     ]
   },
 
+///END HIV
 
+///START MATA HIDUNG
+  {
+    question: "Seorang paisen glaukoma diberikan resep berisi obat Latanoprost. Bagaimana mekanisme kerja latanoprost?",
+    answer: "Meningkatkan outflow uveosderal",
+    options: ["Meningkatkan tekanan intraokular", "Mengurangi outflow uveosderal", "Meningkatkan outflow uveosderal", "Menurunkan produksi akuos mata", "Meningkatkan produksi akuos mata"]
+  },
+  {
+    question: "Seorang pasien glaukoma mendapatkan resep timolol. Ia kemdian bertanya kepada apoteker terkait obat yang didapatkannya tersebut. Bagaimana mekanisme kerja dari timolol pada pasien dengan glaukoma?",
+    answer: "Menurunkan produksi akuos",
+    options: ["Menurunkan produksi akuos", "Kontraksi pupils", "Meningkatkan tekanan intraokular", "Meningkatkan produk akuos", "Meningkatkan tekanan osmosis"]
+  },
+  {
+    question: "Seorang pasien datang ke apotek dengan keluhan mata kering dan telah diberi resep tetes mata dengan kemasan multidose (berpengawet) oleh dokter. Apoteker memberikan informasi mengenai jangka waktu penggunaan obat tetes mata setelah kemasan dibuka. Berapa lama obat tetes mata tersebut dapat digunakan setelah kemasan pertama kali dibuka?",
+    answer: "28 hari",
+    options: ["28 hari", "14 hari", "7 hari", "3 hari", "1 hari"]
+  },
+  {
+    question: "Seorang pasien datang ke apotek dengan keluhan mata lelah dan terasa kering karena sering bekerja di depan layar komputer. Obat tetes mata apa yang tepat direkomendasikan?",
+    answer: "Hidroksipropil metilselulosa",
+    options: ["Oxymetazolin", "Hidroksipropil metilselulosa", "Dexamethasone", "Kloramfenikol", "Olopatadin"]
+  },
+  {
+    question: "Apa efek samping yang khas dapat terjadi dari pemakaian latanoprost?",
+    answer: "Hipertrikosis",
+    options: ["Bronkospasm", "Hipertrikosis", "Renal calculi", "Bradikardia", "Konjungtivitis"]
+  },
+  {
+    question: "Manakah sediaan antihistamin yang paling sesuai untuk terapi gatal, merah, dan berair pada mata akibat alergi?",
+    answer: "Olopatadine",
+    options: ["Diphenhydramine", "Loratadine", "Azelastine", "Olopatadine", "Cetirizine"]
+  },
+  {
+    question: "Antihistamin apa yang paling aman untuk pasien dengan riwayat BPH dan Glaukoma?",
+    answer: "Fexofenadine",
+    options: ["Dipenhidramin", "Klorpromazin", "Fexofenadine", "Hydroxyzine", "Promethazine"]
+  },
+  {
+    question: "Seorang pasien pria berusia 45 tahun datang ke apotek dengan keluhan rinitis alergi. Pasien tersebut memiliki riwayat hipertensi dan glaukoma. Antihistamin mana yang paling aman untuk pasien tersebut?",
+    answer: "Loratadine",
+    options: ["Diphenhydramine", "Chlorpheniramine", "Hydroxyzine", "Loratadine", "Promethazine"]
+  },
+  {
+    question: "Obat glaukoma apakah yang aman diberikan untuk wanita hamil (Kategori B)?",
+    answer: "Brimonidin",
+    options: ["Brimonidin", "Manitol", "Acetazolamid", "Latanoprost", "Pilokarpin 2%"]
+  },
+  {
+    question: "Sebagai pencegahan pada bayi yang lahir dari ibu penderita gonorrhea, dokter meresepkan antibiotik:",
+    answer: "eritromisin",
+    options: ["cefixime", "doksisiklin", "doksisiklin + eritromisin", "eritromisin", "klindamisin"]
+  },
+  {
+    question: "Seorang pasien baru-baru ini didiagnosis menderita glaukoma sudut terbuka primer dan memiliki riwayat bronkospasme. Apa pilihan terapi awal yang paling tepat untuk pasien ini?",
+    answer: "Latanoprost",
+    options: ["Timolol", "Latanoprost", "Brimonidine", "Acetazolamide", "Levobunolol"]
+  },
+  {
+    question: "Seorang pasien dengan glaukoma sudut terbuka sedang diobati dengan latanoprost, tetapi tekanan intraokularnya masih tinggi. Dokter ingin menambahkan obat lain. Obat manakah yang paling tepat dikombinasikan dengan latanoprost?",
+    answer: "Timolol",
+    options: ["Pilocarpine", "Timolol", "Brimonidine", "Dorzolamide", "Betaxolol"]
+  },
+  {
+    question: "Hidung tersumbat yang diobati dengan Oksimetazolin lebih dari 3 hari dapat menyebabkan efek samping:",
+    answer: "Rhinitis Medikamentosa",
+    options: ["Candidiasis", "Mulut kering", "Hipotensi", "Mengantuk", "Rhinitis Medikamentosa"]
+  },
+  {
+    question: "Apa komponen obat batuk dan pilek yang dapat meningkatkan tekanan darah pada pasien hipertensi?",
+    answer: "Pseudoefedrin",
+    options: ["Dextrometorfan", "Pseudoefedrin", "Guaifenesin", "Difenhidramin", "Bromheksin"]
+  },
+  {
+    question: "Seorang pasien mengeluh rinitis alergi dan sedang mengonsumsi antihistamin yang menyebabkan kantuk dan mulut kering. Antihistamin mana yang tepat disarankan untuk mengganti obat tersebut?",
+    answer: "Desloratadin",
+    options: ["Triprolidin", "Azelastine", "Desloratadin", "Hydroxyzine", "Klemastin"]
+  },
+  {
+    question: "Bagaimana mekanisme kerja pseudoefedrin dalam menyebabkan efek samping peningkatan tekanan darah?",
+    answer: "Agonis alfa-1 adrenergik untuk vasokonstriksi",
+    options: ["Agonis selektif pada reseptro beta-2 adrenergik", "Agonis alfa-1 adrenergik untuk vasokonstriksi", "Antagonis alfa-2 adrenergik untuk meningkatkan pelepasan norepinefrin", "Agonis muskarinik untuk meningkatkan kontraksi vaskular", "Antagonis beta-1 adrenergik untuk memperlambat denyut jantung"]
+  },
+  {
+    question: "Seorang pasien yang mengonsumsi antidepresan fenelzin (MAOI) diberikan pseudoephedrine untuk mengobati kongesti hidung. Apa interaksi yang dikhawatirkan?",
+    answer: "Berisiko menyebabkan reaksi hipertensi berat",
+    options: ["Mengurangi efektivitas fenelzin", "Meningkatkan risiko sedasi", "Berisiko menyebabkan reaksi hipertensi berat", "Menyebabkan hipotensi mendadak", "Menurunkan detak jantung"]
+  },
+  {
+    question: "Bagaimana mekanisme kerja cromolyn sodium dalam pengelolaan rinitis alergi?",
+    answer: "Menghambat pelepasan histamin dari sel mast melalui stabilisasi membran sel mast",
+    options: ["Menghambat pelepasan histamin dari sel mast melalui stabilisasi membran sel mast", "Menghambat aktivitas reseptor H1", "Memblok reseptor a-adrenergik", "Menstimulasi aktivitas B2-adrenergik", "Mengurangi produksi lendir dengan efek antikolinergik"]
+  },
+  {
+    question: "Bagaimana mekanisme aksi pseudoephedrine dalam meredakan kongesti hidung?",
+    answer: "Merangsang reseptor a-adrenergik pada mukosa hidung, menyebabkan vasokonstriksi",
+    options: ["Menghambat pelepasan histamin", "Mengaktifkan reseptor b2-adrenergik", "Merangsang reseptor a-adrenergik pada mukosa hidung, menyebabkan vasokonstriksi", "Menurunkan sekresi lendir", "Mengurangi inflamasi lokal"]
+  },
+  {
+    question: "Seorang anak didiagnosis menderita otitis media akut dan diberikan amoksisilin. Setelah 3 hari, gejalanya tidak membaik. Apa antibiotik lini kedua yang direkomendasikan?",
+    answer: "Amoksisilin-klavulanat",
+    options: ["Azitromisin", "Amoksisilin-klavulanat", "Cefixime", "Levofloksasin", "Kotrimoksazol"]
+  },
+  {
+    question: "Apa antibiotik lini pertama yang direkomendasikan untuk Otitis Eksterna Difusa?",
+    answer: "Tetes telinga Polimiksin, Neomisin, Hidrokortison",
+    options: ["Tetes telinga Ofloksasin", "Tetes telinga Siprofloksasin", "Tetes telinga Polimiksin, Neomisin, Hidrokortison", "Tetes telinga Gentamisin", "Tetes telinga Amoksisilin + Klavulanat"]
+  },
+  {
+    question: "Antihistamin mana yang kemungkinan besar menyebabkan efek samping antikolinergik seperti mulut kering dan sembelit?",
+    answer: "Diphenhydramine",
+    options: ["Loratadine", "Diphenhydramine", "Fexofenadine", "Azelastine", "Cetirizine"]
+  },
+  {
+    question: "Seorang pasien didiagnosis menderita rinitis alergi persisten yang tidak cukup terkontrol dengan cetirizine harian. Apa obat tambahan yang paling tepat?",
+    answer: "Intranasal kortikosteroid",
+    options: ["Dipenhidramin intranasal", "Montelukas oral", "Intranasal kortikosteroid", "Pseudoefedrin oral", "Kromolin sodium intranasal"]
+  },
+  {
+    question: "Suatu sediaan ocusert pilokarpin digunakan untuk mengobati glaukoma, melalui rute manakah absorpsi obat tersebut?",
+    answer: "Konjungtiva",
+    options: ["Konjungtiva", "Retina", "Sklera", "Pupil", "Kornea"]
+  },
+  {
+    question: "Seorang pasien didiagnosa menderita rinitis alergi. Obat apa yang disarankan apoteker untuk pencegahan penyakit tersebut?",
+    answer: "Beklometason",
+    options: ["Salbutamol", "Pseudoefedrin", "Amitriptillin", "Beklometason", "Amoksisilin"]
+  },
+  {
+    question: "Seorang anak mengeluh pilek dan hidung tersumbat dikarenakan alergi serbuk bunga. Obat apa yang tepat untuk diberikan pada anak tersebut?",
+    answer: "Klorfeniramin maleat",
+    options: ["Efedrin", "Pseudoefedrin", "Fenilefrin", "Klorfeniramin maleat", "Oksimetazolin"]
+  },
+  {
+    question: "Seorang ibu datang ke apotek membawa resep untuk anaknya (7 th) yang menderita hidung tersumbat. Setelah diperiksa resep tersebut berisi obat tetes hidung. Obat apakah yang dimaksud?",
+    answer: "Oksimetazolin",
+    options: ["Pseudoefedrin", "Difenhidramin", "Fenilpropanilamin", "Asetaminofen", "Oksimetazolin"]
+  },
+  {
+    question: "Seorang laki-laki (62 th) datang ke apotek dengan keluhan batuk berdahak sejak 2 hari yang lalu. Mukolitik apa yang diberikan?",
+    answer: "Bromheksin",
+    options: ["Klorfeniramin maleat", "Difenhidramin", "Bromheksin", "CTM dan Bromheksin", "Difenhidramin dan Bromheksin"]
+  },
+  {
+    question: "Antihistamin lini pertama yang memiliki efek antikolinergik adalah:",
+    answer: "Dipenhidramin",
+    options: ["Loratadine", "Dipenhidramin", "Ephedrine", "Nasodren", "Xylometazoline"]
+  },
+  {
+    question: "Seorang bapak pergi ke apotek mengeluhkan mata merah karena iritasi debu saat mengendarai motor. Sebagai apoteker obat apa yang disarankan?",
+    answer: "Tetrahidrozolin HCl",
+    options: ["Tetrahidrozolin HCl", "Polimiksin", "Eknulina", "Tropikamid", "Neomisin"]
+  },
+  {
+    question: "Seorang bapak mengeluh pendengarannya terganggu karena kotoran telinganya keras. Obat apa yang diberikan untuk membersihkan kotoran telinganya tersebut?",
+    answer: "H2O2 3%",
+    options: ["Rivanol", "Boraks gliserin", "Povidone iodin", "H2O2 3%", "Gentian violet"]
+  },
+  {
+    question: "Hidung gatal, berair, dan bersin setelah membersihkan gudang. Obat apa yang diberikan?",
+    answer: "Loratadine",
+    options: ["Pseudoefedrin", "Prednisone", "Dektrometorfan", "Loratadine", "Zafirlukast"]
+  },
+  {
+    question: "Albuterol termasuk dalam golongan obat asma:",
+    answer: "Agonis β2",
+    options: ["Antikolinergik", "Metilxantin", "Agonis β2", "Kortikosteroid", "Antagonis leukotrien"]
+  },
+  {
+    question: "Rute pemberian albuterol yang paling umum untuk serangan asma akut adalah:",
+    answer: "Inhalasi",
+    options: ["Oral", "Sublingual", "Injeksi", "Inhalasi", "Topical"]
+  },
+  {
+    question: "Golongan obat asma yang bekerja dengan cara menurunkan inflamasi di saluran napas adalah:",
+    answer: "Kortikosteroid",
+    options: ["Antikolinergik", "Metilxantin", "Agonis β2", "Kortikosteroid", "Antagonis leukotrien"]
+  },
+  {
+    question: "Obat asma yang dikontraindikasikan untuk pasien Diabetes Melitus karena dapat meningkatkan kadar gula darah adalah:",
+    answer: "Prednison",
+    options: ["Teofilin", "Prednison", "Salbutamol", "Albuterol", "Formeterol"]
+  },
+  {
+    question: "Pasien asma datang ke apotik dengan keluhan sesak nafas tiba-tiba, obat asma apa yang disarankan apoteker untuk keadaan darurat pasien?",
+    answer: "Inhaler salbutamol",
+    options: ["Inhaler budesonide", "Inhaler salbutamol", "Nebul steroid", "Tablet salbutamol", "Tablet Teofilin"]
+  },
+  {
+    question: "Kombinasi obat flu yang bekerja sebagai dekongestan adalah:",
+    answer: "Pseudoefedrin",
+    options: ["Paracetamol", "Kafein", "Pseudoefedrin", "Asam Mefenamat", "Gliserin glukonat"]
+  },
+  {
+    question: "Obat batuk berdahak yang bekerja sebagai pengencer dahak agar mudah dikeluarkan adalah:",
+    answer: "Ekspektoran",
+    options: ["Ekspektoran", "Analgesik", "Antipiretik", "Antiinflamasi", "Antitusif"]
+  },
+  {
+    question: "Obat batuk yang bekerja menekan pusat batuk untuk batuk kering adalah:",
+    answer: "Antitusif",
+    options: ["Dekongestan", "Antipiretik", "Analgesik", "Ekspektoran", "Antitusif"]
+  },
+  {
+    question: "Seorang pasien menderita hipertensi dan flu. Obat flu apa yang dapat menginduksi peningkatan tekanan darah?",
+    answer: "Fenilpropanilamin",
+    options: ["Parasetamol", "CTM", "Fenilpropanilamin", "Gliseril Guaiakolat", "Dekstrometorfan"]
+  },
+  {
+    question: "Seorang ibu hamil menderita asma. Obat ICS (Inhaled Corticosteroid) apa yang disarankan dokter untuk ibu hamil tersebut?",
+    answer: "Budesonid",
+    options: ["Dexamethason", "Teofilin", "Salbutamol", "Budesonid", "Prednisone"]
+  },
+  {
+    question: "Pasien asma memiliki riwayat Diabetes Melitus, obat asma oral apa yang kontraindikasi dengan kondisi pasien tersebut?",
+    answer: "Derivat dexamethasone",
+    options: ["Salbutamol", "Bromexhin", "Terbutaline", "Kromolin", "Derivat dexamethasone"]
+  },
+  {
+    question: "Pasien menderita asma persisten sedang, obat apa yang segera diberikan saat pasien merasa sesak napas?",
+    answer: "Salbutamol inhalasi",
+    options: ["Salbutamol tablet", "Salbutamol inhalasi", "Budesonide inhalasi", "Salmeterol inhalasi", "Tiotropium inhalasi"]
+  },
+  {
+    question: "Obat batuk apa yang kontraindikasi untuk pasien asma bronkial dikarenakan sulit mengeluarkan sekret?",
+    answer: "Asetilsistein",
+    options: ["Ambroksol", "Guaiafenesin", "OBH", "Asetilsistein", "Erdostein"]
+  },
+  {
+    question: "Seorang bapak mengeluh batuk berdahak, obat apa yang dapat diberikan apoteker untuk mengeluarkan dahak tersebut?",
+    answer: "Bromhexine",
+    options: ["Phenilpropanolamin", "Dextromethorphan", "Guaifenesin", "Acetylcysteine", "Bromhexine"]
+  },
+  {
+    question: "Asetilsistein merupakan mukolitik yang bekerja dengan cara:",
+    answer: "Memecah ikatan sulfahidril pada mukus",
+    options: ["Blokade enzim histamin", "Memecah ikatan sulfahidril pada mukus", "Menghambat enzim fearaje", "Menekan reflek batuk", "Meningkatkan pengeluaran dahak"]
+  },
+  {
+    question: "Difenhidramin memiliki efek samping menyebabkan mulut dan saluran nafas kering. Bagaimana mekanismenya?",
+    answer: "Antikolinergik",
+    options: ["Antihistamin", "Antiserotonin", "Antiadenergik", "Antikolinergik", "Antiinflamasi"]
+  },
+  {
+    question: "Seorang pasien memiliki asma dan kadar gula darah tinggi. Obat asma rute oral apa yang harus dihindari?",
+    answer: "Prednisolon oral",
+    options: ["Salbutamol inhalasi", "Prednisolon oral", "Salmeterol inhalasi", "Flutikason inhalasi", "Ipratropium inhalasi"]
+  },
+  {
+    question: "Apa tujuan anjuran berkumur setelah menggunakan inhaler budesonid?",
+    answer: "Untuk menghindari sariawan atau kandisasis mulut",
+    options: ["Untuk mencegah iritasi tenggorokan", "Untuk meningkatkan penyerapan obat", "Untuk menghindari sariawan atau kandisasis mulut", "Untuk mengurangi rasa pahit di mulut", "Untuk melarutkan sisa obat di mulut"]
+  },
+  {
+    question: "Seorang pasien dengan eksaserbasi asma berat tidak memberikan respons yang cukup terhadap SABA, SAMA, dan ICS. Apa langkah terapi selanjutnya?",
+    answer: "Pemberian OCS (oral corticosteroid)",
+    options: ["Pemberian antihistamin", "Pemberian antibiotik", "Pemberian OCS (oral corticosteroid)", "Pemberian salbutamol nebulizer", "Pemberian terbutaline inhaler"]
+  },
+  {
+    question: "Pasien pulang setelah serangan asma. Dokter meresepkan obat rute oral untuk mengurangi peradangan sisa. Obat apa yang dimaksud?",
+    answer: "Prednison",
+    options: ["Salbutamol", "Prednison", "Teofilin", "Dexametason", "Ketotifen"]
+  },
+  {
+    question: "Apa obat yang paling tepat untuk kontrol jangka panjang asma dan untuk menurunkan risiko eksaserbasi?",
+    answer: "Budesonide",
+    options: ["Salbutamol", "Budesonide", "Ipratropium bromide", "Montelukast", "Theophylline"]
+  },
+  {
+    question: "Pasien asma dengan gejala yang tidak terkontrol meskipun menggunakan dosis tinggi ICS dan LABA serta memiliki kadar IgE serum yang tinggi. Apa terapi biologis yang tepat?",
+    answer: "Omalizumab",
+    options: ["Reslizumab", "Mepolizumab", "Omalizumab", "Benralizumab", "Dupilumab"]
+  },
+  {
+    question: "Obat asma apa yang dapat menyebabkan peningkatan kadar SGOT dan SGPT?",
+    answer: "Zileuton",
+    options: ["Salbutamol", "Bromheksin HCl", "Kromolin", "Beklometason", "Zileuton"]
+  },
+  {
+    question: "Seorang pasien asma menggunakan inhaler salbutamol. Apa efek samping yang umum terjadi?",
+    answer: "Tremor dan takikardia",
+    options: ["Hipoglikemia dan diare", "Sedasi dan mual", "Tremor dan takikardia", "Bradikardia dan hipertensi", "Retensi urin"]
+  },
+  {
+    question: "Apa efek samping yang umum dari penggunaan Spiriva (tiotropium bromide) pada pasien PPOK?",
+    answer: "Mulut kering",
+    options: ["Pusing", "Ruam Kulit", "Mulut kering", "Konstipasi", "DIare"]
+  },
+  {
+    question: "Asetilsistein merupakan mukolitik yang bekerja dengan cara:",
+    answer: "Membuka ikatan gugus sulfidril pada mukus",
+    options: ["Menekan pusat batuk", "Membuka ikatan gugus sulfidril pada mukus", "Meningkatkan pengeluaran dahak", "Blokade neuron histaminergik", "Menghambat enzim fosfodiesterase"]
+  },
+  {
+    question: "Manakah yang termasuk obat golongan metilxantin?",
+    answer: "Teofilin",
+    options: ["Salbutamol", "Teofilin", "Terbutalin", "Tiotropium", "Ipratropium"]
+  },
+  {
+    question: "Apa efek samping umum dari penggunaan inhaler tiotropium bromida?",
+    answer: "Mulut kering",
+    options: ["Pusing", "Hipoglikemia", "Mulut kering", "Ruam kulit", "Diare"]
+  },
+  {
+    question: "Obat PPOK mana yang terbukti mengurangi frekuensi eksaserbasi dibandingkan dengan LABA?",
+    answer: "Tiotropium",
+    options: ["Ipratropium bromide", "Salmeterol", "Tiotropium", "Albuterol", "Montelukast"]
+  },
+  {
+    question: "Apa penanganan pertama yang paling tepat untuk eksaserbasi akut PPOK di UGD?",
+    answer: "SABA",
+    options: ["Aminofilin", "Kortikosteroid inhalasi", "SABA", "LABA", "LAMA"]
+  },
+  {
+    question: "Mengapa pemberian kodein harus dihindari pada anak-anak setelah tonsilektomi?",
+    answer: "Kodein dapat menyebabkan depresi pernapasan yang mengancam jiwa",
+    options: ["Menyebabkan mual muntah", "Risiko ketergantungan", "Kodein dapat menyebabkan depresi pernapasan yang mengancam jiwa", "Memerlukan metabolisme CYP3A4", "Reaksi alergi"]
+  },
+  {
+    question: "Obat batuk berdahak apa yang paling tepat direkomendasikan untuk pasien hipertensi?",
+    answer: "Bromhexine",
+    options: ["Dextromethorphan", "Guaifenesin", "Codeine", "Diphenhydramine", "Bromhexine"]
+  },
+  {
+    question: "Pasien asma mengalami serangan akut. Pasien memiliki risiko takikardia dan tidak memberikan respons terhadap obat adrenergik. Apa penanganan yang tepat?",
+    answer: "Diberikan kortikosteroid parenteral",
+    options: ["Ditambahkan kromolin inhaler", "Diberikan kortikosteroid parenteral", "Diberikan dipenhidramin parenteral", "Obat diganti dengan injeksi epinefrin", "Pemberian salbutamol tablet"]
+  },
+  {
+    question: "Obat asma apa yang juga berfungsi sebagai tokolitik?",
+    answer: "Terbutalin",
+    options: ["Terbutalin", "Teofilin", "Metilprednisolon", "Ketotifen", "Salbutamol"]
+  },
+  {
+    question: "Seorang pasien glaukoma memiliki riwayat asma dan sangat sensitif terhadap cahaya. Obat apa yang paling tepat?",
+    answer: "Latanoprost",
+    options: ["Timolol", "Pilokarpin", "Bimatprost", "Karbakol", "Latanoprost"]
+  },
+  {
+    question: "Apa terapi yang diberikan untuk meredakan gejala sesak dan mengi pada pasien asma (SABA)?",
+    answer: "Salbutamol",
+    options: ["Salbutamol", "Salmeterol", "Budesonide", "Flutikason", "Triheksifenidil"]
+  },
+  {
+    question: "Terapi apa yang tepat diberikan kepada pasien yang mengalami syok anafilaktik?",
+    answer: "Epinefrin",
+    options: ["Prednison", "Difenhidramin", "Epinefrin", "Fenitoin", "Anfetamin"]
+  },
+  {
+    question: "Konsumsi kopi dan teh dapat meningkatkan efek samping teofilin karena mengandung senyawa:",
+    answer: "Xantin",
+    options: ["Alkaloid", "Steroid", "Xantin", "Flavonoid", "Terpenoid"]
+  },
+  {
+    question: "Penggunaan dexametason dapat menyebabkan efek samping moonface. Mekanismenya adalah:",
+    answer: "Meretensi natrium dan air",
+    options: ["Meretensi natrium dan air", "Mensekresikan natrium dan air", "Menginhibisi fungsi adrenokortikal", "Mempenetrasi natrium dan air", "Menginduksi fungsi adrenokortikal"]
+  },
+  {
+    question: "Seorang anak (6 th) menderita asma bronkial yang disebabkan suhu dingin. Sediaan apa yang tepat diberikan untuk mencegah bronkokonstriksi?",
+    answer: "Inhalasi terbutalin",
+    options: ["Tablet", "Inhalasi terbutalin", "Inhalasi bromide", "Inhalasi glukokortikoid", "Tablet kortikosteroid"]
+  },
+  {
+    question: "Obat hipertensi apa yang kontraindikasi dengan asma?",
+    answer: "Propanolol",
+    options: ["Parasetamol", "Hidroklortiazid", "Salmeterol", "Propanolol", "Prednison"]
+  },
+  {
+    question: "Bagaimana mekanisme kerja aminofilin?",
+    answer: "Merelaksasi otot halus pernafasan",
+    options: ["Merelaksasi otot halus pernafasan", "Menstimulasi otot halus pernafasan", "Meningkatkan respon stimulasi", "Menekan batuk", "Antikolinergik"]
+  },
+  {
+    question: "Seorang laki-laki mengalami serangan asma berat (PEF 28%). Bentuk sediaan salbutamol apa yang paling tepat?",
+    answer: "Nebulizer",
+    options: ["Tablet", "Injeksi", "Inhalasi", "Nebulizer", "Kapsul"]
+  },
+  {
+    question: "Seorang pasien mengeluhkan sakit gigi dan memiliki riwayat asma. Obat apa yang aman diberikan?",
+    answer: "Parasetamol",
+    options: ["Ibuprofen", "Parasetamol", "Asam mefenamat", "Diklofenak", "Deksametason"]
+  },
+  {
+    question: "Seorang pasien menderita asma dan hipertensi. Obat hipertensi apa yang aman digunakan?",
+    answer: "Hidroklortiazid",
+    options: ["Valsartan", "Verapamil", "Diltiazem", "Nifedipin", "Hidroklortiazid"]
+  },
+  {
+    question: "Seorang pasien didiagnosis menderita PPOK berat dan dirawat inap. Pasien memiliki riwayat alergi penisilin. Apa antibiotik empiris yang tepat?",
+    answer: "Levofloxacin",
+    options: ["Levofloxacin", "Ciprofloxacin", "Gentamisin", "Amoksisilin klavulanat", "Cefixime"]
+  },
+  {
+    question: "Seorang pasien asma diberikan salbutamol nebulizer. Parameter laboratorium apa yang harus dipantau ketat?",
+    answer: "Kadar ion kalium",
+    options: ["Kadar ion natrium", "Kadar ion kalium", "Kadar ion magnesium", "Kadar O2 darah"]
+  },
+  {
+    question: "Seorang kakek penderita PPOK menerima resep obat. Ia mengeluhkan konstipasi, mulut kering dan takikardia. Obat apa yang dimaksud?",
+    answer: "Ipratropium",
+    options: ["Ipratropium", "Salbutamol", "Noscapine", "Eritromisin", "Flutikason"]
+  },
+  {
+    question: "Seorang pasien menderita PPOK dan mendapatkan terapi teofilin. Ia juga mendapatkan antibiotik eritromisin. Diketahui eritromisin meningkatkan konsentrasi teofilin. Apa tindakan yang tepat?",
+    answer: "Turunkan dosis teofilin",
+    options: ["Turunkan dosis eritromisin", "Hentikan konsumsi eritromisin", "Tingkatkan dosis eritromisin", "Turunkan dosis teofilin", "Tingkatkan dosis teofilin"]
+  },
+  {
+    question: "Seorang pasien menderita PPOK dan UAP (Unstable Angina Pectoris). Dokter ingin memberikan beta bloker. Mana yang paling aman?",
+    answer: "Bisoprolol",
+    options: ["Propanolol", "Bisoprolol", "Nadolol", "Timolol", "Karvedilol"]
+  },
+  {
+    question: "Pasien laki-laki 62 tahun penderita PPOK eksaserbasi kompleks dengan risiko pseudomonas aureginosa menjalani rawat inap di RS menerima terapi antibiotik IV. Apakah antibiotik yang sesuai untuk pasien tersebut?",
+    answer: "Gentamisin",
+    options: ["Cefazolin", "Cefixime", "Klindamisin", "Gentamisin", "Kotrimoksazol"]
+  },
+  {
+    question: "Seorang perempuan 20 tahun dengan riwayat diagnosa asma. Diketahui pasien saat ini sedang menjalani pengobatan penyakit liver. Dokter meresepkan obat untuk mengatasi asma. Obat apakah yang kontraindikasi pada pasien tersebut?",
+    answer: "Zafirlukast",
+    options: ["Zafirlukast", "Budesonide", "Omalizumab", "Salmeterol", "Teofilin"]
+  },
+  {
+    question: "Seorang laki-laki berusia 48 tahun menderita PPOK stadium 3, dia juga mengeluh gejala sesak semakin berat ketika malam hari, terapi apa yang diberikan?",
+    answer: "Klaritromisin + inhaler kortikosteroid + aminofilin",
+    options: ["Azitromisin + teofilin", "Inhaler kortikosteroid + streptomisin", "Ventolin nebulizer + amoksisilin", "Eritromisin + aminofilin", "Klaritromisin + inhaler kortikosteroid + aminofilin"]
+  },
+  {
+    question: "Seorang pasien PPOK dengan keparahan sedang, mengeluhkan dadanya yang sesak dan pasien batuk dengan dahak. Pasien mengeluarkan dahak berwarna kuning kehijauan. Selama 3 bulan ini pasien diresepkan antibiotik dan steroid. Apa steroid yang tepat?",
+    answer: "Prednison",
+    options: ["Prednison", "CTM", "Beklometason", "Triamsinolon", "Doksisiklin"]
+  },
+/// END MATA HIDUNG
 
+///START ONKOLOGI
+  {
+    question: "Seorang pasien wanita berusia 45 tahun, dengan tinggi badan 158 cm dan berat 65 kg, baru saja didiagnosis menderita kanker payudara stadium 2. Untuk terapi kemoterapi, pasien ini diberikan regimen doxorubicin dan cyclophosphamide. Dokter ingin menghitung dosis doxorubicin yang tepat berdasarkan berat badan dan fungsi ginjal pasien. Rumus manakah yang digunakan untuk menentukan dosis doxorubicin pada pasien ini?",
+    answer: "Rumus BSA",
+    options: ["Rumus Du Bois", "Rumus Cockcroft-Gault", "Rumus BSA", "Rumus Schwartz", "Rumus Young"]
+  },
+  {
+    question: "Seorang pasien wanita, Ny. S, berusia 48 tahun, datang ke rumah sakit onkologi untuk menjalani sesi kemoterapi pertama. Berdasarkan hasil pemeriksaan dan rekomendasi dari dokter onkologi, pasien didiagnosis dengan kanker payudara stadium lanjut dan akan mendapatkan kemoterapi menggunakan Doxorubicin dengan dosis 80 mg/m². Diketahui hasil pemeriksaan fisik pasien sebagai berikut: Berat badan (BB): 60 kg Tinggi badan (TB): 165 cm Usia: 48 tahun Berapakah total dosis Doxorubicin yang akan diberikan kepada Ny. S dalam satu sesi kemoterapi?",
+    answer: "132.60 mg",
+    options: ["120.50 mg", "118.80 mg", "132.60 mg", "119.75 mg", "121.30 mg"]
+  },
+  {
+    question: "Seorang pasien pria berusia 68 tahun didiagnosis dengan kanker paru sel kecil stadium lanjut Hasil pemeriksaan fisik dan laboratorium pasien: Berat badan (BB): 70 kg Tinggi badan (TB): 172 cm Serum kreatinin (Scr): 0.90 mg/dL Target AUC: 5 mg·mL/min Berapakah total dosis Cisplatin yang harus diberikan kepada pasien dalam satu siklus terapi?",
+    answer: "513,90 mg",
+    options: ["395.20 mg", "420.50 mg", "435.75 mg", "450.90 mg", "513,90 mg"]
+  },
+  {
+    question: "Seorang pria usia 42 tahun dengan BMI 34 kg/m² ingin menurunkan berat badan. Ia memiliki hipertensi yang terkontrol dengan amlodipin dan kadar LDL yang sedikit meningkat. Dokter meresepkan orlistat 120 mg tiga kali sehari sebagai bagian dari program penurunan berat badan yang mencakup diet rendah kalori dan olahraga teratur. Setelah 3 bulan, pasien mengalami penurunan berat badan sebesar 5 kg. Mekanisme kerja utama orlistat dalam membantu penurunan berat badan adalah ?",
+    answer: "Menghambat enzim lipase pankreas sehingga mengurangi penyerapan lemak dari makanan.",
+    options: [
+      "Meningkatkan metabolisme basal dengan meningkatkan pembakaran lemak.",
+      "Mengurangi nafsu makan dengan bekerja pada hipotalamus.",
+      "Menghambat enzim lipase pankreas sehingga mengurangi penyerapan lemak dari makanan.",
+      "Meningkatkan pengeluaran energi melalui aktivasi sistem saraf simpatik.",
+      "Menghambat enzim lipoprotein lipase sehingga mengurangi pembentukan lemak tubuh."
+    ]
+  },
+  {
+    question: "Seorang pria usia 45 tahun dengan BMI 35 kg/m² mulai menggunakan liraglutide untuk terapi obesitas. Setelah 2 minggu, pasien datang dengan keluhan mual, kembung, dan sering merasa begah setelah makan, meskipun ia hanya mengonsumsi makanan dalam jumlah kecil. Manajemen terbaik untuk menangani efek samping gastrointestinal akibat liraglutide adalah ?",
+    answer: "Menurunkan dosis liraglutide sementara dan menaikkan dosis secara bertahap.",
+    options: [
+      "Menghentikan liraglutide dan menggantinya dengan fentermin.",
+      "Menurunkan dosis liraglutide sementara dan menaikkan dosis secara bertahap.",
+      "Memberikan obat antidiare dan antiemetik secara rutin selama terapi.",
+      "Menyarankan pasien untuk minum lebih banyak air agar gejala membaik.",
+      "Menghentikan liraglutide secara permanen dan beralih ke diet dan olahraga saja."
+    ]
+  },
+  {
+    question: "Seorang pasien kanker akan menerima kemoterapi menggunakan cisplatin berdasarkan luas permukaan tubuhnya (Body Surface Area, BSA). Pasien memiliki berat badan 60 kg dan tinggi badan 160 cm, dengan dosis cisplatin yang ditentukan sebesar 50 mg/m². Berapa dosis cisplatin yang harus diberikan kepada pasien ini?",
+    answer: "82 mg",
+    options: ["82 mg", "110 mg", "120 mg", "130 mg", "140 mg"]
+  },
+  {
+    question: "Seorang pasien wanita berusia 30 tahun datang ke IGD dengan gejala lemah, pucat, dan sesak napas ringan. Pemeriksaan darah menunjukkan kadar hemoglobin (Hb) sebesar 5 g/dL. Dokter meminta rekomendasi obat yang sesuai untuk kondisi anemia berat ini. Obat atau tindakan apa yang paling tepat untuk mengatasi anemia berat ini?",
+    answer: "Transfusi darah",
+    options: ["Tablet zat besi", "Injeksi zat besi", "Eritropoetin", "Transfusi darah", "Vitamin B12"]
+  },
+  {
+    question: "Seorang pasien kanker mendapatkan terapi Methotrexate (MTX) dalam beberapa siklus, tetapi tidak menunjukkan respons yang memadai terhadap pengobatan tersebut. Dokter meminta saran untuk mengganti terapi dengan obat yang memiliki mekanisme kerja berbeda. Sebagai Apoteker obat apa yang paling sesuai untuk menggantikan Methotrexate dalam pengobatan kanker ini?",
+    answer: "5-Fluorourasil",
+    options: ["5-Fluorourasil", "Cisplatin", "Doxorubicin", "Cyclophosphamide", "Imatinib"]
+  },
+  {
+    question: "Contoh obat kanker yang bekerja pada fase mitosis sel adalah",
+    answer: "paclitaxel dan vinblastin",
+    options: ["paclitaxel dan vinblastin", "vinblastin dan metrotrexat", "metrotrexat dan fluorourasil", "etoposid dan vinkristin", "Vinkristin dan sitarabine"]
+  },
+  {
+    question: "Pasien kanker darah stage 4 mengeluhkan nyeri yang sangat hebat. Penilaian skala nyeri yaitu 7. Pasien meminta obat antinyeri yang dapat mengatasi keluhannya. Obat apakah yang sesuai untuk pasien tersebut?",
+    answer: "Morfin",
+    options: ["Natrium diklofenak", "Asam mefenamat", "Ibuprofen", "Morfin", "Tramadol"]
+  },
+  {
+    question: "Seorang pasien wanita berusia 45 tahun didiagnosis menderita kanker payudara stadium lanjut. Pasien mengeluhkan nyeri hebat dengan skala nyeri 9 yang sangat mengganggu aktivitasnya. Dokter memutuskan untuk memberikan terapi antinyeri. Sebagai apoteker, pilihan obat yang sesuai untuk mengatasi nyeri berat pada pasien ini adalah ?",
+    answer: "Morfin",
+    options: ["Tramadol", "Ibuprofen", "Morfin", "Parasetamol", "Ketoprofen"]
+  },
+  {
+    question: "Seorang pasien wanita didiagnosis dengan kanker payudara dan memiliki hasil tes yang menunjukkan bahwa sel kanker menunjukkan ekspresi HER2 positif. Terapi yang digunakan untuk kanker dengan status HER2 positif adalah:",
+    answer: "Trastuzumab",
+    options: ["Tamoxifen", "Trastuzumab", "Cyclophosphamide", "Methotrexate", "Doxorubicin"]
+  },
+  {
+    question: "Seorang pasien dengan kanker payudara stadium lanjut akan diberikan kemoterapi menggunakan doxorubicin. Dosis doxorubicin yang diresepkan adalah 60 mg/m² berdasarkan luas permukaan tubuh (BSA). Jika diketahui berat badan 65 kg, dan tinggi 153 cm, berapa dosis doxorubicin yang harus diberikan?",
+    answer: "99.6 mg",
+    options: ["90.5 mg", "99.6 mg", "105.2 mg", "110.0 mg", "115.8 mg"]
+  },
+  {
+    question: "Seorang pasien anemia defisiensi besi diberikan suplemen zat besi bersama dengan vitamin C atas rekomendasi apoteker. Tujuannya adalah untuk meningkatkan penyerapan zat besi dalam tubuh. Apa mekanisme utama vitamin C dalam meningkatkan penyerapan zat besi?",
+    answer: "Mengurangi ion besi menjadi bentuk fero (Fe2+)",
+    options: [
+      "Mengoksidasi ion besi menjadi bentuk feeri (Fe3+)",
+      "Mengurangi ion besi menjadi bentuk fero (Fe2+)",
+      "Meningkatkan afinitas besi terhadap hemoglobin",
+      "Menghambat kompetitor dalam saluran cerna",
+      "Menstabilkan ion besi dalam saluran cerna"
+    ]
+  },
+  {
+    question: "Seorang pasien pria umur 55 tahun datang ke apotek, pasien mengeluh sering lelah dan pusing, kadang juga kesulitan berjalan. Setelah dilakukan pemeriksaan lebih lanjut ditemukan adanya anemia pernisiosa yang disebabkan oleh gangguan penyerapan vitamin B12 akibat defisiensi faktor intrinsik, yang terjadi pada gastritik kronik. Obat apakah yang paling tebat untuk mengatasi anemia pernisiosa pada pasien dengan kondisi ini?",
+    answer: "Injeksi cyanocobalamin",
+    options: ["Fero sulfat", "Epoetin alfa", "Injeksi cyanocobalamin", "Asam folat", "EPG-Epoetin beta"]
+  },
+  {
+    question: "Seorang wanita berusia 29 tahun dibawa ke IGD dengan kondisi pucat, lemah, dan sesak napas. Berdasarkan pemeriksaan, diketahui hasl lab pasien sebagai berikut: Hb 6,5 g/dL; MCV 65 fL; SrCl 0,8 mg/dL dan serum ferritin 150 mikrogram/L. Terapi apakah yang sesuai untuk pasien?",
+    answer: "Transfusi PRC",
+    options: ["Transfusi WPC", "Asam folat", "Eritropoetin", "Transfusi PRC", "Mekobalamin"]
+  },
+  {
+    question: "Seorang pasien laki-laki berusia 65 tahun datang ke IGD dalam kondisi tidak sadarkan diri. Setelah dilakukan pemeriksaan laboratorium, diketahui bahwa hemoglobin pasien hanya 5 g/dL, yang menunjukkan adanya anemia berat. Dokter bertanya kepada apoteker mengenai terapi yang tepat untuk kondisi ini, karena pasien menunjukkan gejala-gejala yang cukup parah akibat kekurangan oksigen dalam darah. Apa terapi yang tepat untuk pasien dengan hemoglobin 5 g/dL yang menunjukkan tanda-tanda anemia berat?",
+    answer: "Transfusi darah",
+    options: ["Pemberian suplemen zat besi oral", "Transfusi darah", "Pemberian eritropoietin", "Pemberian vitamin B12", "Pemberian asam folat oral"]
+  },
+  {
+    question: "Seorang pasien obesitas datang ke apotek untuk memperoleh resep obat yang membantu penurunan berat badan. Dokter meresepkan orlistat sebagai bagian dari program pengelolaan berat badan pasien. Apa mekanisme kerja utama dari orlistat dalam membantu penurunan berat badan?",
+    answer: "Menghambat penyerapan lemak dengan menghambat enzim lipase pankreas",
+    options: [
+      "Menghambat penyerapan lemak dengan menghambat enzim lipase pankreas",
+      "Meningkatkan pengeluaran energi dengan merangsang sistem saraf simpatetik",
+      "Mengurangi nafsu makan dengan mengatur kadar serotonin",
+      "Menghambat sintesis glukosa dalam hati",
+      "Meningkatkan pengeluaran kalori dengan meningkatkan metabolisme basal"
+    ]
+  },
+  {
+    question: "Dokter onkologi meminta kepada apoteker rumah sakit untuk mempersiapkan dosis Doxorubicin injeksi untuk pengobatan Neoplastic Marrow Infiltration pada pasien anak perempuan umur 11 tahun, tinggi 140 cm dan berat badan 32 kg. Berdasarkan apakah apoteker menghitung dosis obat tersebut di atas.",
+    answer: "Luas permukaan tubuh pasien",
+    options: ["Berat badan pasien", "Umur pasien", "Luas permukaan tubuh pasien", "Prosentase terhadap dosis dewasa", "Diekstrapolasikan dari dosis lazim orang Dewasa"]
+  },
+  {
+    question: "Pasien laki-laki (73thn) menderita kanker paru stage IV menderima regimen kemoterapi gemcitabine 1000 mg/m2 Intra Vena dan cisplatin 100 mg/m2 Intra Vena. Jika diketahui luas permukaan tubuh pasien tersebut 1,65 m2, berapakah dosis cisplatin yang diberikan?",
+    answer: "165 mg",
+    options: ["165 mg", "1,65 mg", "1650 mg", "1,00 gram", "100 mg"]
+  },
+  {
+    question: "Pasien perempuan umur 40 tahun didiagnosa penyakit kanker paru-paru, pasien akan diberi kemoterapi metrotexat. Untuk mengatasi efek samping metrotexat dibutuhkan terapi supporting. Terapi supporting apa yang diberikan ?",
+    answer: "Asam folat",
+    options: ["Asam folat", "Tiamin", "Piridoxin", "Fe", "Kalium"]
+  },
+  {
+    question: "Seorang pasien perempuan 45 tahun terkena kanker, dilakukan kemoterapi dengan obat injekasi paklitaxel. Obat tersebut bekerja pada pembelahan sel secara mitosis, tahap manakah obat tersebut bekerja ?",
+    answer: "Metaphase",
+    options: ["Anafase", "Interfase", "Metaphase", "Profase", "Telofase"]
+  },
 
+  {
+    question: "Seorang pasien perempuan dewasa berumur 30 tahun menderita kanker kolon dan menggunakan obat florouracil, sebulan kemudian pasien tersebut diketahui hamil, akhirnya pasien tersebut berhenti menggunakan obat fluorouracil karena tidak boleh digunakan untuk perempuan hamil. Florouracil termasuk dalam indeks keamanan obat pada kehamilan kategori ?",
+    answer: "Kategori D",
+    options: ["Kategori A", "Kategori B", "Kategori C", "Kategori D", "Kategori E"]
+  },
+  {
+    question: "Seorang pasien laki-laki 52 tahun, sedang mendapatkan kemoterapi dengan menggunakan cisplatin dan mengalami mual yang sangat parah. Obat manakah di bawah ini yang paling tepat untuk mengatasi efek sampingnya ?",
+    answer: "Ondansentron tablet",
+    options: ["Cyclizin tablet", "CTM tablet", "Scopolamin tablet", "Ondansentron tablet", "Naloxone tablet"]
+  },
+  {
+    question: "Pasien laki-laki (70 tahun) dengan kanker paru setelah menerima kemoterapi mengalami mual muntah. Dokter memberi resep obat antiemetik. Obat apakah dibawah ini yang termasuk golongan obat antiemetik..",
+    answer: "Ondansetron",
+    options: ["Ondansetron", "Lansoprazole", "Ranitidin", "Loratadine", "Loperamide"]
+  },
+  {
+    question: "Seorang pasien penderita kanker telah mendapatkan terapi menggunakan obat DMARD tetapi tidak menunjukkan respons yang baik. Oleh karena itu, dokter memutuskan untuk menggantinya dengan obat dari golongan Anti-TNF. Obat apakah yang dimaksud?",
+    answer: "Infliximab",
+    options: ["Sulfasalazin", "Siklosforin", "Metotreksat", "Infliximab"]
+  },
+  {
+    question: "Seorang pasien laki-laki 60 tahun didiagnosis mengalami limfoma hodgkin dan diberikan terapi suatu obat kemoterapi alami yang berasal dari suatu tanaman Vinca rosea. Pada tahap apakah vinblastin memberikan pengaruh pada sel kanker?",
+    answer: "Metafase",
+    options: ["Anafase", "Telofase", "Metafase", "Profase", "Mitosis"]
+  },
+  {
+    question: "Perempuan berusai 35 tahun menderita kanker ovarium stadium 4 dan mendapatkan obat kemoterapi yang diresepkan oleh dokter. Diantara berikut ini, makanah obat yang dikonsumsi perempuan tersebut yang bersifat merusak fungsi ginjal?",
+    answer: "Cisplatin",
+    options: ["5-Florourasil", "Metotreksat", "Cisplatin", "Doksorubisin", "Sitarabin"]
+  },
+  {
+    question: "Perempuan berusai 35 tahun menderita kanker ovarium stadium 4 dan mendapatkan obat kemoterapi yang diresepkan oleh dokter. Diantara berikut ini, makanah obat yang dikonsumsi perempuan tersebut yang bersifat mendepresi sumsum tulang?",
+    answer: "5-Florourasil",
+    options: ["5-Florourasil", "Metotreksat", "Cisplatin", "Doksorubisin", "Sitarabin"]
+  },
+  {
+    question: "Dokter akan meresepkan obat kanker carboplatin pada Bapak N. Dokter meminta rekomendasi kepada apoteker tentang perhitungan dosis total carboplatin jika diketahui GFR 90 ml/menit. Target AUC 8. Berapa dosis total pasein tersebut dalam mg?",
+    answer: "920",
+    options: ["520", "620", "720", "820", "920"]
+  },
+  {
+    question: "Berikut ini obat kanker yang tergolong dalam alkaloid vinka yaitu",
+    answer: "Vinkristin",
+    options: ["Bleomisin", "Etoposid", "5FU", "Vinkristin", "Metroteksat"]
+  },
+  {
+    question: "Seorang pasien wanita 30 tahun mendapatkan terapi kanker yaitu metroteksat. Obat ini memiliki mekanisme kerja yaitu",
+    answer: "Menghambat reduksi dihidrofolat, memblok sintesis TMP dan purin",
+    options: [
+      "Menghambat adenosin deaminase",
+      "Menghambat ribonukleotida reduktase",
+      "Menghambat fungsi mikrotubulus",
+      "Menghambat reduksi dihidrofolat, memblok sintesis TMP dan purin",
+      "Memblok fungsi topoisomerase"
+    ]
+  },
+  {
+    question: "Seorang pasien diresepkan tablet tambah darah oleh dokter. Diketahui pasien mengalami anemia berat. Sebagai apoteker, informasi aturan pakai apakah yang tepat untuk diberikan pada pasien?",
+    answer: "1 jam sebelum makan",
+    options: ["Segera sesudah makan", "1 jam sesudah makan", "1 jam sebelum makan", "Saat makan", "Malam hari sebelum tidur"]
+  },
+  {
+    question: "Yang manakan dibawah ini yang bukan merupakan imunisasi wajib untuk bayi?",
+    answer: "Hepatitis A",
+    options: ["Hepatitis B", "Polio", "BCG", "Campak", "Hepatitis A"]
+  },
+  {
+    question: "Seorang anak baru lahir direncanakan akan diberikan vaksin hepatitis B. Pada bulan ke berapa sajakah vaksin tersebut diberikan?",
+    answer: "0, 1, 2, 3",
+    options: ["0, 1, 2, 3", "0, 2, 3, 4", "1, 2, 3", "2, 3, 4", "1, 3, 5"]
+  },
+  {
+    question: "Pasien gagal ginjal mengalami anemia setelah cuci darah, obat yang tepan untuk direkomendasikan pada kasus tersebut adalah",
+    answer: "Epoetin alfa",
+    options: ["Epoetin alfa", "Asam folat", "Ferrous sulfat", "Transfusi darah", "Sianokobalamin"]
+  },
+  {
+    question: "Seorang laki-laki usia 30 dibawa ke rumah sakit dengan gejala mual muntah, berdasarkan hasil wawancara diduga akibat overdosis penggunaan parasetamol, dokter meminta terapi antidotum diberikan pada pasien tersebut. Apakah antidotum yang dapat diberikan ke pasien tersebut",
+    answer: "N-asetilsistein",
+    options: ["N-asetilsistein", "Atropin", "Nalokson", "Flumazenil", "Etanol"]
+  },
+  {
+    question: "IGD menerima pasien yang menunjukkan gejala keracunan peptisida organofosfat. Dokter meminta saran apoteker mengenai antidotum yang harus diberikan pada pasien. Apa antidotum yang anda akan sarankan?",
+    answer: "Atropin sulfat",
+    options: ["N-asetilsistein", "Atropin sulfat", "Nalokson", "Flumazenil", "Na-tiosulfat"]
+  },
+  {
+    question: "Tuan JN adalah pecandu morfin. Tuan JN dibawa ke dokter dan dokter meresepkan antidotum morfin yaitu nalokson. Apakah jenis antidotum tersebut?",
+    answer: "Antagonis total",
+    options: ["Antagonis total", "Agonis total", "Antagonis parsial", "Agonis parsial", "Antagonis subparsial"]
+  },
+  {
+    question: "Seorang wanita usia 22 tahun dibawa ke UGD karena percobaan bunuh diri. Pasien ditemukan tidak sadarkan diri di kamarnya setelah mengonsumsi sianida dalam jumlah banyak. Apa antidot yang dapat diberikan untuk mengatasi keracunan sianida pada pasien?",
+    answer: "Na-tiosulfat",
+    options: ["Glukagon", "EDTA", "Flumazenil", "Na-tiosulfat", "N-asetilsistein"]
+  },
+  {
+    question: "Seorang Bapak datang ke IGD membawa anaknya yang berumur 20 tahun yang sudah meminum obat anti nyamuk turunan organofosfat (yang mengandung phosdrin). Apakah obat yang akan diberikan sebagai pertolongan pertama?",
+    answer: "Atropin sulfat injeksi",
+    options: ["Parafin cair", "Asetilsistein", "Atropin sulfat injeksi", "Etanol", "Natrium tiosulfat"]
+  },
+  {
+    question: "Seorang pasien dewasa umur 24 tahun datang ke IGD. Pasien tersebut dinyatakan overdosis diazepam kerena mengalami depresi dan inginbunuh diri. Apakah obat yang akan diberikan sebagai pertolongan pertama?",
+    answer: "Flumazenil",
+    options: ["Atropin sulfat injeksi", "Asetilsistein", "Natrium tiosulfat", "Flumazenil", "Parafin cair"]
+  },
+  {
+    question: "Seorang pasien laki-laki 19 tahun datang ke IGD mengalami keracunan pestisida organofosfat, dokter meresepkan antidotum untuk pasien tersebut. antidotum apa yg dokter berikan?",
+    answer: "Atropin sulfat",
+    options: ["Na. Nitrit", "Atropin sulfat", "N. asetilsistein", "Nalokson", "E. Dimerkapol"]
+  },
+  {
+    question: "Antidotum akibat etanol withdrawl sindrom",
+    answer: "Barbiturat",
+    options: ["Asetilsistein", "Barbiturat", "Antikolinergik", "Nalokson", "Atropin sulfat"]
+  },
+
+  {
+    question: "Seorang pasien datang ke IGD dengan gejala keracunan sianida akibat mengonsumsi singkong yang tidak dimasak dengan benar. Apakah antidotum yang paling tepat diberikan untuk menangani keracunan sianida tersebut?",
+    answer: "Natrium tiosulfat",
+    options: ["Natrium tiosulfat", "N-asetilsistein", "Atropin", "Pralidoksim", "Flumazenil"]
+  },
+  {
+    question: "Seorang pasien dirawat di IGD dengan gejala keracunan etilen glikol setelah mengonsumsi sediaan obat yang terkontaminasi. Antidotum apa yang digunakan untuk kasus keracunan ini?",
+    answer: "Fomepizol",
+    options: ["Metanol", "Fomepizol", "Natrium tiosulfat", "Atropin", "N-asetilsistein"]
+  },
+  {
+    question: "Seorang pasien tiba di IGD dengan gejala keracunan metanol, termasuk asidosis metabolik, gangguan penglihatan, dan lemah. Dokter meminta apoteker memberikan rekomendasi antidotum yang tepat untuk menangani kondisi pasien. Antidotum apa yang digunakan untuk mengatasi keracunan metanol?",
+    answer: "Etanol",
+    options: ["Etanol", "Natrium tiosulfat", "Dimercaprol", "Atropin", "N-asetilsistein"]
+  },
+  {
+    question: "Seorang pasien yang bekerja di pabrik pestisida menunjukkan gejala keracunan arsenik. Antidotum apa yang digunakan untuk mengatasi keracunan arsenik?",
+    answer: "Dimercaprol",
+    options: ["Dimercaprol", "Penicillamine", "Natrium tiosulfat", "Kalsium EDTA", "Deferoksamin"]
+  },
+  {
+    question: "Seorang pasien hamil dengan preeklampsia berat mendapatkan injeksi Magnesium Sulfate (MgSO4) untuk mencegah kejang. Namun, pasien menunjukkan tanda-tanda toksisitas, seperti penurunan refleks tendon dalam dan depresi pernapasan. Antidotum apa yang digunakan untuk menangani toksisitas Magnesium Sulfate?",
+    answer: "Kalsium glukonat",
+    options: ["Kalsium glukonat", "Natrium bikarbonat", "Fomepizol", "Protamin sulfat", "Atropin"]
+  },
+  {
+    question: "Seorang pemuda melakukan pesta miras oplosan. Hal ini menyebabkan tubuh mengalami keracunan miras. Apa antidotum yang bisa diberikan?",
+    answer: "Fomepizol",
+    options: ["Protamin", "Promethazine HCl", "Fitomenadion", "Vitamin E", "Fomepizol"]
+  },
+  {
+    question: "Seorang pasien mengalami penyumbatan dan diberikan warfarin. Akan tetapi, pasien mengalami pendarahan berlebih. Diketahui bahwa dosis warfarin yang diberikan terlalu besar. Antidotum yang bisa diberikan adalah",
+    answer: "Fitomenadion",
+    options: ["Protamin", "Promethazine HCl", "Fitomenadion", "Vitamin E", "Fomepizol"]
+  },
+  {
+    question: "Seorang pria mengalami sesak napas, mual, dan pusing setelah menghirup asap kendaraan dalam jumlah banyak saat terjebak macet. Apa antidotum yang diberikan untuk pasien tersebut?",
+    answer: "Oksigen",
+    options: ["Air dalam jumlah banyak", "Oksigen", "Arang aktif", "Nitrit", "Protamin"]
+  },
+  {
+    question: "Seorang pasien berusia 60 tahun diberikan heparin sebagai bagian dari pengobatan antikoagulan beberapa jam setelah pemberian heparin, pasien mengalami perdarahan yang tidak terkendali. Antidotum manakah yang tepat untuk mengatasi perdarahan yang disebabkan oleh penggunaan heparin pada pasien ini?",
+    answer: "Protamin sulfat",
+    options: ["Protamin sulfat", "Vitamin K", "Idarucizumab", "Andexanet alfa", "Traneksamat"]
+  },
+  {
+    question: "Seorang pasien mengalami keracunan tramadol dan dokter meminta apoteker untuk memberikan rekomendasi mengenai antidot yang tepat untuk mengatasi keracunan tersebut. Antidot mana yang tepat untuk mengatasi keracunan tramadol pada pasien ini?",
+    answer: "Nalokson",
+    options: ["Nalokson", "Atropin", "Flumazenil", "N-acetylycysteine", "Pralidoksim"]
+  },
+  {
+    question: "Seorang pasien masuk rumah sakit dengan gejala keracunan setelah mengonsumsi cairan yang mengandung etilen glikol. Antidot yang tepat untuk keracunan etilen glikol adalah?",
+    answer: "Fomepizole",
+    options: ["N-asetil sistein", "Fomepizole", "Atropin", "Pralidoksim", "Vitamin K1"]
+  },
+  {
+    question: "Seorang pasien mengalami overdosis midazolam yang ditandai dengan depresi pernapasan dan kesadaran menurun. Obat apa yang digunakan sebagai antidotum untuk menangani kondisi ini?",
+    answer: "Flumazenil",
+    options: ["Flumazenil", "Nalokson", "Atropin", "Fisostigmin", "Protamin sulfat"]
+  },
+  {
+    question: "Seorang anak berusia 4 tahun dibawa ke IGD dengan gejala muntah, nyeri perut, dan diare setelah tidak sengaja menelan tablet suplemen zat besi milik ibunya. Pemeriksaan laboratorium menunjukkan kadar besi serum yang sangat tinggi. Dokter memutuskan untuk memberikan deferoksamin sebagai terapi. Apa mekanisme kerja deferoksamin sebagai antidotum zat besi?",
+    answer: "Mengikat zat besi bebas menjadi kompleks yang larut",
+    options: [
+      "Menghambat absorpsi zat besi di saluran cerna",
+      "Menetralkan ion besi dalam darah",
+      "Mengikat zat besi bebas menjadi kompleks yang larut",
+      "Merangsang eksresi zat besi melalui urin tanpa mengikatnya",
+      "Menginhibisi sintesis radikal bebas akibat zat besi"
+    ]
+  },
+  {
+    question: "Seorang pasien dilarikan ke IGD setelah didiagnosa keracunan pestisida yang mengandung organofosfat. Gejala yang ditunjukkan antara lain salivasi berlebihan, miosis (pupil mata menyempit), bradikardia, dan kesulitan bernapas. Setelah pemeriksaan lebih lanjut, dokter memutuskan untuk memberikan antidotum atropin sulfat untuk menangani gejala keracunan. Sebagai apoteker, Anda diminta untuk menjelaskan target aksi dari obat ini dalam pengobatan keracunan pestisida. Target aksi dari atropin sulfat dalam mengatasi keracunan pestisida adalah ?",
+    answer: "Asetilkolin",
+    options: ["Asetilkolin", "Dopamin", "GABA", "Glutamat", "Histamin"]
+  },
+  {
+    question: "Seorang pasien mengalami keracunan setelah mengonsumsi ikan yang mengandung merkuri. Apa pengobatan yang paling tepat untuk mengatasi keracunan merkuri?",
+    answer: "Pemberian natrium tiosulfat", // Catatan: Biasanya menggunakan agen pengkelat seperti BAL/Dimercaprol
+    options: ["Karbon aktif", "Pemberian natrium tiosulfat", "Pemberian air garam", "Pemberian atropin", "Pemberian oksigen hiperbarik"]
+  },
+  {
+    question: "Seorang pasien mengalami mual dan muntah setelah memakan sayur yang dibeli dari pasar. Diduga pasien keracunan insektisida karena diketahui sayuran tersebut lupa dibersihkan terlebih dahulu. Saat ini pasien mengalami kecemasan, air liur keluar terus menerus, nyeri perut, bradikardia dan berkeringat. Pasien sudah diberikan atropin sulfat untuk menanganinya. Obat tambahan apa yang dapat diberikan kepada pasien?",
+    answer: "Pralidoksim mesilat",
+    options: ["Arang aktif", "Pralidoksim mesilat", "Epinefrin", "Flumazenil", "Deferoksiamin"]
+  },
+  {
+    question: "Seorang pasien mengalami ketergantungan terhadap heroin. Pasien tersebut datang ke dokter untuk menjalami program terapi rumatan. Terapi substitusi apa yang akan diberikan kepada pasien?",
+    answer: "Metadon",
+    options: ["Metionin", "Nalokson", "Pensilamin", "Metadon", "Pralidoksim mesilat"]
+  },
+  {
+    question: "Sekelompok orang ditemukan sulit bernafas, nampak kebingungan dan kehilangan kesadaran. Telah diketahui kelompok ini mengkonsumsi heroin dari hasil identifikasi TKP. Obat apa yang disarankan untuk mengatasi hal tersebut?",
+    answer: "Nalokson",
+    options: ["Metionin", "Nalokson", "Pensilamin", "Metadon", "Pralidoksim mesilat"]
+  },
+  {
+    question: "Seorang pasien diberikan vaksin covid-19 ketika pandemi dikabarkan mulai menyebar kembali. Pasien hanya mengetahui bahwa vaksin yang diberikan merupakan bagian kecil protein virus untuk memicu respons imun. Apa vaksin yang mungkin diberikan kepada pasien tersebut?",
+    answer: "Vaksin sub-unit protein (Nuvaxovid)",
+    options: ["Vaksin m-RNA (coronavac)", "vaksin m-RNA (Spikevax)", "Vaksin vektor virus (Vaxzevria)", "Vaksin sub-unit protein (Nuvaxovid)", "Vaksin sub-unit protein (coronavac)"]
+  },
+  {
+    question: "Seorang pasien diberikan vaksin covid-19 ketika pandemi dikabarkan mulai menyebar kembali. Pasien hanya mengetahui bahwa vaksin yang diberikan merupakan virus yang telah dimodifikasi seperti adenovirus untuk mengirimkan materi genetik. Apa vaksin yang mungkin diberikan kepada pasien tersebut?",
+    answer: "Vaksin vektor virus (Vaxzevria)",
+    options: ["Vaksin sub-unit protein (coronavac)", "vaksin m-RNA (Spikevax)", "Vaksin m-RNA (coronavac)", "Vaksin vektor virus (Vaxzevria)", "Vaksin sub-unit protein (Nuvaxovid)"]
+  },
+  {
+    question: "Vaksin COVID-19 memiliki berbagai platform, salah satunya vaksin berbasis mRNA. Contoh vaksin dengan platform mRNA adalah…",
+    answer: "Moderna dan Pfizer-BioNTech",
+    options: ["Sinovac dan Sinopharm", "Moderna dan Pfizer-BioNTech", "Novavax dan Sinovac", "AstraZeneca dan Johnson & Johnson", "Pfizer dan Johnson & Johnson"]
+  },
+
+///END ONKOLOGI
 
 
 ];
