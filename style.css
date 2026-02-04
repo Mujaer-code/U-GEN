@@ -3,8 +3,8 @@ body {
 	background-color: #FFD01C;
 	font-family: "Inter", sans-serif;
 	margin: 0;
-	height: 100dvh;
-	height: 100vh;
+	min-height: 100dvh;
+	min-height: 100vh;
 }
 
 ::selection {
@@ -78,8 +78,9 @@ body {
 }
 
 .main {
+	position: relative;
 	width: 100%;
-	height: 100%;
+	min-height: 100vh;
 	display: none;
 	flex-direction: column;
 	opacity: 1;
@@ -100,10 +101,35 @@ body {
 	padding-bottom: 2%;
 }
 
+
 .question-text {
-	width: 90%;
-	font-size: 20px;
-	
+    font-size: 1.2rem; 
+    line-height: 1.5;
+    margin-bottom: 20px;
+    font-weight: 800;
+    width: 90%;
+}
+
+
+.question-text table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 15px 0;
+    font-size: 0.9rem; 
+    font-weight: normal;
+    color: #333;
+}
+
+.question-text th, 
+.question-text td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+    color: #efefef;
+}
+
+.question-text th {
+    background-color: #4f4f4f;
 }
 
 
@@ -147,7 +173,7 @@ body {
 
 .option-list .option {
 	padding: 12px;
-	max-width: 90%;
+	max-width: 100%;
 	background: #434547;
 	font-size: 17px;
 	font-weight: 600;
@@ -196,22 +222,19 @@ body {
 }
 
 .quiz-header {
-	width: 300px;
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	text-align: right;
-	margin-bottom: 20px;
-	margin-right: 20px;
+	text-align: left;
+	opacity: .5;
 }
 
 .quiz-header h1 {
-	margin-bottom: 0;
+	margin: 0;
+	color: #656666;
 }
 
 .quiz-header p {
 	margin: 0;
 	font-weight: 400;
+	font-size: 10px;
 }
 
 .line-header {
@@ -300,19 +323,23 @@ body {
 	display: flex;
 	justify-content: center;
 	gap: 20px;
+	margin-bottom: 2%;
 }
 
 #display-nomor {
-	margin-top: 2%;
 	text-align: left;
-	width: 120px;
 	color: #656666;
 	font-size: 20px;
 }
 
 .counter-box {
 	display: flex;
-	justify-content: center;
+	justify-content: space-between;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	align-items: center;
 }
 
 .TO {
@@ -355,3 +382,15 @@ text-align: center;
 .mute-x:hover {
 	background-color: #F5F4F4;
 }
+
+.timer {
+	color: #958e8e;
+	border: solid #4c4d49 3px;
+	font-weight: 700;
+	padding: 7px;
+	border-radius: 10px;
+	width: 100px;
+	text-align: center;
+}
+
+

@@ -4,11 +4,10 @@ const home = document.querySelector('.home');
 const quizSection = document.querySelector('.question-box');
 const optionList = document.querySelector('.option-list');
 const nextBtn = document.querySelector('.next');
-const mute = document.querySelector('.mute');
 const saveBtn = document.querySelector('.save-btn');
 const prevBtn = document.querySelector('.prev');
 
-
+let timerInterval;
 let questionCount = 0;
 let questionOrder = [];
 let userAnswers = [];
@@ -69,7 +68,8 @@ startBtn.onclick = () => {
   }
 
   showQuestions(questionCount);
-  updateProgress()
+  updateProgress();
+  oneMinute();
 
 }
 
@@ -83,7 +83,7 @@ refresh.onclick =() => {
 function showQuestions(index) {
   const qIndex = questionOrder[index];
   const questionText = document.querySelector('.question-text');
-  questionText.textContent = questions[qIndex].question;
+  questionText.innerHTML = questions[qIndex].question;
 
   let optionTag = '';
   questions[qIndex].options.forEach(opt => {
@@ -133,6 +133,7 @@ function optionSelected(answer) {
     if (questionCount < questions.length - 1) {
       questionCount++; // Pindah ke soal berikutnya
       showQuestions(questionCount);
+      updateProgress();
     } else {
       showResultBox(); // **Tampilkan hasil jika semua soal terjawab**
     }
@@ -152,6 +153,7 @@ nextBtn.onclick = () => {
     console.log("Nilai setelah ditambah:", questionCount); // Cek apakah naiknya satu-satu?
     showQuestions(questionCount);
     updateProgress();
+    oneMinute();
   }
   // ... sisanya
 }
@@ -182,16 +184,7 @@ function showResultBox(){
   home.classList.remove('deactive');
 }
 
-// Mute
-mute.onclick = () => {
-  muteAudio();
-}
 
-function muteAudio(){
-  correctSound.muted = true;
-  wrongSound.muted = true;
-  alert("Efek sound telah dimatikan!")
-}
 
 const muteX = document.querySelector('.mute-x');
 
@@ -206,5 +199,38 @@ const wrongSound = new Audio("assets/incorrect.mp3");
 
 correctSound.preload = "auto";
 wrongSound.preload = "auto";
+
+
+
+function startTimer(duration, display) {
+    clearInterval(timerInterval);
+    var timer = duration, minutes, seconds;
+
+    function updateDisplay () {
+      minutes = parseInt(timer / 60, 10);
+      seconds = parseInt(timer % 60, 10);
+
+      minutes = minutes < 10 ? "0" + minutes : minutes;
+      seconds = seconds < 10 ? "0" + seconds : seconds;
+
+      display.textContent = minutes + ":" + seconds;
+
+    }
+
+    updateDisplay ();
+
+    timerInterval = setInterval(function() {
+    timer--;
+        updateDisplay();
+    }, 1000);
+}
+
+function oneMinute (){
+  var oneMinutes = 60 * 1,
+  display = document.querySelector('.timer');
+  startTimer (oneMinutes, display);
+
+}
+
 
 

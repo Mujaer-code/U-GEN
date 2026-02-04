@@ -5107,11 +5107,1106 @@ let questions = [
     ]
   },
 
+  ///END KARDIOVASKULAR
+
+  ///START HIV
+
+  {
+    "question": "Seorang laki-laki 34 tahun dengan HIV telah menjalani terapi antiretroviral selama 14 bulan menggunakan kombinasi tenofovir, lamivudin, dan efavirens. Kepatuhan pasien dilaporkan baik, tidak ada keluhan efek samping bermakna, dan tidak ada komorbid. Hasil evaluasi laboratorium terakhir menunjukkan CD4 meningkat dibandingkan awal terapi, namun hasil viral load pada bulan ke-12 masih terdeteksi. Pasien datang kontrol rutin tanpa keluhan klinis baru. Strategi pemantauan farmakoterapi yang paling tepat dilakukan selanjutnya adalah?",
+    "answer": "Melakukan pemeriksaan viral load ulang sesuai jadwal pemantauan berikutnya",
+    "options": [
+      "Melakukan pemeriksaan viral load ulang sesuai jadwal pemantauan berikutnya",
+      "Mengganti efavirens dengan nevirapine karena dugaan resistensi",
+      "Menghentikan sementara terapi antiretroviral untuk evaluasi",
+      "Melakukan pemeriksaan CD4 setiap bulan hingga viral load tidak terdeteksi",
+      "Menambahkan satu obat antiretroviral dari golongan protease inhibitor"
+    ]
+  },
+  {
+    "question": "Seorang perempuan 29 tahun dengan HIV baru terdiagnosis datang ke layanan kesehatan untuk memulai terapi antiretroviral. Pasien diketahui sedang hamil 10 minggu, fungsi ginjal dan fungsi hati dalam batas normal, serta tidak memiliki riwayat penyakit penyerta. Pasien menanyakan keamanan obat terhadap kehamilannya. Regimen farmakoterapi yang paling rasional untuk kondisi ini adalah?",
+    "answer": "Tenofovir, lamivudin, dan efavirens",
+    "options": [
+      "Zidovudin, lamivudin, dan nevirapine",
+      "Tenofovir, lamivudin, dan efavirens",
+      "Abacavir, lamivudin, dan lopinavir/ritonavir",
+      "Zidovudin, lamivudin, dan lopinavir/ritonavir",
+      "Tenofovir, emtricitabine, dan nevirapine"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV laki-laki 45 tahun telah menggunakan kombinasi tenofovir, lamivudin, dan efavirens selama 9 bulan. Pada evaluasi lanjutan ditemukan penurunan laju filtrasi glomerulus secara bertahap dan peningkatan kreatinin serum. Tidak ada obat lain yang dikonsumsi pasien. Penyesuaian farmakoterapi yang paling tepat adalah?",
+    "answer": "Mengganti tenofovir dengan zidovudin",
+    "options": [
+      "Mengganti efavirens dengan lopinavir/ritonavir",
+      "Mengganti lamivudin dengan emtricitabine",
+      "Mengganti tenofovir dengan zidovudin",
+      "Menghentikan seluruh regimen sementara",
+      "Menurunkan dosis efavirens"
+    ]
+  },
+  {
+    "question": "Seorang laki-laki 38 tahun dengan HIV diketahui memiliki koinfeksi hepatitis B kronik berdasarkan pemeriksaan serologi. Pasien belum pernah mendapatkan terapi antiretroviral sebelumnya dan tidak memiliki gangguan ginjal. Regimen antiretroviral yang paling sesuai untuk menangani kedua infeksi tersebut adalah?",
+    "answer": "Tenofovir, lamivudin, dan efavirens",
+    "options": [
+      "Zidovudin, lamivudin, dan nevirapine",
+      "Tenofovir, lamivudin, dan efavirens",
+      "Abacavir, lamivudin, dan efavirens",
+      "Zidovudin, emtricitabine, dan lopinavir/ritonavir",
+      "Tenofovir, lamivudin, dan lopinavir/ritonavir"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV 36 tahun sedang menjalani terapi tuberkulosis dengan regimen berbasis rifampisin. Pasien akan segera memulai terapi antiretroviral dan tidak memiliki komorbid lain. Kombinasi ARV lini pertama yang paling tepat untuk meminimalkan interaksi obat adalah?",
+    "answer": "Tenofovir, lamivudin, dan efavirens",
+    "options": [
+      "Zidovudin, lamivudin, dan nevirapine",
+      "Tenofovir, lamivudin, dan efavirens",
+      "Tenofovir, emtricitabine, dan lopinavir/ritonavir",
+      "Abacavir, lamivudin, dan nevirapine",
+      "Zidovudin, lamivudin, dan lopinavir/ritonavir"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dengan TB aktif mengalami kegagalan terapi lini pertama dan direncanakan menggunakan lopinavir/ritonavir sebagai bagian dari regimen lini kedua. Pasien masih harus melanjutkan rifampisin. Strategi farmakoterapi paling tepat untuk mengatasi interaksi ini adalah?",
+    "answer": "Mengganti rifampisin dengan streptomisin",
+    "options": [
+      "Menghentikan rifampisin tanpa mengganti obat lain",
+      "Mengganti rifampisin dengan streptomisin",
+      "Menghentikan ritonavir sebagai booster",
+      "Mengurangi dosis lopinavir/ritonavir",
+      "Mengganti lopinavir/ritonavir dengan nevirapine"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dengan TB aktif sedang menjalani ART dan terapi anti-TB. CD4 pasien masih dalam batas tinggi dan tidak ditemukan infeksi oportunistik lain. Terapi tambahan apakah yang tetap wajib diberikan sebagai bagian dari tatalaksana farmakoterapi?",
+    "answer": "Kotrimoksazol",
+    "options": [
+      "Fluconazole",
+      "Azitromisin",
+      "Kotrimoksazol",
+      "Acyclovir",
+      "Isoniazid"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV datang dengan diagnosis meningitis kriptokokus dan telah memulai terapi antijamur standar. Pasien dan keluarga menanyakan kapan terapi antiretroviral dapat dimulai. Waktu paling tepat memulai ART pada kondisi ini adalah?",
+    "answer": "Empat hingga enam minggu setelah terapi antijamur",
+    "options": [
+      "Bersamaan dengan terapi antijamur",
+      "Satu minggu setelah terapi antijamur",
+      "Dua minggu setelah terapi antijamur",
+      "Empat hingga enam minggu setelah terapi antijamur",
+      "Setelah seluruh terapi antijamur selesai"
+    ]
+  },
+  {
+    "question": "Seorang perawat mengalami luka tusuk jarum setelah menangani pasien HIV positif. Pasien sumber memiliki viral load tinggi. Terapi pencegahan pasca pajanan direncanakan. Durasi terapi yang paling tepat adalah?",
+    "answer": "28 hari",
+    "options": [
+      "7 hari",
+      "14 hari",
+      "21 hari",
+      "28 hari",
+      "3 bulan"
+    ]
+  },
+  {
+    "question": "Seorang anak usia 2 tahun 6 bulan dengan HIV memerlukan terapi antiretroviral lini pertama. Anak belum pernah mendapatkan ART sebelumnya dan tidak memiliki gangguan ginjal. Regimen farmakoterapi yang paling sesuai adalah?",
+    "answer": "Zidovudin, lamivudin, dan lopinavir/ritonavir",
+    "options": [
+      "Tenofovir, lamivudin, dan efavirens",
+      "Zidovudin, lamivudin, dan efavirens",
+      "Abacavir, lamivudin, dan lopinavir/ritonavir",
+      "Zidovudin, lamivudin, dan lopinavir/ritonavir",
+      "Tenofovir, emtricitabine, dan lopinavir/ritonavir"
+    ]
+  },
+  {
+    "question": "Seorang laki-laki 41 tahun dengan HIV telah menggunakan regimen zidovudin, lamivudin, dan efavirens selama 6 bulan. Pasien datang kontrol dengan keluhan cepat lelah dan pusing. Pemeriksaan laboratorium menunjukkan penurunan hemoglobin yang bermakna dibandingkan nilai awal terapi, sementara parameter lain relatif stabil. Strategi farmakoterapi yang paling tepat terkait kondisi ini adalah?",
+    "answer": "Mengganti zidovudin dengan abacavir",
+    "options": [
+      "Menghentikan efavirens dan mempertahankan dua NRTI",
+      "Mengganti zidovudin dengan abacavir",
+      "Menambahkan suplementasi zat besi tanpa mengubah regimen",
+      "Mengganti lamivudin dengan emtricitabine",
+      "Menghentikan sementara seluruh terapi antiretroviral"
+    ]
+  },
+  {
+    "question": "Seorang perempuan 35 tahun dengan HIV telah menjalani ART selama 2 tahun dan berada dalam kondisi klinis stabil. Hasil pemeriksaan menunjukkan viral load tidak terdeteksi dan CD4 stabil. Jadwal pemantauan terapi yang paling tepat terkait viral load pada pasien ini adalah?",
+    "answer": "Setiap 12 bulan",
+    "options": [
+      "Setiap 3 bulan",
+      "Setiap 6 bulan",
+      "Setiap 9 bulan",
+      "Setiap 12 bulan",
+      "Hanya jika CD4 menurun"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dewasa dengan riwayat TB paru telah menyelesaikan terapi TB dan kini mengalami kegagalan virologi pada regimen lini pertama berbasis efavirens. Pasien tidak memiliki gangguan ginjal maupun hati. Regimen lini kedua yang paling rasional adalah?",
+    "answer": "Tenofovir, emtricitabine, dan lopinavir/ritonavir",
+    "options": [
+      "Zidovudin, lamivudin, dan nevirapine",
+      "Tenofovir, emtricitabine, dan lopinavir/ritonavir",
+      "Abacavir, lamivudin, dan efavirens",
+      "Tenofovir, lamivudin, dan efavirens",
+      "Zidovudin, lamivudin, dan efavirens"
+    ]
+  },
+  {
+    "question": "Seorang anak usia 1 tahun 8 bulan dengan HIV direncanakan memulai ART. Dokter mempertimbangkan beberapa opsi obat. Obat manakah yang paling tepat untuk dihindari pada pasien ini?",
+    "answer": "Efavirens",
+    "options": [
+      "Zidovudin",
+      "Lamivudin",
+      "Lopinavir/ritonavir",
+      "Efavirens",
+      "Abacavir"
+    ]
+  },
+  {
+    "question": "Seorang laki-laki 37 tahun dengan HIV dan koinfeksi hepatitis B telah menggunakan ART berbasis tenofovir selama 1 tahun. Pasien mengalami penurunan fungsi ginjal secara bertahap. Penyesuaian farmakoterapi paling tepat adalah?",
+    "answer": "Mengganti tenofovir dengan zidovudin",
+    "options": [
+      "Menghentikan seluruh terapi antiretroviral",
+      "Mengganti tenofovir dengan zidovudin",
+      "Mengganti lamivudin with emtricitabine",
+      "Mengganti efavirens dengan nevirapine",
+      "Menambahkan ritonavir sebagai booster"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dengan TB aktif memerlukan ART. Dokter mempertimbangkan penggunaan nevirapine. Alasan farmakoterapi paling kuat untuk tidak memilih nevirapine pada kondisi ini adalah?",
+    "answer": "Risiko hepatotoksisitas dan interaksi dengan rifampisin",
+    "options": [
+      "Risiko nefrotoksisitas",
+      "Risiko anemia",
+      "Risiko hepatotoksisitas dan interaksi dengan rifampisin",
+      "Efektivitas virologi rendah",
+      "Risiko resistensi silang"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dewasa datang untuk konseling dan menanyakan alasan terapinya terdiri dari tiga obat berbeda. Penjelasan farmakoterapi yang paling tepat adalah?",
+    "answer": "Untuk mencegah resistensi dan meningkatkan supresi virus",
+    "options": [
+      "Untuk mengurangi efek samping masing-masing obat",
+      "Untuk mempermudah jadwal minum obat",
+      "Untuk mencegah resistensi dan meningkatkan supresi virus",
+      "Untuk menurunkan biaya pengobatan",
+      "Untuk meningkatkan CD4 secara instan"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dewasa tanpa komorbid telah memulai ART dan datang kontrol 6 bulan pertama. Parameter laboratorium apa yang paling penting dievaluasi pada kunjungan ini untuk menilai keberhasilan terapi?",
+    "answer": "Viral load",
+    "options": [
+      "CD4",
+      "Hemoglobin",
+      "Viral load",
+      "Fungsi hati",
+      "Fungsi ginjal"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dewasa menggunakan protease inhibitor dan mengalami peningkatan enzim hati. Dokter mempertimbangkan penggantian ke golongan lain dengan profil hepatotoksisitas lebih rendah. Golongan obat yang paling tepat adalah?",
+    "answer": "Integrase inhibitor",
+    "options": [
+      "NNRTI",
+      "NRTI",
+      "Integrase inhibitor",
+      "Entry inhibitor",
+      "Fusion inhibitor"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dewasa stabil telah menjalani ART selama 3 tahun. Pasien tidak memiliki keluhan dan kepatuhan baik. Tujuan utama pemantauan CD4 setiap 6 bulan pada pasien ini adalah?",
+    "answer": "Menilai pemulihan sistem imun pasien",
+    "options": [
+      "Menentukan dosis obat antiretroviral",
+      "Menilai keberhasilan supresi virus",
+      "Menilai pemulihan sistem imun pasien",
+      "Menentukan waktu penghentian terapi",
+      "Menilai kebutuhan penggantian regimen"
+    ]
+  },
+  {
+    "question": "Seorang laki-laki 36 tahun dengan HIV baru terdiagnosis akan memulai terapi antiretroviral. Pasien tidak memiliki komorbid, fungsi ginjal dan hati dalam batas normal, serta tidak sedang mengonsumsi obat lain. Dokter mempertimbangkan peralihan kebijakan dari regimen lama berbasis efavirens ke regimen terbaru berbasis dolutegravir sesuai rekomendasi WHO. Alasan farmakoterapi paling kuat yang mendukung pemilihan regimen berbasis dolutegravir pada pasien ini adalah?",
+    "answer": "Dolutegravir memiliki efektivitas virologi lebih baik dan angka resistensi lebih rendah",
+    "options": [
+      "Dolutegravir memiliki waktu paruh lebih panjang dibandingkan efavirens",
+      "Dolutegravir memiliki efektivitas virologi lebih baik dan angka resistensi lebih rendah",
+      "Dolutegravir lebih murah dibandingkan efavirens",
+      "Dolutegravir tidak memerlukan pemantauan laboratorium",
+      "Dolutegravir hanya digunakan bila terjadi kegagalan terapi efavirens"
+    ]
+  },
+  {
+    "question": "Seorang perempuan 30 tahun dengan HIV sedang merencanakan kehamilan. Pasien belum pernah mendapatkan ART sebelumnya dan tidak memiliki gangguan ginjal maupun hati. Dokter mempertimbangkan regimen berbasis dolutegravir sesuai WHO 2021. Pertimbangan keamanan farmakoterapi yang paling tepat terkait penggunaan dolutegravir pada pasien ini adalah?",
+    "answer": "Dolutegravir memiliki risiko neural tube defect lebih minimal dibandingkan efavirens",
+    "options": [
+      "Dolutegravir meningkatkan risiko neural tube defect secara signifikan",
+      "Dolutegravir dikontraindikasikan mutlak pada perempuan usia subur",
+      "Dolutegravir memiliki risiko neural tube defect lebih minimal dibandingkan efavirens",
+      "Dolutegravir hanya boleh digunakan setelah trimester kedua",
+      "Dolutegravir hanya digunakan bila efavirens gagal"
+    ]
+  },
+  {
+    "question": "Seorang laki-laki 42 tahun dengan HIV dan koinfeksi hepatitis B kronik akan memulai ART. Pasien belum pernah mendapatkan terapi sebelumnya dan fungsi ginjal dalam batas normal. Berdasarkan rekomendasi WHO 2021, regimen farmakoterapi yang paling rasional adalah?",
+    "answer": "Tenofovir, lamivudine, dan dolutegravir",
+    "options": [
+      "Tenofovir, lamivudine, dan efavirens",
+      "Tenofovir, lamivudine, dan dolutegravir",
+      "Abacavir, lamivudine, dan dolutegravir",
+      "Zidovudine, lamivudine, dan efavirens",
+      "Tenofovir, emtrisitabin, dan nevirapine"
+    ]
+  },
+
+  {
+    "question": "Seorang remaja 15 tahun dengan HIV akan memulai terapi antiretroviral. Pasien memiliki berat badan dan fungsi organ yang sesuai untuk regimen dewasa. Berdasarkan WHO 2021, regimen lini pertama yang paling tepat adalah?",
+    "answer": "Tenofovir, lamivudine, dan dolutegravir",
+    "options": [
+      "Tenofovir, lamivudine, dan efavirens",
+      "Abacavir, lamivudine, dan dolutegravir",
+      "Tenofovir, lamivudine, dan dolutegravir",
+      "Zidovudine, lamivudine, dan efavirens",
+      "Zidovudine, lamivudine, dan nevirapine"
+    ]
+  },
+  {
+    "question": "Seorang anak usia 7 tahun dengan HIV akan memulai terapi antiretroviral. Tidak terdapat gangguan ginjal maupun riwayat terapi sebelumnya. Regimen utama yang paling sesuai menurut WHO 2021 adalah?",
+    "answer": "Abacavir, lamivudine, dan dolutegravir",
+    "options": [
+      "Tenofovir, lamivudine, dan dolutegravir",
+      "Abacavir, lamivudine, dan dolutegravir",
+      "Zidovudine, lamivudine, dan nevirapine",
+      "Abacavir, lamivudine, dan lopinavir/ritonavir",
+      "Zidovudine, lamivudine, dan efavirens"
+    ]
+  },
+  {
+    "question": "Seorang anak dengan HIV telah menggunakan regimen abacavir, lamivudine, dan dolutegravir. Pasien mengalami intoleransi terhadap dolutegravir. Alternatif regimen yang paling tepat sesuai WHO 2021 adalah?",
+    "answer": "Abacavir, lamivudine, dan lopinavir/ritonavir",
+    "options": [
+      "Tenofovir, lamivudine, dan efavirens",
+      "Abacavir, lamivudine, dan lopinavir/ritonavir",
+      "Zidovudine, lamivudine, dan efavirens",
+      "Tenofovir alafenamide, emtrisitabin, dan nevirapine",
+      "Zidovudine, lamivudine, dan dolutegravir"
+    ]
+  },
+  {
+    "question": "Seorang bayi baru lahir dari ibu dengan HIV memerlukan terapi antiretroviral segera. Berdasarkan WHO 2021, regimen utama yang paling tepat untuk neonatus adalah?",
+    "answer": "Zidovudine atau abacavir, lamivudine, dan raltegravir",
+    "options": [
+      "Abacavir, lamivudine, dan dolutegravir",
+      "Zidovudine, lamivudine, dan nevirapine",
+      "Zidovudine atau abacavir, lamivudine, dan raltegravir",
+      "Tenofovir, lamivudine, dan dolutegravir",
+      "Zidovudine, emtrisitabin, dan efavirens"
+    ]
+  },
+  {
+    "question": "Seorang dokter mempertimbangkan peralihan kebijakan nasional dari regimen efavirens ke dolutegravir. Dari sisi farmakoterapi populasi, faktor manakah yang paling mendukung prioritas penggunaan dolutegravir?",
+    "answer": "Dolutegravir memiliki angka resistensi lebih rendah secara global",
+    "options": [
+      "Dolutegravir tidak memerlukan kombinasi obat lain",
+      "Dolutegravir memiliki angka resistensi lebih rendah secara global",
+      "Dolutegravir hanya efektif pada viral load rendah",
+      "Dolutegravir menggantikan seluruh golongan NRTI",
+      "Dolutegravir tidak memiliki efek samping sama sekali"
+    ]
+  },
+  {
+    "question": "Seorang perempuan usia 28 tahun dengan HIV baru terdiagnosis, saat ini hamil trimester pertama. Ia belum pernah mendapat terapi antiretroviral sebelumnya. Riwayat penyakit lain tidak ada, fungsi ginjal dan hati dalam batas normal, serta tidak terdapat koinfeksi hepatitis B. Dokter mempertimbangkan penggunaan regimen lini pertama sesuai rekomendasi WHO terbaru dengan pertimbangan efektivitas, keamanan pada kehamilan, dan risiko resistensi jangka panjang. Regimen manakah yang paling tepat diberikan sebagai terapi awal pada pasien ini?",
+    "answer": "Tenofovir + Lamivudine + Dolutegravir",
+    "options": [
+      "Tenofovir + Lamivudine + Dolutegravir",
+      "Tenofovir + Lamivudine + Efavirens 400 mg",
+      "Zidovudine + Lamivudine + Nevirapine",
+      "Abacavir + Lamivudine + Lopinavir-Ritonavir",
+      "Zidovudine + Lamivudine + Raltegravir"
+    ]
+  },
+  {
+    "question": "Seorang pasien laki-laki usia 35 tahun dengan HIV menjalani terapi antiretroviral berbasis efavirens selama beberapa tahun. Saat ini viral load meningkat meskipun kepatuhan minum obat baik. Tidak ditemukan interaksi obat atau masalah penyerapan. Dokter mencurigai resistensi terhadap regimen lama dan ingin mengganti ke regimen yang lebih direkomendasikan oleh WHO 2021. Alasan utama pemilihan regimen baru berbasis dolutegravir dibandingkan efavirens adalah?",
+    "answer": "Dolutegravir memiliki risiko resistensi yang lebih rendah dibandingkan efavirens",
+    "options": [
+      "Dolutegravir memiliki risiko resistensi yang lebih rendah dibandingkan efavirens",
+      "Dolutegravir tidak memerlukan kombinasi dengan NRTI",
+      "Efavirens tidak dapat digunakan pada pasien dewasa",
+      "Dolutegravir hanya digunakan pada pasien dengan hepatitis B",
+      "Efavirens memiliki efektivitas virologis yang lebih tinggi dibandingkan dolutegravir"
+    ]
+  },
+  {
+    "question": "Seorang anak usia 6 tahun dengan HIV belum pernah mendapatkan terapi antiretroviral. Pemeriksaan fungsi ginjal dan hati dalam batas normal, tidak terdapat koinfeksi. Dokter ingin memberikan regimen lini pertama sesuai rekomendasi WHO 2021 yang paling optimal untuk kelompok usia ini. Regimen manakah yang paling tepat?",
+    "answer": "Abacavir + Lamivudine + Dolutegravir",
+    "options": [
+      "Abacavir + Lamivudine + Dolutegravir",
+      "Tenofovir + Lamivudine + Efavirens",
+      "Zidovudine + Lamivudine + Nevirapine",
+      "Tenofovir alafenamide + Emtricitabine + Efavirens",
+      "Zidovudine + Lamivudine + Raltegravir"
+    ]
+  },
+  {
+    "question": "Seorang neonatus lahir dari ibu dengan HIV yang belum mendapatkan terapi antiretroviral selama kehamilan. Bayi tersebut memerlukan terapi ARV segera sesuai rekomendasi WHO 2021. Regimen manakah yang paling tepat digunakan sebagai lini pertama pada neonatus ini?",
+    "answer": "Zidovudine + Lamivudine + Raltegravir",
+    "options": [
+      "Zidovudine + Lamivudine + Raltegravir",
+      "Abacavir + Lamivudine + Dolutegravir",
+      "Zidovudine + Lamivudine + Efavirens",
+      "Tenofovir + Lamivudine + Dolutegravir",
+      "Zidovudine + Lamivudine + Nevirapine"
+    ]
+  },
+  {
+    "question": "Seorang perempuan usia 32 tahun dengan HIV dan koinfeksi hepatitis B kronik akan memulai terapi antiretroviral. Ia belum pernah mendapatkan ARV sebelumnya. Berdasarkan rekomendasi WHO 2021, regimen mana yang paling tepat dipilih sebagai terapi awal?",
+    "answer": "Tenofovir + Lamivudine + Dolutegravir",
+    "options": [
+      "Tenofovir + Lamivudine + Dolutegravir",
+      "Zidovudine + Lamivudine + Efavirens",
+      "Abacavir + Lamivudine + Nevirapine",
+      "Zidovudine + Lamivudine + Raltegravir",
+      "Tenofovir + Emtricitabine + Efavirens"
+    ]
+  },
+  {
+    "question": "Seorang pasien dewasa dengan HIV mengeluhkan gangguan neuropsikiatri berupa gangguan tidur dan mood depresi setelah menggunakan regimen berbasis efavirens. Viral load sudah terkontrol namun kualitas hidup menurun. Dokter berencana mengganti regimen sesuai rekomendasi WHO 2021. Regimen pengganti yang paling rasional adalah?",
+    "answer": "Tenofovir + Lamivudine + Dolutegravir",
+    "options": [
+      "Tenofovir + Lamivudine + Dolutegravir",
+      "Tenofovir + Lamivudine + Nevirapine",
+      "Zidovudine + Lamivudine + Efavirens",
+      "Abacavir + Lamivudine + Lopinavir-Ritonavir",
+      "Zidovudine + Lamivudine + Raltegravir"
+    ]
+  },
+  {
+    "question": "Seorang dokter mempertimbangkan perubahan kebijakan terapi HIV di fasilitas kesehatannya sesuai rekomendasi WHO 2021. Tujuan utama perubahan tersebut adalah meningkatkan keberhasilan terapi jangka panjang dan menurunkan kegagalan virologis. Faktor utama yang mendasari prioritisasi regimen berbasis dolutegravir dibandingkan efavirens atau nevirapine adalah?",
+    "answer": "Efektivitas virologis lebih tinggi dan risiko resistensi lebih rendah",
+    "options": [
+      "Efektivitas virologis lebih tinggi dan risiko resistensi lebih rendah",
+      "Harga dolutegravir lebih murah dibandingkan efavirens",
+      "Dolutegravir hanya dapat digunakan pada pasien anak",
+      "Efavirens tidak memiliki aktivitas antivirus",
+      "Nevirapine lebih efektif pada viral load tinggi"
+    ]
+  },
+  {
+    "question": "Seorang laki-laki usia 29 tahun baru terdiagnosis HIV melalui skrining rutin. Pasien dalam kondisi klinis stabil, tidak ditemukan tanda maupun gejala infeksi oportunistik, serta hasil pemeriksaan penunjang tidak menunjukkan koinfeksi aktif. Pemeriksaan CD4 dilakukan sebagai bagian dari evaluasi awal, namun dokter tidak menunggu hasil tersebut untuk menentukan waktu inisiasi terapi antiretroviral. Kapan waktu paling tepat untuk memulai terapi ARV pada pasien ini?",
+    "answer": "Segera, maksimal dalam 7 hari setelah diagnosis dan penilaian klinis",
+    "options": [
+      "Segera, maksimal dalam 7 hari setelah diagnosis dan penilaian klinis",
+      "Setelah hasil CD4 keluar dan dipastikan > 200 sel/µL",
+      "Setelah pasien menunjukkan gejala klinis HIV",
+      "Setelah 1 bulan observasi tanpa terapi",
+      "Setelah dilakukan profilaksis infeksi oportunistik terlebih dahulu"
+    ]
+  },
+  {
+    "question": "Seorang perempuan usia 34 tahun dengan HIV terdiagnosis bersamaan dengan tuberkulosis paru sensitif obat. Saat ini pasien baru memulai terapi anti-TB dan dalam kondisi klinis stabil tanpa tanda imunosupresi berat. Dokter merencanakan terapi ARV dengan mempertimbangkan risiko IRIS dan keberhasilan pengobatan TB. Kapan waktu paling tepat untuk memulai terapi ARV pada pasien ini?",
+    "answer": "Dalam 2–8 minggu pertama setelah pengobatan TB dimulai",
+    "options": [
+      "Bersamaan dengan hari pertama pengobatan TB",
+      "Dalam 2–8 minggu pertama setelah pengobatan TB dimulai",
+      "Setelah fase intensif TB selesai",
+      "Setelah seluruh rangkaian pengobatan TB selesai",
+      "Setelah viral load HIV meningkat"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dengan koinfeksi TB paru menjalani pemeriksaan imunologi dan didapatkan nilai CD4 sebesar 35 sel/µL. Pasien baru memulai terapi anti-TB dan tidak menunjukkan tanda meningitis. Mengingat kondisi imunosupresi berat, dokter mempertimbangkan waktu inisiasi ARV yang paling tepat untuk menurunkan risiko kematian. Kapan terapi ARV sebaiknya dimulai?",
+    "answer": "Dalam 2 minggu pertama pengobatan TB",
+    "options": [
+      "Dalam 2 minggu pertama pengobatan TB",
+      "Dalam 2–8 minggu pertama pengobatan TB",
+      "Setelah fase intensif TB selesai",
+      "Setelah CD4 meningkat di atas 50 sel/µL",
+      "Setelah pengobatan TB selesai seluruhnya"
+    ]
+  },
+  {
+    "question": "Seorang laki-laki usia 40 tahun dengan HIV didiagnosis menderita TB meningitis. Pasien saat ini berada pada fase intensif pengobatan TB dan belum pernah mendapatkan terapi ARV sebelumnya. Dokter mempertimbangkan risiko peningkatan tekanan intrakranial dan mortalitas bila ARV diberikan terlalu dini. Kapan waktu paling tepat untuk memulai terapi ARV pada pasien ini?",
+    "answer": "Setelah fase intensif TB selesai, sekitar 8 minggu",
+    "options": [
+      "Bersamaan dengan terapi anti-TB",
+      "Dalam 2 minggu pertama pengobatan TB",
+      "Dalam 2–8 minggu pertama pengobatan TB",
+      "Setelah fase intensif TB selesai, sekitar 8 minggu",
+      "Setelah seluruh pengobatan TB selesai"
+    ]
+  },
+  {
+    "question": "Seorang perempuan usia 36 tahun dengan HIV dirawat karena meningitis kriptokokus dan sedang mendapatkan terapi antijamur. Pasien belum pernah menerima ARV sebelumnya. Dokter mempertimbangkan waktu inisiasi ARV yang optimal untuk menurunkan risiko kematian dan komplikasi IRIS. Kapan terapi ARV sebaiknya dimulai?",
+    "answer": "Ditunda hingga 4–6 minggu setelah terapi antijamur",
+    "options": [
+      "Bersamaan dengan pemberian antijamur",
+      "Dalam 1 minggu setelah terapi antijamur",
+      "Setelah 2 minggu terapi antijamur",
+      "Ditunda hingga 4–6 minggu setelah terapi antijamur",
+      "Setelah seluruh terapi antijamur selesai"
+    ]
+  },
+  {
+    "question": "Seorang ODHA tanpa gejala infeksi oportunistik menjalani pemeriksaan CD4 sebagai bagian dari evaluasi awal. Dokter menjelaskan bahwa hasil CD4 tidak digunakan untuk menentukan kapan ARV dimulai, tetapi memiliki peran penting dalam aspek lain tatalaksana. Peran utama pemeriksaan CD4 pada kondisi ini adalah?",
+    "answer": "Menentukan indikasi pemberian profilaksis infeksi oportunistik",
+    "options": [
+      "Menentukan indikasi pemberian profilaksis infeksi oportunistik",
+      "Menentukan regimen ARV lini pertama",
+      "Menentukan dosis awal ARV",
+      "Menentukan waktu penundaan terapi ARV",
+      "Menentukan kebutuhan terapi anti-TB"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV datang dengan koinfeksi TB paru dan CD4 120 sel/µL. Dokter mempertimbangkan waktu inisiasi ARV dengan tujuan menekan replikasi virus tanpa meningkatkan risiko IRIS berat. Pasien tidak menunjukkan tanda meningitis. Pendekatan waktu pemberian ARV yang paling tepat adalah?",
+    "answer": "Dalam 2–8 minggu pertama pengobatan TB",
+    "options": [
+      "Bersamaan dengan terapi TB",
+      "Dalam 2 minggu pertama pengobatan TB",
+      "Dalam 2–8 minggu pertama pengobatan TB",
+      "Setelah fase intensif TB selesai",
+      "Setelah pengobatan TB selesai seluruhnya"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dewasa telah stabil selama 1 tahun menggunakan regimen Tenofovir + Lamivudine + Dolutegravir. Pada evaluasi lanjutan ditemukan penurunan fungsi ginjal progresif yang dicurigai berkaitan dengan penggunaan salah satu komponen ARV. Dokter memutuskan melakukan penggantian obat tanpa mengubah jumlah total obat dan tetap mempertahankan efektivitas regimen. Regimen pengganti yang paling tepat adalah?",
+    "answer": "Zidovudin + Lamivudine + Dolutegravir",
+    "options": [
+      "Abacavir + Lamivudine + Dolutegravir",
+      "Zidovudin + Emtricitabine + Efavirens",
+      "Zidovudin + Lamivudine + Dolutegravir",
+      "Tenofovir + Emtricitabine + Dolutegravir",
+      "Stavudin + Lamivudine + Nevirapine"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV menggunakan regimen Zidovudin + Lamivudine + Efavirens. Setelah beberapa bulan, pasien mengalami anemia berat yang dikaitkan dengan salah satu komponen ARV. Dokter ingin mengganti obat penyebab masalah tanpa mengubah komponen lain yang masih dapat ditoleransi. Regimen manakah yang paling rasional setelah penggantian?",
+    "answer": "Tenofovir + Lamivudine + Efavirens",
+    "options": [
+      "Zidovudin + Emtricitabine + Efavirens",
+      "Tenofovir + Lamivudine + Efavirens",
+      "Abacavir + Lamivudine + Efavirens",
+      "Stavudin + Lamivudine + Nevirapine",
+      "Tenofovir + Emtricitabine + Dolutegravir"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV yang sebelumnya stabil menggunakan regimen Tenofovir + Lamivudine + Efavirens mengeluhkan gangguan neuropsikiatri berupa mimpi buruk dan perubahan mood yang signifikan. Viral load terkontrol dan fungsi organ lain normal. Dokter memutuskan mengganti satu obat berdasarkan prinsip farmakoterapi. Regimen baru yang paling tepat adalah?",
+    "answer": "Zidovudin + Lamivudine + Efavirens",
+    "options": [
+      "Zidovudin + Emtricitabine + Nevirapine",
+      "Tenofovir + Lamivudine + Nevirapine",
+      "Abacavir + Lamivudine + Dolutegravir",
+      "Zidovudin + Lamivudine + Rilpivirin",
+      "Zidovudin + Lamivudine + Efavirens"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV menggunakan regimen Zidovudin + Lamivudine + Nevirapine. Setelah evaluasi, pasien mengalami reaksi hepatotoksik yang diduga berkaitan dengan salah satu obat. Dokter memutuskan melakukan penggantian sesuai prinsip yang telah ditetapkan. Regimen pengganti yang paling sesuai adalah?",
+    "answer": "Zidovudin + Lamivudine + Efavirens",
+    "options": [
+      "Zidovudin + Emtricitabine + Nevirapine",
+      "Tenofovir + Lamivudine + Nevirapine",
+      "Abacavir + Lamivudine + Dolutegravir",
+      "Zidovudin + Lamivudine + Rilpivirin",
+      "Zidovudin + Lamivudine + Efavirens"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV mengalami kegagalan toleransi terhadap lamivudine yang ditandai dengan reaksi hipersensitivitas berulang. Dokter ingin mengganti obat tersebut tanpa mengubah komponen lain dalam regimen. Berdasarkan prinsip penggantian obat HIV, pilihan yang paling tepat adalah?",
+    "answer": "Mengganti lamivudine dengan emtricitabine",
+    "options": [
+      "Mengganti lamivudine dengan zidovudin",
+      "Mengganti lamivudine dengan dolutegravir",
+      "Mengganti lamivudine dengan emtricitabine",
+      "Mengganti lamivudine dengan nevirapine",
+      "Mengganti lamivudine dengan tenofovir"
+    ]
+  },
+  {
+    "question": "Seorang dokter hendak menyusun ulang regimen ARV pada pasien HIV yang mengalami intoleransi terhadap satu obat, dengan tetap berpegang pada prinsip dasar terapi HIV. Prinsip utama yang harus dipertahankan saat melakukan penggantian obat ARV adalah?",
+    "answer": "Regimen tetap terdiri dari 3 obat dari kelompok berbeda",
+    "options": [
+      "Semua obat diganti sekaligus",
+      "Regimen selalu berbasis efavirens",
+      "Regimen dapat dikurangi menjadi 2 obat",
+      "Regimen tetap terdiri dari 3 obat dari kelompok berbeda",
+      "Penggantian hanya boleh pada protease inhibitor"
+    ]
+  },
+  {
+    "question": "Seorang laki-laki usia 32 tahun dengan HIV baru terdiagnosis datang untuk perencanaan terapi awal. Pasien belum memulai ARV, tidak ada koinfeksi TB, dan tidak sedang hamil. Pemeriksaan imunologi menunjukkan CD4 sebesar 180 sel/µL tanpa tanda infeksi oportunistik aktif. Dokter merencanakan pemberian profilaksis infeksi oportunistik sebelum inisiasi ARV. Keputusan farmakoterapi yang paling tepat terkait profilaksis pada pasien ini adalah?",
+    "answer": "Memberikan kotrimoksazol karena CD4 ≤ 200 sel/µL",
+    "options": [
+      "Memberikan kotrimoksazol setelah ARV dimulai",
+      "Tidak memberikan profilaksis karena pasien asimtomatik",
+      "Memberikan isoniazid saja selama 6 bulan",
+      "Memberikan kotrimoksazol karena CD4 ≤ 200 sel/µL",
+      "Menunda profilaksis hingga CD4 < 100 sel/µL"
+    ]
+  },
+  {
+    "question": "Seorang perempuan usia 29 tahun dengan HIV direncanakan memulai terapi ARV dua minggu ke depan. Dokter memberikan kotrimoksazol sebagai bagian dari tatalaksana awal sebelum ARV. Selain pencegahan infeksi oportunistik, alasan farmakoterapi lain dari pemberian kotrimoksazol sebelum ARV adalah?",
+    "answer": "Menilai kepatuhan pasien dan efek samping tumpang tindih",
+    "options": [
+      "Mengurangi risiko resistensi ARV",
+      "Menilai kepatuhan pasien dan efek samping tumpang tindih",
+      "Menggantikan peran ARV sementara",
+      "Meningkatkan kadar CD4 sebelum ARV",
+      "Mempercepat penurunan viral load"
+    ]
+  },
+  {
+    "question": "Seorang anak usia 4 tahun dengan HIV datang untuk evaluasi lanjutan. Tidak terdapat tanda infeksi oportunistik aktif. Pemeriksaan CD4 menunjukkan nilai 45 sel/µL. Berdasarkan kondisi tersebut, keputusan terkait profilaksis infeksi oportunistik yang paling tepat adalah?",
+    "answer": "Memberikan profilaksis kotrimoksazol karena CD4 < 50 sel/µL",
+    "options": [
+      "Tidak perlu profilaksis karena tidak ada gejala",
+      "Memberikan profilaksis hanya bila stadium klinis 3 atau 4",
+      "Memberikan profilaksis kotrimoksazol karena CD4 < 50 sel/µL",
+      "Menunda profilaksis sampai anak berusia > 5 tahun",
+      "Memberikan profilaksis TB dengan isoniazid saja"
+    ]
+  },
+  {
+    "question": "Seorang bayi usia 6 bulan terdiagnosis HIV. Bayi belum menunjukkan gejala infeksi oportunistik dan belum dilakukan pemeriksaan CD4. Dokter mempertimbangkan pemberian profilaksis. Pendekatan farmakoterapi yang paling tepat adalah?",
+    "answer": "Memberikan kotrimoksazol tanpa melihat nilai CD4",
+    "options": [
+      "Menunggu hasil CD4 sebelum memberikan profilaksis",
+      "Memberikan profilaksis hanya bila CD4 < 200 sel/µL",
+      "Tidak memberikan profilaksis karena usia < 1 tahun",
+      "Memberikan kotrimoksazol tanpa melihat nilai CD4",
+      "Memberikan isoniazid sebagai satu-satunya profilaksis"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dewasa telah menerima profilaksis kotrimoksazol selama beberapa bulan. Evaluasi terbaru menunjukkan peningkatan CD4 menjadi 260 sel/µL secara konsisten dan pasien stabil secara klinis. Keputusan farmakoterapi yang paling tepat terkait kelanjutan kotrimoksazol adalah?",
+    "answer": "Menghentikan kotrimoksazol karena CD4 > 200 sel/µL",
+    "options": [
+      "Melanjutkan kotrimoksazol seumur hidup",
+      "Menghentikan kotrimoksazol karena CD4 > 200 sel/µL",
+      "Mengganti kotrimoksazol dengan isoniazid",
+      "Menghentikan kotrimoksazol hanya jika viral load tidak terdeteksi",
+      "Mengurangi dosis kotrimoksazol secara bertahap"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dengan CD4 350 sel/µL didiagnosis koinfeksi tuberkulosis laten. Dokter ingin memberikan profilaksis TB sesuai pedoman. Pendekatan yang paling tepat adalah?",
+    "answer": "Memberikan isoniazid selama 6 bulan tanpa melihat CD4",
+    "options": [
+      "Memberikan isoniazid hanya bila CD4 < 200 sel/µL",
+      "Memberikan isoniazid selama 6 bulan tanpa melihat CD4",
+      "Menunda profilaksis TB sampai ARV stabil",
+      "Memberikan kotrimoksazol sebagai pengganti isoniazid",
+      "Tidak memberikan profilaksis TB karena CD4 normal"
+    ]
+  },
+  {
+    "question": "Seorang remaja dengan HIV stadium klinis 4 memiliki CD4 sebesar 280 sel/µL. Pasien belum pernah mendapatkan profilaksis infeksi oportunistik. Berdasarkan kondisi tersebut, keputusan farmakoterapi yang paling tepat adalah?",
+    "answer": "Memberikan profilaksis kotrimoksazol karena stadium klinis lanjut",
+    "options": [
+      "Tidak memberikan profilaksis karena CD4 > 200 sel/µL",
+      "Memberikan profilaksis kotrimoksazol karena stadium klinis lanjut",
+      "Menunggu penurunan CD4 sebelum memberikan profilaksis",
+      "Memberikan profilaksis TB saja",
+      "Memberikan profilaksis hanya setelah ARV dimulai"
+    ]
+  },
+  {
+    "question": "Seorang bayi lahir dari ibu dengan HIV yang terdiagnosis sejak sebelum kehamilan dan rutin mengonsumsi terapi ARV kombinasi. Persalinan berlangsung normal dan bayi lahir stabil. Dokter ingin segera memulai profilaksis ARV pada neonatus untuk mencegah transmisi vertikal. Kapan waktu paling tepat untuk memulai terapi profilaksis pada bayi ini?",
+    "answer": "Dalam 6–12 jam setelah lahir dan tidak lebih dari 72 jam",
+    "options": [
+      "Segera setelah lahir tanpa batas waktu tertentu",
+      "Dalam 24 jam pertama setelah lahir tanpa memperhatikan batas maksimal",
+      "Dalam 6–12 jam setelah lahir dan tidak lebih dari 72 jam",
+      "Setelah usia bayi mencapai 6 minggu",
+      "Setelah hasil pemeriksaan HIV bayi tersedia"
+    ]
+  },
+  {
+    "question": "Seorang bayi lahir dari ibu HIV yang tidak memberikan ASI dan memilih susu formula. Bayi telah mendapatkan profilaksis ARV sesuai waktu yang dianjurkan. Dokter perlu menentukan durasi terapi profilaksis yang tepat pada kondisi ini. Pendekatan farmakoterapi yang paling sesuai adalah?",
+    "answer": "Zidovudin selama 6 minggu",
+    "options": [
+      "Zidovudin selama 2 minggu",
+      "Zidovudin selama 4 minggu",
+      "Zidovudin selama 6 minggu",
+      "Zidovudin + Nevirapine selama 6 minggu",
+      "Nevirapine tunggal selama 6 minggu"
+    ]
+  },
+  {
+    "question": "Seorang bayi lahir dari ibu dengan HIV yang mengonsumsi ARV kombinasi secara teratur selama kehamilan dan memutuskan untuk menyusui bayinya. Dokter mempertimbangkan risiko transmisi HIV melalui ASI. Regimen profilaksis neonatus yang paling tepat pada kondisi ini adalah?",
+    "answer": "Zidovudin + Nevirapine selama 6 minggu",
+    "options": [
+      "Zidovudin tunggal selama 6 minggu",
+      "Nevirapine tunggal selama 6 minggu",
+      "Zidovudin + Nevirapine selama 6 minggu",
+      "Zidovudin + Lamivudine selama 6 minggu",
+      "Zidovudin + Efavirens selama 6 minggu"
+    ]
+  },
+  {
+    "question": "Seorang bayi usia 6 minggu lahir dari ibu HIV dan telah menyelesaikan terapi profilaksis ARV neonatal. Status HIV bayi belum dapat dipastikan secara definitif. Dokter mempertimbangkan terapi tambahan untuk mencegah infeksi oportunistik. Pendekatan farmakoterapi yang paling tepat adalah?",
+    "answer": "Memberikan kotrimoksazol mulai usia 6 minggu sampai terbukti tidak HIV",
+    "options": [
+      "Menghentikan semua terapi sampai status HIV pasti",
+      "Memberikan kotrimoksazol sampai CD4 bayi diperiksa",
+      "Memberikan kotrimoksazol mulai usia 6 minggu sampai terbukti tidak HIV",
+      "Memberikan isoniazid sebagai profilaksis utama",
+      "Memberikan ARV kombinasi dosis penuh"
+    ]
+  },
+  {
+    "question": "Seorang tenaga kesehatan ingin mengevaluasi tujuan utama pemberian profilaksis ARV pada neonatus yang lahir dari ibu dengan HIV. Fokus utama intervensi farmakoterapi ini adalah?",
+    "answer": "Mencegah transmisi vertikal HIV saat persalinan dan menyusui",
+    "options": [
+      "Menurunkan viral load ibu setelah persalinan",
+      "Meningkatkan sistem imun neonatus secara langsung",
+      "Mencegah transmisi vertikal HIV saat persalinan dan menyusui",
+      "Mengobati infeksi HIV laten pada neonatus",
+      "Menggantikan peran terapi ARV pada ibu"
+    ]
+  },
+  {
+    "question": "Seorang pasien laki-laki usia 35 tahun dengan HIV/AIDS datang dengan keluhan sakit kepala hebat, demam, mual, dan kaku kuduk sejak 2 minggu terakhir. Pemeriksaan cairan serebrospinal menunjukkan tekanan pembukaan meningkat, pewarnaan tinta India positif, dan antigen kriptokokus positif. Pasien belum pernah mendapatkan terapi infeksi oportunistik sebelumnya. Terapi fase awal (induksi) yang paling tepat pada pasien ini adalah?",
+    "answer": "Amfoterisin B intravena + Flukonazol oral selama 2 minggu",
+    "options": [
+      "Flukonazol oral dosis tinggi selama 8 minggu",
+      "Amfoterisin B intravena + Flukonazol oral selama 2 minggu",
+      "Amfoterisin B intravena tunggal selama 6 minggu",
+      "Pirimetamin + Sulfadiazin + Leukovorin",
+      "Gansiklovir intravena selama 21 hari"
+    ]
+  },
+  {
+    "question": "Seorang pasien perempuan dengan HIV stadium lanjut mengeluh sakit kepala kronis, penurunan kesadaran, dan gangguan neurologis fokal. Pemeriksaan penunjang mengarah pada meningitis tuberkulosis. Dokter ingin memulai terapi lini pertama sesuai pedoman nasional. Regimen terapi yang paling tepat adalah?",
+    "answer": "2HRZS/10HR",
+    "options": [
+      "2HRZE/4HR",
+      "2HRZS/10HR",
+      "2HRZS/4HR",
+      "HR seumur hidup",
+      "Pirimetamin + Sulfadiazin + Leukovorin"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV dengan CD4 sangat rendah datang dengan keluhan kejang, sakit kepala, dan penurunan kesadaran. CT-scan kepala menunjukkan lesi multipel berbentuk cincin (ring-enhancing lesions). Dokter mencurigai ensefalitis toksoplasma. Regimen farmakoterapi yang paling tepat adalah?",
+    "answer": "Pirimetamin + Sulfadiazin + Leukovorin",
+    "options": [
+      "Amfoterisin B + Flukonazol",
+      "Gansiklovir atau Valgansiklovir",
+      "Pirimetamin + Sulfadiazin + Leukovorin",
+      "Asam Trikloroasetat topikal",
+      "Rifampisin + Isoniazid + Pirazinamid"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV datang dengan keluhan lesi kulit di daerah anogenital berupa kutil multipel yang tidak nyeri. Pemeriksaan klinis sesuai dengan infeksi kulit anogenital akibat virus oportunistik. Terapi yang paling tepat berdasarkan kondisi ini adalah?",
+    "answer": "Asam Trikloroasetat topikal",
+    "options": [
+      "Gansiklovir intravena",
+      "Pirimetamin oral",
+      "Flukonazol oral",
+      "Asam Trikloroasetat topikal",
+      "Amfoterisin B intravena"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV/AIDS dengan CD4 < 50 sel/mm³ mengalami penurunan tajam ketajaman penglihatan. Pemeriksaan oftalmologi menunjukkan retinitis sitomegalovirus (CMV). Terapi farmakologis yang paling tepat untuk kondisi ini adalah?",
+    "answer": "Gansiklovir",
+    "options": [
+      "Flukonazol oral jangka panjang",
+      "Pirimetamin + Sulfadiazin",
+      "Amfoterisin B intravena",
+      "Gansiklovir",
+      "Asam Trikloroasetat"
+    ]
+  },
+  {
+    "question": "Seorang ODHA laki-laki 44 tahun telah menjalani terapi ARV selama 18 bulan dengan kombinasi Tenofovir, Lamivudin, dan Efavirens. Pasien juga rutin mengonsumsi amlodipin dan metformin. Dalam 3 bulan terakhir, pasien mengeluh mudah lelah, nyeri tulang pinggang bilateral, dan sering berkemih. Pemeriksaan laboratorium menunjukkan GFR menurun progresif, fosfat serum rendah, serta ditemukan glukosuria meskipun kadar glukosa darah puasa normal. Dari seluruh obat yang dikonsumsi pasien, obat manakah yang paling mungkin menjadi penyebab utama kondisi tersebut?",
+    "answer": "Tenofovir",
+    "options": [
+      "Efavirens",
+      "Metformin",
+      "Amlodipin",
+      "Tenofovir",
+      "Lamivudin"
+    ]
+  },
+  {
+    "question": "Seorang perempuan 39 tahun dengan HIV dan koinfeksi hepatitis B telah stabil menggunakan kombinasi Tenofovir, Lamivudin, dan Dolutegravir selama 2 tahun. Karena alasan pribadi, pasien menghentikan seluruh obatnya tanpa konsultasi. Enam minggu kemudian pasien datang dengan keluhan mual, nyeri perut kanan atas, ikterus, dan peningkatan tajam SGOT serta SGPT. Dari obat yang sebelumnya digunakan, penghentian obat manakah yang paling berperan terhadap kondisi pasien saat ini?",
+    "answer": "Tenofovir",
+    "options": [
+      "Dolutegravir",
+      "Lamivudin",
+      "Tenofovir",
+      "Obat hepatoprotektor yang tidak disebutkan",
+      "Efek kumulatif seluruh ARV"
+    ]
+  },
+  
+  {
+    "question": "Seorang ODHA laki-laki 52 tahun dengan riwayat osteoporosis dan hipertensi terkontrol menjalani terapi ARV berbasis Tenofovir, Emtricitabine, dan Efavirens selama 4 tahun. Pasien datang tanpa keluhan spesifik, namun hasil evaluasi rutin menunjukkan penurunan signifikan densitas mineral tulang dibandingkan tahun sebelumnya. Tidak ditemukan gangguan fungsi ginjal maupun kelainan elektrolit bermakna. Obat manakah yang paling berkontribusi terhadap temuan tersebut?",
+    "answer": "Tenofovir",
+    "options": [
+      "Efavirens",
+      "Emtricitabine",
+      "Tenofovir",
+      "Obat antihipertensi",
+      "Interaksi antar NRTI"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV berusia 47 tahun menjalani terapi ARV dengan kombinasi Tenofovir, Lamivudin, dan Dolutegravir. Pasien datang ke IGD dengan keluhan mual hebat, nyeri perut, napas cepat dan dalam, serta penurunan kesadaran ringan. Pemeriksaan laboratorium menunjukkan asidosis metabolik dengan kadar laktat meningkat tajam. Dari obat yang digunakan pasien, obat manakah yang paling mungkin menjadi penyebab utama kondisi ini?",
+    "answer": "Tenofovir",
+    "options": [
+      "Dolutegravir",
+      "Lamivudin",
+      "Tenofovir",
+      "Obat antiemetik yang diberikan di IGD",
+      "Kombinasi Dolutegravir dan Lamivudin"
+    ]
+  },
+  {
+    "question": "Seorang ODHA perempuan 45 tahun dengan diabetes melitus terkontrol dan hipertensi tidak terkontrol memulai terapi ARV kombinasi. Tiga bulan kemudian, pasien mengalami penurunan fungsi ginjal signifikan tanpa tanda dehidrasi atau infeksi. Regimen yang digunakan adalah Tenofovir, Lamivudin, dan Efavirens. Berdasarkan farmakoterapi yang digunakan, obat manakah yang paling mungkin berperan terhadap penurunan fungsi ginjal pasien?",
+    "answer": "Tenofovir",
+    "options": [
+      "Efavirens",
+      "Lamivudin",
+      "Tenofovir",
+      "Interaksi Efavirens dan Lamivudin",
+      "Penyakit penyerta pasien"
+    ]
+  },
+  {
+    "question": "Seorang ODHA laki-laki 36 tahun menjalani terapi ARV kombinasi yang terdiri dari Zidovudin, Lamivudin, dan Efavirens selama 8 bulan. Pasien datang dengan keluhan cepat lelah, pusing saat berdiri, dan sesak saat aktivitas ringan. Pemeriksaan laboratorium menunjukkan penurunan kadar hemoglobin secara progresif tanpa tanda perdarahan aktif. Dari seluruh obat yang dikonsumsi pasien, obat manakah yang paling mungkin menjadi penyebab kondisi ini?",
+    "answer": "Zidovudin",
+    "options": [
+      "Efavirens",
+      "Lamivudin",
+      "Zidovudin",
+      "Obat simptomatik yang dikonsumsi pasien",
+      "Interaksi antar NRTI"
+    ]
+  },
+  {
+    "question": "Seorang ODHA perempuan 41 tahun menjalani terapi ARV berbasis Zidovudin, Lamivudin, dan Nevirapine. Pasien mengeluh sering mengalami infeksi saluran napas berulang dan demam ringan. Pemeriksaan darah menunjukkan neutropenia. Berdasarkan farmakoterapi yang digunakan, obat manakah yang paling mungkin menjadi penyebab kondisi tersebut?",
+    "answer": "Zidovudin",
+    "options": [
+      "Lamivudin",
+      "Nevirapine",
+      "Zidovudin",
+      "Infeksi oportunistik yang belum terdiagnosis",
+      "Interaksi Zidovudin dan Lamivudin"
+    ]
+  },
+  {
+    "question": "Seorang ODHA laki-laki 48 tahun menjalani terapi ARV ARV kombinasi yang terdiri dari Zidovudin, Lamivudin, dan Nevirapine selama lebih dari 3 tahun. Pasien datang dengan keluhan nyeri otot proksimal, kelemahan otot, dan pembesaran perut tanpa peningkatan berat badan signifikan. Pemeriksaan penunjang menunjukkan hepatomegali dengan steatosis serta peningkatan kadar laktat. Dari obat yang dikonsumsi pasien, obat manakah yang paling mungkin berperan dalam kondisi ini?",
+    "answer": "Zidovudin",
+    "options": [
+      "Lamivudin",
+      "Efavirens",
+      "Zidovudin",
+      "Obat herbal yang dikonsumsi pasien",
+      "Penyakit metabolik primer"
+    ]
+  },
+  {
+    "question": "Seorang anak usia 6 tahun dengan HIV menjalani terapi ARV kombinasi yang mengandung Zidovudin. Setelah beberapa bulan terapi, ditemukan penurunan hemoglobin dan pasien tampak pucat serta mudah lelah. Berdasarkan prinsip farmakoterapi pada pasien pediatrik, perubahan regimen yang paling tepat adalah?",
+    "answer": "Mengganti Zidovudin dengan Abacavir",
+    "options": [
+      "Menghentikan semua ARV sementara",
+      "Mengganti Zidovudin dengan Abacavir",
+      "Menurunkan dosis Zidovudin",
+      "Menambahkan suplemen zat besi",
+      "Mengganti Efavirens dengan Nevirapine"
+    ]
+  },
+  {
+    "question": "Seorang ODHA dewasa mengalami anemia berat setelah menggunakan regimen berbasis Zidovudin. Pasien memiliki riwayat gangguan ginjal sehingga Tenofovir tidak dapat digunakan. Berdasarkan prinsip penatalaksanaan efek samping AZT, pendekatan farmakoterapi yang paling tepat adalah?",
+    "answer": "Mengganti Zidovudin dengan Abacavir",
+    "options": [
+      "Menghentikan seluruh terapi ARV",
+      "Mengganti Zidovudin dengan Abacavir",
+      "Menggunakan Zidovudin dosis rendah",
+      "Menambahkan eritropoietin jangka panjang",
+      "Mengganti Lamivudin dengan Emtricitabine"
+    ]
+  },
+  {
+    "question": "Seorang ODHA laki-laki 34 tahun menjalani terapi ARV kombinasi yang terdiri dari Tenofovir, Lamivudin, dan Dolutegravir selama 9 bulan. Pasien datang dengan keluhan nyeri perut hebat menjalar ke punggung disertai mual dan muntah. Pemeriksaan laboratorium menunjukkan peningkatan amilase dan lipase serum (pankreatitis). Tidak ditemukan riwayat konsumsi alkohol maupun batu empedu. Dari obat yang digunakan pasien, obat manakah yang paling mungkin menjadi penyebab kondisi ini?",
+    "answer": "Lamivudin",
+    "options": [
+      "Tenofovir",
+      "Dolutegravir",
+      "Lamivudin",
+      "Obat antiemetik yang baru diberikan",
+      "Interaksi antar NRTI"
+    ]
+  },
+  {
+    "question": "Seorang perempuan 40 tahun dengan HIV dan koinfeksi hepatitis B kronik menggunakan kombinasi Tenofovir, Lamivudin, dan Efavirens. Pasien menghentikan satu obat ARV karena keluhan mual tanpa berkonsultasi. Beberapa minggu kemudian terjadi peningkatan signifikan enzim hati. Dari obat yang dihentikan pasien, obat manakah yang paling mungkin memicu kondisi tersebut?",
+    "answer": "Lamivudin",
+    "options": [
+      "Efavirens",
+      "Lamivudin",
+      "Tenofovir",
+      "Dolutegravir",
+      "Efek kumulatif seluruh ARV"
+    ]
+  },
+  {
+    "question": "Seorang ODHA laki-laki 46 tahun menjalani terapi ARV berbasis Zidovudin, Lamivudin, dan Nevirapine. Setelah beberapa bulan, pasien mengalami kelelahan, mudah memar, dan epistaksis ringan. Pemeriksaan darah menunjukkan anemia dan trombositopenia. Berdasarkan profil efek samping obat, obat manakah yang paling mungkin berkontribusi terhadap kondisi ini?",
+    "answer": "Lamivudin",
+    "options": [
+      "Zidovudin",
+      "Nevirapine",
+      "Lamivudin",
+      "Infeksi oportunistik laten",
+      "Interaksi Zidovudin dan Nevirapine"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV mengalami pankreatitis berulang setelah penggunaan regimen ARV yang mengandung Lamivudin. Tidak ditemukan penyebab lain yang jelas. Berdasarkan prinsip pengelolaan farmakoterapi HIV, perubahan regimen yang paling tepat adalah?",
+    "answer": "Mengganti Lamivudin dengan Emtricitabine",
+    "options": [
+      "Menghentikan seluruh ARV sementara",
+      "Mengganti Lamivudin dengan Emtricitabine",
+      "Menurunkan dosis Lamivudin",
+      "Mengganti Tenofovir dengan Zidovudin",
+      "Mengganti Dolutegravir dengan Efavirens"
+    ]
+  },
+  {
+    "question": "Seorang ODHA dengan HIV dan hepatitis B stabil menggunakan Tenofovir, Lamivudin, dan Efavirens. Pasien mengalami trombositopenia yang diduga berkaitan dengan salah satu obat ARV. Keputusan farmakoterapi yang paling tepat untuk mempertahankan efektivitas terapi dan meminimalkan efek samping adalah?",
+    "answer": "Mengganti Lamivudin dengan Emtricitabine",
+    "options": [
+      "Menghentikan Lamivudin tanpa pengganti",
+      "Mengganti Lamivudin dengan Emtricitabine",
+      "Mengganti Efavirens dengan Dolutegravir",
+      "Mengganti Tenofovir dengan Zidovudin",
+      "Menurunkan dosis seluruh ARV"
+    ]
+  },
+  {
+    "question": "Seorang ODHA laki-laki 29 tahun menjalani terapi ARV dengan kombinasi. Dua minggu setelah terapi dimulai, pasien mengeluh mimpi buruk intens, halusinasi visual ringan, insomnia berat, dan kecemasan yang mengganggu aktivitas sehari-hari. Tidak ada riwayat gangguan psikiatri sebelumnya. Dari obat yang dikonsumsi pasien, obat manakah yang paling mungkin menjadi penyebab utama kondisi tersebut?",
+    "answer": "Efavirens",
+    "options": [
+      "Tenofovir",
+      "Lamivudin",
+      "Efavirens",
+      "Tenofovir",
+      "Dolutegravir"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV usia 35 tahun menggunakan regimen Tenofovir, Lamivudin, dan Efavirens. Pasien bekerja sebagai operator alat berat dan mengeluh pusing berat serta gangguan tidur sejak memulai terapi. Keputusan farmakoterapi paling tepat untuk meminimalkan efek samping tanpa menurunkan efektivitas terapi adalah?",
+    "answer": "Menggunakan Efavirens pada malam hari menjelang tidur",
+    "options": [
+      "Menghentikan Efavirens and seluruh ARV",
+      "Mengganti Tenofovir dengan Zidovudin",
+      "Menggunakan Efavirens pada malam hari menjelang tidur",
+      "Menurunkan dosis Lamivudin",
+      "Menambahkan obat sedatif jangka panjang"
+    ]
+  },
+  {
+    "question": "Seorang ODHA perempuan 38 tahun menjalani terapi ARV berbasis Efavirens selama 6 bulan. Pasien datang dengan keluhan mudah marah, depresi berat, dan muncul ide untuk mengakhiri hidup. Tidak terdapat gangguan metabolik atau infeksi oportunistik. Berdasarkan kondisi ini, perubahan regimen yang paling tepat adalah?",
+    "answer": "Mengganti Efavirens dengan Dolutegravir",
+    "options": [
+      "Mengganti Efavirens dengan Dolutegravir",
+      "Menurunkan dosis Efavirens tanpa mengganti obat",
+      "Menambahkan antidepresan tanpa mengubah ARV",
+      "Mengganti Lamivudin dengan Emtricitabine",
+      "Mengganti Tenofovir dengan Zidovudin"
+    ]
+  },
+  {
+    "question": "Seorang ODHA laki-laki 45 tahun menggunakan regimen ARV kombinasi. Pasien memiliki riwayat epilepsi terkontrol dan mengalami kejang berulang setelah memulai terapi ARV. Dari obat yang digunakan, obat manakah yang paling mungkin berperan dalam memicu kondisi ini?",
+    "answer": "Efavirens",
+    "options": [
+      "Zidovudin",
+      "Lamivudin",
+      "Efavirens",
+      "Tenofovir",
+      "Penyakit epilepsi pasien"
+    ]
+  },
+  {
+    "question": "Seorang ODHA laki-laki 41 tahun menjalani terapi ARV kombinasi selama lebih dari satu tahun. Pasien mengeluh pembesaran payudara bilateral tanpa nyeri (ginekomastia). Pemeriksaan hormon menunjukkan ketidakseimbangan estrogen dan testosteron. Obat manakah yang paling mungkin menyebabkan kondisi tersebut?",
+    "answer": "Efavirens",
+    "options": [
+      "Tenofovir",
+      "Lamivudin",
+      "Efavirens",
+      "Zidovudin",
+      "Dolutegravir"
+    ]
+  },
+  {
+    "question": "Seorang anak usia 2 tahun dengan HIV akan memulai terapi ARV kombinasi. Salah satu opsi regimen mencantumkan Efavirens. Keputusan farmakoterapi yang paling tepat terkait penggunaan Efavirens pada pasien ini adalah?",
+    "answer": "Menghindari Efavirens dan memilih regimen alternatif",
+    "options": [
+      "Menggunakan Efavirens dengan dosis rendah",
+      "Menggunakan Efavirens hanya pada malam hari",
+      "Menghindari Efavirens dan memilih regimen alternatif",
+      "Mengkombinasikan Efavirens dengan Dolutegravir",
+      "Menunda seluruh terapi ARV"
+    ]
+  },
+  {
+    "question": "Seorang ODHA perempuan 35 tahun menjalani terapi ARV kombinasi. Enam minggu setelah memulai terapi, pasien datang dengan keluhan demam, nyeri perut kanan atas, mual, dan muncul ikterus. Pemeriksaan laboratorium menunjukkan peningkatan tajam enzim transaminase dan didiagnosis hepatitis. Dari obat yang digunakan pasien, obat manakah yang paling mungkin menjadi penyebab utama kondisi tersebut?",
+    "answer": "Nevirapine",
+    "options": [
+      "Zidovudin",
+      "Lamivudin",
+      "Nevirapine",
+      "Dolutegravir",
+      "Emtricitabin"
+    ]
+  },
+  {
+    "question": "Seorang ODHA laki-laki 29 tahun menggunakan regimen ARV kombinasi. Dua minggu setelah terapi dimulai, pasien mengalami ruam luas, demam tinggi, nyeri mukosa oral, dan lesi bula pada kulit (Stevens–Johnson syndrome). Tidak ditemukan riwayat alergi obat sebelumnya. Berdasarkan kondisi klinis ini, obat manakah yang paling mungkin menyebabkan reaksi tersebut?",
+    "answer": "Nevirapine",
+    "options": [
+      "Tenofovir",
+      "Lamivudin",
+      "Nevirapine",
+      "Zidovudin",
+      "Emtricitabin"
+    ]
+  },
+  {
+    "question": "Seorang ODHA perempuan mengalami hepatitis akut dan reaksi kulit berat setelah penggunaan regimen ARV yang mengandung Nevirapine. Nevirapine dihentikan segera. Berdasarkan prinsip penggantian obat ARV, pilihan obat pengganti yang paling tepat untuk mempertahankan efektivitas terapi adalah?",
+    "answer": "Mengganti Nevirapine dengan Efavirens",
+    "options": [
+      "Mengganti Nevirapine dengan Efavirens",
+      "Mengganti Nevirapine dengan Zidovudin",
+      "Mengganti Nevirapine dengan Lamivudin",
+      "Mengganti Nevirapine dengan Abacavir",
+      "Menghentikan seluruh terapi ARV"
+    ]
+  },
+  {
+    "question": "Seorang ODHA laki-laki 52 tahun menjalani terapi ARV kombinasi. Pasien memiliki riwayat penyakit jantung koroner dan saat ini juga mengonsumsi amiodaron. Dua bulan setelah memulai terapi, pasien datang dengan keluhan palpitasi, pusing, dan hampir pingsan. Rekaman EKG menunjukkan pemanjangan interval QT dengan episode torsade de pointes. Dari seluruh obat yang digunakan pasien, obat manakah yang paling mungkin berkontribusi utama terhadap kondisi ini?",
+    "answer": "Lopinavir",
+    "options": [
+      "Zidovudin",
+      "Lamivudin",
+      "Lopinavir",
+      "Amiodaron",
+      "Stavudin"
+    ]
+  },
+  {
+    "question": "Seorang ODHA perempuan 40 tahun menggunakan regimen ARV kombinasi selama lebih dari satu tahun. Pasien datang tanpa keluhan akut, namun pemeriksaan laboratorium rutin menunjukkan peningkatan signifikan kadar trigliserida dan kolesterol total dibandingkan sebelum terapi. Tidak terdapat perubahan pola makan atau berat badan yang bermakna. Obat manakah yang paling mungkin menjadi penyebab temuan ini?",
+    "answer": "Ritonavir",
+    "options": [
+      "Zidovudin",
+      "Lamivudin",
+      "Ritonavir",
+      "Tenofovir",
+      "Efavirens"
+    ]
+  },
+  {
+    "question": "Seorang ODHA perempuan hamil trimester kedua menjalani terapi ARV berbasis Lopinavir/Ritonavir. Pasien memiliki riwayat gangguan fungsi hati ringan. Selama pemantauan, terjadi peningkatan enzim transaminase progresif tanpa penyebab lain yang jelas. Selain itu, dokter mempertimbangkan risiko terhadap kehamilan. Dari aspek farmakoterapi, kekhawatiran paling relevan terkait penggunaan Lopinavir/Ritonavir pada pasien ini adalah?",
+    "answer": "Risiko prematuritas",
+    "options": [
+      "Risiko nefrotoksisitas akut",
+      "Risiko anemia berat",
+      "Risiko prematuritas",
+      "Risiko pankreatitis akut",
+      "Risiko reaksi kulit berat"
+    ]
+  },
+  {
+    "question": "Seorang pasien laki-laki usia 40 tahun dengan HIV/AIDS menjalani terapi antiretroviral kombinasi selama 6 bulan. Pasien datang dengan keluhan nyeri pinggang kanan-kiri yang hilang timbul, nyeri saat berkemih, dan urin terasa berpasir. Pemeriksaan urinalisis menunjukkan adanya kristal urin tanpa tanda infeksi. Dokter mencurigai efek samping obat antiretroviral yang dapat menyebabkan pembentukan batu ginjal akibat presipitasi obat di saluran kemih. Obat manakah yang paling mungkin menjadi penyebab kondisi tersebut?",
+    "answer": "Indinavir",
+    "options": [
+      "Nevirapine",
+      "Zidovudine",
+      "Lamivudine",
+      "Indinavir",
+      "Efavirenz"
+    ]
+  },
+  {
+    "question": "Pasien HIV laki-laki 52 tahun menjalani terapi ARV kombinasi selama 1 tahun. Saat kontrol rutin, didapatkan peningkatan kadar kolesterol total dan trigliserida secara signifikan dibandingkan sebelum terapi. Riwayat diet tidak berubah dan pasien tidak memiliki diabetes sebelumnya. Obat ARV manakah yang paling mungkin menjadi penyebab kondisi ini?",
+    "answer": "Darunavir",
+    "options": [
+      "Dolutegravir",
+      "Lamivudine",
+      "Nevirapine",
+      "Darunavir",
+      "Zidovudine"
+    ]
+  },
+  {
+    "question": "Seorang pasien perempuan 35 tahun dengan HIV baru saja diganti regimen ARV-nya. Tiga bulan kemudian, pasien mengeluh berat badan meningkat cukup cepat meskipun pola makan dan aktivitas fisik relatif sama. Selain itu, pasien mulai mengalami kesulitan tidur dan sakit kepala berulang. Obat manakah yang paling mungkin menyebabkan keluhan tersebut?",
+    "answer": "Dolutegravir",
+    "options": [
+      "Efavirenz",
+      "Darunavir",
+      "Dolutegravir",
+      "Nevirapine",
+      "Ritonavir"
+    ]
+  },
+  {
+    "question": "Pasien HIV laki-laki 48 tahun dengan riwayat diabetes melitus tipe 2 yang terkontrol mengalami peningkatan kadar glukosa darah setelah dilakukan penyesuaian regimen ARV. Dokter mempertimbangkan obat yang berisiko memperburuk kontrol glikemik melalui mekanisme resistensi insulin. Obat apakah yang paling mungkin menjadi penyebabnya?",
+    "answer": "Darunavir",
+    "options": [
+      "Lamivudine",
+      "Darunavir",
+      "Zidovudine",
+      "Rilpivirine",
+      "Abacavir"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV usia 29 tahun mengeluh muncul rasa cemas, suasana perasaan menurun, dan gangguan tidur sejak 2 bulan setelah memulai terapi ARV lini pertama. Tidak ditemukan riwayat gangguan psikiatri sebelumnya. Obat manakah yang paling mungkin berperan dalam timbulnya efek samping ini?",
+    "answer": "Dolutegravir",
+    "options": [
+      "Darunavir",
+      "Nevirapine",
+      "Lamivudine",
+      "Dolutegravir",
+      "Indinavir"
+    ]
+  },
+  {
+    "question": "Pasien HIV perempuan 45 tahun dengan obesitas ringan mengalami peningkatan kadar gula darah puasa dan HbA1c setelah penggunaan ARV selama 6 bulan. Selain itu, profil lipid juga menunjukkan peningkatan trigliserida. Obat ARV manakah yang paling konsisten dengan kombinasi efek samping tersebut?",
+    "answer": "Darunavir",
+    "options": [
+      "Dolutegravir",
+      "Darunavir",
+      "Zidovudine",
+      "Efavirenz",
+      "Lamivudine"
+    ]
+  },
+  {
+    "question": "Seorang pasien HIV usia 33 tahun mengeluh berat badan naik signifikan dan sering terbangun di malam hari sejak terapi ARV diganti 4 bulan lalu. Pemeriksaan laboratorium menunjukkan kadar lipid masih normal, namun glukosa darah mulai meningkat. Obat ARV manakah yang paling mungkin menjadi penyebab kondisi tersebut?",
+    "answer": "Dolutegravir",
+    "options": [
+      "Darunavir",
+      "Nevirapine",
+      "Dolutegravir",
+      "Ritonavir",
+      "Indinavir"
+    ]
+  },
 
 
 
 
-///END KARDIOVASKULAR
+
 
 ];
 

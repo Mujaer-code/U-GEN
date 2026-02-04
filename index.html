@@ -40,16 +40,42 @@
 
 <main class="main">
 
+<div class="counter-box">
+	<div class="quiz-header"><h1>U-GEN</h1></div>
+  <h2 id="display-nomor">Menghitung soal...</h2>
+  <div class="timer">01:00</div>
+  
+</div>
 
 
-<span class="mute" style="color: #FFD01C; position: fixed; right: 0; margin: 30px; cursor: pointer;">
-	<i class="fa-solid fa-volume-xmark fa-xl" ></i></span>
 
 	<div class="question-box">
-		<div class="counter-box">
-  <h2 id="display-nomor">Menghitung soal...</h2>
+		
+	<div class="question-text">
+    <p>Seorang pasien Tn. A umur 50 tahun masuk RS dengan diagnosis Gangrene dan DM tipe 2. Rincian biaya:</p>
+    
+    <table class="soal-table">
+        <thead>
+            <tr>
+                <th>Jenis Biaya</th>
+                <th>Jumlah (Rp)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Obat-obatan</td>
+                <td>1.500.000</td>
+            </tr>
+            <tr>
+                <td>Alat kesehatan</td>
+                <td>505.000</td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <p>Berapa total biaya langsung medis?</p>
 </div>
-	<h2 class="question-text">What does?</h2>
+
 
 	<div class="option-list">
 		<div class="option" data-index="0">
@@ -80,11 +106,6 @@
 <button class="next"><i class="fa-solid fa-arrow-right fa-xl"></i></button>
 </div>
 
-<div class="quiz-header">
-       <h1>U-GEN</h1>
-       <p>Solusi Terbaik Menghabiskan Waktu</p>
-    
-      </div>
 </main>
 <script src="question.js"></script>
 <script src="script.js"></script>
