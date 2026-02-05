@@ -133,6 +133,7 @@ function optionSelected(answer) {
     if (questionCount < questions.length - 1) {
       questionCount++; // Pindah ke soal berikutnya
       showQuestions(questionCount);
+      updateProgress();
     } else {
       showResultBox(); // **Tampilkan hasil jika semua soal terjawab**
     }
