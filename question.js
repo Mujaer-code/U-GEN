@@ -3508,7 +3508,7 @@ let questions = [
     options: ["Acebutolol", "Bisoprolol", "Prazosin", "Nadolol", "Labetalol"]
   },
   {
-    question: "Obat hipertensi yang dapat menurunkan nilai triiodotirosnin adalah",
+    question: "Obat hipertensi yang dapat menurunkan nilai triiodotironin adalah",
     answer: "Propanolol",
     options: ["Propanolol", "Kaptopril", "Furosemide", "Amlodipin", "Aliskiren"]
   },
@@ -9715,7 +9715,7 @@ let questions = [
     ]
   },
   {
-    question: "Seorang pasien berusia 18 tahun didiagnosa epilepsi, sudah mengguakan fenitoin selama 2 tahun tetapi masih menunjukkan kekambuhan. Dokter menanyakan apoteker terkait obat yang berperan sebagai inhibitor GABA transminase sehingga dapat menghambat degradasi GABA. Apa obatnya?",
+    question: "Seorang pasien berusia 18 tahun didiagnosa epilepsi, sudah menggunakan fenitoin selama 2 tahun tetapi masih menunjukkan kekambuhan. Dokter menanyakan apoteker terkait obat yang berperan sebagai inhibitor GABA transminase sehingga dapat menghambat degradasi GABA. Apa obatnya?",
     answer: "Vigabatrin",
     options: ["Karbamazepin", "Gabapentin", "Fenitoin", "Vigabatrin", "Tiagabin"]
   },
@@ -11242,8 +11242,8 @@ let questions = [
   },
   {
     question: "Sebuah apotek melakukan perencanaan krim Fluosinolon Asetonid 0,025% sebanyak 24 tube dengan harga beli Rp13.500 per tube (HNA) dengan margin 10% (belum termasuk PPN 11%). Berapa harga jual per tube?",
-    answer: "16.335",
-    options: ["13.500", "14.850", "16.335", "325.240", "362.040"]
+    answer: "16.483",
+    options: ["13.500", "14.850", "16.483", "325.240", "362.040"]
   },
   {
     question: "Sebuah RS membuat perencanaan dengan analisis VEN-ABC, salah satu obat yang masuk adalah digoxin untuk keperluan emergency dengan persentasi nilai investasi 70%. Termasuk dalam kategori apakah obat tersebut?",
@@ -12111,6 +12111,5935 @@ let questions = [
   },
 
 ///END BIOLOGI FARMASI
+
+///START LANJUTAN SOAL
+  // soalKardiovaskularPart1
+  {
+    question: "Ny. Elsa 50 tahun dibawa ke IGD rumah sakit karena serangan stroke iskemik. Serangan terjadi 2 jam yang lalu. Pemberian terapi yang tepat adalah...",
+    answer: "Alteplase",
+    options: ["Aspirin", "Alteplase", "Warfarin", "Heparin", "Clopidogrel"]
+  },
+  {
+    question: "Bapak Olaf usia 55 tahun datang ke apotek untuk menebus resep obat dari dokter. Pasien didiagnosis mengalami hipertensi. Berapa anjuran asupan natrium untuk pasien tersebut?",
+    answer: "< 2 gr/hari",
+    options: ["< 2 gr/hari", "< 3 gr/hari", "< 4 gr/hari", "< 5 gr/hari", "< 6 gr/hari"]
+  },
+  {
+    question: "Ny. Manik 60 tahun didiagnosa mengalami hipertensi dengan tekanan darah 140/90 mmHg. Berdasarkan hasil laboratorium, pasien memiliki kadar gula darah yang tinggi. Terapi lini pertama yang dapat diberikan adalah...",
+    answer: "Captopril",
+    options: ["Nicardipine", "Spironolakton", "Hydralazine", "Captopril", "Bisoprolol"]
+  },
+  {
+    question: "Tn. Edu dirawat di rumah sakit dengan diagnosa sirosis hati. Agar tidak memburuknya kondisi hati karena hipertensi porta, diberikan terapi obat...",
+    answer: "Propranolol",
+    options: ["Captopril", "Lisinopril", "Candesartan", "Bisoprolol", "Propranolol"]
+  },
+  {
+    question: "Ny. Anna 60 tahun datang ke RS Edu dan didiagnosa mengalami hiperlipidemia risiko sedang. Target terapi untuk menurunkan nilai LDL yaitu sebesar...",
+    answer: "< 100",
+    options: ["< 130", "< 100", "< 80", "< 70", "< 55"]
+  },
+  {
+    question: "Seorang pasien datang ke RS Edupharm karena gagal jantung. Diketahui pasien memiliki hipertensi. Apakah obat antihipertensi yang dikontraindikasikan pada pasien tersebut?",
+    answer: "Verapamil",
+    options: ["Candesartan", "Amlodipin", "Lisinopril", "Verapamil", "Bisoprolol"]
+  },
+  {
+    question: "Ny. Ines 26 tahun sedang hamil 4 bulan mengalami hipertensi. Obat hipertensi apakah yang aman untuk ibu hamil?",
+    answer: "Metildopa",
+    options: ["Captopril", "Bisoprolol", "Metildopa", "Nikardipin", "Candesartan"]
+  },
+  {
+    question: "Seorang wanita rutin mengonsumsi obat antihipertensi dan mengalami efek samping edema perifer. Antihipertensi apakah yang dimaksud?",
+    answer: "Diltiazem",
+    options: ["Candesartan", "Diltiazem", "Lisinopril", "Nitroprusside", "Bisoprolol"]
+  },
+  {
+    question: "Tn. Dhani dilarikan ke IGD karena sakit kepala parah, nyeri dada, sesak napas dan tekanan darah 180/120 mmHg (Hipertensi emergency). Apakah lini pertama terapinya?",
+    answer: "Nicardipine",
+    options: ["Nicardipine", "Spironolakton", "Hydralazine", "Captopril", "Hydrochlorothiazide"]
+  },
+  {
+    question: "Ny. Edu mendapat terapi simvastatin, glimepiride, ISDN, lansoprazole dan vitamin B kompleks. Obat manakah yang dapat menyebabkan efek samping rabdomiolisis?",
+    answer: "Simvastatin",
+    options: ["Simvastatin", "ISDN", "Lansoprazole", "Glimepiride", "Vitamin B Kompleks"]
+  },
+  {
+    question: "Obat hiperlipidemia pilihan untuk pasien dengan kadar trigliserida > 500 mg/dL adalah...",
+    answer: "Fenofibrat",
+    options: ["Simvastatin", "Ezetimibe", "Colestipol", "Asam nikotinat", "Fenofibrat"]
+  },
+  {
+    question: "Ny. Mina 30 tahun dalam kondisi hamil didiagnosis mengalami hiperlipidemia. Terapi hiperlipidemia yang tepat pada ibu hamil adalah...",
+    answer: "Omega 3",
+    options: ["Omega 3", "Ezetimibe", "Colestipol", "Asam nikotinat", "Gemfibrozil"]
+  },
+  {
+    question: "Antiplatelet yang mekanisme kerjanya menghambat jalur ADP untuk melakukan agregasi platelet adalah...",
+    answer: "Clopidogrel",
+    options: ["Clopidogrel", "Aspirin", "Ticlopidine", "Prasugrel", "Dipyridamole"]
+  },
+  {
+    question: "Tn. Reizan 50 tahun mengeluh dada sakit dan sesak napas (angina). Terapi inisial standar (sublingual) yang tepat adalah...",
+    answer: "Nitrogliserin",
+    options: ["Nitrogliserin", "Amlodipin", "Captopril", "Furosemid", "Simvastatin"]
+  },
+  {
+    question: "Manakah kondisi yang berbahaya jika dilakukan penghentian obat secara tiba-tiba (rebound hypertension)?",
+    answer: "Clonidine",
+    options: ["Amlodipin", "Captopril", "Clonidine", "Furosemid", "Simvastatin"]
+  },
+  // soalKardiovaskularPart2
+  {
+    question: "Simvastatin termasuk dalam kelompok statin yang bekerja dengan mekanisme...",
+    answer: "Menghambat enzim HMG-CoA reductase",
+    options: ["Menghambat penyerapan kolesterol", "Menghambat enzim HMG-CoA reductase", "Mengikat asam empedu", "Aktivasi enzim LPL", "Menghambat enzim ACE"]
+  },
+  {
+    question: "Tatalaksana terapi stroke iskemik akut yang berfungsi sebagai agen trombolitik untuk menguraikan gumpalan darah adalah...",
+    answer: "Alteplase",
+    options: ["Aspirin", "Clopidogrel", "Warfarin", "Alteplase", "Heparin"]
+  },
+  {
+    question: "Tn. Jamal 60 tahun dengan riwayat asma didiagnosis angina pektoris stabil. Manakah pilihan CCB non-dihidropiridin yang cocok karena tidak memicu bronkospasme?",
+    answer: "Verapamil",
+    options: ["Propranolol", "Nadolol", "Verapamil", "Bisoprolol", "Atenolol"]
+  },
+  {
+    question: "Ramipril adalah obat golongan ACEI. Efek samping utama yang perlu diperhatikan akibat penurunan sekresi aldosteron adalah...",
+    answer: "Hiperkalemia",
+    options: ["Hipokalemia", "Hiperkalemia", "Hiponatraemia", "Hiperglisemia", "Hiperurisemia"]
+  },
+  {
+    question: "Obat diuretik yang dapat menyebabkan hiperurisemia dengan meningkatkan reabsorpsi asam urat di tubulus proksimal adalah...",
+    answer: "Furosemid",
+    options: ["Spironolakton", "Amilorid", "Furosemid", "Mannitol", "Chlorthalidone"]
+  },
+  {
+    question: "Obat manakah yang berperan dalam mencegah remodeling jantung setelah infark miokard dengan menghambat angiotensin II?",
+    answer: "Kaptopril",
+    options: ["Aspirin", "Bisoprolol", "Kaptopril", "Amlodipin", "Digoksin"]
+  },
+  {
+    question: "Dalam pendekatan MONA untuk Acute Coronary Syndrome (ACS), morfin digunakan jika nyeri dada masih persisten setelah pemberian...",
+    answer: "Nitrat",
+    options: ["Oksigen", "Aspirin", "Nitrat", "Clopidogrel", "Atorvastatin"]
+  },
+  {
+    question: "Parameter laboratorium yang digunakan untuk memantau efektivitas terapi Heparin adalah...",
+    answer: "aPTT",
+    options: ["INR", "aPTT", "PT", "Platelet", "HbA1c"]
+  },
+  {
+    question: "Ezetimibe bekerja menurunkan kadar kolesterol dengan cara menghambat protein transportasi sterol...",
+    answer: "NPC1L1",
+    options: ["HMG-CoA", "NPC1L1", "CETP", "VLDL", "PPAR-alpha"]
+  },
+  {
+    question: "Kombinasi Gemfibrozil dan Simvastatin sebaiknya dihindari karena meningkatkan risiko rhabdomyolysis secara signifikan. Jika fibrat dibutuhkan, manakah yang lebih disarankan?",
+    answer: "Fenofibrat",
+    options: ["Clofibrate", "Fenofibrat", "Ezetimibe", "Kolestiramin", "Niasin"]
+  },
+  {
+    question: "Ny. Gemi 55 tahun menebus resep berisi digoksin. Parameter apa yang membuat pasien ini memerlukan pelayanan home care?",
+    answer: "Indeks terapi sempit",
+    options: ["Teknik pemberian khusus", "Indeks terapi sempit", "Resiko efek samping besar", "Harga obat mahal", "Polifarmasi"]
+  },
+  {
+    question: "Tn. Chaezar 70 tahun mendapat terapi diltiazem untuk angina pektoris. Apa efek samping khas dari obat tersebut?",
+    answer: "Udema dan sakit kepala",
+    options: ["Diare dan nyeri perut", "Udema dan sakit kepala", "Ruam dan pendarahan", "Mengantuk", "Batuk kering"]
+  },
+  {
+    question: "Terapi lini pertama untuk mencegah kejang pada pasien preeklampsia berat adalah...",
+    answer: "Injeksi MgSO4",
+    options: ["Injeksi Diazepam", "Injeksi MgSO4", "Injeksi Fenitoin", "Oral Fenobarbital", "Injeksi Valproat"]
+  },
+  {
+    question: "Pilihan obat hipertensi utama untuk pasien yang juga menderita asma adalah ACE inhibitor, contohnya...",
+    answer: "Lisinopril",
+    options: ["Propranolol", "Atenolol", "Lisinopril", "Timolol", "Nadolol"]
+  },
+  {
+    question: "Kapan waktu penggunaan Kaptopril yang disarankan agar penyerapannya maksimal dan tidak terhambat makanan?",
+    answer: "Saat perut kosong (1 jam sebelum makan)",
+    options: ["Segera setelah makan", "Bersama makanan", "Saat perut kosong (1 jam sebelum makan)", "Sebelum tidur", "Sesaat setelah bangun tidur"]
+  },
+  {
+    question: "Tujuan utama terapi pada pasien dislipidemia adalah mencapai target profil lipid, terutama menurunkan kadar...",
+    answer: "LDL",
+    options: ["Trigliserida", "VLDL", "LDL", "HDL", "Total Kolesterol"]
+  },
+  {
+    question: "Obat golongan bile acid sequestrants yang bekerja dengan mengikat asam empedu di saluran cerna adalah...",
+    answer: "Kolestipol",
+    options: ["Simvastatin", "Ezetimibe", "Kolestipol", "Gemfibrozil", "Fenofibrat"]
+  },
+  {
+    question: "Obat manakah yang digunakan pada fase akut perdarahan varises esofagus akibat hipertensi portal?",
+    answer: "Octreotide",
+    options: ["Propranolol", "Octreotide", "Captopril", "Furosemid", "Vitamin K"]
+  },
+  {
+    question: "Efek samping batuk kering non-produktif pada penggunaan Captopril disebabkan oleh akumulasi...",
+    answer: "Bradikinin",
+    options: ["Angiotensin I", "Angiotensin II", "Bradikinin", "Renin", "Aldosteron"]
+  },
+  {
+    question: "Mekanisme kerja Amlodipine dalam menurunkan tekanan darah adalah dengan...",
+    answer: "Menghambat kanal kalsium",
+    options: ["Menghambat reseptor Beta", "Menghambat kanal kalsium", "Menghambat reseptor Alfa", "Meningkatkan ekskresi natrium", "Menghambat enzim ACE"]
+  },
+  // soalInfeksiPart1
+  {
+    question: "Kemoprofilaksis malaria bagi seseorang yang akan bepergian ke daerah risiko tinggi malaria (seperti Papua atau NTT) dapat diberikan doksisiklin dengan dosis...",
+    answer: "1 x 100 mg/hari",
+    options: ["1 x 100 mg/hari", "2 x 100 mg/hari", "1 x 200 mg/hari", "1 x 500 mg/minggu", "2 x 500 mg/minggu"]
+  },
+  {
+    question: "Di suatu daerah terjadi kejadian luar biasa diare yang disebabkan oleh bakteri Vibrio cholerae. Apa pilihan antibiotik yang tepat untuk kondisi tersebut?",
+    answer: "Doksisiklin",
+    options: ["Klindamisin", "Azitromisin", "Siprofloksasin", "Tetrasiklin", "Doksisiklin"]
+  },
+  {
+    question: "Ny. Latifa 35 tahun didiagnosa tuberkulosis dan mulai mengonsumsi OAT. Pasien mengeluh urinnya berwarna merah. OAT manakah yang menyebabkan hal tersebut?",
+    answer: "Rifampisin",
+    options: ["Etambutol", "Rifampisin", "INH", "Pirazinamid", "Streptomisin"]
+  },
+  {
+    question: "Seorang pasien didiagnosis Gonore. Berdasarkan PMK No. 28 tahun 2021, pilihan terapi oral dosis tunggal yang tepat adalah...",
+    answer: "Cefixime 400 mg",
+    options: ["Amoksisilin 500 mg", "Siprofloksasin 500 mg", "Cefixime 400 mg", "Azitromisin 500 mg", "Tetrasiklin 500 mg"]
+  },
+  {
+    question: "Antidotum atau pengobatan tambahan untuk mencegah efek samping neuropati perifer pada penggunaan Isoniazid (INH) adalah...",
+    answer: "Vitamin B6 (Piridoksin)",
+    options: ["Vitamin B1", "Vitamin B6 (Piridoksin)", "Vitamin B12", "Asam Folat", "Vitamin C"]
+  },
+  {
+    question: "Apa antibiotik lini pertama (1st line) untuk pengobatan Sifilis menurut pedoman penggunaan antibiotik?",
+    answer: "Benzatin benzil penisilin",
+    options: ["Benzatin benzil penisilin", "Doksisiklin", "Eritromisin", "Seftriakson", "Azitromisin"]
+  },
+  {
+    question: "Seorang ibu hamil 12 minggu memiliki hasil serologi IgG positif dan IgM negatif terhadap Toxoplasma gondii. Apa pengobatan yang tepat untuk mencegah infeksi pada janin?",
+    answer: "Spiramycin",
+    options: ["Azitromisin", "Spiramycin", "Pyrimethamine + sulfadiazine", "Amoxicillin", "Doxycycline"]
+  },
+  {
+    question: "Pasien hamil 24 minggu mengeluh nyeri saat berkemih dan didiagnosis ISK. Antibiotik apa yang aman dan menjadi pilihan untuk ibu hamil tersebut?",
+    answer: "Nitrofurantoin",
+    options: ["Siprofloksasin", "Nitrofurantoin", "Doksisiklin", "Kloramfenikol", "Kotrimoksazol"]
+  },
+  {
+    question: "Pada kasus leptospirosis dengan infeksi ringan, antibiotik pilihan pertama yang diberikan adalah...",
+    answer: "Doksisiklin",
+    options: ["Doksisiklin", "Amoksisilin", "Penisilin G", "Ceftriaxone", "Eritromisin"]
+  },
+  {
+    question: "Terapi empiris awal yang direkomendasikan untuk pneumonia komunitas (CAP) derajat berat adalah kombinasi...",
+    answer: "Ceftriaxone + Azitromisin",
+    options: ["Amoksisilin + Asam Klavulanat", "Levofloksasin saja", "Ceftriaxone + Azitromisin", "Siprofloksasin + Metronidazol", "Penisilin G + Gentamisin"]
+  },
+  // soalInfeksiPart2
+  {
+    question: "Seorang pasien didiagnosis koinfeksi HIV dan Tuberkulosis (TBC). Kapankah waktu yang tepat untuk memulai terapi ARV pada pasien tersebut?",
+    answer: "Dimulai dalam 2 minggu pertama pengobatan TBC",
+    options: ["Bersamaan dengan OAT", "Dimulai dalam 2 minggu pertama pengobatan TBC", "Setelah fase intensif OAT selesai", "Setelah pengobatan TBC tuntas", "Menunggu nilai CD4 > 500"]
+  },
+  {
+    question: "Bayi lahir dari ibu yang terdiagnosis HIV positif. Ibu memutuskan tidak memberikan ASI. Apa terapi profilaksis yang paling tepat diberikan untuk bayi tersebut?",
+    answer: "Zidovudin",
+    options: ["Zidovudin", "Lamivudin", "Efavirenz", "Nevirapin", "Tenofovir"]
+  },
+  {
+    question: "Tn. Amim 35 tahun didiagnosis TB untuk pertama kali, hasil tes BTA negatif namun foto toraks positif. Rekomendasi kategori terapi yang tepat adalah...",
+    answer: "2RHZE / 4RH",
+    options: ["2RHZES / HRZE / 5HRE", "2RHZES / HRZE", "2RHZE / 4RH", "2RHZ / 4RH", "2RH / 4RH"]
+  },
+  {
+    question: "Seorang pasien TB mengeluh mengalami penurunan pendengaran setelah satu minggu menjalani pengobatan. Obat OAT manakah yang dicurigai menyebabkan efek samping tersebut?",
+    answer: "Streptomisin",
+    options: ["Isoniazid", "Rifampisin", "Etambutol", "Pirazinamid", "Streptomisin"]
+  },
+  {
+    question: "Manakah dari obat hepatitis B berikut yang merupakan golongan interferon dan diberikan dalam durasi terbatas (biasanya 48 minggu)?",
+    answer: "Interferon alfa pegilasi",
+    options: ["Entecavir", "Lamivudin", "Tenofovir", "Interferon alfa pegilasi", "Adefovir"]
+  },
+  {
+    question: "Seorang pasien didiagnosis mengalami pneumonia dan hasil laboratorium menunjukkan infeksi bakteri ESBL (Extended-Spectrum Beta-Lactamase). Apa pilihan obat yang tepat?",
+    answer: "Meropenem",
+    options: ["Amoksisilin", "Doksisiklin", "Meropenem", "Metronidazol", "Trimetoprim-Sulfametoxazol"]
+  },
+  {
+    question: "Pasien laki-laki mengeluh kencing nanah. Dokter mendiagnosis Gonore. Apa kombinasi terapi yang disarankan menurut PMK No. 28 tahun 2021 jika menggunakan dosis tunggal oral?",
+    answer: "Cefixime 400 mg",
+    options: ["Siprofloksasin 500 mg", "Cefixime 400 mg", "Azitromisin 1 gram", "Amoksisilin 1 gram", "Tetrasiklin 500 mg"]
+  },
+  {
+    question: "Antidotum yang tepat untuk mengatasi efek samping neuritis perifer akibat penggunaan Isoniazid (INH) adalah...",
+    answer: "Piridoksin (Vitamin B6)",
+    options: ["Sianokobalamin (B12)", "Piridoksin (Vitamin B6)", "Tiamin (B1)", "Asam Folat", "Tokoferol"]
+  },
+  {
+    question: "Seorang wanita hamil 30 minggu baru pulang dari daerah endemis malaria. Ia didiagnosa menderita malaria falciparum non-komplikasi. Terapi apa yang tepat?",
+    answer: "DHP + Primakuin",
+    options: ["DHP + Primakuin", "Kinin + Klindamisin", "Artesunat + Amodiakuin", "Klorokuin", "Doksisiklin"]
+  },
+  {
+    question: "Obat OAT yang bekerja dengan cara menghambat sintesis asam mikolat pada dinding sel bakteri Mycobacterium tuberculosis adalah...",
+    answer: "Isoniazid",
+    options: ["Rifampisin", "Isoniazid", "Etambutol", "Pirazinamid", "Streptomisin"]
+  },
+  // soalEndokrinPart1
+  {
+    question: "Ny. Neny 50 tahun didiagnosis menderita diabetes mellitus tipe 2 dan diberikan terapi insulin. Pada saat konseling, apoteker memberitahu bahwa area penyuntikan tidak boleh pada area yang sama secara terus menerus. Efek apa yang dapat terjadi akibat penyuntikan pada area yang sama?",
+    answer: "Lipohipertrofi",
+    options: ["Penurunan efektivitas insulin", "Lipodistrofi", "Lipohipertrofi", "Liposuction", "Infeksi bakteri"]
+  },
+  {
+    question: "Tn. Dika 60 tahun didiagnosis diabetes mellitus tipe 2. Apoteker melakukan penelusuran riwayat penyakit dan obat supaya dapat memilih obat yang tepat. Obat DM apa yang dikontraindikasikan pada pasien gagal jantung?",
+    answer: "Pioglitazone",
+    options: ["Dapagliflozin", "Metformin", "Glimepiride", "Liraglutide", "Pioglitazone"]
+  },
+  {
+    question: "Seorang anak berusia 15 tahun dengan bobot badan 30 kg didiagnosis menderita diabetes tipe 1. Berdasarkan pedoman, berapa dosis total insulin harian (unit/kg/hari) yang disarankan untuk inisiasi pada pasien tersebut?",
+    answer: "0,5 unit/kg/hari",
+    options: ["0,1 unit/kg/hari", "0,2 unit/kg/hari", "0,5 unit/kg/hari", "1,0 unit/kg/hari", "1,5 unit/kg/hari"]
+  },
+  {
+    question: "Seorang pasien DM tipe 2 mengeluh sering mengalami flatus (buang angin) yang berlebihan setelah mengonsumsi obat baru. Obat manakah yang memiliki efek samping tersebut?",
+    answer: "Akarbose",
+    options: ["Metformin", "Glibenklamid", "Akarbose", "Pioglitazone", "Sitagliptin"]
+  },
+  {
+    question: "Obat diabetes golongan SGLT2 inhibitor yang bekerja dengan menghambat reabsorpsi glukosa di tubulus proksimal ginjal adalah...",
+    answer: "Dapagliflozin",
+    options: ["Pioglitazone", "Sitagliptin", "Dapagliflozin", "Gliklazid", "Repaglinid"]
+  },
+  {
+    question: "Pasien mengalami keluhan letih, lemas, dan merasa dingin meskipun cuaca hangat. Oleh dokter pasien didiagnosa menderita hipotiroid. Obat apa yang cocok untuk pasien tersebut?",
+    answer: "Levotiroksin",
+    options: ["Prednisone", "Propiltiourasil", "Natrium Tiroksin (Levotiroksin)", "Metimazol", "Lugol"]
+  },
+  {
+    question: "Seorang pasien datang ke IGD dengan kondisi tidak sadar, berkeringat dingin, dan gemetar. Keluarga menyatakan pasien memiliki riwayat DM dan baru saja menyuntikkan insulin tapi lupa makan. Tindakan darurat yang tepat adalah...",
+    answer: "Injeksi intravena larutan dextrose 40%",
+    options: ["Berikan larutan glukosa oral segera", "Injeksi intravena larutan dextrose 10%", "Berikan insulin kerja cepat", "Injeksi intravena larutan dextrose 40%", "Observasi dahulu"]
+  },
+  {
+    question: "Manakah obat DM yang bekerja dengan cara meningkatkan sensitivitas insulin pada jaringan perifer (otot dan lemak) tanpa meningkatkan sekresi insulin dari pankreas?",
+    answer: "Metformin",
+    options: ["Glibenklamid", "Metformin", "Glimepiride", "Repaglinid", "Nateglinid"]
+  },
+  {
+    question: "Pasien hipertiroid yang mengalami gejala jantung berdebar (takikardia) dan tremor memerlukan terapi tambahan untuk mengontrol gejala adrenergik tersebut. Obat manakah yang digunakan?",
+    answer: "Propranolol",
+    options: ["Amlodipin", "Captopril", "Propranolol", "Furosemid", "Spironolakton"]
+  },
+  {
+    question: "Seorang wanita ingin menunda kehamilan dan memilih kontrasepsi oral kombinasi. Kandungan hormon manakah yang berfungsi menekan produksi sebum sehingga sering digunakan juga untuk terapi jerawat?",
+    answer: "Ethinyl estradiol",
+    options: ["Levonorgestrel", "Ethinyl estradiol", "Desogestrel", "Medroksiprogesteron", "Noretisteron"]
+  },
+  // soalEndokrinPart2
+  {
+    question: "Insulin detemir merupakan insulin kerja panjang yang berbentuk larutan jernih. Mengapa insulin ini memiliki durasi kerja yang lama di dalam tubuh?",
+    answer: "Berikatan dengan albumin interstitial",
+    options: ["Membentuk ikatan kompleks dengan prolin", "Berikatan dengan albumin interstitial", "Memiliki struktur hexamer", "Merupakan insulin campuran", "Mempunyai nilai isoelektrik 6,8"]
+  },
+  {
+    question: "Wanita penderita PCOS (Polycystic Ovary Syndrome) dengan IMT 32 dan kadar insulin puasa tinggi ingin menambahkan terapi untuk menurunkan resistensi insulin. Obat yang paling tepat adalah...",
+    answer: "Metformin",
+    options: ["Glibenklamid", "Metformin", "Clomiphene", "Rosiglitazon", "Spironolakton"]
+  },
+  {
+    question: "Target tekanan darah yang dianjurkan berdasarkan panduan untuk pasien hipertensi dengan penyerta Diabetes Mellitus adalah...",
+    answer: "< 140/90 mmHg",
+    options: ["< 150/100 mmHg", "< 140/90 mmHg", "< 130/80 mmHg", "< 120/80 mmHg", "< 140/80 mmHg"]
+  },
+  {
+    question: "Obat antitiroid pilihan pertama untuk ibu hamil pada trimester pertama untuk menghindari risiko cacat janin adalah...",
+    answer: "Propiltiourasil (PTU)",
+    options: ["Metimazol", "Propiltiourasil (PTU)", "Lugol", "Levotiroksin", "Radioaktif Iodine"]
+  },
+  {
+    question: "Efek samping 'metallic taste' (rasa logam di mulut) dan gangguan pencernaan merupakan ciri khas dari penggunaan obat...",
+    answer: "Metformin",
+    options: ["Glimepiride", "Metformin", "Akarbose", "Pioglitazone", "Vildagliptin"]
+  },
+  // soalPernapasan
+  {
+    question: "Seorang pasien PPOK sedang menjalani terapi dengan aminofilin oral. Beberapa hari terakhir, pasien sering mengonsumsi daging sate ayam yang dibakar. Pasien kembali mengalami gejala sesak napas. Apa yang menyebabkan hal tersebut?",
+    answer: "Penurunan kadar Aminofilin karena senyawa hidrokarbon",
+    options: ["Peningkatan Aminofilin karena lemak ayam", "Penurunan kadar Aminofilin karena senyawa hidrokarbon", "Peningkatan kadar Aminofilin karena senyawa hidrokarbon", "Kadar Aminofilin menurun karena kompleksasi mineral", "Penurunan kadar Aminofilin karena lemak ayam"]
+  },
+  {
+    question: "An. Darius 11 tahun menderita asma dibawa ke UGD. Pasien mengalami serangan hampir seminggu 2x. Obat apa yang digunakan untuk mengatasi serangan akut tersebut?",
+    answer: "Salbutamol",
+    options: ["Salbutamol", "Flutikason", "Aminofilin", "Teofilin", "Zafirlukast"]
+  },
+  {
+    question: "Tn. Joni 65 tahun mengalami PPOK dengan infeksi saluran napas atas. Pasien mendapat terapi salbutamol, beclomethasone, bromheksin, kodein, dan azitromisin. Setelah 3 hari, pasien mengeluhkan sulit buang air besar (konstipasi). Obat manakah yang menyebabkan keluhan tersebut?",
+    answer: "Kodein",
+    options: ["Salbutamol", "Azitromisin", "Kodein", "Beclomethasone", "Bromheksin"]
+  },
+  {
+    question: "Tn. Edu 71 tahun didiagnosa PPOK dan rutin menggunakan tiotropium bromide. Hasil lab menunjukkan nilai eosinofil pasien tinggi. Apakah obat yang direkomendasikan untuk ditambahkan?",
+    answer: "Flutikason",
+    options: ["Zafirlukast", "Flutikason", "Salbutamol", "Aminofilin", "Ipratropium"]
+  },
+  {
+    question: "Ny. Tania 30 tahun, hamil 8 minggu datang dengan keluhan batuk berdahak yang mengganggu tidur. Obat batuk yang paling tepat direkomendasikan adalah...",
+    answer: "Ambroksol",
+    options: ["Bromheksin", "Ambroksol", "Kodein", "Dextromethorphan", "Guaifenesin"]
+  },
+  {
+    question: "Pasien PPOK diberikan terapi tambahan suplemen untuk membantu menurunkan stres oksidatif pada jaringan paru. Suplemen manakah yang paling tepat?",
+    answer: "Vitamin C",
+    options: ["Vitamin D", "Kurkumin", "Vitamin C", "Vitamin E", "Zink"]
+  },
+  {
+    question: "Pasien asma mengalami kekambuhan setelah mengonsumsi obat antinyeri untuk sakit giginya. Obat antinyeri manakah yang dikontraindikasikan pada pasien asma?",
+    answer: "Asam asetilsalisilat",
+    options: ["Parasetamol", "Ibuprofen", "Asam mefenamat", "Asam asetilsalisilat", "Naproksen"]
+  },
+  // soalPencernaan
+  {
+    question: "Seorang pria didiagnosa sirosis hati dan mengalami ensefalopati hepatik. Pasien diberikan laktulosa. Apa tujuan pemberian laktulosa pada kondisi tersebut?",
+    answer: "Mengubah amonia (NH3) menjadi ion amonium (NH4+)",
+    options: ["Melancarkan BAB", "Mengurangi produksi asam lambung", "Mengubah amonia (NH3) menjadi ion amonium (NH4+)", "Membunuh bakteri penyebab infeksi", "Menetralkan racun di hati"]
+  },
+  {
+    question: "Obat manakah yang bekerja dengan cara menghambat kerja enzim lipase lambung dan pankreas untuk mencegah penyerapan lemak?",
+    answer: "Orlistat",
+    options: ["Kolestiramin", "Simvastatin", "Gemfibrozil", "Orlistat", "Ezetimibe"]
+  },
+  {
+    question: "Seorang ibu menyusui mengeluh perih di lambung. Obat manakah yang tidak direkomendasikan karena dapat diekskresikan dalam ASI?",
+    answer: "Ranitidin",
+    options: ["Antasida", "Sukralfat", "Omeprazole", "Ranitidin", "Lansoprazole"]
+  },
+  {
+    question: "Terapi tambahan yang diberikan pada bayi saat mengalami diare untuk membantu menyeimbangkan mikroba usus adalah...",
+    answer: "Lactobacillus",
+    options: ["Zink", "Oralit", "Lactobacillus", "Loperamide", "Attapulgite"]
+  },
+  {
+    question: "Seorang pasien mendapatkan terapi sukralfat dan ranitidin. Bagaimana anjuran penggunaan kedua obat tersebut?",
+    answer: "Sukralfat diberikan terpisah minimal 2 jam dari ranitidin",
+    options: ["Diminum bersamaan", "Ranitidin diminum sebelum sukralfat", "Sukralfat diberikan terpisah minimal 2 jam dari ranitidin", "Sukralfat diminum setelah makan", "Ranitidin diminum 15 menit setelah sukralfat"]
+  },
+  {
+    question: "Seorang pasien dengan riwayat gangguan saluran cerna memerlukan obat untuk nyeri perut melilit. Obat yang paling sesuai adalah...",
+    answer: "Hiosin butilbromida",
+    options: ["Asam mefenamat", "Naproksen", "Hiosin butilbromida", "Ibuprofen", "Na diklofenak"]
+  },
+  // soalSarafJiwa
+  {
+    question: "Tn. Amim 45 tahun mengalami kejang tonik klonik. Dokter ingin memberikan obat antiepilepsi lini pertama. Obat manakah yang dimaksud?",
+    answer: "Asam Valproat",
+    options: ["Fenitoin", "Asam Valproat", "Karbamazepin", "Etosuksimid", "Gabapentin"]
+  },
+  {
+    question: "Ny. Susi 30 tahun didiagnosa depresi. Dokter meresepkan Amitriptilin. Apa mekanisme kerja obat tersebut?",
+    answer: "Menghambat reuptake serotonin dan norepinefrin",
+    options: [
+      "Menghambat reuptake serotonin secara selektif",
+      "Menghambat reuptake serotonin dan norepinefrin",
+      "Menghambat enzim MAO",
+      "Antagonis reseptor dopamin D2",
+      "Agonis reseptor GABA"
+    ]
+  },
+  {
+    question: "Seorang pasien didiagnosa Skizofrenia dan diberikan Haloperidol. Pasien kemudian mengeluh mengalami kaku otot dan tremor (gejala ekstrapiramidal). Obat apa yang diberikan untuk mengatasi efek samping tersebut?",
+    answer: "Triheksifenidil",
+    options: ["Risperidon", "Klozapin", "Triheksifenidil", "Amitriptilin", "Diazepam"]
+  },
+  {
+    question: "Tn. Budi mengeluh sering lupa dan sulit berkonsentrasi, didiagnosa Alzheimer tahap ringan-sedang. Obat golongan inhibitor kolinesterase yang tepat adalah...",
+    answer: "Donepezil",
+    options: ["Memantin", "Donepezil", "Levodopa", "Selegilin", "Amantadin"]
+  },
+  {
+    question: "Ny. Ani mengalami serangan migrain berat yang tidak merespons analgesik biasa. Terapi spesifik apa yang menjadi pilihan utamanya?",
+    answer: "Sumatriptan",
+    options: ["Ergotamin", "Sumatriptan", "Amitriptilin", "Propranolol", "Parasetamol"]
+  },
+  {
+    question: "Seorang pasien didiagnosa gangguan bipolar dan diberikan Litium. Apa parameter laboratorium yang harus dipantau secara ketat karena indeks terapinya yang sempit?",
+    answer: "Kadar elektrolit dan fungsi ginjal",
+    options: ["Kadar gula darah", "Kadar elektrolit dan fungsi ginjal", "Profil lipid", "Fungsi hati", "Kadar hemoglobin"]
+  },
+  {
+    question: "An. Riki 8 tahun didiagnosa ADHD. Obat golongan stimulan sistem saraf pusat yang merupakan lini pertama terapi adalah...",
+    answer: "Metilfenidat",
+    options: ["Atomoksetin", "Metilfenidat", "Risperidon", "Asam Valproat", "Diazepam"]
+  },
+  {
+    question: "Obat antiepilepsi yang bekerja secara spesifik untuk kasus kejang absans (absence seizure) adalah...",
+    answer: "Etosuksimid",
+    options: ["Fenitoin", "Karbamazepin", "Etosuksimid", "Fenobarbital", "Asam Valproat"]
+  },
+  {
+    question: "Pasien Parkinson diberikan kombinasi Levodopa dan Karbidopa. Apa fungsi penambahan Karbidopa?",
+    answer: "Menghambat dekarboksilasi levodopa di perifer",
+    options: [
+      "Meningkatkan permeabilitas sawar darah otak",
+      "Menghambat dekarboksilasi levodopa di perifer",
+      "Menurunkan efek samping mual di otak",
+      "Meningkatkan sekresi dopamin di celah sinaps",
+      "Menghambat reuptake dopamin"
+    ]
+  },
+  {
+    question: "Seorang wanita mengalami insomnia dan diberikan Diazepam. Berapa lama maksimal penggunaan benzodiazepine untuk insomnia agar tidak menyebabkan ketergantungan?",
+    answer: "2-4 minggu",
+    options: ["1 minggu", "2-4 minggu", "2 bulan", "6 bulan", "1 tahun"]
+  },
+  // soalTulangSendi
+  {
+    question: "Ny. Lia 65 tahun mengeluh nyeri sendi lutut, kaku di pagi hari selama 15 menit. Dokter mendiagnosis Osteoartritis. Apa pilihan terapi lini pertama untuk meredakan nyerinya?",
+    answer: "Parasetamol",
+    options: ["Parasetamol", "Natrium Diklofenak", "Glukosamin", "Kondroitin", "Injeksi Kortikosteroid"]
+  },
+  {
+    question: "Seorang pasien laki-laki 50 tahun mengalami serangan gout akut. Pasien memiliki riwayat penyakit lambung (ulkus peptikum). Obat NSAID mana yang paling aman dipilih?",
+    answer: "Selekoksib",
+    options: ["Piroksikam", "Asam Mefenamat", "Natrium Diklofenak", "Selekoksib", "Indometasin"]
+  },
+  {
+    question: "Pasien dengan kadar asam urat 9 mg/dL rutin mengonsumsi Alopurinol. Apa mekanisme kerja dari obat tersebut?",
+    answer: "Menghambat enzim xantin oksidase",
+    options: [
+      "Meningkatkan ekskresi asam urat melalui ginjal",
+      "Menghambat enzim xantin oksidase",
+      "Menghambat reabsorpsi asam urat di tubulus",
+      "Mengubah asam urat menjadi alantoin",
+      "Menghambat migrasi leukosit ke sendi"
+    ]
+  },
+  {
+    question: "Seorang wanita pascamenopause didiagnosis Osteoporosis. Dokter meresepkan Alendronat. Bagaimana instruksi penggunaan yang harus disampaikan kepada pasien?",
+    answer: "Diminum pagi hari saat perut kosong dengan air putih, posisi tubuh tegak",
+    options: [
+      "Diminum segera setelah makan malam",
+      "Diminum bersama susu untuk meningkatkan kalsium",
+      "Diminum pagi hari saat perut kosong dengan air putih, posisi tubuh tegak",
+      "Diminum sebelum tidur dan langsung berbaring",
+      "Diminum kapan saja saat dirasakan nyeri tulang"
+    ]
+  },
+  {
+    question: "Pasien gout akut tidak memberikan respon terhadap NSAID dan Kolkisin. Dokter memutuskan memberikan suntikan kortikosteroid intra-artikular. Apa syarat penggunaannya?",
+    answer: "Hanya untuk serangan pada 1-2 sendi besar",
+    options: [
+      "Hanya untuk serangan pada 1-2 sendi besar",
+      "Diberikan jika asam urat > 10 mg/dL",
+      "Hanya jika pasien mengalami gagal ginjal",
+      "Boleh diberikan setiap hari selama seminggu",
+      "Hanya untuk pasien anak-anak"
+    ]
+  },
+  // soalMataTHT
+  {
+    question: "Tn. Andre 60 tahun mengeluh pandangan mata kabur dan melihat pelangi di sekitar lampu. Dokter mendiagnosis Glaukoma Sudut Terbuka. Apa pilihan terapi lini pertama untuk menurunkan tekanan intraokular pasien tersebut?",
+    answer: "Latanoprost",
+    options: ["Latanoprost", "Piloakrpin", "Timolol", "Atropin", "Asetazolamid"]
+  },
+  {
+    question: "Seorang pasien didiagnosis Otitis Media Akut (OMA). Apa pilihan antibiotik lini pertama yang direkomendasikan untuk kondisi tersebut?",
+    answer: "Amoksisilin",
+    options: ["Siprofloksasin", "Amoksisilin", "Gentamisin", "Kloramfenikol", "Eritromisin"]
+  },
+  {
+    question: "Pasien mengeluh telinga terasa penuh dan pendengaran berkurang. Setelah diperiksa, terdapat penumpukan serumen yang keras. Obat tetes telinga apa yang diberikan untuk melunakkan serumen?",
+    answer: "Karbamid Peroksida",
+    options: ["Kloramfenikol", "Ofloksasin", "Karbamid Peroksida", "Natrium Diklofenak", "Hidrokortison"]
+  },
+  {
+    question: "Seorang anak sering mengalami bersin-bersin dan hidung meler terutama saat pagi hari atau terkena debu. Dokter mendiagnosis Rinitis Alergi. Obat golongan antihistamin generasi kedua yang tidak menyebabkan kantuk adalah...",
+    answer: "Setirizin",
+    options: ["Klorfeniramin Maleat (CTM)", "Difenhidramin", "Setirizin", "Dimenhidrinat", "Prometazin"]
+  },
+  {
+    question: "Pasien glaukoma diberikan tetes mata Timolol. Apa mekanisme kerja obat tersebut dalam menurunkan tekanan intraokular?",
+    answer: "Menurunkan produksi aqueous humor",
+    options: [
+      "Meningkatkan aliran keluar (outflow) aqueous humor",
+      "Menurunkan produksi aqueous humor",
+      "Menyebabkan miosis pupil",
+      "Menyebabkan midriasis pupil",
+      "Mengerutkan badan siliaris"
+    ]
+  },
+  // soalKlinisKhusus
+  {
+    question: "Seorang pasien geriatri (75 tahun) mengalami insomnia. Manakah pilihan obat sedatif-hipnotik yang paling aman karena memiliki waktu paruh pendek dan risiko akumulasi rendah pada lansia?",
+    answer: "Zolpidem",
+    options: ["Diazepam", "Flurazepam", "Zolpidem", "Klordiazepoksid", "Fenobarbital"]
+  },
+  {
+    question: "Pasien datang ke IGD dengan pupil miosis, hipersalivasi, dan bradikardia setelah terpapar pestisida golongan organofosfat di sawah. Apa antidotum pilihan untuk kondisi ini?",
+    answer: "Atropin Sulfat",
+    options: ["Atropin Sulfat", "Nalokson", "N-Asetilsistein", "Flumazenil", "Etanol"]
+  },
+  {
+    question: "Seorang pasien mengonsumsi Warfarin untuk profilaksis trombosis. Ia kemudian meminum jus grapefruit secara rutin. Apa risiko interaksi yang dapat terjadi?",
+    answer: "Meningkatkan risiko pendarahan",
+    options: [
+      "Menurunkan efektivitas Warfarin",
+      "Meningkatkan risiko pendarahan",
+      "Menyebabkan kegagalan ginjal",
+      "Menurunkan absorpsi Warfarin",
+      "Tidak ada interaksi yang bermakna"
+    ]
+  },
+  {
+    question: "Antidotum yang digunakan secara spesifik untuk mengatasi keracunan logam berat timbal (Plumbum) pada anak-anak adalah...",
+    answer: "Suksimer (DMSA)",
+    options: ["Deferoksamin", "Suksimer (DMSA)", "Atropin", "Dimerkaprol (BAL)", "EDTA"]
+  },
+  {
+    question: "Pasien mengalami keracunan metanol yang tidak sengaja terminum. Selain etanol, antidotum lain yang dapat menghambat enzim alkohol dehidrogenase secara kompetitif adalah...",
+    answer: "Fomepizole",
+    options: ["Fomepizole", "Nalokson", "Asetilsistein", "Karbon Aktif", "Natrium Bikarbonat"]
+  },
+  // soalIndustriFarmasetikaPart1
+  {
+    question: "Industri farmasi melakukan uji disolusi tahap 1 (S1) terhadap tablet parasetamol. Berapa jumlah sampel tablet yang digunakan pada tahap S1 tersebut?",
+    answer: "6 tablet",
+    options: ["3 tablet", "6 tablet", "12 tablet", "24 tablet", "5 tablet"]
+  },
+  {
+    question: "Sebuah industri membuat sediaan tablet dengan metode granulasi basah. Saat proses pencetakan, terjadi masalah dimana massa tablet menempel pada punch (permukaan punch). Apa nama fenomena tersebut?",
+    answer: "Sticking",
+    options: ["Capping", "Lamination", "Sticking", "Chipping", "Mottling"]
+  },
+  {
+    question: "Seorang apoteker di bagian R&D merancang sediaan suspensi. Untuk menjaga stabilitas sediaan dan mencegah terbentuknya cake yang keras, ditambahkan agen yang membentuk flokul-flokul. Apa nama agen tersebut?",
+    answer: "Flocculating agent",
+    options: ["Suspending agent", "Wetting agent", "Flocculating agent", "Emulgator", "Thickening agent"]
+  },
+  {
+    question: "Metode sterilisasi yang paling tepat untuk sediaan injeksi yang mengandung bahan aktif tidak tahan panas (termolabil) adalah...",
+    answer: "Filtrasi membran (Saring bakteri)",
+    options: ["Autoklaf 121°C", "Oven 170°C", "Filtrasi membran (Saring bakteri)", "Radiasi gamma", "Gas Etilen Oksida"]
+  },
+  {
+    question: "Berdasarkan CPOB, area kelas manakah yang digunakan untuk kegiatan pengisian (filling) produk steril secara aseptik?",
+    answer: "Kelas A",
+    options: ["Kelas A", "Kelas B", "Kelas C", "Kelas D", "Kelas E"]
+  },
+  // soalIndustriLanjutan
+  {
+    question: "Sebuah industri farmasi melakukan uji stabilitas dipercepat pada produk tablet baru. Pada kondisi suhu dan kelembaban berapa uji tersebut dilakukan berdasarkan zona IVB (Indonesia)?",
+    answer: "40°C ± 2°C / 75% RH ± 5%",
+    options: ["25°C ± 2°C / 60% RH ± 5%", "30°C ± 2°C / 65% RH ± 5%", "30°C ± 2°C / 75% RH ± 5%", "40°C ± 2°C / 75% RH ± 5%", "45°C ± 2°C / 75% RH ± 5%"]
+  },
+  {
+    question: "Untuk membuktikan bahwa suatu prosedur pemeriksaan memberikan hasil yang sama secara terus-menerus dan sesuai spesifikasi, dilakukan validasi metode analisis. Parameter yang menunjukkan kedekatan hasil antara nilai yang terukur dengan nilai sebenarnya adalah...",
+    answer: "Akurasi (Kecermatan)",
+    options: ["Presisi (Ketelitian)", "Akurasi (Kecermatan)", "Selektivitas", "Limit of Detection (LOD)", "Linieritas"]
+  },
+  {
+    question: "Sebuah industri farmasi akan melakukan kualifikasi terhadap alat pencampur (Mixer) yang baru dibeli. Tahapan kualifikasi yang dilakukan pertama kali saat alat datang adalah...",
+    answer: "Kualifikasi Instalasi (IQ)",
+    options: ["Kualifikasi Desain (DQ)", "Kualifikasi Instalasi (IQ)", "Kualifikasi Operasional (OQ)", "Kualifikasi Kinerja (PQ)", "Validasi Proses"]
+  },
+  {
+    question: "Industri farmasi melakukan uji kebocoran pada sediaan salep mata (tube). Berapa batas maksimal kebocoran total yang diperbolehkan untuk 10 tube pada pengujian tahap pertama?",
+    answer: "Tidak boleh ada kebocoran",
+    options: ["Tidak boleh ada kebocoran", "Maksimal 1 tube bocor", "Maksimal 2 tube bocor", "Maksimal 5% dari total bobot", "Maksimal 10% dari total bobot"]
+  },
+  {
+    question: "Indikator biologis yang paling tepat digunakan untuk proses validasi sterilisasi menggunakan panas kering (Oven 170°C) adalah...",
+    answer: "Bacillus subtilis",
+    options: ["Geobacillus stearothermophilus", "Bacillus subtilis", "Bacillus pumilus", "Candida albicans", "Escherichia coli"]
+  },
+  // soalManajemenRegulasi
+  {
+    question: "Sebuah apotek ingin melakukan pemesanan obat mengandung prekursor (Pseudoefedrin). Berapa jumlah maksimal jenis obat prekursor yang boleh dituliskan dalam satu Surat Pesanan (SP)?",
+    answer: "Boleh lebih dari satu jenis obat",
+    options: ["Hanya 1 jenis obat", "Maksimal 2 jenis obat", "Maksimal 3 jenis obat", "Boleh lebih dari satu jenis obat", "Tergantung kebijakan apotek"]
+  },
+  {
+    question: "Apoteker di RS menghitung stok pengaman (safety stock) untuk tablet Amlodipin. Jika penggunaan rata-rata 100 tablet/hari dan waktu tunggu (lead time) adalah 3 hari, berapa stok pengaman jika diinginkan cadangan untuk masa lead time tersebut?",
+    answer: "300 tablet",
+    options: ["100 tablet", "200 tablet", "300 tablet", "400 tablet", "500 tablet"]
+  },
+  {
+    question: "Sesuai regulasi, berapa lama masa penyimpanan (retensi) untuk resep di apotek sebelum akhirnya boleh dimusnahkan?",
+    answer: "5 tahun",
+    options: ["1 tahun", "2 tahun", "3 tahun", "5 tahun", "10 tahun"]
+  },
+  {
+    question: "Metode analisis ekonomi kesehatan yang membandingkan dua atau lebih intervensi kesehatan dengan hasil (outcome) yang dinyatakan dalam satuan moneter (Rupiah) adalah...",
+    answer: "Cost Benefit Analysis (CBA)",
+    options: ["Cost Effectiveness Analysis (CEA)", "Cost Utility Analysis (CUA)", "Cost Minimization Analysis (CMA)", "Cost Benefit Analysis (CBA)", "Cost Illness Analysis"]
+  },
+  {
+    question: "Pemusnahan obat narkotika di apotek harus disaksikan oleh petugas dari instansi pemerintah, yaitu...",
+    answer: "Dinas Kesehatan Kabupaten/Kota dan/atau Balai POM",
+    options: ["Kepolisian", "Dinas Kesehatan Kabupaten/Kota dan/atau Balai POM", "IAI (Ikatan Apoteker Indonesia)", "Kementerian Kesehatan", "Puskesmas setempat"]
+  },
+  // soalIndustriQCQA
+  {
+    question: "Sebuah industri farmasi melakukan uji keseragaman sediaan untuk tablet dengan kadar zat aktif 10 mg dan bobot tablet 200 mg. Metode apa yang harus digunakan menurut Farmakope Indonesia?",
+    answer: "Keragaman Bobot",
+    options: ["Keragaman Bobot", "Keseragaman Kandungan", "Penetapan Kadar", "Uji Disintegrasi", "Uji Disolusi"]
+  },
+  {
+    question: "Berapa batas maksimal cemaran mikroba (Angka Lempeng Total) untuk sediaan kosmetik pembersih wajah menurut regulasi BPOM?",
+    answer: "≤ 10^3 koloni/g",
+    options: ["≤ 10^1 koloni/g", "≤ 10^2 koloni/g", "≤ 10^3 koloni/g", "≤ 10^4 koloni/g", "≤ 10^5 koloni/g"]
+  },
+  {
+    question: "Apoteker di bagian QC melakukan titrasi bebas air untuk menetapkan kadar bahan baku klorpromazin HCl. Larutan baku sekunder (titer) apa yang digunakan?",
+    answer: "Asam Perkhlorat 0,1 N",
+    options: ["Natrium Hidroksida 0,1 N", "Asam Klorida 0,1 N", "Asam Perkhlorat 0,1 N", "Iodium 0,1 N", "AgNO3 0,1 N"]
+  },
+  {
+    question: "Dalam analisis menggunakan KCKT (HPLC), parameter yang menunjukkan kemampuan sistem untuk memisahkan dua puncak yang berdekatan disebut...",
+    answer: "Resolusi (Rs)",
+    options: ["Faktor Retensi (k')", "Resolusi (Rs)", "Faktor Tailing (Tf)", "Lempeng Teoritis (N)", "HETP"]
+  },
+  {
+    question: "Berapa syarat nilai Faktor Tailing (Tf) yang baik untuk menunjukkan simetrisitas puncak dalam analisis kromatografi?",
+    answer: "0,8 < Tf < 1,5",
+    options: ["Tf > 2,0", "0,8 < Tf < 1,5", "Tf < 0,5", "Tf = 0", "Tf > 5,0"]
+  },
+  // soalManajemenHitungan
+  {
+    question: "Sebuah RS ingin membandingkan dua obat antihipertensi (Obat A dan Obat B). Obat A menurunkan TD 20 mmHg dengan biaya 1 juta, Obat B menurunkan TD 15 mmHg dengan biaya 500 ribu. Metode apa yang digunakan?",
+    answer: "Cost Effectiveness Analysis (CEA)",
+    options: ["Cost Minimization Analysis (CMA)", "Cost Effectiveness Analysis (CEA)", "Cost Utility Analysis (CUA)", "Cost Benefit Analysis (CBA)", "Cost Illness Analysis"]
+  },
+  {
+    question: "Berapakah nilai Reorder Point (ROP) jika penggunaan obat 20 unit/hari, Lead Time 5 hari, dan Safety Stock yang ditetapkan adalah 100 unit?",
+    answer: "200 unit",
+    options: ["100 unit", "150 unit", "200 unit", "250 unit", "300 unit"]
+  },
+  {
+    question: "Apotek membeli obat seharga Rp 10.000 (sudah termasuk PPN). Apotek menginginkan margin keuntungan sebesar 20%. Berapa harga jual obat tersebut?",
+    answer: "Rp 12.500",
+    options: ["Rp 12.000", "Rp 12.500", "Rp 11.500", "Rp 13.000", "Rp 15.000"]
+  },
+  {
+    question: "Metode analisis inventori yang mengklasifikasikan barang berdasarkan nilai investasi tahunan tertinggi hingga terendah (prinsip Pareto) disebut...",
+    answer: "Analisis ABC",
+    options: ["Analisis VEN", "Analisis ABC", "Metode FIFO", "Metode LIFO", "Metode FEFO"]
+  },
+  {
+    question: "Apoteker menghitung Turn Over Ratio (TOR) apotek. Jika Harga Pokok Penjualan (HPP) adalah 800 juta dan rata-rata persediaan adalah 100 juta, berapakah nilai TOR-nya?",
+    answer: "8 kali",
+    options: ["4 kali", "6 kali", "8 kali", "10 kali", "12 kali"]
+  },
+  // soalIndustriLanjutanAkhir
+  {
+    question: "Dalam pembuatan sediaan tablet, di manakah lokasi pengambilan sampel (sampling) yang paling tepat untuk dilakukan uji keseragaman bobot selama proses produksi berlangsung (in-process control)?",
+    answer: "Mesin pencetak tablet",
+    options: ["Gudang bahan baku", "Ruang pencampuran (mixing)", "Mesin pencetak tablet", "Ruang pengemasan sekunder", "Laboratorium QC"]
+  },
+  {
+    question: "Industri farmasi yang memproduksi antibiotik golongan sefalosporin harus memiliki fasilitas produksi yang...",
+    answer: "Terpisah sepenuhnya (Dedicated facility)",
+    options: ["Boleh bergabung dengan produk umum", "Cukup menggunakan sistem udara (AHU) yang sama", "Terpisah sepenuhnya (Dedicated facility)", "Hanya perlu sekat dinding", "Boleh bergantian dengan pembersihan validasi"]
+  },
+  {
+    question: "Limbah cair dari produksi antibiotik golongan penisilin harus diolah secara khusus sebelum dibuang ke IPAL. Cara yang paling tepat untuk memecah struktur cincinnya adalah...",
+    answer: "Penambahan basa kuat atau pemanasan",
+    options: ["Filtrasi membran", "Penambahan basa kuat atau pemanasan", "Penambahan klorin", "Pengenceran dengan air", "Radiasi sinar UV"]
+  },
+  {
+    question: "Dokumen yang berisi instruksi rinci dan langkah demi langkah untuk melakukan suatu kegiatan operasional di industri farmasi disebut...",
+    answer: "Prosedur Operasional Baku (POB/SOP)",
+    options: ["Prosedur Operasional Baku (POB/SOP)", "Protokol Validasi", "Batch Record", "Spesifikasi Bahan", "Logbook"]
+  },
+  {
+    question: "Berapa lama sampel pertinggal (retained sample) suatu produk obat harus disimpan oleh industri farmasi setelah tanggal kedaluwarsa?",
+    answer: "Minimal 1 tahun",
+    options: ["6 bulan", "Minimal 1 tahun", "2 tahun", "3 tahun", "5 tahun"]
+  },
+  // soalReviewCampuran
+  {
+    question: "Seorang pasien laki-laki 50 tahun dengan riwayat asma mengalami hipertensi. Obat hipertensi manakah yang mutlak harus dihindari karena dapat memicu bronkospasme?",
+    answer: "Propranolol",
+    options: ["Amlodipin", "Captopril", "Propranolol", "Valsartan", "Spironolakton"]
+  },
+  {
+    question: "Seorang ibu membawa anaknya yang tidak sengaja meminum cairan pembersih lantai yang bersifat korosif. Tindakan apa yang dikontraindikasikan (dilarang) untuk dilakukan?",
+    answer: "Merangsang muntah",
+    options: ["Memberikan air putih", "Merangsang muntah", "Membawa segera ke IGD", "Memberikan karbon aktif", "Memantau jalan napas"]
+  },
+  {
+    question: "Apoteker sedang menghitung harga pokok penjualan (HPP). Diketahui Stok Awal 100jt, Pembelian 500jt, dan Stok Akhir 150jt. Berapakah nilai HPP tersebut?",
+    answer: "450 juta",
+    options: ["400 juta", "450 juta", "500 juta", "550 juta", "600 juta"]
+  },
+  {
+    question: "Antidotum untuk keracunan Benzodiazepine (seperti Alprazolam atau Diazepam) adalah...",
+    answer: "Flumazenil",
+    options: ["Nalokson", "Atropin", "Flumazenil", "Protamin", "Nitrit"]
+  },
+  {
+    question: "Berapa suhu penyimpanan untuk sediaan yang harus disimpan pada 'Suhu Dingin' menurut Farmakope Indonesia?",
+    answer: "2°C sampai 8°C",
+    options: ["-20°C sampai -10°C", "2°C sampai 8°C", "8°C sampai 15°C", "15°C sampai 30°C", "Di bawah 0°C"]
+  },
+  // soalHotsIblisUKMPPAI
+  {
+    question: "Tn. X (65th) dengan gagal jantung (HFrEF) dan asma persisten, didiagnosis menderita angina stabil. Dokter ingin memberikan beta-blocker. Manakah pilihan yang memiliki selektivitas tertinggi pada reseptor β1 untuk meminimalkan risiko eksaserbasi asma namun tetap memberikan benefit mortalitas pada gagal jantung?",
+    answer: "Bisoprolol",
+    options: ["Propranolol", "Nadolol", "Bisoprolol", "Carvedilol", "Timolol"]
+  },
+  {
+    question: "Ny. G (55th) didiagnosis AF dan sedang terapi Warfarin (target INR 2-3). Ia mengalami infeksi jamur sistemik dan diberikan Ketokonazol. Apa konsekuensi klinis yang paling diwaspadai dari interaksi ini?",
+    answer: "Peningkatan nilai INR dan risiko perdarahan spontan",
+    options: ["Penurunan nilai INR dan risiko tromboemboli", "Peningkatan nilai INR dan risiko perdarahan spontan", "Kegagalan terapi jamur", "Toksisitas ginjal akibat akumulasi warfarin", "Tidak ada interaksi karena beda rute eliminasi"]
+  },
+  {
+    question: "Seorang pasien DM tipe 2 dengan GFR 25 mL/min/1.73m² mengalami hiperglikemia persisten. Manakah dari obat golongan SGLT-2 inhibitor berikut yang secara klinis tidak direkomendasikan untuk inisiasi karena efikasi glikemiknya yang sangat bergantung pada fungsi filtrasi ginjal?",
+    answer: "Dapagliflozin",
+    options: ["Metformin", "Dapagliflozin", "Pioglitazone", "Sitagliptin", "Gliklazid"]
+  },
+  {
+    question: "Pasien TB sedang menjalani kategori 1 fase intensif. Ia memiliki riwayat asam urat dan tiba-tiba mengalami serangan gout akut disertai nyeri sendi hebat. Obat manakah dalam regimen OAT yang paling bertanggung jawab menghambat ekskresi asam urat di tubulus ginjal?",
+    answer: "Pirazinamid",
+    options: ["Rifampisin", "Isoniazid", "Etambutol", "Pirazinamid", "Streptomisin"]
+  },
+  {
+    question: "Sebuah industri farmasi memproduksi tablet lepas lambat. Saat uji disolusi tahap S1 (6 unit), hasil rata-rata adalah 82% (Syarat Q=80%). Namun, ada 1 unit yang hasilnya 74%. Apa tindakan selanjutnya berdasarkan Farmakope?",
+    answer: "Lanjut ke tahap S2 dengan tambahan 6 unit sediaan",
+    options: ["Lulus karena rata-rata di atas Q", "Lanjut ke tahap S2 dengan tambahan 6 unit sediaan", "Lanjut ke tahap S2 dengan tambahan 12 unit sediaan", "Reject batch tersebut karena ada unit di bawah Q", "Ulangi uji S1 dengan prosedur berbeda"]
+  },
+  {
+    question: "Pasien dengan HIV mendapatkan regimen Tenofovir, Lamivudin, dan Efavirenz. Setelah 1 bulan, ia mengeluh sering mimpi buruk dan depresi berat. Perubahan regimen yang paling tepat menurut pedoman adalah mengganti Efavirenz dengan...",
+    answer: "Dolutegravir",
+    options: ["Zidovudin", "Nevirapin", "Dolutegravir", "Stavudin", "Abacavir"]
+  },
+  {
+    question: "Pasien anak (10kg) mengalami syok anafilaktik. Dosis epinefrin IM yang diberikan adalah 0,01 mg/kg BB dari sediaan 1:1000 (1 mg/mL). Berapa volume yang diambil dalam spuit?",
+    answer: "0,1 mL",
+    options: ["0,01 mL", "0,1 mL", "1,0 mL", "0,5 mL", "0,05 mL"]
+  },
+  {
+    question: "Seorang pasien keracunan metanol diberikan etanol sebagai antidotum. Apa mekanisme biokimia yang mendasari penggunaan etanol dalam kasus ini?",
+    answer: "Kompetisi afinitas pada enzim Alkohol Dehidrogenase (ADH)",
+    options: ["Peningkatan ekskresi metanol di ginjal", "Pengikatan metanol secara kovalen", "Kompetisi afinitas pada enzim Alkohol Dehidrogenase (ADH)", "Perusakan struktur kimia metanol menjadi air", "Penghambatan enzim CYP2E1"]
+  },
+  {
+    question: "Dalam validasi metode analisis, seorang apoteker melakukan replikasi pengukuran pada hari yang berbeda, oleh analis yang berbeda, namun di laboratorium yang sama. Parameter apa yang sedang diuji?",
+    answer: "Intermediate Precision",
+    options: ["Repeatability", "Intermediate Precision", "Reproducibility", "Accuracy", "Robustness"]
+  },
+  {
+    question: "Pasien dengan Chronic Kidney Disease (CKD) Stage IV mengalami hiperfosfatemia. Dokter meresepkan pengikat fosfat. Manakah yang paling tepat dipilih jika pasien juga mengalami hiperkalsemia?",
+    answer: "Sevelamer Karbonat",
+    options: ["Kalsium Karbonat", "Kalsium Asetat", "Sevelamer Karbonat", "Aluminium Hidroksida", "Magnesium Hidroksida"]
+  },
+  {
+    question: "Apoteker sedang menghitung BEP (Break Even Point). Biaya tetap per bulan 50 juta, harga jual produk rata-rata 100 ribu, dan biaya variabel per produk 60 ribu. Berapa unit yang harus terjual agar mencapai BEP?",
+    answer: "1250 unit",
+    options: ["500 unit", "833 unit", "1250 unit", "1500 unit", "2000 unit"]
+  },
+  {
+    question: "Seorang wanita mengonsumsi kontrasepsi oral kombinasi dan diresepkan Rifampisin untuk pengobatan TB-nya. Mekanisme apa yang menyebabkan kegagalan kontrasepsi pada pasien ini?",
+    answer: "Induksi enzim CYP3A4 mempercepat metabolisme estrogen",
+    options: ["Penghambatan absorpsi estrogen di usus", "Induksi enzim CYP3A4 mempercepat metabolisme estrogen", "Kompetisi pada reseptor progesteron", "Gangguan sirkulasi enterohepatik oleh antibiotik", "Peningkatan ikatan protein plasma kontrasepsi"]
+  },
+  {
+    question: "Pada pembuatan tablet dengan metode granulasi basah, ditemukan masalah 'picking'. Setelah dianalisis, massa granul terlalu lembap. Apa modifikasi formulasi yang paling logis?",
+    answer: "Meningkatkan waktu pengeringan atau mengurangi jumlah binder",
+    options: ["Menambah jumlah lubricant", "Menambah jumlah disintegran", "Meningkatkan waktu pengeringan atau mengurangi jumlah binder", "Meningkatkan tekanan kompresi", "Mengganti pengisi dengan laktosa"]
+  },
+  {
+    question: "Pasien stroke iskemik diberikan terapi Alteplase. Manakah dari parameter berikut yang merupakan kontraindikasi absolut pemberian trombolitik?",
+    answer: "Tekanan darah 200/120 mmHg yang tidak terkontrol",
+    options: ["Usia di atas 60 tahun", "Riwayat diabetes mellitus", "Tekanan darah 200/120 mmHg yang tidak terkontrol", "Serangan terjadi 2 jam yang lalu", "Gula darah 150 mg/dL"]
+  },
+  {
+    question: "Sebuah industri farmasi melakukan sterilisasi akhir untuk infus Dextrose menggunakan Autoklaf. Untuk menjamin sterilitas, digunakan indikator biologi. Manakah spora mikroba yang memiliki nilai D (D-value) paling tinggi pada suhu 121°C?",
+    answer: "Geobacillus stearothermophilus",
+    options: ["Bacillus subtilis", "Geobacillus stearothermophilus", "Bacillus pumilus", "Clostridium sporogenes", "Candida albicans"]
+  },
+  {
+    question: "Pasien dengan Parkinson yang sedang terapi Levodopa/Karbidopa mengeluhkan fenomena 'wearing-off' sebelum jadwal dosis berikutnya. Penambahan obat golongan MAO-B inhibitor manakah yang tepat untuk memperpanjang durasi kerja dopamin?",
+    answer: "Selegilin",
+    options: ["Entakapon", "Selegilin", "Bromokriptin", "Triheksifenidil", "Amantadin"]
+  },
+  {
+    question: "Seorang pasien dilarikan ke RS karena overdosis Heparin saat menjalani dialisis. Antidotum spesifik yang bekerja melalui netralisasi muatan elektrostatik adalah...",
+    answer: "Protamin Sulfat",
+    options: ["Vitamin K", "Protamin Sulfat", "Asam Traneksamat", "Idarucizumab", "Andexanet alfa"]
+  },
+  {
+    question: "Dalam manajemen stok, Apoteker menemukan item obat X memiliki pemakaian tinggi namun nilai investasinya rendah. Berdasarkan analisis kombinasi ABC-VEN, obat ini masuk dalam kategori...",
+    answer: "V-C",
+    options: ["A-V", "A-E", "V-C", "B-N", "C-N"]
+  },
+  {
+    question: "Seorang apoteker di QC menguji kadar bahan aktif menggunakan spektrofotometri UV-Vis. Jika absorbansi sampel adalah 0,4 dan absorbansi standar 0,5 (konsentrasi standar 10 ppm), berapakah konsentrasi sampel jika dilakukan pengenceran 100 kali?",
+    answer: "800 ppm",
+    options: ["8 ppm", "80 ppm", "400 ppm", "800 ppm", "1000 ppm"]
+  },
+  {
+    question: "Pada kasus ensefalopati hepatik, pemberian Neomisin bertujuan untuk...",
+    answer: "Mengurangi bakteri produsen amonia di usus",
+    options: ["Mengikat amonia secara langsung", "Mengurangi bakteri produsen amonia di usus", "Menurunkan pH kolon", "Meningkatkan regenerasi sel hati", "Mencegah perdarahan varises"]
+  },
+  {
+    question: "Obat golongan triptan (seperti Sumatriptan) dikontraindikasikan pada pasien dengan riwayat penyakit jantung koroner karena mekanisme...",
+    answer: "Vasokonstriksi pembuluh darah koroner",
+    options: ["Vasodilatasi sistemik hebat", "Inotropik negatif", "Vasokonstriksi pembuluh darah koroner", "Bradikardia berat", "Peningkatan agregasi platelet"]
+  },
+  {
+    question: "Industri farmasi membuat sediaan emulsi. Setelah penyimpanan, terbentuk lapisan yang dapat didispersikan kembali dengan pengocokan ringan. Fenomena stabilitas fisik ini disebut...",
+    answer: "Creaming",
+    options: ["Cracking", "Creaming", "Coalescence", "Phase Inversion", "Flocculation"]
+  },
+  {
+    question: "Berapakah nilai HLB campuran dari 20% Span 80 (HLB 4,3) dan 80% Tween 80 (HLB 15,0)?",
+    answer: "12,86",
+    options: ["9,65", "10,50", "12,86", "13,40", "15,00"]
+  },
+  {
+    question: "Seorang pasien hamil trimester 2 didiagnosis menderita hipertiroidisme (Graves' disease). Dokter ingin mengganti PTU yang digunakan pada trimester 1. Apa obat pilihannya?",
+    answer: "Metimazol",
+    options: ["Iodium Radioaktif", "Metimazol", "Lugol", "Propranolol", "Levotiroksin"]
+  },
+  {
+    question: "Antipsikotik golongan atipikal (seperti Klozapin) memiliki risiko efek samping hematologi yang fatal sehingga memerlukan pemantauan rutin terhadap...",
+    answer: "Jumlah sel darah putih (WBC)",
+    options: ["Kadar Hb", "Jumlah sel darah putih (WBC)", "Jumlah platelet", "Kadar gula darah", "Fungsi hati"]
+  },
+  {
+    question: "Dalam uji disolusi, media yang digunakan harus memiliki pH yang mencerminkan kondisi fisiologis. Untuk sediaan enteric-coated, tahap awal dilakukan pada media...",
+    answer: "HCl 0,1 N (pH 1,2) selama 2 jam",
+    options: ["Dapar Fosfat pH 6,8", "Air demineralisasi", "HCl 0,1 N (pH 1,2) selama 2 jam", "Dapar Asetat pH 4,5", "HCl 0,1 N selama 30 menit"]
+  },
+  {
+    question: "Berapa jumlah alkohol 96% yang dibutuhkan untuk membuat 1 liter alkohol 70%?",
+    answer: "729 mL",
+    options: ["700 mL", "729 mL", "750 mL", "960 mL", "672 mL"]
+  },
+  {
+    question: "Pasien dengan sirosis mengalami asites hebat. Kombinasi diuretik yang dianggap sebagai standar emas menurut pedoman (EASL) untuk mempertahankan keseimbangan kalium adalah...",
+    answer: "Spironolakton dan Furosemid",
+    options: ["Furosemid dan HCT", "Spironolakton dan Furosemid", "Amilorid dan Manitol", "Spironolakton dan HCT", "Asetazolamid dan Furosemid"]
+  },
+  {
+    question: "Metode ekstraksi yang paling tepat untuk menarik zat aktif yang bersifat termolabil dari bahan alam tanpa menggunakan pemanasan adalah...",
+    answer: "Maserasi atau Perkolasi",
+    options: ["Infusa", "Dekokta", "Maserasi atau Perkolasi", "Sokletasi", "Refluks"]
+  },
+  {
+    question: "Suatu larutan obat memiliki waktu paruh (t1/2) 4 jam dan mengikuti kinetika eliminasi orde satu. Berapa persisaan obat dalam tubuh setelah 12 jam jika dosis awal 400 mg?",
+    answer: "50 mg",
+    options: ["200 mg", "100 mg", "50 mg", "25 mg", "12,5 mg"]
+  },
+  {
+    question: "Tn. Z (68 th) dengan riwayat HF pEF, PPOK, dan diabetes, mengalami hipertensi (165/95 mmHg). Pasien memiliki riwayat asma yang sering kambuh. Manakah kombinasi antihipertensi yang paling aman dan efektif untuk meminimalkan risiko eksaserbasi asma serta komplikasi ginjal?",
+    answer: "Lisinopril dan Amlodipin",
+    options: ["Lisinopril dan Propranolol", "Lisinopril dan Amlodipin", "Candesartan dan Bisoprolol", "Amlodipin dan Carvedilol", "Verapamil dan Lisinopril"]
+  },
+  {
+    question: "Pasien stroke iskemik (BB 60 kg) akan diberikan Alteplase dengan dosis 0,9 mg/kg BB. Aturan pemberian: 10% dosis diberikan secara bolus dalam 1 menit, sisanya melalui infus selama 60 menit. Berapa mg dosis yang diberikan secara bolus?",
+    answer: "5,4 mg",
+    options: ["5,4 mg", "9,0 mg", "48,6 mg", "54,0 mg", "6,0 mg"]
+  },
+  {
+    question: "Seorang pasien TB Kategori 1 fase intensif mengalami nyeri hebat pada ibu jari kaki disertai bengkak dan kemerahan. Kadar asam urat pasien 10,5 mg/dL. Obat manakah yang harus dihentikan sementara (hold) berdasarkan efek samping metaboliknya?",
+    answer: "Pirazinamid",
+    options: ["Rifampisin", "Isoniazid", "Etambutol", "Pirazinamid", "Streptomisin"]
+  },
+  {
+    question: "Industri farmasi melakukan uji disolusi terbanding (UDT) pada produk copy Metformin. Jika nilai f1 adalah 10 dan f2 adalah 39, bagaimana kesimpulan profil disolusi produk tersebut dibandingkan inovator?",
+    answer: "Tidak mirip (f2 < 50)",
+    options: ["Mirip (f2 > 50)", "Tidak mirip (f2 < 50)", "Sangat mirip (f1 < 15)", "Identik (f2 = 100)", "Data tidak cukup"]
+  },
+  {
+    question: "Seorang pasien dengan gangguan fungsi ginjal (GFR 20 mL/min) membutuhkan terapi hiperlipidemia. Obat golongan statin manakah yang memerlukan penyesuaian dosis signifikan atau pengawasan ketat karena profil ekskresi ginjalnya?",
+    answer: "Rosuvastatin",
+    options: ["Atorvastatin", "Fluvastatin", "Rosuvastatin", "Simvastatin", "Pitavastatin"]
+  },
+  {
+    question: "Apoteker menghitung kebutuhan tablet Metformin. Stok awal 1000 tab, penggunaan rata-rata 50 tab/hari, lead time 3 hari, dan safety stock untuk 2 hari pemakaian. Berapa jumlah stok saat reorder point (ROP) dilakukan?",
+    answer: "250 tablet",
+    options: ["100 tablet", "150 tablet", "250 tablet", "350 tablet", "500 tablet"]
+  },
+  {
+    question: "Pada pembuatan tablet dengan metode granulasi basah, ditemukan masalah 'sticking' pada upper punch. Setelah dianalisis, kelembapan granul (MC) adalah 5%. Apa tindakan yang paling tepat?",
+    answer: "Menambah waktu pengeringan granul",
+    options: ["Menambah jumlah lubricant", "Menambah tekanan kompresi", "Menambah jumlah pengikat", "Menambah waktu pengeringan granul", "Mengganti punch baru"]
+  },
+  {
+    question: "Ny. R (35 th) hamil 12 minggu, terdiagnosis HIV. Regimen mana yang saat ini dianggap paling aman (Lini 1) untuk ibu hamil demi mencegah penularan ke janin (MTCT) menurut pedoman terbaru?",
+    answer: "TDF + 3TC + DTG",
+    options: ["TDF + 3TC + EFV", "TDF + 3TC + DTG", "AZT + 3TC + NVP", "D4T + 3TC + EFV", "TDF + 3TC + LPV/r"]
+  },
+  {
+    question: "Berapa gram NaCl yang harus ditambahkan pada 500 mL larutan Atropin Sulfat 1% agar isotonis? (Ekivalensi NaCl Atropin Sulfat = 0,13)",
+    answer: "3,85 gram",
+    options: ["4,50 gram", "3,85 gram", "0,65 gram", "1,30 gram", "3,20 gram"]
+  },
+  {
+    question: "Industri farmasi memproduksi infus Ringer Laktat. Berdasarkan CPOB, proses pengisian (filling) sediaan yang disterilisasi akhir (terminal sterilization) minimal dilakukan di kelas...",
+    answer: "Kelas C",
+    options: ["Kelas A", "Kelas B", "Kelas C", "Kelas D", "Kelas E"]
+  },
+  {
+    question: "Pasien mengonsumsi Warfarin dan mengonsumsi sayuran hijau (tinggi Vitamin K) dalam jumlah besar secara mendadak. Apa yang akan terjadi pada parameter laboratoriumnya?",
+    answer: "Nilai INR menurun",
+    options: ["Nilai INR meningkat", "Nilai INR menurun", "Nilai aPTT meningkat", "Nilai aPTT menurun", "Kadar trombosit menurun"]
+  },
+  {
+    question: "Apoteker di bagian QC mengukur kadar zat aktif dengan KCKT. Waktu retensi puncak utama 10,0 menit dan puncak pengotor 8,5 menit. Lebar alas puncak masing-masing adalah 1,2 dan 0,8. Berapakah resolusi (Rs) kedua puncak tersebut?",
+    answer: "1,5",
+    options: ["0,75", "1,25", "1,5", "2,0", "2,5"]
+  },
+  {
+    question: "Pasien anak mengalami diare akut. Apoteker memberikan Oralit dan Zink. Berapa dosis Zink yang tepat untuk anak usia 10 bulan selama 10 hari?",
+    answer: "20 mg sekali sehari",
+    options: ["10 mg sekali sehari", "20 mg sekali sehari", "10 mg dua kali sehari", "5 mg sekali sehari", "20 mg dua kali sehari"]
+  },
+  {
+    question: "Manakah dari kondisi berikut yang merupakan kontraindikasi mutlak penggunaan Misoprostol pada pasien tukak peptik?",
+    answer: "Wanita hamil",
+    options: ["Wanita hamil", "Pasien lansia", "Penderita asma", "Penderita hipertensi", "Penderita diabetes"]
+  },
+  {
+    question: "Apotek membeli obat dengan HPP 20.000 (inc. PPN). Margin yang ditetapkan adalah 25% dari harga jual. Berapakah harga jual obat tersebut?",
+    answer: "26.667",
+    options: ["25.000", "26.667", "24.000", "27.500", "30.000"]
+  },
+  {
+    question: "Uji stabilitas jangka panjang (long-term) untuk produk farmasi di Indonesia (Zona IVB) dilakukan pada kondisi penyimpanan...",
+    answer: "30°C ± 2°C / 75% RH ± 5%",
+    options: ["25°C ± 2°C / 60% RH ± 5%", "30°C ± 2°C / 75% RH ± 5%", "40°C ± 2°C / 75% RH ± 5%", "30°C ± 2°C / 60% RH ± 5%", "25°C ± 2°C / 75% RH ± 5%"]
+  },
+  {
+    question: "Seorang pasien mengalami overdosis Benzodiazepine. Antidotum flumazenil bekerja dengan cara...",
+    answer: "Antagonis kompetitif pada reseptor GABA",
+    options: ["Agonis pada reseptor GABA", "Antagonis kompetitif pada reseptor GABA", "Menghambat reuptake serotonin", "Membentuk kompleks inaktif", "Memicu ekskresi ginjal"]
+  },
+  {
+    question: "Analisis farmakoekonomi yang membandingkan dua intervensi dengan hasil (outcome) yang dinyatakan dalam 'Cost per Quality-Adjusted Life Years (QALY)' adalah...",
+    answer: "Cost Utility Analysis (CUA)",
+    options: ["CMA", "CEA", "CUA", "CBA", "CCA"]
+  },
+  {
+    question: "Berapa jumlah alkohol 95% yang harus diambil untuk membuat 500 mL alkohol 70%?",
+    answer: "368,4 mL",
+    options: ["350,0 mL", "368,4 mL", "386,4 mL", "400,0 mL", "325,5 mL"]
+  },
+  {
+    question: "Pada pasien Gagal Ginjal Kronis, terjadi penurunan produksi Eritropoietin yang menyebabkan anemia. Terapi manakah yang paling tepat untuk menstimulasi eritropoiesis pada pasien ini?",
+    answer: "Epoetin Alfa",
+    options: ["Asam Folat", "Sianokobalamin", "Epoetin Alfa", "Ferro Sulfat", "Transfusi Darah"]
+  },
+  {
+    question: "Seorang apoteker melakukan validasi pembersihan mesin cetak tablet. Parameter 'Low Detected Limit' (LOD) ditentukan untuk memastikan...",
+    answer: "Konsentrasi terkecil yang masih dapat dideteksi",
+    options: ["Konsentrasi terkecil yang masih dapat dikuantitasi", "Konsentrasi terkecil yang masih dapat dideteksi", "Kedekatan hasil uji dengan nilai sebenarnya", "Kekuatan metode terhadap variasi kecil", "Rentang linearitas"]
+  },
+  {
+    question: "Seorang pasien glaukoma sudut terbuka diberikan Timolol tetes mata. Mekanisme kerja obat ini dalam menurunkan tekanan intraokular adalah...",
+    answer: "Menurunkan produksi akuos humor",
+    options: ["Meningkatkan aliran keluar akuos humor", "Menurunkan produksi akuos humor", "Memicu miosis pupil", "Menghambat enzim karbonik anhidrase", "Meningkatkan osmolaritas darah"]
+  },
+  {
+    question: "Apotek memiliki persediaan rata-rata Rp 200 juta. HPP dalam satu tahun adalah Rp 1,2 miliar. Berapakah nilai Turn Over Ratio (TOR) apotek tersebut?",
+    answer: "6 kali",
+    options: ["4 kali", "5 kali", "6 kali", "8 kali", "10 kali"]
+  },
+  {
+    question: "Pasien asma diberikan Teofilin. Ia juga merupakan perokok aktif. Bagaimana pengaruh rokok terhadap profil farmakokinetik Teofilin?",
+    answer: "Meningkatkan klirens Teofilin (perlu dosis lebih tinggi)",
+    options: ["Menghambat klirens Teofilin", "Meningkatkan klirens Teofilin (perlu dosis lebih tinggi)", "Meningkatkan ikatan protein plasma", "Menurunkan absorpsi Teofilin", "Tidak ada pengaruh"]
+  },
+  {
+    question: "Dalam uji keseragaman sediaan menurut FI VI, jika tablet memiliki dosis zat aktif 10 mg dan bobot rata-rata 250 mg, maka pengujian yang dilakukan adalah...",
+    answer: "Kandungan Unit (Keseragaman Kandungan)",
+    options: ["Keragaman Bobot", "Kandungan Unit (Keseragaman Kandungan)", "Uji Disintegrasi", "Uji Disolusi", "Penetapan Kadar"]
+  },
+  {
+    question: "Antidotum untuk keracunan insektisida golongan organofosfat yang bekerja dengan mereaktivasi enzim asetilkolinesterase adalah...",
+    answer: "Pralidoksim",
+    options: ["Atropin", "Pralidoksim", "Nalokson", "Diazepam", "Karbon Aktif"]
+  },
+  {
+    question: "Berapa nilai HLB campuran dari 7 bagian Span 80 (HLB 4,3) dan 3 bagian Tween 80 (HLB 15,0)?",
+    answer: "7,51",
+    options: ["7,51", "9,65", "10,71", "5,40", "11,20"]
+  },
+  {
+    question: "Seorang wanita 25 th mengonsumsi Fenitoin untuk epilepsinya. Ia juga menggunakan pil kontrasepsi oral. Ia kemudian hamil. Apa penyebab paling mungkin dari kegagalan kontrasepsi tersebut?",
+    answer: "Fenitoin menginduksi enzim metabolisme kontrasepsi",
+    options: ["Fenitoin menghambat absorpsi kontrasepsi", "Fenitoin menginduksi enzim metabolisme kontrasepsi", "Kontrasepsi menghambat kerja Fenitoin", "Pasien lupa minum pil", "Interaksi pada ikatan protein plasma"]
+  },
+  {
+    question: "Pada kromatografi lapis tipis (KLT), jika jarak tempuh bercak adalah 4 cm dan jarak tempuh fase gerak adalah 10 cm, berapakah nilai Rf-nya?",
+    answer: "0,4",
+    options: ["0,4", "2,5", "4,0", "0,25", "0,6"]
+  },
+  {
+    question: "Seorang pasien pria menderita gout dan batu ginjal kalsium oksalat. Obat manakah yang paling tepat untuk mengontrol kadar asam urat sekaligus mencegah pembentukan batu urat di ginjal?",
+    answer: "Alopurinol",
+    options: ["Probenesid", "Alopurinol", "Sulfinpirazon", "Kolkisin", "Natrium Diklofenak"]
+  },
+  {
+    question: "Tn. P (55 th) dengan riwayat infark miokard dan asma, mengalami peningkatan TD 170/100 mmHg. Pasien juga menderita hiperurisemia (asam urat 9,2 mg/dL). Manakah obat antihipertensi golongan diuretik yang harus dihindari karena berisiko memicu serangan gout akut dan memperparah profil metabolik pasien?",
+    answer: "Hidroklorotiazid",
+    options: ["Spironolakton", "Hidroklorotiazid", "Eplerenon", "Amilorid", "Indapamid"]
+  },
+  {
+    question: "Seorang pasien didiagnosis pneumonia komunitas (CAP) berat. Hasil kultur menunjukkan infeksi MRSA (Methicillin-resistant Staphylococcus aureus). Manakah antibiotik pilihan yang bekerja menghambat sintesis dinding sel bakteri pada tahap transpeptidasi namun tetap efektif terhadap strain resisten ini?",
+    answer: "Seftarolin",
+    options: ["Seftriakson", "Meropenem", "Vancomycin", "Seftarolin", "Linezolid"]
+  },
+  {
+    question: "Pasien wanita (28 th) hamil trimester pertama menderita epilepsi tipe tonik-klonik. Dokter ingin memberikan antiepilepsi dengan risiko teratogenik (spina bifida) paling rendah dibandingkan valproat. Pilihan yang paling tepat adalah...",
+    answer: "Lamotrigin",
+    options: ["Fenitoin", "Karbamazepin", "Lamotrigin", "Fenobarbital", "Asam Valproat"]
+  },
+  {
+    question: "Industri farmasi memproduksi tablet salut selaput. Setelah proses penyalutan, ditemukan cacat berupa lapisan salut yang terkelupas dari inti tablet (peeling). Hal ini kemungkinan besar disebabkan oleh...",
+    answer: "Adhesi film ke inti tablet yang buruk",
+    options: ["Kecepatan penyemprotan terlalu tinggi", "Suhu udara pengering terlalu rendah", "Adhesi film ke inti tablet yang buruk", "Viskositas larutan salut terlalu rendah", "Konsentrasi plasticizer terlalu tinggi"]
+  },
+  {
+    question: "Seorang apoteker melakukan titrasi iodometri untuk menetapkan kadar Vitamin C. Jika 100 mg sampel membutuhkan 10 mL larutan Iodium 0,1 N (BM Vit C = 176,12; Valensi = 2), berapakah kadar % b/b Vitamin C dalam sampel tersebut?",
+    answer: "88,06%",
+    options: ["44,03%", "88,06%", "17,61%", "95,00%", "76,12%"]
+  },
+  {
+    question: "Pasien dengan sindrom koroner akut (ACS) mendapatkan terapi ganda antiplatelet (DAPT) Aspirin dan Clopidogrel. Pasien juga mengeluh perih lambung dan meminum Omeprazole secara mandiri. Mengapa kombinasi ini berbahaya?",
+    answer: "Omeprazole menghambat aktivasi Clopidogrel melalui CYP2C19",
+    options: ["Omeprazole meningkatkan ekskresi Aspirin", "Omeprazole menghambat aktivasi Clopidogrel melalui CYP2C19", "Aspirin menurunkan absorpsi Omeprazole", "Keduanya meningkatkan risiko pendarahan secara sinergis", "Omeprazole menginduksi metabolisme Clopidogrel"]
+  },
+  {
+    question: "Sebuah rumah sakit menggunakan 500 unit insulin per bulan. Harga per unit adalah Rp 200.000. Biaya pesan Rp 50.000 per pesanan dan biaya simpan 20% dari harga beli per unit per tahun. Berapakah jumlah pemesanan ekonomis (EOQ)?",
+    answer: "12 unit",
+    options: ["10 unit", "12 unit", "25 unit", "50 unit", "100 unit"]
+  },
+  {
+    question: "Dalam uji sterilitas sediaan injeksi volume besar, ditemukan pertumbuhan mikroba pada media Tioglikolat Cair namun tidak pada media Soyabean Casein Digest. Hal ini menunjukkan kontaminasi oleh mikroba jenis...",
+    answer: "Bakteri anaerob",
+    options: ["Bakteri aerob", "Jamur", "Bakteri anaerob", "Virus", "Kapang dan khamir"]
+  },
+  {
+    question: "Pasien mengalami keracunan sianida setelah terpapar di laboratorium kimia. Antidotum yang bekerja dengan cara mengubah hemoglobin menjadi methemoglobin agar mengikat sianida adalah...",
+    answer: "Natrium Nitrit",
+    options: ["Natrium Thiosulfat", "Natrium Nitrit", "Hidroksokobalamin", "Atropin", "Dimercaprol"]
+  },
+  {
+    question: "Seorang pasien dengan Chronic Kidney Disease (CKD) mengalami hiperkalemia berat (K+ = 7,0 mEq/L) dengan perubahan EKG. Tindakan pertama untuk menstabilkan membran miokardium adalah pemberian...",
+    answer: "Kalsium Glukonat IV",
+    options: ["Insulin dan Dextrose", "Kalsium Glukonat IV", "Natrium Bikarbonat", "Furosemid", "Kayexalate"]
+  },
+  {
+    question: "Industri farmasi melakukan validasi proses pada pembuatan tablet baru. Menurut CPOB, berapa jumlah batch berurutan yang umumnya diperlukan untuk validasi prospektif guna menunjukkan konsistensi?",
+    answer: "3 batch",
+    options: ["1 batch", "2 batch", "3 batch", "5 batch", "10 batch"]
+  },
+  {
+    question: "Pada analisis KCKT, jika diketahui faktor ikutan (Tailing Factor) sebuah puncak adalah 2,5, tindakan apa yang harus dilakukan oleh analis QC?",
+    answer: "Melakukan optimasi fase gerak atau penggantian kolom",
+    options: ["Melanjutkan analisis karena masih masuk rentang", "Melakukan optimasi fase gerak atau penggantian kolom", "Meningkatkan laju alir (flow rate)", "Menurunkan suhu kolom", "Mengganti detektor UV ke RID"]
+  },
+  {
+    question: "Pasien PPOK mendapatkan terapi inhalasi Tiotropium Bromida. Apa mekanisme aksi utama dari obat ini dalam menyebabkan bronkodilatasi?",
+    answer: "Antagonis kompetitif pada reseptor muskarinik M3",
+    options: ["Agonis reseptor Beta-2 adrenergik", "Antagonis kompetitif pada reseptor muskarinik M3", "Penghambat enzim fosfodiesterase", "Stabilisator sel mast", "Antagonis reseptor leukotrien"]
+  },
+  {
+    question: "Apoteker menghitung harga jual resep yang mengandung racikan. Biaya bahan obat Rp 50.000, tuslah Rp 5.000, emballase Rp 2.000. Jika apotek mengambil margin 20% dari HJA, berapakah total yang dibayar pasien?",
+    answer: "Rp 69.500",
+    options: ["Rp 62.000", "Rp 67.000", "Rp 69.500", "Rp 72.000", "Rp 75.000"]
+  },
+  {
+    question: "Seorang pasien dengan BPH dan hipertensi diberikan Terazosin. Efek samping 'first-dose phenomenon' yang harus diwaspadai pasien saat pertama kali minum obat ini adalah...",
+    answer: "Hipotensi ortostatik mendadak",
+    options: ["Hipertensi rebound", "Hipotensi ortostatik mendadak", "Bradikardia", "Retensi urin", "Edema perifer"]
+  },
+  {
+    question: "Suatu industri farmasi membuat sediaan emulsi tipe M/A. Saat dilakukan uji stabilitas, terjadi pemisahan fase yang tidak dapat kembali meskipun sudah dikocok kuat. Fenomena ini disebut...",
+    answer: "Coalescence (Breaking)",
+    options: ["Creaming", "Flocculation", "Coalescence (Breaking)", "Phase Inversion", "Browning"]
+  },
+  {
+    question: "Berapakah nilai pKa jika diketahui tetapan ionisasi (Ka) suatu asam lemah adalah 10^-5?",
+    answer: "5",
+    options: ["3", "5", "7", "9", "10"]
+  },
+  {
+    question: "Pasien depresi yang sedang terapi MAO inhibitor (Fenelzin) mengonsumsi makanan kaya Tiramin (seperti keju tua). Hal ini dapat memicu kondisi gawat darurat berupa...",
+    answer: "Krisis hipertensi",
+    options: ["Sindrom serotonin", "Krisis hipertensi", "Hipotensi berat", "Gagal ginjal akut", "Psikosis akut"]
+  },
+  {
+    question: "Berapa mL larutan stok dekstrosa 50% yang dibutuhkan untuk membuat 1 liter larutan dekstrosa 5%?",
+    answer: "100 mL",
+    options: ["50 mL", "100 mL", "150 mL", "200 mL", "500 mL"]
+  },
+  {
+    question: "Obat asma golongan agonis beta-2 kerja panjang (LABA) yang digunakan untuk pemeliharaan (bukan serangan akut) adalah...",
+    answer: "Salmeterol",
+    options: ["Salbutamol", "Terbutalin", "Salmeterol", "Ipratropium", "Fenoterol"]
+  },
+  {
+    question: "Dalam klasifikasi BCS (Biopharmaceutical Classification System), zat aktif yang memiliki kelarutan rendah namun permeabilitas tinggi termasuk dalam...",
+    answer: "Kelas II",
+    options: ["Kelas I", "Kelas II", "Kelas III", "Kelas IV", "Kelas V"]
+  },
+  {
+    question: "Pemusnahan stok obat Narkotika di Instalasi Farmasi Rumah Sakit harus disaksikan oleh...",
+    answer: "Petugas Dinkes Provinsi/Kab/Kota dan Balai POM",
+    options: ["Direktur RS dan Apoteker", "Petugas Dinkes Provinsi/Kab/Kota dan Balai POM", "Kepolisian dan BNN", "Komite Medik", "Saksi dari IAI"]
+  },
+  {
+    question: "Parameter yang menggambarkan waktu yang dibutuhkan agar kadar obat dalam darah mencapai puncak disebut...",
+    answer: "T-max",
+    options: ["C-max", "T-max", "AUC", "Vd", "t 1/2"]
+  },
+  {
+    question: "Seorang pasien mendapatkan Gentamisin (aminoglikosida). Dokter meminta pemantauan kadar obat dalam darah (TDM) karena obat ini memiliki sifat pembunuhan bakteri yang bergantung pada...",
+    answer: "Konsentrasi (Concentration-dependent killing)",
+    options: ["Waktu (Time-dependent killing)", "Konsentrasi (Concentration-dependent killing)", "Luas AUC", "Ikatan protein", "pH darah"]
+  },
+  {
+    question: "Metode sterilisasi yang paling sesuai untuk alat bedah logam yang tahan panas dan kelembapan adalah...",
+    answer: "Autoklaf (Panas basah)",
+    options: ["Oven (Panas kering)", "Autoklaf (Panas basah)", "Gas Etilen Oksida", "Radiasi Gamma", "Filtrasi"]
+  },
+  {
+    question: "Sebuah apotek memiliki rata-rata waktu tunggu (lead time) pemesanan obat X selama 4 hari. Jika penggunaan rata-rata 25 box per hari, berapakah safety stock jika apotek ingin mengantisipasi keterlambatan hingga 2 hari?",
+    answer: "50 box",
+    options: ["25 box", "50 box", "100 box", "150 box", "200 box"]
+  },
+  {
+    question: "Pasien kanker mendapatkan kemoterapi cisplatin dan mengalami mual muntah yang sangat hebat (Highly emetogenic). Antiemetik lini pertama yang bekerja pada reseptor 5-HT3 adalah...",
+    answer: "Ondansetron",
+    options: ["Metoklopramid", "Domperidon", "Ondansetron", "Deksametason", "Aprepitant"]
+  },
+  {
+    question: "Berapakah jumlah miliekuivalen (mEq) ion Natrium dalam 1 liter larutan NaCl 0,9%? (BM NaCl = 58,5)",
+    answer: "153,8 mEq",
+    options: ["15,4 mEq", "153,8 mEq", "308 mEq", "77 mEq", "100 mEq"]
+  },
+  {
+    question: "Antidotum spesifik untuk mengatasi perdarahan akibat overdosis antikoagulan oral Dabigatran adalah...",
+    answer: "Idarucizumab",
+    options: ["Vitamin K", "Protamin Sulfat", "Idarucizumab", "Andexanet Alfa", "Asam Traneksamat"]
+  },
+  {
+    question: "Berdasarkan CPOB, personel yang bertanggung jawab atas pelulusan batch produk jadi untuk dijual adalah...",
+    answer: "Kepala Pemastian Mutu (QA)",
+    options: ["Kepala Produksi", "Kepala Pengawasan Mutu (QC)", "Kepala Pemastian Mutu (QA)", "Direktur Utama", "Manager Marketing"]
+  },
+  {
+    question: "Seorang pasien pria (BB 70 kg) diberikan Gentamisin infus intermiten. Diketahui Vd = 0,25 L/kg dan t1/2 = 2 jam. Berapakah nilai klirens (Cl) total pasien tersebut?",
+    answer: "6,06 L/jam",
+    options: ["3,50 L/jam", "6,06 L/jam", "12,12 L/jam", "1,75 L/jam", "8,40 L/jam"]
+  },
+  {
+    question: "Ny. K (40 th) didiagnosis menderita HIV dan koinfeksi Hepatitis B. Regimen antiretroviral (ARV) manakah yang mengandung dua obat dengan aktivitas ganda terhadap HIV sekaligus virus Hepatitis B (HBV)?",
+    answer: "Tenofovir dan Lamivudin",
+    options: ["Zidovudin dan Lamivudin", "Tenofovir dan Efavirenz", "Tenofovir dan Lamivudin", "Abacavir dan Nevirapin", "Stavudin dan Didanosin"]
+  },
+  {
+    question: "Industri farmasi melakukan uji disolusi tahap S2 untuk tablet Lepas Tunda (Enteric Coated) pada media dapar pH 6,8. Dari total 12 tablet (S1+S2), syarat kelulusan menurut Farmakope Indonesia VI adalah...",
+    answer: "Rata-rata ≥ Q dan tidak ada unit < Q-15%",
+    options: ["Rata-rata ≥ Q", "Rata-rata ≥ Q dan tidak ada unit < Q-15%", "Tiap unit ≥ Q+5%", "Rata-rata ≥ Q+5%", "Tidak ada unit < Q-25%"]
+  },
+  {
+    question: "Pasien asma akut berat diberikan Aminofilin IV (loading dose). Diketahui kadar terapeutik target 10 mg/L, Vd = 0,5 L/kg. Berapa mg dosis muat (loading dose) yang diberikan untuk pasien dengan BB 60 kg?",
+    answer: "300 mg",
+    options: ["150 mg", "300 mg", "600 mg", "450 mg", "200 mg"]
+  },
+  {
+    question: "Seorang pasien mengalami overdosis Warfarin yang ditandai dengan perdarahan masif dan nilai INR > 10. Tindakan paling cepat untuk mengembalikan faktor pembekuan darah secara instan adalah pemberian...",
+    answer: "Prothrombin Complex Concentrate (PCC) atau FFP",
+    options: ["Vitamin K1 (Fitonadion) oral", "Vitamin K1 (Fitonadion) IV", "Protamin Sulfat", "Prothrombin Complex Concentrate (PCC) atau FFP", "Kalsium Glukonat"]
+  },
+  {
+    question: "Pada analisis KCKT, seorang apoteker ingin meningkatkan efisiensi kolom (N) tanpa mengubah panjang kolom. Manakah parameter yang harus dikurangi berdasarkan persamaan Van Deemter?",
+    answer: "Tinggi Lempeng Teoritis (HETP)",
+    options: ["Laju alir (Flow rate)", "Tinggi Lempeng Teoritis (HETP)", "Waktu retensi (Rt)", "Faktor Tailing", "Volume injeksi"]
+  },
+  {
+    question: "Obat golongan Sulfonilurea generasi kedua yang memiliki risiko hipoglikemia paling rendah pada pasien lansia karena waktu paruh pendek dan metabolit tidak aktif adalah...",
+    answer: "Gliklazid",
+    options: ["Glibenklamid", "Glimepirid", "Gliklazid", "Klorpropamid", "Tolbutamid"]
+  },
+  {
+    question: "Industri farmasi memproduksi tablet dengan zat aktif yang memiliki kompresibilitas buruk dan dosis tinggi (>500 mg). Metode pembuatan yang paling direkomendasikan adalah...",
+    answer: "Granulasi Basah",
+    options: ["Cetak Langsung", "Granulasi Kering", "Granulasi Basah", "Slugging", "Salute Direct"]
+  },
+  {
+    question: "Pasien dengan atrial fibrilasi (AF) direncanakan menjalani pembedahan mayor. Kapan waktu yang tepat untuk menghentikan penggunaan Rivaroxaban sebelum prosedur dilakukan?",
+    answer: "24-48 jam sebelum prosedur",
+    options: ["5 hari sebelum prosedur", "24-48 jam sebelum prosedur", "12 jam sebelum prosedur", "Segera saat masuk RS", "Tidak perlu dihentikan"]
+  },
+  {
+    question: "Suatu zat aktif memiliki nilai Log P = 5,0. Berdasarkan nilai tersebut, sifat fisikokimia zat aktif tersebut adalah...",
+    answer: "Sangat lipofilik",
+    options: ["Sangat hidrofilik", "Sangat lipofilik", "Amfifilik", "Mudah larut air", "Tidak dapat menembus membran"]
+  },
+  {
+    question: "Dalam pengolahan air untuk industri farmasi (Purified Water), unit yang berfungsi khusus untuk menghilangkan ion-ion mineral menggunakan resin kation dan anion disebut...",
+    answer: "Mixed Bed Deionizer",
+    options: ["Multi Media Filter", "Active Carbon Filter", "Reverse Osmosis", "Mixed Bed Deionizer", "UV Sterilizer"]
+  },
+  {
+    question: "Pasien anak didiagnosis mengalami kejang demam kompleks. Dokter meresepkan diazepam untuk penggunaan di rumah saat terjadi kejang. Rute pemberian yang paling efektif memberikan onset cepat secara mandiri oleh orang tua adalah...",
+    answer: "Rektal",
+    options: ["Oral", "Intramuskular", "Rektal", "Sublingual", "Transdermal"]
+  },
+  {
+    question: "Hasil uji stabilitas dipercepat menunjukkan bahwa obat mengikuti degradasi orde nol dengan konstanta laju (k) = 0,5 mg/bulan. Jika kadar awal 100 mg, berapa bulan umur simpan (t90) obat tersebut?",
+    answer: "20 bulan",
+    options: ["10 bulan", "20 bulan", "30 bulan", "50 bulan", "100 bulan"]
+  },
+  {
+    question: "Antidotum pilihan untuk mengatasi toksisitas Isoniazid yang menyebabkan kejang refrakter dan asidosis metabolik melalui penghambatan GABA adalah...",
+    answer: "Piridoksin (Vitamin B6) dosis tinggi",
+    options: ["Diazepam", "Fenobarbital", "Piridoksin (Vitamin B6) dosis tinggi", "Natrium Bikarbonat", "Flumazenil"]
+  },
+  {
+    question: "Apoteker di apotek menerima resep: 'R/ Parasetamol 125 mg, mf pulv dtd no. X'. Tersedia tablet parasetamol 500 mg. Berapa tablet yang dibutuhkan untuk meracik resep tersebut?",
+    answer: "2,5 tablet",
+    options: ["1,25 tablet", "2,5 tablet", "5 tablet", "10 tablet", "4 tablet"]
+  },
+  {
+    question: "Pada pasien dengan sindrom nefrotik, kadar albumin darah menurun drastis. Bagaimana pengaruh kondisi ini terhadap obat dengan ikatan protein plasma yang tinggi seperti Phenytoin?",
+    answer: "Meningkatkan fraksi obat bebas (risiko toksisitas)",
+    options: ["Menurunkan fraksi obat bebas", "Meningkatkan fraksi obat bebas (risiko toksisitas)", "Menurunkan Vd obat", "Mempercepat ekskresi ginjal", "Tidak berpengaruh"]
+  },
+  {
+    question: "Industri farmasi akan memproduksi sediaan aerosol. Komponen yang berfungsi sebagai pendorong sediaan keluar dari wadah saat valve dibuka disebut...",
+    answer: "Propellan",
+    options: ["Aktuator", "Propellan", "Solven", "Surfaktan", "Dipping tube"]
+  },
+  {
+    question: "Manakah dari obat antihipertensi berikut yang memiliki mekanisme kerja sebagai penghambat reseptor renin langsung (Direct Renin Inhibitor)?",
+    answer: "Aliskiren",
+    options: ["Captopril", "Losartan", "Aliskiren", "Spironolakton", "Eplerenon"]
+  },
+  {
+    question: "Dalam sistem Jaminan Mutu, dokumen yang berisi riwayat setiap batch produk, termasuk semua bahan dan proses yang digunakan, disebut...",
+    answer: "Catatan Pengolahan Batch (Batch Record)",
+    options: ["Prosedur Operasional Baku", "Spesifikasi Produk", "Catatan Pengolahan Batch (Batch Record)", "Protokol Validasi", "Sertifikat Analisis"]
+  },
+  {
+    question: "Pasien Parkinson mendapatkan terapi kombinasi Levodopa, Karbidopa, dan Entakapon. Apa peran spesifik Entakapon dalam kombinasi ini?",
+    answer: "Menghambat enzim COMT di perifer",
+    options: ["Menghambat enzim MAO-B", "Menghambat enzim dekarboksilase", "Menghambat enzim COMT di perifer", "Agonis reseptor dopamin", "Antikolinergik pusat"]
+  },
+  {
+    question: "Berapakah nilai pH dari larutan HCl 0,001 M?",
+    answer: "3",
+    options: ["1", "2", "3", "4", "5"]
+  },
+  {
+    question: "Suatu zat aktif masuk dalam BCS Kelas III. Strategi apa yang paling tepat untuk meningkatkan bioavailabilitas oral zat tersebut?",
+    answer: "Menambahkan peningkat permeabilitas (Permeation enhancer)",
+    options: ["Mengecilkan ukuran partikel", "Menambahkan kosolven", "Menambahkan peningkat permeabilitas (Permeation enhancer)", "Membuat bentuk garam", "Menggunakan pembawa lipid"]
+  },
+  {
+    question: "Seorang pasien geriatri mengonsumsi Digoksin. Ia juga diresepkan Furosemid tanpa suplemen kalium. Interaksi apa yang paling diwaspadai?",
+    answer: "Hipokalemia meningkatkan risiko toksisitas Digoksin",
+    options: ["Hiperkalemia menurunkan efek Digoksin", "Hipokalemia meningkatkan risiko toksisitas Digoksin", "Furosemid menghambat absorpsi Digoksin", "Digoksin meningkatkan efek diuretik", "Tidak ada interaksi"]
+  },
+  {
+    question: "Berapa gram kalsium klorida (CaCl2.2H2O, BM = 147) yang dibutuhkan untuk membuat 500 mL larutan yang mengandung 5 mEq Ca2+ per 100 mL?",
+    answer: "1,84 gram",
+    options: ["0,92 gram", "1,84 gram", "3,68 gram", "0,46 gram", "2,50 gram"]
+  },
+  {
+    question: "Pasien HIV yang menggunakan Zidovudin harus rutin dipantau parameter laboratoriumnya karena risiko efek samping berupa...",
+    answer: "Anemia dan neutropenia",
+    options: ["Gagal ginjal", "Anemia dan neutropenia", "Pankreatitis", "Neuropati perifer", "Hepatotoksisitas"]
+  },
+  {
+    question: "Metode analisis kimia yang digunakan untuk membedakan gugus fungsi dalam suatu molekul obat berdasarkan vibrasi atom adalah...",
+    answer: "Spektrofotometri IR",
+    options: ["Spektrofotometri UV-Vis", "Spektrofotometri IR", "Spektrofotometri Massa", "Kromatografi Gas", "NMR"]
+  },
+  {
+    question: "Apoteker menghitung harga pokok penjualan (HPP). Diketahui penjualan 1 Milyar, laba kotor 200 juta. Berapakah persentase HPP terhadap penjualan?",
+    answer: "80%",
+    options: ["20%", "75%", "80%", "85%", "90%"]
+  },
+  {
+    question: "Pasien pria (45 th) dengan riwayat ulkus peptikum membutuhkan terapi profilaksis stroke setelah TIA. Manakah antiplatelet yang paling disarankan untuk meminimalkan risiko iritasi lambung langsung?",
+    answer: "Klopidogrel",
+    options: ["Aspirin", "Aspirin salut enterik", "Klopidogrel", "Tiklopidin", "Dipiridamol"]
+  },
+  {
+    question: "Dalam manajemen limbah industri farmasi, limbah yang berasal dari sediaan sitostatika (obat kanker) harus dimasukkan ke dalam wadah berwarna...",
+    answer: "Ungu",
+    options: ["Kuning", "Merah", "Ungu", "Cokelat", "Hijau"]
+  },
+  {
+    question: "Sediaan suspensi yang memiliki laju sedimentasi cepat namun mudah didispersikan kembali memiliki sifat aliran...",
+    answer: "Flokulasi",
+    options: ["Deflokulasi", "Tiksotropik", "Flokulasi", "Dilatan", "Plastis"]
+  },
+  {
+    question: "Seorang pasien wanita mengonsumsi Digoksin untuk gagal jantung. Ia kemudian meminum suplemen herbal St. John's Wort untuk depresinya. Apa dampak interaksi ini terhadap kadar Digoksin dalam darah?",
+    answer: "Kadar Digoksin turun akibat induksi P-glikoprotein (P-gp)",
+    options: [
+      "Kadar Digoksin naik akibat inhibisi CYP3A4",
+      "Kadar Digoksin turun akibat induksi P-glikoprotein (P-gp)",
+      "Kadar Digoksin naik akibat kompetisi ikatan protein",
+      "Kadar Digoksin tetap namun efek toksiknya meningkat",
+      "Efek Digoksin dihambat di reseptor jantung"
+    ]
+  },
+  {
+    question: "Berapa mEq kalium yang terdapat dalam 20 mL larutan KCl 7,45%? (BM KCl = 74,5)",
+    answer: "20 mEq",
+    options: ["10 mEq", "20 mEq", "40 mEq", "74,5 mEq", "100 mEq"]
+  },
+  {
+    question: "Pasien datang dengan keluhan urin berwarna merah oranye setelah mengonsumsi obat TB. Ia khawatir terjadi perdarahan ginjal. Sebagai apoteker, edukasi apa yang paling tepat mengenai mekanisme fenomena tersebut?",
+    answer: "Warna berasal dari ekskresi metabolit Rifampisin melalui urin",
+    options: [
+      "Efek samping kerusakan ginjal akibat Etambutol",
+      "Warna berasal dari ekskresi metabolit Rifampisin melalui urin",
+      "Interaksi antara INH dan Pirazinamid",
+      "Gejala awal pecahnya pembuluh darah kandung kemih",
+      "Akibat kekurangan vitamin B6"
+    ]
+  },
+  {
+    question: "Seorang pasien overdosis Phenobarbital (asam lemah, pKa 7,4). Tindakan 'Urinary Alkalanization' menggunakan Natrium Bikarbonat bertujuan untuk...",
+    answer: "Meningkatkan ionisasi obat sehingga reabsorpsi di tubulus menurun",
+    options: [
+      "Mengubah obat menjadi bentuk non-ion agar mudah difiltrasi",
+      "Meningkatkan ionisasi obat sehingga reabsorpsi di tubulus menurun",
+      "Mengendapkan obat di dalam kandung kemih",
+      "Mempercepat metabolisme fase 1 di hati",
+      "Meningkatkan ikatan protein plasma obat"
+    ]
+  },
+  {
+    question: "Industri farmasi melakukan uji kebocoran wadah untuk sediaan salep mata (tube) menurut FI. Pengujian dilakukan dengan memanaskan tube pada suhu 60°C selama 8 jam. Syarat kelulusan tahap pertama adalah...",
+    answer: "Tidak boleh terjadi kebocoran pada satu tube pun",
+    options: [
+      "Maksimal 1 tube bocor",
+      "Maksimal 2 tube bocor",
+      "Tidak boleh terjadi kebocoran pada satu tube pun",
+      "Rata-rata berat hilang < 5%",
+      "Hanya boleh bocor di bagian cap"
+    ]
+  },
+  {
+    question: "Apoteker di QC melakukan penetapan kadar Captopril menggunakan metode Titrasi Iodometri. Indikator yang paling tepat digunakan untuk mendeteksi titik akhir titrasi ini adalah...",
+    answer: "Larutan Kanji (Amilum)",
+    options: ["Fenolftalein", "Metil Merah", "Larutan Kanji (Amilum)", "Eriochrome Black T", "Ferroin"]
+  },
+  {
+    question: "Pasien dengan keluhan neuropati perifer akibat terapi Isoniazid (INH) diberikan Vitamin B6. Apa mekanisme INH dalam menyebabkan defisiensi vitamin tersebut?",
+    answer: "INH membentuk kompleks hidrazon dengan piridoksal fosfat",
+    options: [
+      "INH menghambat absorpsi Vitamin B6 di usus",
+      "INH meningkatkan ekskresi Vitamin B6 di empedu",
+      "INH membentuk kompleks hidrazon dengan piridoksal fosfat",
+      "INH menghambat sintesis vitamin oleh flora usus",
+      "INH berkompetisi pada reseptor saraf pusat"
+    ]
+  },
+  {
+    question: "Berapakah nilai kapasitas dapar (beta) jika penambahan 0,01 mol basa kuat ke dalam 1 liter dapar menyebabkan perubahan pH dari 5,0 menjadi 5,1?",
+    answer: "0,1",
+    options: ["0,01", "0,1", "1,0", "0,05", "0,5"]
+  },
+  {
+    question: "Dalam sistem AHU (Air Handling Unit) di industri farmasi, komponen yang berfungsi untuk mengatur suhu dan kelembaban udara yang masuk ke ruang produksi adalah...",
+    answer: "Cooling Coil dan Heater",
+    options: ["HEPA Filter", "Ducting", "Cooling Coil dan Heater", "Blower", "Damper"]
+  },
+  {
+    question: "Antidotum spesifik untuk mengatasi depresi pernapasan akibat overdosis opioid (seperti Morfin atau Heroin) adalah...",
+    answer: "Nalokson",
+    options: ["Flumazenil", "Nalokson", "Atropin", "Asetilsistein", "Fomepizole"]
+  },
+  {
+    question: "Sebuah apotek memiliki data: Penjualan 500 jt, Persediaan Awal 50 jt, Pembelian 350 jt, Persediaan Akhir 100 jt. Berapakah nilai Gross Profit Margin (GPM) dalam persen?",
+    answer: "40%",
+    options: ["20%", "30%", "40%", "50%", "60%"]
+  },
+  {
+    question: "Sediaan suppositoria dengan basis Oleum Cacao harus disimpan di suhu dingin. Jika sediaan tersebut mengalami fenomena 'polimorfisme' akibat suhu pemanasan yang terlalu tinggi saat pembuatan, apa dampak fisiknya?",
+    answer: "Titik leleh menurun sehingga sediaan lembek di suhu ruang",
+    options: [
+      "Sediaan menjadi sangat keras dan tidak bisa larut",
+      "Titik leleh menurun sehingga sediaan lembek di suhu ruang",
+      "Warna sediaan berubah menjadi cokelat gelap",
+      "Zat aktif mengendap di dasar suppositoria",
+      "Terjadi pemisahan fase minyak dan air"
+    ]
+  },
+  {
+    question: "Manakah dari antibiotik berikut yang dikontraindikasikan pada anak di bawah usia 8 tahun karena risiko deposit pada kalsium gigi dan tulang (diskolorasi gigi)?",
+    answer: "Tetrasiklin",
+    options: ["Amoksisilin", "Tetrasiklin", "Eritromisin", "Siprofloksasin", "Kloramfenikol"]
+  },
+  {
+    question: "Dalam pengujian KCKT, parameter yang menunjukkan efisiensi pemisahan kolom berdasarkan jumlah lempeng teoritis (N) dihitung menggunakan rumus...",
+    answer: "N = 16 * (tR / W)^2",
+    options: ["N = tR / W", "N = 16 * (tR / W)^2", "N = 5,54 * (tR / W0,5)^2", "Semua jawaban benar", "Hanya B dan C benar"]
+  },
+  {
+    question: "Pasien geriatri diberikan Lorazepam untuk ansietas. Mengapa golongan Benzodiazepine 'Short-to-Intermediate acting' lebih disukai untuk lansia dibandingkan Diazepam?",
+    answer: "Tidak memiliki metabolit aktif yang memperlama durasi kerja",
+    options: [
+      "Absorpsinya lebih cepat di lambung",
+      "Tidak memiliki metabolit aktif yang memperlama durasi kerja",
+      "Efek sedasinya lebih kuat",
+      "Harganya lebih murah",
+      "Tidak menyebabkan ketergantungan"
+    ]
+  },
+  {
+    question: "Berapa mL sediaan injeksi Lidokain 2% yang harus diambil jika dosis yang diminta dokter adalah 50 mg?",
+    answer: "2,5 mL",
+    options: ["1,0 mL", "2,0 mL", "2,5 mL", "5,0 mL", "10,0 mL"]
+  },
+  {
+    question: "Menurut UU Narkotika, pemesanan sediaan Fentanyl injeksi oleh Apotek ke PBF Kimia Farma harus menggunakan Surat Pesanan Narkotika sebanyak...",
+    answer: "4 rangkap",
+    options: ["1 rangkap", "2 rangkap", "3 rangkap", "4 rangkap", "5 rangkap"]
+  },
+  {
+    question: "Metode sterilisasi gas Etilen Oksida biasanya digunakan untuk sterilisasi alat kesehatan yang...",
+    answer: "Termolabil dan sensitif terhadap kelembaban",
+    options: [
+      "Tahan panas tinggi",
+      "Berbentuk cairan volume besar",
+      "Termolabil dan sensitif terhadap kelembaban",
+      "Terbuat dari bahan logam anti karat",
+      "Mengandung protein tinggi"
+    ]
+  },
+  {
+    question: "Suatu obat memiliki konstanta laju eliminasi (k) 0,1 per jam. Berapakah waktu yang dibutuhkan agar kadar obat menjadi 12,5% dari kadar awal?",
+    answer: "30 jam",
+    options: ["7 jam", "14 jam", "21 jam", "30 jam", "40 jam"]
+  },
+  {
+    question: "Pasien mengalami keracunan jengkol (Asam Jengkolat) yang menyebabkan kristaluria dan anuria. Penanganan yang tepat untuk meningkatkan kelarutan asam jengkolat di urin adalah...",
+    answer: "Pemberian Natrium Bikarbonat (Alkalinisasi urin)",
+    options: [
+      "Pemberian Vitamin C (Asidifikasi urin)",
+      "Pemberian Natrium Bikarbonat (Alkalinisasi urin)",
+      "Pemberian Furosemid dosis tinggi",
+      "Restriksi cairan total",
+      "Pemberian Atropin"
+    ]
+  },
+  {
+    question: "Dalam analisis spektrofotometri, hukum Lambert-Beer (A = a.b.c) menyatakan bahwa absorbansi berbanding lurus dengan...",
+    answer: "Konsentrasi dan tebal kuvet",
+    options: ["Konsentrasi dan tebal kuvet", "Panjang gelombang", "Transmitan", "Indeks bias", "Waktu pengukuran"]
+  },
+  {
+    question: "Zat aktif yang termasuk dalam BCS Kelas IV memiliki karakteristik...",
+    answer: "Kelarutan rendah, Permeabilitas rendah",
+    options: [
+      "Kelarutan tinggi, Permeabilitas tinggi",
+      "Kelarutan rendah, Permeabilitas tinggi",
+      "Kelarutan tinggi, Permeabilitas rendah",
+      "Kelarutan rendah, Permeabilitas rendah",
+      "Kelarutan sangat tinggi, Permeabilitas sedang"
+    ]
+  },
+  {
+    question: "Apoteker di RS menghitung nilai Economic Order Quantity (EOQ). Jika diketahui kebutuhan setahun 12.000 unit, biaya pesan 50.000, dan biaya simpan 3.000 per unit/tahun. Berapakah nilai EOQ-nya?",
+    answer: "632 unit",
+    options: ["200 unit", "400 unit", "632 unit", "800 unit", "1000 unit"]
+  },
+  {
+    question: "Obat yang digunakan sebagai terapi pemeliharaan (maintenance) pada pasien ketergantungan opioid untuk mengurangi gejala putus obat tanpa menimbulkan efek euforia yang kuat adalah...",
+    answer: "Metadon",
+    options: ["Morfin", "Kodein", "Metadon", "Nalokson", "Fentanil"]
+  },
+  {
+    question: "Berapa lama batas waktu simpan (Beyond Use Date) untuk sediaan puyer (serbuk bagi) yang diracik dari tablet komersial menurut USP/Farmakope jika tidak ada data stabilitas spesifik?",
+    answer: "Maksimal 25% dari sisa masa expired atau 6 bulan (mana yang lebih cepat)",
+    options: [
+      "14 hari",
+      "30 hari",
+      "90 hari",
+      "Maksimal 25% dari sisa masa expired atau 6 bulan (mana yang lebih cepat)",
+      "1 tahun"
+    ]
+  },
+  {
+    question: "Pasien menderita glaukoma dan diberikan Asetazolamid oral. Apa mekanisme kerja obat ini dalam menurunkan tekanan intraokular?",
+    answer: "Penghambat enzim Karbonik Anhidrase",
+    options: [
+      "Agonis Kolinergik",
+      "Beta-blocker",
+      "Penghambat enzim Karbonik Anhidrase",
+      "Analog Prostaglandin",
+      "Diuretik Osmotik"
+    ]
+  },
+  {
+    question: "Seorang pasien dengan gangguan fungsi hati berat membutuhkan antikoagulan oral. Manakah yang paling berisiko karena sangat bergantung pada sintesis faktor pembekuan di hati?",
+    answer: "Warfarin",
+    options: ["Heparin", "Warfarin", "Rivaroxaban", "Dabigatran", "Apixaban"]
+  },
+  {
+    question: "Sebuah industri ingin membuat emulsi dengan HLB butuh 12. Tersedia Tween 80 (HLB 15) dan Span 80 (HLB 4,3). Berapa persentase Tween 80 yang dibutuhkan dalam campuran surfaktan?",
+    answer: "72%",
+    options: ["28%", "50%", "72%", "85%", "15%"]
+  },
+  {
+    question: "Kromatografi Gas (GC) sangat tepat digunakan untuk analisis zat yang memiliki sifat...",
+    answer: "Mudah menguap (volatil) dan termostabil",
+    options: [
+      "Sangat polar dan tidak tahan panas",
+      "Mudah menguap (volatil) dan termostabil",
+      "BM sangat besar seperti protein",
+      "Berbentuk ionik",
+      "Berwarna pekat"
+    ]
+  },
+  {
+    question: "Antidotum pilihan untuk keracunan logam berat Merkuri (Raksa) adalah...",
+    answer: "Dimerkaprol (BAL)",
+    options: ["Deferoksamin", "Dimerkaprol (BAL)", "EDTA", "Penisilamin", "Atropin"]
+  },
+  {
+    question: "Pasien gagal jantung mengonsumsi Spironolakton dan Candesartan. Parameter elektrolit manakah yang harus dipantau ketat untuk mencegah komplikasi aritmia fatal?",
+    answer: "Kalium (risiko Hiperkalemia)",
+    options: ["Natrium", "Kalium", "Kalsium", "Magnesium", "Klorida"]
+  },
+  {
+    question: "Berapa gram Asam Borat yang dibutuhkan untuk membuat 200 mL larutan isotonis? (E Asam Borat = 0,52)",
+    answer: "1,73 gram",
+    options: ["0,90 gram", "1,73 gram", "3,46 gram", "0,45 gram", "2,10 gram"]
+  },
+  {
+    question: "Industri farmasi membuat tablet salut enterik. Uji disolusi tahap 1 dilakukan di media asam (HCl 0,1 N) selama 2 jam. Syarat keberterimaan menurut FI VI adalah...",
+    answer: "Tiap unit sediaan tidak boleh lebih dari 10% zat aktif terlarut",
+    options: ["Tidak ada zat aktif terlarut", "Tiap unit sediaan tidak boleh lebih dari 10% zat aktif terlarut", "Rata-rata terlarut 75%", "Maksimal 25% terlarut", "Lulus jika Q=80%"]
+  },
+  {
+    question: "Pasien asma diberikan aminofilin dosis 5 mg/kg BB. Jika pasien memiliki BB 50 kg dan tersedia ampul 240 mg/10 mL, berapa mL yang harus diambil?",
+    answer: "10,4 mL",
+    options: ["5,2 mL", "10,0 mL", "10,4 mL", "12,5 mL", "20,8 mL"]
+  },
+  {
+    question: "Seorang pasien overdosis petidin. Antidotum nalokson diberikan. Apa prinsip kerja nalokson terhadap reseptor opioid?",
+    answer: "Antagonis kompetitif",
+    options: ["Agonis parsial", "Antagonis kompetitif", "Antagonis non-kompetitif", "Agonis terbalik", "Modulator alosterik"]
+  },
+  {
+    question: "Sebuah industri farmasi akan melakukan kualifikasi operasional (OQ) pada alat High Shear Mixer. Fokus utama dari OQ adalah...",
+    answer: "Memastikan alat bekerja sesuai rentang operasional yang ditentukan",
+    options: ["Memastikan spesifikasi desain terpenuhi", "Memastikan instalasi listrik benar", "Memastikan alat bekerja sesuai rentang operasional yang ditentukan", "Memastikan konsistensi hasil batch", "Memastikan kalibrasi eksternal"]
+  },
+  {
+    question: "Pasien anak (15 kg) menderita infeksi saluran kemih. Dosis Siprofloksasin adalah 10 mg/kg BB tiap 12 jam. Berapa total mg dosis per hari untuk anak tersebut?",
+    answer: "300 mg",
+    options: ["150 mg", "300 mg", "450 mg", "600 mg", "75 mg"]
+  },
+  {
+    question: "Interaksi antara tetrasiklin dengan antasida menyebabkan penurunan absorpsi tetrasiklin melalui mekanisme...",
+    answer: "Pembentukan kompleks khelat yang tidak larut",
+    options: ["Peningkatan pH lambung", "Pembentukan kompleks khelat yang tidak larut", "Percepatan pengosongan lambung", "Induksi enzim metabolisme", "Penghambatan transporter aktif"]
+  },
+  {
+    question: "Suatu zat aktif terurai mengikuti kinetika orde satu dengan k = 0,05 /tahun. Berapa tahun waktu paruh (t1/2) zat tersebut?",
+    answer: "13,86 tahun",
+    options: ["10 tahun", "13,86 tahun", "20 tahun", "6,93 tahun", "5 tahun"]
+  },
+  {
+    question: "Berdasarkan CPOB, area pengemasan sekunder (seperti pelabelan dan pemasangan karton) dilakukan di ruang kelas...",
+    answer: "Kelas E (Unclassified)",
+    options: ["Kelas C", "Kelas D", "Kelas E (Unclassified)", "Kelas B", "Kelas F"]
+  },
+  {
+    question: "Pasien dengan HIV mendapatkan Zidovudin. Efek samping yang paling sering muncul dan memerlukan pemantauan laboratorium rutin adalah...",
+    answer: "Anemia dan granulositopenia",
+    options: ["Gagal ginjal", "Neuropati perifer", "Anemia dan granulositopenia", "Pankreatitis", "Hepatotoksisitas"]
+  },
+  {
+    question: "Berapa jumlah fase gerak (mL) asetonitril yang dibutuhkan untuk membuat 500 mL campuran fase gerak Asetonitril : Dapar (3:7)?",
+    answer: "150 mL",
+    options: ["150 mL", "350 mL", "200 mL", "300 mL", "100 mL"]
+  },
+  {
+    question: "Metode ekstraksi yang digunakan untuk bahan alam yang mengandung minyak atsiri (volatile oil) adalah...",
+    answer: "Destilasi uap",
+    options: ["Maserasi", "Perkolasi", "Destilasi uap", "Sokletasi", "Infusa"]
+  },
+  {
+    question: "Pasien syok kardiogenik diberikan Dopamin. Pada dosis tinggi (>10 mcg/kg/min), Dopamin dominan bekerja pada reseptor...",
+    answer: "Alfa-1 (Vasokonstriksi)",
+    options: ["Dopaminergik-1", "Beta-1", "Alfa-1 (Vasokonstriksi)", "Beta-2", "Muskarinik"]
+  },
+  {
+    question: "Hitung nilai HPP jika diketahui: Penjualan 1,5 M, Persediaan Awal 200 jt, Pembelian 900 jt, Retur Pembelian 50 jt, Persediaan Akhir 150 jt.",
+    answer: "900 juta",
+    options: ["850 juta", "900 juta", "1 Milyar", "950 juta", "750 juta"]
+  },
+  {
+    question: "Antidotum pilihan untuk keracunan Insektisida Karbamat adalah...",
+    answer: "Atropin Sulfat",
+    options: ["Pralidoksim", "Atropin Sulfat", "Dimercaprol", "Asetilsistein", "Natrium Nitrit"]
+  },
+  {
+    question: "Apoteker melakukan uji kerapuhan (friability) tablet. Berat awal 20 tablet adalah 10,2 gram. Setelah pengujian, berat menjadi 10,1 gram. Berapa % kerapuhannya dan apakah memenuhi syarat?",
+    answer: "0,98% (Memenuhi syarat < 1%)",
+    options: ["1,00% (Tidak memenuhi)", "0,98% (Memenuhi syarat < 1%)", "1,1% (Tidak memenuhi)", "0,5% (Memenuhi)", "2,0% (Tidak memenuhi)"]
+  },
+  {
+    question: "Pasien hamil dengan hipertensi (155/95 mmHg) membutuhkan terapi. Obat manakah yang aman (Kategori B/C) dan sering digunakan sebagai lini pertama?",
+    answer: "Metildopa",
+    options: ["Lisinopril", "Valsartan", "Metildopa", "Furosemid", "Amlodipin"]
+  },
+  {
+    question: "Sebuah larutan injeksi memiliki pH 4,0. Jika pKa asam lemah dalam dapar adalah 4,76, berapakah rasio [Garam]/[Asam] dalam larutan tersebut?",
+    answer: "0,17",
+    options: ["0,17", "1,0", "5,75", "0,50", "0,83"]
+  },
+  {
+    question: "Obat asma yang bekerja dengan cara menghambat enzim fosfodiesterase secara non-selektif dan memiliki indeks terapi sempit adalah...",
+    answer: "Teofilin",
+    options: ["Salbutamol", "Budesonid", "Teofilin", "Zafirlukast", "Ipratropium"]
+  },
+  {
+    question: "Analisis farmakoekonomi yang menggunakan unit 'Natural Units' (misal: mmHg penurunan TD atau mg/dL penurunan kolesterol) sebagai outcome adalah...",
+    answer: "Cost Effectiveness Analysis (CEA)",
+    options: ["CMA", "CEA", "CUA", "CBA", "ROI"]
+  },
+  {
+    question: "Berapa jumlah kapsul yang bisa dibuat dari 2 gram zat aktif jika tiap kapsul mengandung 250 mg?",
+    answer: "8 kapsul",
+    options: ["4 kapsul", "5 kapsul", "8 kapsul", "10 kapsul", "20 kapsul"]
+  },
+  {
+    question: "Hasil pemeriksaan laboratorium pasien menunjukkan peningkatan serum kreatinin yang signifikan. Obat manakah yang harus dihindari atau disesuaikan dosisnya karena diekskresikan dominan melalui filtrasi glomerulus?",
+    answer: "Aminoglikosida (misal Gentamisin)",
+    options: ["Eritromisin", "Seftriakson", "Aminoglikosida (misal Gentamisin)", "Klindamisin", "Doxycycline"]
+  },
+  {
+    question: "Sesuai Peraturan Menkes, pemusnahan obat psikotropika harus dibuatkan Berita Acara Pemusnahan yang dilaporkan kepada...",
+    answer: "Dinas Kesehatan Kabupaten/Kota dan Balai POM",
+    options: ["Kepolisian RI", "Dinas Kesehatan Kabupaten/Kota dan Balai POM", "BNN", "Kementerian Kesehatan", "IAI"]
+  },
+  {
+    question: "Pasien neuropati diabetik diberikan Pregabalin. Apa mekanisme aksi Pregabalin?",
+    answer: "Berikatan dengan subunit alfa-2-delta kanal kalsium tegangan-listrik",
+    options: ["Meningkatkan pelepasan GABA", "Menghambat reuptake serotonin", "Berikatan dengan subunit alfa-2-delta kanal kalsium tegangan-listrik", "Antagonis reseptor NMDA", "Penghambat kanal Natrium"]
+  },
+  {
+    question: "Industri farmasi melakukan uji sterilitas menggunakan filtrasi membran. Berapa ukuran pori membran yang digunakan untuk menahan mikroba?",
+    answer: "0,22 mikrometer",
+    options: ["0,45 mikrometer", "0,22 mikrometer", "0,10 mikrometer", "1,0 mikrometer", "5,0 mikrometer"]
+  },
+  {
+    question: "Metode sterilisasi akhir yang paling tepat untuk sediaan tetes mata yang mengandung zat aktif termolabil dalam wadah plastik adalah...",
+    answer: "Filtrasi membran (teknik aseptik)",
+    options: ["Autoklaf 121 C", "Filtrasi membran (teknik aseptik)", "Radiasi gamma", "Oven 170 C", "Gas Etilen Oksida"]
+  },
+  {
+    question: "Berapakah nilai HLB dari campuran 40% Span 20 (HLB 8,6) dan 60% Tween 20 (HLB 16,7)?",
+    answer: "13,46",
+    options: ["12,65", "13,46", "14,20", "11,50", "15,10"]
+  },
+  {
+    question: "Pasien dengan dislipidemia dan riwayat miopati akibat statin membutuhkan alternatif terapi. Obat mana yang bekerja menghambat absorpsi kolesterol di usus halus (Niemann-Pick C1-Like 1)?",
+    answer: "Ezetimibe",
+    options: ["Gemfibrozil", "Kolestiramin", "Ezetimibe", "Niasin", "Fenofibrat"]
+  },
+  {
+    question: "Seorang pasien Parkinson mengalami 'on-off phenomenon'. Obat manakah yang ditambahkan sebagai 'COMT inhibitor' untuk mengurangi fluktuasi motorik tersebut?",
+    answer: "Entakapon",
+    options: ["Selegilin", "Pramipeksol", "Entakapon", "Bromokriptin", "Triheksifenidil"]
+  },
+  {
+    question: "Uji stabilitas On-Going dilakukan untuk...",
+    answer: "Memantau produk selama masa edar di pasar",
+    options: ["Menentukan masa kadaluarsa awal", "Mendukung registrasi produk baru", "Memantau produk selama masa edar di pasar", "Uji setelah ada perubahan formula", "Uji pada kondisi ekstrim"]
+  },
+  {
+    question: "Berapakah nilai pOH dari larutan NaOH 0,01 M?",
+    answer: "2",
+    options: ["2", "12", "7", "4", "10"]
+  },
+  {
+    question: "Pasien dengan Chronic Kidney Disease (CKD) mengalami asidosis metabolik. Terapi yang diberikan untuk meningkatkan pH darah adalah...",
+    answer: "Natrium Bikarbonat",
+    options: ["Kalsium Karbonat", "Natrium Bikarbonat", "Ammonium Klorida", "Kalium Klorida", "Magnesium Sulfat"]
+  },
+  {
+    question: "Obat batuk yang bekerja sebagai penekan pusat batuk di medula (Antitusif) adalah...",
+    answer: "Dekstrometorfan",
+    options: ["Guaifenesin", "Ambroksol", "Dekstrometorfan", "Asetilsistein", "Bromheksin"]
+  },
+  {
+    question: "Berapa jumlah tablet siprofloksasin 500 mg yang harus disiapkan untuk pemakaian 2 x 1 tab selama 5 hari?",
+    answer: "10 tablet",
+    options: ["5 tablet", "7 tablet", "10 tablet", "14 tablet", "20 tablet"]
+  },
+  {
+    question: "Validasi metode analisis yang mengukur kemampuan metode untuk memberikan hasil yang tidak dipengaruhi oleh perubahan kecil dalam parameter prosedur adalah...",
+    answer: "Robustness",
+    options: ["Specificity", "Linearity", "Robustness", "Accuracy", "Precision"]
+  },
+  {
+    question: "Antidotum untuk keracunan Logam Tembaga (Cu) adalah...",
+    answer: "Penisilamin",
+    options: ["Deferoksamin", "Penisilamin", "Dimercaprol", "EDTA", "Asetilsistein"]
+  },
+  {
+    question: "Berdasarkan UU Kesehatan, sediaan farmasi yang berupa obat tradisional disebut...",
+    answer: "Jamu, OHT, dan Fitofarmaka",
+    options: ["Obat bebas", "Jamu, OHT, dan Fitofarmaka", "Simplisia", "Ekstrak cair", "Suplemen makanan"]
+  },
+  {
+    question: "Suatu industri farmasi menghitung nilai ROI (Return on Investment). Jika laba bersih 200 jt dan total investasi 1 M, berapakah nilai ROI-nya?",
+    answer: "20%",
+    options: ["10%", "20%", "50%", "15%", "25%"]
+  },
+  {
+    question: "Mekanisme kerja obat Allopurinol pada penderita Gout adalah...",
+    answer: "Menghambat enzim xantin oksidase",
+    options: ["Meningkatkan ekskresi asam urat", "Menghambat enzim xantin oksidase", "Menghambat inflamasi", "Meningkatkan pH urin", "Menghambat reabsorpsi di tubulus"]
+  },
+  {
+    question: "Pasien dengan krisis hipertensi diberikan Nitroprusid IV. Risiko toksisitas yang paling diwaspadai dari metabolit obat ini adalah...",
+    answer: "Keracunan Sianida",
+    options: ["Keracunan Timbal", "Keracunan Sianida", "Methemoglobinemia", "Asidosis Laktat", "Hipokalemia"]
+  },
+  {
+    question: "Berapakah rentang pH untuk dapar fosfat menurut Farmakope Indonesia?",
+    answer: "5,8 - 8,0",
+    options: ["1,2 - 2,2", "3,6 - 5,6", "5,8 - 8,0", "9,0 - 10,5", "4,0 - 6,0"]
+  },
+  {
+    question: "Parameter farmakokinetik yang menunjukkan volume teoretis di mana obat terdistribusi dalam tubuh disebut...",
+    answer: "Volume Distribusi (Vd)",
+    options: ["Klirens", "Volume Distribusi (Vd)", "AUC", "T-max", "Ikatan Protein"]
+  },
+  {
+    question: "Obat DM golongan Tiazolidindion (seperti Pioglitazon) bekerja melalui aktivasi reseptor...",
+    answer: "PPAR-gamma",
+    options: ["SGLT-2", "DPP-4", "PPAR-gamma", "GLP-1", "Alfa-glukosidase"]
+  },
+  {
+    question: "Metode analisis instrumen yang digunakan untuk mengidentifikasi keberadaan logam dalam suatu sampel sediaan adalah...",
+    answer: "AAS (Atomic Absorption Spectroscopy)",
+    options: ["HPLC", "Spektro UV-Vis", "AAS (Atomic Absorption Spectroscopy)", "GC-MS", "FTIR"]
+  },
+  {
+    question: "Apoteker menghitung harga jual obat X. HPP 10.000, margin 20% dari HJA. Berapakah HJA-nya?",
+    answer: "12.500",
+    options: ["12.000", "12.500", "15.000", "11.500", "20.000"]
+  },
+  {
+    question: "Pasien glaukoma sudut tertutup akut diberikan Manitol IV. Apa mekanisme kerjanya?",
+    answer: "Diuretik osmotik (menarik cairan dari bola mata ke pembuluh darah)",
+    options: ["Menghambat CA", "Diuretik osmotik (menarik cairan dari bola mata ke pembuluh darah)", "Meningkatkan outflow", "Miosis", "Agonis alfa"]
+  },
+  {
+    question: "Berapa gram dextrosa yang terkandung dalam 1 liter larutan D5W?",
+    answer: "50 gram",
+    options: ["5 gram", "50 gram", "500 gram", "0,5 gram", "100 gram"]
+  },
+  {
+    question: "Hasil uji disolusi S1 (6 unit) menunjukkan: 85%, 82%, 79%, 88%, 90%, 81%. Syarat Q=80%. Apakah batch tersebut lulus?",
+    answer: "Tidak lulus (ada unit < 85%)",
+    options: ["Lulus (rata-rata > 80%)", "Tidak lulus (ada unit < 85%)", "Lulus (tidak ada unit < 75%)", "Tidak lulus (ada unit < 80%)", "Harus lanjut ke S3"]
+  },
+  {
+    question: "Interaksi antara Warfarin dan Amiodaron dapat menyebabkan peningkatan risiko perdarahan melalui mekanisme...",
+    answer: "Penghambatan enzim metabolisme CYP2C9",
+    options: ["Induksi enzim CYP3A4", "Penghambatan enzim metabolisme CYP2C9", "Kompetisi ikatan protein albumin", "Penurunan eliminasi ginjal", "Penghambatan absorpsi vitamin K"]
+  },
+  {
+    question: "Pasien dengan keluhan peptic ulcer mengonsumsi Sukralfat dan Antasida secara bersamaan. Mengapa kombinasi ini dianggap tidak efektif secara farmakologis?",
+    answer: "Sukralfat membutuhkan lingkungan asam untuk polimerisasi menjadi pasta pelindung",
+    options: ["Antasida menghambat absorpsi Sukralfat", "Sukralfat membutuhkan lingkungan asam untuk polimerisasi menjadi pasta pelindung", "Keduanya membentuk kompleks khelat", "Sukralfat menginduksi metabolisme Antasida", "Terjadi netralisasi efek Sukralfat oleh ion Magnesium"]
+  },
+  {
+    question: "Seorang Apoteker di bagian QC melakukan standarisasi larutan NaOH menggunakan asam oksalat. Metode titrasi ini disebut...",
+    answer: "Alkalimetri",
+    options: ["Asidimetri", "Alkalimetri", "Iodometri", "Kompleksometri", "Nitrimetri"]
+  },
+  {
+    question: "Pasien gagal ginjal dengan klirens kreatinin 15 mL/menit mengalami infeksi. Ia diresepkan Levofloksasin. Apa penyesuaian dosis yang paling tepat?",
+    answer: "Menurunkan dosis dan memperpanjang interval pemberian",
+    options: ["Meningkatkan dosis", "Menurunkan dosis saja", "Memperpanjang interval saja", "Menurunkan dosis dan memperpanjang interval pemberian", "Tidak perlu penyesuaian"]
+  },
+  {
+    question: "Industri farmasi melakukan uji stabilitas pada sediaan sirup. Ditemukan pertumbuhan jamur di permukaan meskipun sudah menggunakan pengawet. Berapa batas cemaran Angka Kapang Khamir (AKK) untuk sediaan oral non-steril menurut FI?",
+    answer: "≤ 10^2 koloni/mL",
+    options: ["≤ 10^1 koloni/mL", "≤ 10^2 koloni/mL", "≤ 10^3 koloni/mL", "≤ 10^5 koloni/mL", "Bebas mikroba"]
+  },
+  {
+    question: "Berapa volume air yang harus ditambahkan ke dalam 100 mL larutan stok 25% b/v untuk membuat larutan 5% b/v?",
+    answer: "400 mL",
+    options: ["100 mL", "200 mL", "300 mL", "400 mL", "500 mL"]
+  },
+  {
+    question: "Antidotum pilihan untuk mengatasi toksisitas organofosfat yang bekerja sebagai reaktivator enzim asetilkolinesterase adalah...",
+    answer: "Pralidoksim",
+    options: ["Atropin", "Pralidoksim", "Nalokson", "Diazepam", "Karbon Aktif"]
+  },
+  {
+    question: "Pasien dengan Myocardial Infarction (STEMI) akan diberikan terapi fibrinolitik. Berapa Golden Period pemberian Streptokinase sejak onset serangan?",
+    answer: "≤ 12 jam",
+    options: ["≤ 3 jam", "≤ 6 jam", "≤ 12 jam", "≤ 24 jam", "Kapan saja"]
+  },
+  {
+    question: "Seorang pasien pediatrik menderita kejang absen (absence seizure). Obat pilihan utamanya adalah...",
+    answer: "Etosuksimid",
+    options: ["Fenitoin", "Asam Valproat", "Etosuksimid", "Karbamazepin", "Fenobarbital"]
+  },
+  {
+    question: "Dalam analisis HPLC, parameter yang menggambarkan simetrisitas suatu puncak kromatogram disebut...",
+    answer: "Tailing Factor (Tf)",
+    options: ["Resolusi", "Faktor Retensi", "Tailing Factor (Tf)", "Lempeng Teoritis", "HETP"]
+  },
+  {
+    question: "Apoteker menghitung kebutuhan tablet Amoksisilin. Rata-rata pemakaian 1000 tablet/bulan. Lead time 1 minggu (7 hari). Asumsi 1 bulan = 30 hari. Berapa stok kerja selama lead time?",
+    answer: "233 tablet",
+    options: ["100 tablet", "233 tablet", "500 tablet", "700 tablet", "1000 tablet"]
+  },
+  {
+    question: "Pasien mendapatkan infus Heparin. Parameter laboratorium manakah yang digunakan untuk memantau efikasi dan keamanan Heparin (Unfractionated)?",
+    answer: "aPTT",
+    options: ["INR", "PT", "aPTT", "Platelet", "HbA1c"]
+  },
+  {
+    question: "Sediaan tablet kunyah (chewable) tidak memerlukan pengujian...",
+    answer: "Uji Waktu Hancur",
+    options: ["Uji Waktu Hancur", "Uji Disolusi", "Uji Kekerasan", "Uji Kerapuhan", "Keseragaman Bobot"]
+  },
+  {
+    question: "Antidotum untuk keracunan zat besi (Iron Overdose) adalah...",
+    answer: "Deferoksamin",
+    options: ["Penisilamin", "EDTA", "Deferoksamin", "Dimercaprol", "Asetilsistein"]
+  },
+  {
+    question: "Industri farmasi melakukan sterilisasi ruangan menggunakan uap Formaldehida atau gas H2O2. Teknik ini disebut...",
+    answer: "Fumigasi",
+    options: ["Aerasi", "Fumigasi", "Radiasi", "Liofilisasi", "Ozonisasi"]
+  },
+  {
+    question: "Berapakah jumlah tablet yang harus disiapkan jika resep tertulis: 'R/ Codein HCl 10 mg, m.f. pulv. dtd no. XV'. Tersedia tablet Codein 15 mg.",
+    answer: "10 tablet",
+    options: ["5 tablet", "7,5 tablet", "10 tablet", "15 tablet", "20 tablet"]
+  },
+  {
+    question: "Pasien hipertensi dengan riwayat Diabetes Mellitus paling tepat diberikan lini pertama golongan...",
+    answer: "ACE Inhibitor atau ARB",
+    options: ["Beta Blocker", "ACE Inhibitor atau ARB", "CCB Dihidropiridin", "Diuretik Kuat", "Alfa Blocker"]
+  },
+  {
+    question: "Obat yang bekerja dengan menghambat enzim HMG-CoA Reduktase adalah...",
+    answer: "Simvastatin",
+    options: ["Fenofibrat", "Gemfibrozil", "Simvastatin", "Ezetimibe", "Kolestiramin"]
+  },
+  {
+    question: "Dalam CPOB, personel yang bertanggung jawab atas bagian produksi dan pengawasan mutu harus...",
+    answer: "Seorang Apoteker",
+    options: ["Seorang Dokter", "Seorang Apoteker", "Sarjana Kimia", "Sarjana Biologi", "Tenaga Teknis Kefarmasian"]
+  },
+  {
+    question: "Metode pemusnahan resep narkotika di Apotek yang telah disimpan lebih dari 5 tahun adalah dengan cara...",
+    answer: "Dibakar atau cara lain yang memadai",
+    options: ["Dibuang ke TPA", "Dibakar atau cara lain yang memadai", "Diberikan ke dinkes", "Dilarutkan dalam air", "Dikubur"]
+  },
+  {
+    question: "Pasien hamil mengalami konstipasi. Obat pencahar yang paling aman dan bekerja secara osmotik menarik air ke lumen usus adalah...",
+    answer: "Laktulosa",
+    options: ["Bisakodil", "Minyak jarak", "Laktulosa", "Senna", "Fenolftalein"]
+  },
+  {
+    question: "Hitung nilai Net Profit Margin (NPM) jika: Penjualan 1 M, HPP 700 jt, Biaya operasional 100 jt, Pajak 10%.",
+    answer: "18%",
+    options: ["10%", "18%", "20%", "25%", "30%"]
+  },
+  {
+    question: "Mekanisme kerja antibiotik golongan Florokuinolon (misal Levofloksasin) adalah...",
+    answer: "Menghambat enzim DNA Girase (Topoisomerase II)",
+    options: ["Menghambat sintesis dinding sel", "Menghambat subunit 30S", "Menghambat enzim DNA Girase (Topoisomerase II)", "Menghambat sintesis asam folat", "Menghambat subunit 50S"]
+  },
+  {
+    question: "Zat tambahan pada tablet yang berfungsi untuk meningkatkan daya alir dan mencegah granul menempel pada punch disebut...",
+    answer: "Lubrikan dan Glidan",
+    options: ["Disintegran", "Binder", "Lubrikan dan Glidan", "Diluent", "Opaquant"]
+  },
+  {
+    question: "Pasien dengan Rheumatoid Arthritis mendapatkan terapi Metotreksat. Untuk mengurangi efek samping toksisitas hematologi, pasien perlu diberikan suplemen...",
+    answer: "Asam Folat",
+    options: ["Vitamin B12", "Asam Folat", "Zat Besi", "Vitamin K", "Kalsium"]
+  },
+  {
+    question: "Berapa gram Karbo Adsorben yang dibutuhkan jika konsentrasi yang diminta adalah 0,1% dalam 500 mL suspensi?",
+    answer: "0,5 gram",
+    options: ["0,05 gram", "0,1 gram", "0,5 gram", "1,0 gram", "5,0 gram"]
+  },
+  {
+    question: "Pasien TBC kategori 1 mengeluh kesemutan pada tangan dan kaki. Hal ini merupakan defisiensi...",
+    answer: "Piridoksin (Vit B6)",
+    options: ["Sianokobalamin (Vit B12)", "Piridoksin (Vit B6)", "Tiamin (Vit B1)", "Asam Folat", "Riboflavin (Vit B2)"]
+  },
+  {
+    question: "Industri farmasi membuat sediaan mata dengan teknik Blow-Fill-Seal. Teknik ini dilakukan di bawah area kelas...",
+    answer: "Kelas A dengan latar belakang Kelas C",
+    options: ["Kelas A dengan latar belakang Kelas B", "Kelas A dengan latar belakang Kelas C", "Kelas C", "Kelas D", "Kelas E"]
+  },
+  {
+    question: "Analisis kimia untuk mengidentifikasi keberadaan alkaloid dalam tanaman menggunakan pereaksi...",
+    answer: "Dragendorff atau Mayer",
+    options: ["Liebermann-Burchard", "Dragendorff atau Mayer", "FeCl3", "Molisch", "Ninhidrin"]
+  },
+  {
+    question: "Pasien skizofrenia diberikan klorpromazin. Muncul efek samping berupa tremor dan kekakuan otot (EPS). Obat untuk mengatasinya adalah...",
+    answer: "Triheksifenidil",
+    options: ["Diazepam", "Triheksifenidil", "Amitriptilin", "Haloperidol", "Risperidon"]
+  },
+  {
+    question: "Berapa nilai HLB butuh fase minyak jika terdiri dari 30% Setil alkohol (HLB 15) dan 70% Parafin cair (HLB 12)?",
+    answer: "12,9",
+    options: ["12,0", "12,9", "13,5", "14,1", "15,0"]
+  },
+  {
+    question: "Pasien keracunan Metanol. Dokter memberikan Etanol IV. Mekanisme interaksinya adalah...",
+    answer: "Kompetisi pada enzim Alkohol Dehidrogenase",
+    options: ["Inhibisi enzim CYP2E1", "Kompetisi pada enzim Alkohol Dehidrogenase", "Pengikatan kimia langsung", "Peningkatan ekskresi ginjal", "Antagonis reseptor"]
+  },
+  {
+    question: "Apoteker menerima resep: 'Iter 2x'. Artinya pasien bisa menebus resep tersebut sebanyak...",
+    answer: "3 kali",
+    options: ["1 kali", "2 kali", "3 kali", "4 kali", "Selamanya"]
+  },
+  {
+    question: "Suatu zat mengikuti eliminasi orde nol. Kadar awal 100 mg/L, k = 10 mg/L/jam. Berapa kadar sisa setelah 5 jam?",
+    answer: "50 mg/L",
+    options: ["90 mg/L", "75 mg/L", "50 mg/L", "25 mg/L", "0 mg/L"]
+  },
+  {
+    question: "Parameter validasi metode analisis yang menunjukkan kemampuan metode memisahkan analit dari pengotor disebut...",
+    answer: "Spesifisitas",
+    options: ["Akurasi", "Presisi", "Spesifisitas", "Linieritas", "Robustness"]
+  },
+  {
+    question: "Obat yang digunakan untuk memutus status epileptikus secara cepat melalui rute IV atau Rektal adalah...",
+    answer: "Diazepam",
+    options: ["Fenitoin", "Asam Valproat", "Diazepam", "Fenobarbital", "Etosuksimid"]
+  },
+  {
+    question: "Apotek melakukan stok opname setiap akhir tahun. Tujuannya adalah untuk menghitung...",
+    answer: "Nilai persediaan akhir",
+    options: ["Laba bersih", "Nilai persediaan akhir", "Jumlah hutang", "Turn Over Ratio", "HPP"]
+  },
+  {
+    question: "Berapa suhu penyimpanan untuk 'Suhu Kamar Terkendali' menurut FI?",
+    answer: "20°C - 25°C",
+    options: ["2°C - 8°C", "8°C - 15°C", "15°C - 30°C", "20°C - 25°C", "30°C - 40°C"]
+  },
+  {
+    question: "Seorang pasien asma menggunakan inhaler tipe MDI. Apa fungsi Spacer pada alat tersebut?",
+    answer: "Mengurangi deposisi obat di tenggorokan dan memudahkan koordinasi",
+    options: ["Meningkatkan dosis obat", "Mengurangi deposisi obat di tenggorokan dan memudahkan koordinasi", "Mempercepat onset kerja", "Menghilangkan bau obat", "Mengganti fungsi propelan"]
+  },
+  {
+    question: "Antidotum keracunan Karbon Monoksida (CO) adalah...",
+    answer: "Oksigen 100% atau Hiperbarik",
+    options: ["Asetilsistein", "Oksigen 100% atau Hiperbarik", "Natrium Nitrit", "Metilen Biru", "Dimercaprol"]
+  },
+  {
+    question: "Berapa jumlah Na2CO3 (BM 106) yang setara dengan 100 mEq Na+?",
+    answer: "5,3 gram",
+    options: ["1,06 gram", "5,3 gram", "10,6 gram", "21,2 gram", "106 gram"]
+  },
+  {
+    question: "Obat yang dikontraindikasikan pada penderita G6PD karena berisiko menyebabkan anemia hemolitik adalah...",
+    answer: "Primakuin",
+    options: ["Klorokuin", "Primakuin", "Kina", "Artemisin", "Doksisiklin"]
+  },
+  {
+    question: "Limbah medis berupa jarum suntik bekas dimasukkan ke dalam wadah...",
+    answer: "Safety Box (Warna Kuning, Tahan Tusukan)",
+    options: ["Kantong plastik hitam", "Kantong plastik kuning", "Safety Box (Warna Kuning, Tahan Tusukan)", "Wadah warna ungu", "Ember terbuka"]
+  },
+  {
+    question: "Apoteker di industri melakukan uji disolusi terbanding. Nilai f2 yang menunjukkan kemiripan profil disolusi adalah...",
+    answer: "50 - 100",
+    options: ["0 - 15", "15 - 50", "50 - 100", "100 - 150", "Semua salah"]
+  },
+  {
+    question: "Pasien dengan keluhan Hipertiroid diberikan Propiltiourasil (PTU). Apa mekanisme kerja PTU?",
+    answer: "Menghambat enzim tiroid peroksidase",
+    options: ["Menghambat pelepasan hormon tiroid", "Menghambat enzim tiroid peroksidase", "Menghancurkan sel tiroid", "Menghambat reseptor TSH", "Meningkatkan ekskresi Iodium"]
+  },
+  {
+    question: "Berapa mL insulin yang harus diambil jika dosisnya 20 Unit, sedangkan vial yang tersedia 100 Unit/mL?",
+    answer: "0,2 mL",
+    options: ["0,1 mL", "0,2 mL", "0,5 mL", "1,0 mL", "2,0 mL"]
+  },
+  {
+    question: "Apoteker mengidentifikasi sediaan palsu yang tidak mengandung zat aktif sesuai label. Tindakan yang dilakukan sesuai etika dan regulasi adalah...",
+    answer: "Melaporkan ke BPOM",
+    options: ["Membuang sediaan", "Melaporkan ke BPOM", "Mengembalikan ke supplier", "Menjual dengan harga murah", "Diam saja"]
+  },
+  {
+    question: "Manakah dari kondisi berikut yang merupakan indikasi utama penggunaan Amiodaron?",
+    answer: "Aritmia ventrikel",
+    options: ["Hipertensi", "Gagal jantung akut", "Aritmia ventrikel", "Angina pektoris", "Asma bronkial"]
+  },
+  {
+    question: "Berapakah kadar % b/b jika 5 gram zat dilarutkan dalam 95 gram air?",
+    answer: "5%",
+    options: ["4,75%", "5%", "5,26%", "10%", "95%"]
+  },
+  {
+    question: "Obat batuk yang bekerja dengan mengencerkan dahak (Mukolitik) melalui pemutusan jembatan disulfida protein adalah...",
+    answer: "Asetilsistein",
+    options: ["Guaifenesin", "Bromheksin", "Ambroksol", "Asetilsistein", "Dekstrometorfan"]
+  },
+  {
+    question: "Berapa lama masa retensi dokumen Surat Pesanan Narkotika di Apotek?",
+    answer: "3 tahun",
+    options: ["1 tahun", "2 tahun", "3 tahun", "5 tahun", "10 tahun"]
+  },
+  {
+    question: "Dalam pembuatan sediaan infus, dilakukan uji endotoksin bakteri untuk memastikan keamanan. Metode yang paling umum digunakan menggunakan reagen dari darah kepiting tapal kuda adalah...",
+    answer: "LAL Test (Limulus Amebocyte Lysate)",
+    options: ["Pyrogen Test pada kelinci", "LAL Test (Limulus Amebocyte Lysate)", "Uji Angka Lempeng Total", "Uji Sterilitas Membran", "Uji Media Fill"]
+  },
+  {
+    question: "Seorang apoteker melakukan ekstraksi flavonoid dari daun jati belanda. Metode ekstraksi berkesinambungan menggunakan pelarut yang selalu baru dengan alat khusus disebut...",
+    answer: "Sokletasi",
+    options: ["Maserasi", "Perkolasi", "Sokletasi", "Refluks", "Infusa"]
+  },
+  {
+    question: "Pasien pria (BB 60 kg) memerlukan dosis pemeliharaan Aminofilin sebesar 0,5 mg/kg/jam. Tersedia Aminofilin injeksi 24 mg/mL. Berapakah kecepatan infus dalam mL/jam yang harus diatur?",
+    answer: "1,25 mL/jam",
+    options: ["0,75 mL/jam", "1,25 mL/jam", "2,5 mL/jam", "5,0 mL/jam", "10 mL/jam"]
+  },
+  {
+    question: "Identifikasi simplisia yang mengandung amilum dilakukan secara mikroskopis. Ciri khas amilum pada tanaman jagung (Zea mays) adalah...",
+    answer: "Hilus berbentuk bintang (stelata)",
+    options: ["Hilus berbentuk garis", "Hilus berbentuk bintang (stelata)", "Lamela terlihat jelas", "Butir majemuk", "Bentuk cakram"]
+  },
+  {
+    question: "Dalam validasi metode analisis, rentang konsentrasi yang memberikan respon detektor secara proporsional terhadap konsentrasi analit disebut...",
+    answer: "Linieritas",
+    options: ["Akurasi", "Presisi", "Linieritas", "Selektivitas", "LOD"]
+  },
+  {
+    question: "Seorang pasien didiagnosis mengalami kandidiasis oral berat. Pilihan terapi antijamur topikal yang bekerja mengikat sterol pada membran sel jamur adalah...",
+    answer: "Nistatin",
+    options: ["Flukonazol", "Ketokonazol", "Nistatin", "Griseofulvin", "Terbinafin"]
+  },
+  {
+    question: "Berapa nilai HLB campuran dari 5 bagian Span 60 (HLB 4,7) dan 5 bagian Tween 60 (HLB 14,9)?",
+    answer: "9,8",
+    options: ["7,5", "9,8", "10,2", "12,4", "14,9"]
+  },
+  {
+    question: "Industri farmasi memproduksi tablet Parasetamol 500 mg. Pada uji keseragaman sediaan, jika bobot rata-rata tablet adalah 600 mg, maka penyimpangan bobot maksimal untuk 2 tablet adalah...",
+    answer: "5%",
+    options: ["5%", "7,5%", "10%", "15%", "20%"]
+  },
+  {
+    question: "Obat tradisional yang telah dibuktikan keamanan dan khasiatnya secara ilmiah dengan uji praklinik dan uji klinik disebut...",
+    answer: "Fitofarmaka",
+    options: ["Jamu", "Obat Herbal Terstandar", "Fitofarmaka", "Simplisia", "Galenika"]
+  },
+  {
+    question: "Pasien mengalami keracunan insektisida organofosfat dengan gejala SLUDGE (Salivation, Lacrimation, Urination, Defecation, Gastric upset, Emesis). Antidotum yang bekerja memblok reseptor muskarinik adalah...",
+    answer: "Atropin",
+    options: ["Atropin", "Pralidoksim", "Nalokson", "Diazepam", "Metilen Biru"]
+  },
+  {
+    question: "Dalam penyimpanan di RS, obat yang tampak mirip atau terdengar mirip (Look Alike Sound Alike - LASA) harus diberi penandaan khusus berupa...",
+    answer: "Tall Man Lettering",
+    options: ["Stiker Merah", "Tall Man Lettering", "Garis Bawah", "Huruf Tebal", "Warna Kuning"]
+  },
+  {
+    question: "Berapa mL larutan stok KMnO4 1:2000 yang dibutuhkan untuk membuat 5 liter larutan KMnO4 1:10000?",
+    answer: "1000 mL",
+    options: ["500 mL", "1000 mL", "2000 mL", "2500 mL", "4000 mL"]
+  },
+  {
+    question: "Mekanisme kerja antidiabetik golongan Penghambat DPP-4 (misal Sitagliptin) adalah...",
+    answer: "Meningkatkan kadar hormon inkretin (GLP-1 dan GIP)",
+    options: ["Meningkatkan sensitivitas insulin", "Menghambat absorpsi glukosa di usus", "Meningkatkan kadar hormon inkretin (GLP-1 dan GIP)", "Menghambat reabsorpsi glukosa di ginjal", "Meningkatkan sekresi insulin secara langsung"]
+  },
+  {
+    question: "Sesuai regulasi, Apoteker Penanggung Jawab di PBF (Pedagang Besar Farmasi) wajib menerapkan sistem...",
+    answer: "CDOB (Cara Distribusi Obat yang Baik)",
+    options: ["CPOB", "CPKB", "CDOB (Cara Distribusi Obat yang Baik)", "CPOTB", "Cakra"]
+  },
+  {
+    question: "Suatu zat mengikuti kinetika degradasi orde nol. t1/2 zat tersebut adalah 10 jam. Jika kadar awal 200 mg, berapakah konstanta laju degradasinya (k)?",
+    answer: "10 mg/jam",
+    options: ["5 mg/jam", "10 mg/jam", "20 mg/jam", "0,1 mg/jam", "0,693 mg/jam"]
+  },
+  {
+    question: "Parameter analisis gas darah (BGA) menunjukkan pH 7,2; pCO2 55 mmHg; HCO3 24 mEq/L. Kondisi ini menunjukkan pasien mengalami...",
+    answer: "Asidosis Respiratorik",
+    options: ["Asidosis Metabolik", "Alkalosis Respiratorik", "Asidosis Respiratorik", "Alkalosis Metabolik", "Kondisi Normal"]
+  },
+  {
+    question: "Sebuah apotek membeli obat seharga Rp 100.000 (belum PPN 11%). Margin yang diinginkan adalah 20%. Berapakah Harga Jual Apotek (HJA)?",
+    answer: "Rp 133.200",
+    options: ["Rp 120.000", "Rp 131.000", "Rp 133.200", "Rp 121.000", "Rp 142.000"]
+  },
+  {
+    question: "Alkaloid yang ditemukan dalam tanaman kopi dan teh yang bekerja sebagai antagonis reseptor adenosin adalah...",
+    answer: "Kafein",
+    options: ["Nikotin", "Kafein", "Morfin", "Atropin", "Kuinin"]
+  },
+  {
+    question: "Dalam uji sterilitas, jika terjadi pertumbuhan mikroba pada hasil uji awal, maka dilakukan uji ulang (retest) dengan jumlah sampel...",
+    answer: "Dua kali lipat jumlah sampel awal",
+    options: ["Sama dengan jumlah awal", "Dua kali lipat jumlah sampel awal", "Tiga kali lipat", "Setengah jumlah awal", "Tidak perlu uji ulang"]
+  },
+  {
+    question: "Metode pemisahan kimia berdasarkan perbedaan distribusi komponen antara fase diam dan fase gerak disebut...",
+    answer: "Kromatografi",
+    options: ["Filtrasi", "Distilasi", "Kromatografi", "Kristalisasi", "Ekstraksi"]
+  },
+  {
+    question: "Pasien hamil didiagnosis menderita hipertiroid. Obat pilihan utama yang digunakan pada trimester pertama adalah...",
+    answer: "Propiltiourasil (PTU)",
+    options: ["Metimazol", "Propiltiourasil (PTU)", "Iodium Radioaktif", "Lugol", "Levotiroksin"]
+  },
+  {
+    question: "Berapa banyak tablet yang harus disiapkan jika resep: 'R/ Salbutamol 2 mg, mf pulv no X. S 3 dd 1'. Tersedia tablet 4 mg.",
+    answer: "5 tablet",
+    options: ["2 tablet", "5 tablet", "10 tablet", "15 tablet", "20 tablet"]
+  },
+  {
+    question: "Mekanisme kerja antibiotik golongan Aminoglikosida adalah...",
+    answer: "Menghambat sintesis protein pada subunit 30S",
+    options: ["Menghambat sintesis dinding sel", "Menghambat sintesis protein pada subunit 30S", "Menghambat DNA Girase", "Menghambat sintesis asam folat", "Menghambat subunit 50S"]
+  },
+  {
+    question: "Sediaan suppositoria dengan basis gliserin-gelatin harus disimpan pada suhu...",
+    answer: "Dingin (2 - 8 C)",
+    options: ["Beku (< 0 C)", "Dingin (2 - 8 C)", "Sejuk (8 - 15 C)", "Suhu Kamar", "Hangat"]
+  },
+  {
+    question: "Parameter farmakokinetik yang menunjukkan kemampuan tubuh membersihkan obat dari darah per satuan waktu disebut...",
+    answer: "Klirens",
+    options: ["Volume Distribusi", "Klirens", "Waktu Paruh", "Bioavailabilitas", "AUC"]
+  },
+  {
+    question: "Pasien asma menggunakan inhaler Budesonid. Apa instruksi penting yang harus diberikan apoteker setelah pemakaian?",
+    answer: "Berkumur dengan air hangat untuk mencegah kandidiasis oral",
+    options: ["Menahan napas selama 1 menit", "Langsung minum air", "Berkumur dengan air hangat untuk mencegah kandidiasis oral", "Melompat-lompat", "Tidur terlentang"]
+  },
+  {
+    question: "Berapa gram sukrosa yang dibutuhkan untuk membuat 200 mL Sirupus Simplex (65% b/v)?",
+    answer: "130 gram",
+    options: ["65 gram", "100 gram", "130 gram", "150 gram", "195 gram"]
+  },
+  {
+    question: "Zat pengawet yang umum digunakan dalam sediaan tetes mata dosis ganda (multidose) adalah...",
+    answer: "Benzalkonium Klorida",
+    options: ["Metil Paraben", "Benzalkonium Klorida", "Asam Sorbat", "Fenol", "Timerosal"]
+  },
+  {
+    question: "Pasien dengan dislipidemia diberikan terapi asam fibrat (misal Fenofibrat). Target utama dari golongan ini adalah menurunkan...",
+    answer: "Trigliserida",
+    options: ["LDL", "HDL", "Trigliserida", "Total Kolesterol", "VLDL"]
+  },
+  {
+    question: "Dalam perhitungan harga jual, apotek menetapkan persentase keuntungan dari harga jual sebesar 25%. Ini setara dengan mark-up dari HPP sebesar...",
+    answer: "33,33%",
+    options: ["20%", "25%", "33,33%", "50%", "100%"]
+  },
+  {
+    question: "Hasil kromatografi menunjukkan jarak bercak 3 cm dan jarak eluen 10 cm. Berapakah nilai hRf?",
+    answer: "30",
+    options: ["0,3", "3", "30", "33", "300"]
+  },
+  {
+    question: "Uji sterilitas sediaan injeksi menggunakan dua media pertumbuhan utama, yaitu...",
+    answer: "Fluid Thioglycollate Medium dan Soybean Casein Digest",
+    options: ["Agar Darah dan Agar Sabouraud", "Fluid Thioglycollate Medium dan Soybean Casein Digest", "Nutrient Agar dan MacConkey", "Lactose Broth dan BGLB", "Semua salah"]
+  },
+  {
+    question: "Pasien didiagnosis depresi mayor. Dokter meresepkan Fluoksetin. Golongan obat ini adalah...",
+    answer: "SSRI",
+    options: ["TCA", "MAOI", "SSRI", "SNRI", "Benzodiazepine"]
+  },
+  {
+    question: "Berapa mL alkohol 70% yang dihasilkan jika 500 mL alkohol 95% diencerkan?",
+    answer: "678,5 mL",
+    options: ["678,5 mL", "350,0 mL", "700,0 mL", "950,0 mL", "500,0 mL"]
+  },
+  {
+    question: "Mekanisme kerja obat pencahar golongan Bulk-Forming Laxative (misal Psyllium) adalah...",
+    answer: "Menyerap air dan meningkatkan volume massa feses",
+    options: ["Merangsang peristaltik usus", "Melubrikasi feses", "Menyerap air dan meningkatkan volume massa feses", "Menghambat penyerapan air di kolon", "Melembutkan feses"]
+  },
+  {
+    question: "Parameter yang menunjukkan kedekatan hasil uji dengan nilai sebenarnya disebut...",
+    answer: "Akurasi",
+    options: ["Presisi", "Akurasi", "Spesifisitas", "Linieritas", "Robustness"]
+  },
+  {
+    question: "Antidotum untuk keracunan insektisida golongan piretroid adalah...",
+    answer: "Terapi suportif (tidak ada antidotum spesifik)",
+    options: ["Atropin", "Pralidoksim", "Terapi suportif (tidak ada antidotum spesifik)", "N-Asetilsistein", "Etanol"]
+  },
+  {
+    question: "Berapa banyak NaCl yang harus ditambahkan ke 100 mL air agar menjadi larutan garam fisiologis (0,9%)?",
+    answer: "0,9 gram",
+    options: ["0,09 gram", "0,9 gram", "9 gram", "90 gram", "0,45 gram"]
+  },
+  {
+    question: "Hasil ekstraksi kunyit mengandung zat warna kuning yang berkhasiat sebagai antiinflamasi, yaitu...",
+    answer: "Kurkuminoid",
+    options: ["Piperin", "Kurkuminoid", "Antosianin", "Kuersetin", "Alisin"]
+  },
+  {
+    question: "Sesuai regulasi, obat yang mengandung Prekursor Farmasi hanya dapat dilayani di Apotek berdasarkan...",
+    answer: "Resep Dokter atau Pembelian bebas terbatas sesuai dosis",
+    options: ["Surat Pesanan Khusus", "Resep Dokter atau Pembelian bebas terbatas sesuai dosis", "KTP", "Kartu Keluarga", "Surat keterangan sehat"]
+  },
+  {
+    question: "Berapa nilai TOR (Turn Over Ratio) jika HPP setahun 600 jt dan persediaan rata-rata 50 jt?",
+    answer: "12 kali",
+    options: ["6 kali", "10 kali", "12 kali", "15 kali", "20 kali"]
+  },
+  {
+    question: "Obat yang digunakan untuk terapi hiperurisemia kronis dengan cara menghambat enzim xantin oksidase adalah...",
+    answer: "Allopurinol",
+    options: ["Probenesid", "Allopurinol", "Kolkisin", "Natrium Diklofenak", "Asam Mefenamat"]
+  },
+  {
+    question: "Mekanisme kerja kontrasepsi oral kombinasi (Estrogen-Progesteron) adalah...",
+    answer: "Menghambat ovulasi melalui umpan balik negatif ke hipofisis",
+    options: ["Membunuh sperma", "Menghambat implantasi", "Menghambat ovulasi melalui umpan balik negatif ke hipofisis", "Mengencerkan lendir serviks", "Meningkatkan motilitas tuba"]
+  },
+  {
+    question: "Berapa jumlah mEq ion K+ dalam 1 liter larutan KCl 0,15%? (BM KCl = 74,5)",
+    answer: "20,1 mEq",
+    options: ["10 mEq", "20,1 mEq", "40 mEq", "74,5 mEq", "150 mEq"]
+  },
+  {
+    question: "Identifikasi kualitatif terhadap saponin dalam simplisia ditunjukkan dengan pembentukan...",
+    answer: "Buih yang stabil selama 10 menit",
+    options: ["Warna merah pada lapisan alkohol", "Endapan putih dengan pereaksi Mayer", "Buih yang stabil selama 10 menit", "Warna biru dengan FeCl3", "Fluoresensi kuning"]
+  },
+  {
+    question: "Apoteker di industri melakukan uji kekerasan tablet. Batas minimal kekerasan tablet oral yang umum adalah...",
+    answer: "4 kg/cm2",
+    options: ["1 kg/cm2", "2 kg/cm2", "4 kg/cm2", "10 kg/cm2", "20 kg/cm2"]
+  },
+  {
+    question: "Pasien gagal ginjal mengalami anemia. Terapi yang tepat adalah pemberian...",
+    answer: "Eritropoietin",
+    options: ["Zat Besi", "Vitamin B12", "Eritropoietin", "Asam Folat", "Transfusi Albumin"]
+  },
+  {
+    question: "Berapa nilai pKa jika Ka = 1,8 x 10^-5?",
+    answer: "4,74",
+    options: ["3,74", "4,74", "5,74", "6,74", "7,74"]
+  },
+  {
+    question: "Sesuai CPOB, area pengolahan produk steril yang dilakukan di bawah LAF (Laminar Air Flow) termasuk kelas...",
+    answer: "Kelas A",
+    options: ["Kelas A", "Kelas B", "Kelas C", "Kelas D", "Kelas E"]
+  },
+  {
+    question: "Obat batuk yang bekerja dengan meningkatkan volume dan menurunkan viskositas sekret di saluran napas (Ekspektoran) adalah...",
+    answer: "Guaifenesin",
+    options: ["Dekstrometorfan", "Guaifenesin", "Asetilsistein", "Kodein", "Bromheksin"]
+  },
+  {
+    question: "Pasien pria (50 th) dengan riwayat gout kronis akan memulai terapi Allopurinol. Obat manakah yang harus diberikan sebagai profilaksis untuk mencegah serangan gout akut (flare) saat inisiasi Allopurinol?",
+    answer: "Kolkisin atau NSAID dosis rendah",
+    options: ["Probenesid", "Kolkisin atau NSAID dosis rendah", "Febuxostat", "Prednison dosis tinggi", "Natrium Diklofenak 100 mg"]
+  },
+  {
+    question: "Industri farmasi membuat sediaan emulsi. Setelah penyimpanan, fase internal membentuk agregat namun masih bisa didispersikan kembali dengan pengocokan ringan. Fenomena ini disebut...",
+    answer: "Flokulasi",
+    options: ["Creaming", "Koalesen", "Flokulasi", "Breaking", "Inversi Fase"]
+  },
+  {
+    question: "Seorang apoteker melakukan penetapan kadar PCT menggunakan spektrofotometri UV-Vis. Larutan stok 100 ppm diencerkan menjadi 10 ppm dalam 50 mL. Berapa mL larutan stok yang diambil?",
+    answer: "5 mL",
+    options: ["1 mL", "2 mL", "5 mL", "10 mL", "0,5 mL"]
+  },
+  {
+    question: "Pasien wanita (25 th) didiagnosis hipertiroidisme dan sedang hamil trimester kedua. Obat anti-tiroid manakah yang menjadi pilihan utama karena risiko hepatotoksisitas yang lebih rendah dibanding PTU pada fase ini?",
+    answer: "Metimazol",
+    options: ["Propiltiourasil (PTU)", "Metimazol", "Lugol", "Bisoprolol", "Iodium Radioaktif"]
+  },
+  {
+    question: "Dalam analisis HPLC, jika waktu retensi analit 10 menit dan waktu retensi fase gerak (void time) 2 menit, berapakah nilai faktor retensi (k')?",
+    answer: "4",
+    options: ["2", "4", "5", "8", "12"]
+  },
+  {
+    question: "Seorang pasien asma menggunakan inhaler tipe DPI (Dry Powder Inhaler). Instruksi penggunaan yang paling krusial untuk alat ini adalah...",
+    answer: "Menghirup napas dengan cepat dan kuat",
+    options: ["Mengocok inhaler sebelum digunakan", "Menghirup napas perlahan dan dalam", "Menghirup napas dengan cepat dan kuat", "Menggunakan spacer", "Menekan kanister saat menghirup"]
+  },
+  {
+    question: "Berapa gram NaCl yang harus ditambahkan pada 500 mL larutan Atropin Sulfat 2% agar isotonis? (E Atropin Sulfat = 0,13)",
+    answer: "3,2 gram",
+    options: ["4,5 gram", "3,2 gram", "1,3 gram", "0,65 gram", "2,8 gram"]
+  },
+  {
+    question: "Antidotum untuk mengatasi perdarahan akibat overdosis Heparin adalah...",
+    answer: "Protamin Sulfat",
+    options: ["Vitamin K", "Protamin Sulfat", "Asam Traneksamat", "Idarucizumab", "Asetilsistein"]
+  },
+  {
+    question: "Dalam manajemen inventaris, metode analisis yang mengkategorikan item berdasarkan nilai investasi tahunan (rupiah) disebut...",
+    answer: "Analisis ABC",
+    options: ["Analisis VEN", "Analisis ABC", "EOQ", "JIT", "FEFO"]
+  },
+  {
+    question: "Industri farmasi melakukan uji pirogenitas menggunakan kelinci. Kenaikan suhu total maksimal untuk 3 ekor kelinci agar dinyatakan lulus adalah...",
+    answer: "1,15°C",
+    options: ["0,5°C", "0,6°C", "1,15°C", "1,45°C", "2,0°C"]
+  },
+  {
+    question: "Pasien dengan Benign Prostatic Hyperplasia (BPH) diberikan Tamsulosin. Apa mekanisme kerja obat ini?",
+    answer: "Antagonis reseptor Alfa-1 selektif",
+    options: ["Penghambat 5-alfa reduktase", "Antagonis reseptor Alfa-1 selektif", "Agonis kolinergik", "Antikolinergik", "Antagonis kalsium"]
+  },
+  {
+    question: "Berapa mL H2SO4 pekat (98% b/b, BJ 1,84 g/mL) yang dibutuhkan untuk membuat 1 liter larutan H2SO4 0,1 M? (BM H2SO4 = 98)",
+    answer: "5,43 mL",
+    options: ["5,43 mL", "10,0 mL", "2,71 mL", "1,84 mL", "9,8 mL"]
+  },
+  {
+    question: "Seorang pasien mengalami overdosis parasetamol. Antidotum N-Asetilsistein bekerja dengan cara...",
+    answer: "Menambah cadangan glutation untuk mengikat NAPQI",
+    options: ["Menghambat enzim CYP2E1", "Memicu ekskresi ginjal", "Menambah cadangan glutation untuk mengikat NAPQI", "Menetralkan pH darah", "Menghambat absorpsi di lambung"]
+  },
+  {
+    question: "Dalam pembuatan tablet, penambahan Amylum Manihot 10% di luar granul (ekstragranular) berfungsi sebagai...",
+    answer: "Disintegran",
+    options: ["Pengikat", "Disintegran", "Pengisi", "Lubrikan", "Glidan"]
+  },
+  {
+    question: "Sesuai CDOB, suhu penyimpanan untuk produk 'Cold Chain' seperti vaksin polio adalah...",
+    answer: "-15°C s/d -25°C",
+    options: ["2°C - 8°C", "8°C - 15°C", "0°C - 4°C", "-15°C s/d -25°C", "Di bawah 0°C"]
+  },
+  {
+    question: "Parameter yang menunjukkan kemampuan metode memberikan hasil yang sama pada pengujian berulang disebut...",
+    answer: "Presisi",
+    options: ["Akurasi", "Presisi", "Spesifisitas", "Linieritas", "Robustness"]
+  },
+  {
+    question: "Pasien dengan gagal jantung kongestif diberikan Digoksin. Manakah kondisi elektrolit yang paling meningkatkan risiko toksisitas Digoksin?",
+    answer: "Hipokalemia",
+    options: ["Hiperkalemia", "Hipokalemia", "Hiponatremia", "Hipernatremia", "Hiperkalsemia"]
+  },
+  {
+    question: "Berapa gram basis salep yang dibutuhkan untuk membuat 50 gram salep 2% b/b zat X?",
+    answer: "49 gram",
+    options: ["1 gram", "48 gram", "49 gram", "50 gram", "51 gram"]
+  },
+  {
+    question: "Mekanisme kerja antikoagulan oral Warfarin adalah...",
+    answer: "Menghambat enzim Vitamin K Epoksida Reduktase",
+    options: ["Menghambat Trombin secara langsung", "Menghambat Faktor Xa", "Menghambat enzim Vitamin K Epoksida Reduktase", "Mengaktivasi Antitrombin III", "Menghambat agregasi trombosit"]
+  },
+  {
+    question: "Dalam pengolahan air (Purified Water), lampu UV 254 nm digunakan untuk tujuan...",
+    answer: "Sanitasi (Membunuh mikroba)",
+    options: ["Menghilangkan klorin", "Menurunkan TOC", "Sanitasi (Membunuh mikroba)", "Menghilangkan ion", "Filtrasi partikel"]
+  },
+  {
+    question: "Pasien TB yang mengonsumsi Etambutol perlu rutin melakukan pemeriksaan...",
+    answer: "Fungsi penglihatan (tajam penglihatan dan warna)",
+    options: ["Fungsi pendengaran", "Fungsi penglihatan (tajam penglihatan dan warna)", "Fungsi hati", "Kadar asam urat", "Kadar gula darah"]
+  },
+  {
+    question: "Berapa jumlah mEq ion Ca2+ dalam 500 mL larutan CaCl2 0,2%? (BM CaCl2 = 111)",
+    answer: "18 mEq",
+    options: ["9 mEq", "18 mEq", "36 mEq", "54 mEq", "111 mEq"]
+  },
+  {
+    question: "Apoteker menghitung EOQ untuk obat X. Kebutuhan 10.000 box/tahun, biaya pesan 100.000/pesan, biaya simpan 2.000/box/tahun. Berapakah nilai EOQ-nya?",
+    answer: "1000 box",
+    options: ["500 box", "707 box", "1000 box", "2000 box", "5000 box"]
+  },
+  {
+    question: "Antidotum pilihan untuk mengatasi keracunan metanol yang bekerja menghambat pembentukan asam format adalah...",
+    answer: "Fomepizole atau Etanol",
+    options: ["Asetilsistein", "Fomepizole atau Etanol", "Natrium Bikarbonat", "Atropin", "Nalokson"]
+  },
+  {
+    question: "Hasil identifikasi mikroskopis simplisia menunjukkan adanya fragmen pengenal 'Rambut bersisik' (peltate). Ini adalah ciri khas dari...",
+    answer: "Orthosiphonis folium",
+    options: ["Psidii guajavae folium", "Orthosiphonis folium", "Digitalis folium", "Sonchi folium", "Cassiae folium"]
+  },
+  {
+    question: "Dalam kromatografi gas, gas pembawa (carrier gas) yang paling umum digunakan karena sifatnya yang inert adalah...",
+    answer: "Helium atau Nitrogen",
+    options: ["Oksigen", "Helium atau Nitrogen", "Karbon dioksida", "Hidrogen", "Argon"]
+  },
+  {
+    question: "Pasien dengan sindrom koroner akut mendapatkan Fondaparinux. Mekanisme kerjanya adalah...",
+    answer: "Penghambat selektif Faktor Xa melalui Antitrombin III",
+    options: ["Penghambat langsung Trombin", "Penghambat selektif Faktor Xa melalui Antitrombin III", "Antagonis Vitamin K", "Penghambat reseptor P2Y12", "Aktivator plasminogen"]
+  },
+  {
+    question: "Berapa mL larutan stok dekstrosa 40% yang dibutuhkan untuk membuat 500 mL infus dekstrosa 5%?",
+    answer: "62,5 mL",
+    options: ["50,0 mL", "62,5 mL", "100,0 mL", "125,0 mL", "200,0 mL"]
+  },
+  {
+    question: "Industri farmasi melakukan kualifikasi pada fasilitas baru. Urutan kualifikasi yang benar menurut CPOB adalah...",
+    answer: "DQ - IQ - OQ - PQ",
+    options: ["IQ - OQ - PQ - DQ", "DQ - IQ - OQ - PQ", "IQ - DQ - OQ - PQ", "PQ - OQ - IQ - DQ", "DQ - OQ - IQ - PQ"]
+  },
+  {
+    question: "Pasien mengalami diare setelah mengonsumsi antibiotik Klindamisin dalam jangka panjang. Kondisi ini kemungkinan disebabkan oleh pertumbuhan berlebih bakteri...",
+    answer: "Clostridioides difficile",
+    options: ["Escherichia coli", "Salmonella typhi", "Clostridioides difficile", "Staphylococcus aureus", "Vibrio cholerae"]
+  },
+  {
+    question: "Berapa nilai pKa dari asam lemah jika pada pH 5,0, konsentrasi bentuk terionisasi sama dengan bentuk molekulnya?",
+    answer: "5",
+    options: ["3", "4", "5", "6", "7"]
+  },
+  {
+    question: "Zat tambahan yang digunakan pada pembuatan kapsul untuk meningkatkan kelarutan zat aktif yang sangat hidrofobik adalah...",
+    answer: "Surfaktan (misal SLS)",
+    options: ["Lubrikan", "Glidan", "Surfaktan (misal SLS)", "Pengisi", "Pengawet"]
+  },
+  {
+    question: "Pasien dengan infark miokard akut mendapatkan aspirin. Apa mekanisme aksi antiplatelet dari aspirin dosis rendah?",
+    answer: "Inhibisi ireversibel enzim COX-1",
+    options: ["Inhibisi reseptor P2Y12", "Inhibisi ireversibel enzim COX-1", "Inhibisi reseptor GP IIb/IIIa", "Inhibisi enzim Fosfodiesterase", "Aktivasi protein C"]
+  },
+  {
+    question: "Berapa jumlah mEq kalium dalam 1 liter larutan Ringer yang mengandung 0,3 gram KCl per liter? (BM KCl = 74,5)",
+    answer: "4 mEq",
+    options: ["2 mEq", "4 mEq", "8 mEq", "12 mEq", "20 mEq"]
+  },
+  {
+    question: "Analisis farmakoekonomi yang membandingkan biaya dengan asumsi efikasi kedua obat adalah identik atau sama disebut...",
+    answer: "Cost Minimization Analysis (CMA)",
+    options: ["CMA", "CEA", "CUA", "CBA", "CCA"]
+  },
+  {
+    question: "Dalam spektrofotometri, pergeseran panjang gelombang ke arah yang lebih pendek (biru) disebut pergeseran...",
+    answer: "Hipsokromik",
+    options: ["Batokromik", "Hipsokromik", "Hiperkromik", "Hipokromik", "Isosbestik"]
+  },
+  {
+    question: "Pasien skizofrenia yang menggunakan Klozapin harus rutin melakukan pemantauan darah lengkap karena risiko efek samping fatal berupa...",
+    answer: "Agranulositosis",
+    options: ["Hepatotoksisitas", "Agranulositosis", "Gagal ginjal akut", "Sindrom neuroleptik maligna", "Diabetes Melitus"]
+  },
+  {
+    question: "Berapa gram sukrosa yang dibutuhkan untuk membuat 100 mL sirup dengan konsentrasi 65% b/b jika BJ sirup adalah 1,3 g/mL?",
+    answer: "84,5 gram",
+    options: ["65,0 gram", "84,5 gram", "50,0 gram", "130,0 gram", "100,0 gram"]
+  },
+  {
+    question: "Mekanisme kerja obat antipsikotik tipikal (misal Haloperidol) adalah...",
+    answer: "Antagonis reseptor Dopamin D2",
+    options: ["Agonis reseptor Serotonin 5-HT2A", "Antagonis reseptor Dopamin D2", "Penghambat reuptake Norepinefrin", "Modulator GABA", "Antagonis reseptor NMDA"]
+  },
+  {
+    question: "Sesuai regulasi, surat pesanan untuk obat-obat golongan psikotropika ditandatangani oleh...",
+    answer: "Apoteker Penanggung Jawab Apotek",
+    options: ["Pemilik Sarana Apotek", "Apoteker Penanggung Jawab Apotek", "Tenaga Teknis Kefarmasian", "Dokter Penanggung Jawab", "Kepala Gudang"]
+  },
+  {
+    question: "Berapa gram kodein yang dibutuhkan untuk membuat 100 mL sirup kodein 0,2%?",
+    answer: "0,2 gram",
+    options: ["0,02 gram", "0,2 gram", "2 gram", "20 gram", "0,5 gram"]
+  },
+  {
+    question: "Pasien dengan dislipidemia diberikan terapi Niasin (Asam Nikotinat). Efek samping 'flushing' (kemerahan kulit) dapat diminimalisir dengan meminum...",
+    answer: "Aspirin 30 menit sebelum Niasin",
+    options: ["Parasetamol", "Aspirin 30 menit sebelum Niasin", "Antasida", "Susu", "Vitamin C"]
+  },
+  {
+    question: "Dalam uji disolusi, volume media disolusi yang umumnya digunakan menurut Farmakope adalah...",
+    answer: "900 mL",
+    options: ["500 mL", "750 mL", "900 mL", "1000 mL", "1500 mL"]
+  },
+  {
+    question: "Parameter yang menunjukkan kemampuan instrumen mendeteksi analit pada konsentrasi terkecil yang masih memberikan respon signifikan disebut...",
+    answer: "Limit of Detection (LOD)",
+    options: ["LOD", "LOQ", "Linieritas", "Akurasi", "Rentang"]
+  },
+  {
+    question: "Antidotum untuk keracunan insektisida golongan organofosfat yang bekerja sebagai reaktivator asetilkolinesterase adalah...",
+    answer: "Pralidoksim (PAM)",
+    options: ["Atropin", "Pralidoksim (PAM)", "Karbon aktif", "Nalokson", "Natrium tiosulfat"]
+  },
+  {
+    question: "Berapakah kadar % v/v alkohol jika 100 mL alkohol 95% dicampur dengan 100 mL air? (Asumsi volume aditif)",
+    answer: "47,5%",
+    options: ["47,5%", "50%", "95%", "190%", "25%"]
+  },
+  {
+    question: "Mekanisme kerja obat diabetes golongan Penghambat SGLT-2 (misal Dapagliflozin) adalah...",
+    answer: "Menghambat reabsorpsi glukosa di tubulus proksimal ginjal",
+    options: ["Meningkatkan sekresi insulin", "Menghambat absorpsi glukosa di usus", "Menghambat reabsorpsi glukosa di tubulus proksimal ginjal", "Meningkatkan sensitivitas insulin", "Menghambat glukoneogenesis"]
+  },
+  {
+    question: "Limbah farmasi berupa sediaan sitostatika harus dibuang menggunakan wadah yang diberi label warna...",
+    answer: "Ungu",
+    options: ["Kuning", "Merah", "Ungu", "Cokelat", "Hitam"]
+  },
+  {
+    question: "Berapa nilai HLB butuh fase minyak campuran dari 20% Asam Stearat (HLB 15) dan 80% Adeps Lanae (HLB 10)?",
+    answer: "11",
+    options: ["10", "11", "12,5", "14", "15"]
+  },
+  {
+    question: "Obat batuk yang bekerja dengan meningkatkan pengeluaran cairan di saluran napas sehingga dahak mudah dikeluarkan adalah...",
+    answer: "Guaifenesin (Gliseril Guaiakolat)",
+    options: ["Dekstrometorfan", "Guaifenesin (Gliseril Guaiakolat)", "Asetilsistein", "Kodein", "Bromheksin"]
+  },
+  {
+    question: "Seorang pasien kanker payudara menerima regimen kemoterapi Siklofosfamid. Pasien berisiko mengalami sistitis hemoragik. Obat apa yang harus diberikan untuk menetralkan metabolit akrolein di kandung kemih?",
+    answer: "Mesna",
+    options: ["Leukovorin", "Mesna", "Deksrazoksan", "Amifostin", "Filgrastim"]
+  },
+  {
+    question: "Industri farmasi memproduksi tablet lepas lambat. Hasil uji disolusi menunjukkan pelepasan zat aktif mengikuti kinetika orde nol. Apa karakteristik utama dari profil pelepasan ini?",
+    answer: "Laju pelepasan konstan dan tidak tergantung konsentrasi",
+    options: ["Laju pelepasan berkurang seiring waktu", "Laju pelepasan konstan dan tidak tergantung konsentrasi", "Laju pelepasan sangat cepat di awal (burst effect)", "Pelepasan hanya terjadi pada pH basa", "Pelepasan tergantung pada jumlah air yang masuk"]
+  },
+  {
+    question: "Pasien anak (10 kg) didiagnosis demam tifoid dan diberikan Kloramfenikol suspensi (125 mg/5 mL) dengan dosis 50 mg/kgBB/hari dibagi dalam 4 dosis. Berapa mL suspensi yang diminum setiap kali pemberian?",
+    answer: "5 mL",
+    options: ["1,25 mL", "2,5 mL", "5 mL", "7,5 mL", "10 mL"]
+  },
+  {
+    question: "Berapa gram NaOH yang dibutuhkan untuk membuat 500 mL larutan dengan pH 12? (Ar Na=23, O=16, H=1)",
+    answer: "0,2 gram",
+    options: ["0,04 gram", "0,2 gram", "0,4 gram", "2,0 gram", "4,0 gram"]
+  },
+  {
+    question: "Dalam analisis instrumen, quenching (pemadaman) adalah fenomena penurunan intensitas yang sering menjadi kendala pada metode...",
+    answer: "Spektrofluorometri",
+    options: ["Spektrofotometri UV", "Spektrofluorometri", "AAS", "HPLC-UV", "Potensiometri"]
+  },
+  {
+    question: "Pasien laki-laki mengeluh pembengkakan gusi (gingival hyperplasia) setelah rutin meminum obat antihipertensi. Manakah obat yang paling mungkin menyebabkan efek tersebut?",
+    answer: "Nifedipin",
+    options: ["Kaptopril", "Amlodipin", "Nifedipin", "Losartan", "Furosemid"]
+  },
+  {
+    question: "Berapa jam waktu paruh (t1/2) suatu obat jika konstanta laju eliminasinya (k) adalah 0,231 per jam?",
+    answer: "3 jam",
+    options: ["1 jam", "2 jam", "3 jam", "4 jam", "5 jam"]
+  },
+  {
+    question: "Antidotum spesifik untuk mengatasi keracunan Etilen Glikol (cairan antibeku) yang bekerja menghambat pembentukan kristal kalsium oksalat di ginjal adalah...",
+    answer: "Fomepizole",
+    options: ["Asetilsistein", "Fomepizole", "Nalokson", "Natrium Tiosulfat", "Atropin"]
+  },
+  {
+    question: "Dalam pembuatan krim, ditemukan pemisahan fase minyak dan air yang bersifat reversibel (bisa menyatu kembali dengan pengocokan). Kondisi ini disebut...",
+    answer: "Creaming",
+    options: ["Cracking", "Creaming", "Inversi Fase", "Koalesen", "Deflokulasi"]
+  },
+  {
+    question: "Apoteker di RS akan melakukan pengadaan obat kanker yang sangat mahal namun jarang digunakan (Slow Moving). Metode pengadaan yang paling efisien adalah...",
+    answer: "Just In Time (JIT)",
+    options: ["Spekulatif", "Just In Time (JIT)", "Terencana per tahun", "Konsumsi", "Epidemiologi"]
+  },
+  {
+    question: "Obat manakah yang bekerja menghambat enzim Dihydrofolate Reductase (DHFR) sehingga mengganggu sintesis DNA pada sel kanker?",
+    answer: "Metotreksat",
+    options: ["Fluorourasil", "Metotreksat", "Sitarabin", "Vinkristin", "Doksorubisin"]
+  },
+  {
+    question: "Berapa mL larutan HCl 12 M yang dibutuhkan untuk membuat 250 mL HCl 2 M?",
+    answer: "41,67 mL",
+    options: ["20,83 mL", "41,67 mL", "83,34 mL", "100 mL", "12,5 mL"]
+  },
+  {
+    question: "Industri farmasi melakukan uji stabilitas dipercepat selama 6 bulan. Kondisi suhu dan kelembaban relatif (RH) yang digunakan untuk wilayah Indonesia (Zona IVB) adalah...",
+    answer: "40°C ± 2°C / 75% RH ± 5%",
+    options: ["25°C ± 2°C / 60% RH ± 5%", "30°C ± 2°C / 65% RH ± 5%", "40°C ± 2°C / 75% RH ± 5%", "45°C ± 2°C / 75% RH ± 5%", "30°C ± 2°C / 75% RH ± 5%"]
+  },
+  {
+    question: "Pasien mengalami syok anafilaktik setelah penyuntikan antibiotik. Obat emergensi lini pertama yang harus segera diberikan melalui rute IM adalah...",
+    answer: "Epinefrin (Adrenalin)",
+    options: ["Deksametason", "Difenhidramin", "Epinefrin (Adrenalin)", "Dopamin", "Salbutamol"]
+  },
+  {
+    question: "Identifikasi alkaloid kafein secara kimia dilakukan dengan uji Mureksid. Hasil positif ditunjukkan dengan terbentuknya warna...",
+    answer: "Ungu kemerahan",
+    options: ["Jingga", "Hijau", "Ungu kemerahan", "Biru pekat", "Kuning"]
+  },
+  {
+    question: "Berapa nilai HLB butuh untuk membuat emulsi M/A dari fase minyak yang terdiri dari Parafin cair (HLB 12) sebanyak 40% dan Lanolin (HLB 10) sebanyak 60%?",
+    answer: "10,8",
+    options: ["10,5", "10,8", "11,2", "11,5", "12,0"]
+  },
+  {
+    question: "Sesuai CPOB, sediaan tetes mata harus memenuhi syarat uji kebocoran. Tube diletakkan horizontal di atas kertas penyerap pada suhu 60°C. Berapa lama waktu pengujiannya?",
+    answer: "8 jam",
+    options: ["1 jam", "4 jam", "8 jam", "12 jam", "24 jam"]
+  },
+  {
+    question: "Pasien neuropati diabetik sering mengeluh nyeri terbakar. Selain analgesik, dokter sering meresepkan Amitriptilin. Apa golongan Amitriptilin?",
+    answer: "Antidepresan Trisiklik (TCA)",
+    options: ["SSRI", "SNRI", "Antidepresan Trisiklik (TCA)", "MAOI", "Antikonvulsan"]
+  },
+  {
+    question: "Berapa gram Kalium Permanganat (KMnO4) yang terkandung dalam 250 mL larutan 1:5000?",
+    answer: "0,05 gram",
+    options: ["0,01 gram", "0,02 gram", "0,05 gram", "0,1 gram", "0,5 gram"]
+  },
+  {
+    question: "Mekanisme kerja obat sitostatika golongan Vinka Alkaloid (Vinkristin/Vinblastin) adalah...",
+    answer: "Mengikat tubulin dan mencegah polimerisasi mikrotubulus",
+    options: ["Alkilasi DNA", "Mengikat tubulin dan mencegah polimerisasi mikrotubulus", "Menghambat Topoisomerase II", "Stabilisasi mikrotubulus (mencegah depolimerisasi)", "Interkalasi DNA"]
+  },
+  {
+    question: "Apoteker menghitung break even point (BEP). Jika biaya tetap 50 jt, harga jual per unit 10 rb, dan biaya variabel per unit 5 rb, berapa unit yang harus terjual agar BEP?",
+    answer: "10.000 unit",
+    options: ["5.000 unit", "7.500 unit", "10.000 unit", "15.000 unit", "20.000 unit"]
+  },
+  {
+    question: "Berapa nilai pH dapar yang terdiri dari 0,1 M Asam Asetat dan 0,01 M Natrium Asetat? (pKa = 4,76)",
+    answer: "3,76",
+    options: ["3,76", "4,76", "5,76", "2,76", "6,76"]
+  },
+  {
+    question: "Parameter yang digunakan untuk menetapkan kadar air dalam simplisia yang mengandung minyak atsiri (tidak bisa menggunakan pengeringan suhu tinggi) adalah...",
+    answer: "Destilasi Azeotrop (Metode Dean-Stark)",
+    options: ["Gravimetri", "Titrimetri Karl Fischer", "Destilasi Azeotrop (Metode Dean-Stark)", "LOD (Loss on Drying)", "Termogravimetri"]
+  },
+  {
+    question: "Pasien dengan transplantasi ginjal diberikan Siklosporin untuk mencegah rejeksi. Apa mekanisme kerja utama Siklosporin?",
+    answer: "Menghambat kalsineurin sehingga menghambat aktivasi sel T",
+    options: ["Antimetabolit purin", "Menghambat kalsineurin sehingga menghambat aktivasi sel T", "Antagonis reseptor IL-2", "Kortikosteroid receptor agonist", "Antibodi monoklonal"]
+  },
+  {
+    question: "Berapa jumlah tablet zat X yang dibutuhkan untuk membuat 60 mL suspensi dengan kadar 125 mg/5 mL, jika tersedia tablet 500 mg?",
+    answer: "3 tablet",
+    options: ["1,5 tablet", "2 tablet", "3 tablet", "5 tablet", "6 tablet"]
+  },
+  {
+    question: "Dalam validasi pembersihan (Cleaning Validation), metode pengambilan sampel yang paling akurat untuk area yang sulit dijangkau adalah...",
+    answer: "Rinse sampling (Metode bilas)",
+    options: ["Swab sampling (Metode usap)", "Rinse sampling (Metode bilas)", "Visual inspection", "Air sampling", "Placebo sampling"]
+  },
+  {
+    question: "Antidotum pilihan untuk mengatasi toksisitas akibat Benzodiazepine (misal Diazepam) adalah...",
+    answer: "Flumazenil",
+    options: ["Nalokson", "Flumazenil", "Atropin", "Asetilsistein", "Etanol"]
+  },
+  {
+    question: "Berapakah nilai kapasitas jenis dapar (buffer capacity) jika diketahui dapar tersebut mampu menahan perubahan pH sebesar 0,2 unit saat ditambahkan 0,02 mol asam kuat?",
+    answer: "0,1",
+    options: ["0,01", "0,1", "1,0", "0,05", "0,5"]
+  },
+  {
+    question: "Identifikasi tanin dalam sampel dilakukan dengan penambahan larutan Gelatin 1%. Hasil positif ditunjukkan dengan adanya...",
+    answer: "Endapan putih",
+    options: ["Warna biru tua", "Warna merah bata", "Endapan putih", "Warna hijau mantap", "Buih konstan"]
+  },
+  {
+    question: "Pasien tuberkulosis mengalami gangguan pendengaran (ototoksisitas) setelah rutin disuntik obat TB. Manakah obat yang dimaksud?",
+    answer: "Streptomisin",
+    options: ["Isoniazid", "Rifampisin", "Etambutol", "Pirazinamid", "Streptomisin"]
+  },
+  {
+    question: "Berapa banyak NaCl yang terkandung dalam 1 liter larutan NaCl 3% b/v?",
+    answer: "30 gram",
+    options: ["3 gram", "30 gram", "300 gram", "0,3 gram", "10 gram"]
+  },
+  {
+    question: "Mekanisme kerja antiplatelet golongan antagonis reseptor P2Y12 (misal Klopidogrel) adalah...",
+    answer: "Menghambat ikatan ADP pada reseptor trombosit",
+    options: ["Menghambat COX-1", "Menghambat enzim PDE", "Menghambat ikatan ADP pada reseptor trombosit", "Menghambat GP IIb/IIIa", "Melarutkan bekuan darah"]
+  },
+  {
+    question: "Dalam pengujian KCKT (HPLC), jika dua puncak kromatogram memiliki waktu retensi yang sangat dekat sehingga saling tumpang tindih, maka nilai resolusinya (Rs) adalah...",
+    answer: "< 1,5",
+    options: ["> 2,0", "> 1,5", "1,5", "< 1,5", "0"]
+  },
+  {
+    question: "Berapa nilai pOH larutan jika konsentrasi ion H+ adalah 10^-4 M?",
+    answer: "10",
+    options: ["4", "10", "7", "14", "1"]
+  },
+  {
+    question: "Sediaan kapsul lunak (softgel) umumnya menggunakan bahan dasar cangkang berupa...",
+    answer: "Gelatin, Plasticizer, dan Air",
+    options: ["Gelatin dan Air saja", "Gelatin, Plasticizer, dan Air", "HPMC", "Pati modifikasi", "Laktosa"]
+  },
+  {
+    question: "Pasien penderita Parkinson mengalami 'Wearing-off'. Dokter memutuskan menambahkan Selegilin. Apa mekanisme Selegilin?",
+    answer: "Menghambat enzim MAO-B",
+    options: ["Menghambat enzim COMT", "Menghambat enzim MAO-B", "Agonis dopamin", "Prekursor dopamin", "Antikolinergik"]
+  },
+  {
+    question: "Berapa gram perak nitrat (AgNO3) yang dibutuhkan untuk membuat 50 mL larutan 2% b/v?",
+    answer: "1 gram",
+    options: ["0,1 gram", "0,5 gram", "1 gram", "2 gram", "5 gram"]
+  },
+  {
+    question: "Dalam kromatografi lapis tipis (KLT), jika fase diam bersifat polar dan fase gerak bersifat non-polar, maka senyawa yang paling polar akan memiliki nilai Rf...",
+    answer: "Paling rendah",
+    options: ["Paling tinggi", "Paling rendah", "Bernilai 1", "Bernilai 0", "Sama dengan pelarut"]
+  },
+  {
+    question: "Pasien dengan asma persisten sedang menggunakan inhaler kombinasi Flutikason dan Salmeterol. Apa peran Flutikason dalam terapi tersebut?",
+    answer: "Mengontrol inflamasi saluran napas (Kontroler)",
+    options: ["Bronkodilator cepat", "Mengontrol inflamasi saluran napas (Kontroler)", "Mencegah infeksi bakteri", "Mengencerkan dahak", "Meredakan serangan akut"]
+  },
+  {
+    question: "Berapa mEq magnesium dalam 10 mL larutan MgSO4 50%? (BM MgSO4 = 120, Valensi = 2)",
+    answer: "83,3 mEq",
+    options: ["41,6 mEq", "83,3 mEq", "120 mEq", "12,5 mEq", "50 mEq"]
+  },
+  {
+    question: "Obat tradisional yang mengandung ekstrak kental daun jambu biji dan telah diuji secara standar di laboratorium serta uji toksisitas pada hewan (tanpa uji klinik) masuk kategori...",
+    answer: "Obat Herbal Terstandar (OHT)",
+    options: ["Jamu", "Obat Herbal Terstandar (OHT)", "Fitofarmaka", "Simplisia", "Obat Bebas Terbatas"]
+  },
+  {
+    question: "Berapa nilai HLB butuh fase minyak yang terdiri dari 50% malam putih (HLB 12) dan 50% minyak wijen (HLB 6)?",
+    answer: "9",
+    options: ["6", "9", "10", "12", "18"]
+  },
+  {
+    question: "Dalam manajemen mutu, 'Deviasi' adalah penyimpangan dari instruksi yang sudah disetujui. Deviasi yang direncanakan dan disetujui sebelumnya disebut...",
+    answer: "Change Control (Prosedur Perubahan)",
+    options: ["Deviasi Kritis", "Deviasi Minor", "Change Control (Prosedur Perubahan)", "CAPA", "OOS"]
+  },
+  {
+    question: "Pasien laki-laki didiagnosis pembesaran prostat jinak (BPH) dan diberikan Dutasterid. Apa mekanisme kerjanya?",
+    answer: "Menghambat enzim 5-alfa reduktase",
+    options: ["Menghambat reseptor alfa-1", "Menghambat enzim 5-alfa reduktase", "Menghambat reseptor beta-2", "Agonis dopamin", "Menghambat enzim aromataase"]
+  },
+  {
+    question: "Berapa mL larutan stok 1% b/v yang harus dipipet untuk membuat 100 mL larutan dengan konsentrasi 50 mcg/mL?",
+    answer: "0,5 mL",
+    options: ["0,05 mL", "0,1 mL", "0,5 mL", "1 mL", "5 mL"]
+  },
+  {
+    question: "Hasil identifikasi mikroskopis amylum manihot (singkong) ditunjukkan dengan ciri...",
+    answer: "Bentuk butir tunggal, agak bulat atau seperti topi baja, hilus di tengah",
+    options: ["Hilus berbentuk silang", "Hilus berbentuk bintang", "Bentuk butir tunggal, agak bulat atau seperti topi baja, hilus di tengah", "Lamela tidak terlihat", "Majemuk"]
+  },
+  {
+    question: "Pasien dengan gagal ginjal stadium akhir mengalami hiperfosfatemia. Obat manakah yang bekerja mengikat fosfat di saluran cerna?",
+    answer: "Kalsium Karbonat atau Sevelamer",
+    options: ["Kalsium Glukonat", "Kalsium Karbonat atau Sevelamer", "Furosemid", "Aluminium Hidroksida", "Spironolakton"]
+  },
+  {
+    question: "Berapakah jumlah spuit 5 mL yang dapat diisi dari 2 botol infus 500 mL?",
+    answer: "200 spuit",
+    options: ["100 spuit", "150 spuit", "200 spuit", "250 spuit", "500 spuit"]
+  },
+  {
+    question: "Analisis kimia yang menggunakan perbedaan kecepatan migrasi partikel bermuatan dalam medan listrik disebut...",
+    answer: "Elektroforesis",
+    options: ["Kromatografi", "Elektroforesis", "Polarimetri", "Refraktometri", "Spektroskopi"]
+  },
+  {
+    question: "Sesuai regulasi, Surat Pesanan (SP) untuk obat yang mengandung prekursor farmasi (seperti Pseudoefedrin) dapat memuat berapa jenis obat?",
+    answer: "Lebih dari satu jenis obat",
+    options: ["Hanya satu jenis obat", "Hanya dua jenis obat", "Maksimal tiga jenis obat", "Lebih dari satu jenis obat", "Tergantung stok PBF"]
+  },
+  {
+    question: "Pasien HIV yang sedang menjalani terapi Efavirenz melaporkan mengalami mimpi buruk yang sangat nyata dan depresi berat. Apa tindakan yang paling tepat terkait penggunaan obat ini?",
+    answer: "Mengganti Efavirenz karena memiliki efek samping neuropsikiatri",
+    options: [
+      "Menambah dosis Efavirenz agar cepat mencapai steady state",
+      "Memberikan Benzodiazepine untuk membantu tidur",
+      "Mengganti Efavirenz karena memiliki efek samping neuropsikiatri",
+      "Menghentikan semua obat ARV selama 1 minggu",
+      "Memberikan suplemen vitamin B kompleks"
+    ]
+  },
+  {
+    question: "Dalam studi farmakoekonomi, jika obat A memberikan tambahan 2 tahun hidup berkualitas (QALY) dengan tambahan biaya 40 juta dibanding obat B, berapakah nilai ICER-nya?",
+    answer: "20 juta/QALY",
+    options: ["10 juta/QALY", "20 juta/QALY", "40 juta/QALY", "80 juta/QALY", "5 juta/QALY"]
+  },
+  {
+    question: "Industri farmasi ingin menentukan energi aktivasi (Ea) penguraian obat. Dilakukan uji pada berbagai suhu dan dibuat plot antara ln k terhadap 1/T. Kemiringan (slope) dari garis linear tersebut adalah...",
+    answer: "-Ea / R",
+    options: ["Ea / R", "-Ea / R", "log k", "1 / T", "-k / 2.303"]
+  },
+  {
+    question: "Pasien overdosis asam salisilat (asam lemah). Selain pembilasan lambung, diberikan Natrium Bikarbonat untuk alkalinisasi urin. Apa tujuan utama tindakan ini?",
+    answer: "Meningkatkan fraksi terionisasi sehingga mencegah reabsorpsi di tubulus",
+    options: [
+      "Meningkatkan kelarutan dalam lemak",
+      "Mempercepat metabolisme fase II",
+      "Meningkatkan fraksi terionisasi sehingga mencegah reabsorpsi di tubulus",
+      "Menurunkan filtrasi glomerulus",
+      "Mengikat salisilat di dalam darah"
+    ]
+  },
+  {
+    question: "Seorang apoteker membuat sediaan emulsi dengan HLB campuran 12. Tersedia Tween 80 (HLB 15) dan Span 80 (HLB 4). Berapa persentase Tween 80 yang dibutuhkan?",
+    answer: "72,7%",
+    options: ["27,3%", "50,0%", "72,7%", "85,5%", "15,0%"]
+  },
+  {
+    question: "Berapa gram kalium klorida (KCl) yang dibutuhkan untuk membuat 500 mL larutan isotonis (E KCl = 0,76)?",
+    answer: "5,92 gram",
+    options: ["0,90 gram", "4,50 gram", "5,92 gram", "1,18 gram", "3,42 gram"]
+  },
+  {
+    question: "Pasien geriatri diberikan Diazepam untuk insomnia. Keesokan harinya pasien jatuh dan mengalami patah tulang karena pusing hebat. Mengapa hal ini terjadi pada lansia?",
+    answer: "Penurunan fungsi hati memperpanjang waktu paruh metabolit aktif",
+    options: [
+      "Peningkatan filtrasi ginjal",
+      "Penurunan sensitivitas reseptor GABA",
+      "Penurunan fungsi hati memperpanjang waktu paruh metabolit aktif",
+      "Diazepam bersifat sangat hidrofilik",
+      "Peningkatan massa otot pada lansia"
+    ]
+  },
+  {
+    question: "Dalam CPOB, area kelas B digunakan sebagai latar belakang untuk kegiatan di kelas A. Berapa jumlah maksimal partikel ukuran ≥ 0,5 μm per m3 dalam kondisi operasional untuk kelas B?",
+    answer: "352.000",
+    options: ["3.520", "35.200", "352.000", "3.520.000", "Tidak dibatasi"]
+  },
+  {
+    question: "Berapa mL insulin yang diberikan jika pasien membutuhkan 35 unit, sedangkan konsentrasi sediaan adalah 100 unit/mL?",
+    answer: "0,35 mL",
+    options: ["0,15 mL", "0,25 mL", "0,35 mL", "0,50 mL", "1,00 mL"]
+  },
+  {
+    question: "Obat manakah yang bekerja menghambat enzim Squalene Epoxidase dalam sintesis ergosterol membran sel jamur?",
+    answer: "Terbinafin",
+    options: ["Ketokonazol", "Amfoterisin B", "Nistatin", "Terbinafin", "Flukonazol"]
+  },
+  {
+    question: "Pasien dengan Chronic Kidney Disease (CKD) mengalami hiperkalemia berat. Selain Kalsium Glukonat, diberikan kombinasi Insulin dan Dekstrosa. Apa fungsi pemberian insulin di sini?",
+    answer: "Mendorong kalium masuk ke dalam sel (shift intracellular)",
+    options: [
+      "Meningkatkan ekskresi kalium melalui urin",
+      "Menetralkan asam dalam darah",
+      "Mendorong kalium masuk ke dalam sel (shift intracellular)",
+      "Mengikat kalium di saluran cerna",
+      "Meningkatkan filtrasi glomerulus"
+    ]
+  },
+  {
+    question: "Berapa nilai pKa jika diketahui derajat ionisasi suatu asam lemah pada pH 4,0 adalah 50%?",
+    answer: "4",
+    options: ["3", "4", "5", "6", "2"]
+  },
+  {
+    question: "Industri farmasi melakukan uji disolusi tahap S2 karena S1 tidak memenuhi syarat. Berapa jumlah total unit sediaan yang diuji hingga tahap S2 selesai?",
+    answer: "12 unit",
+    options: ["6 unit", "12 unit", "18 unit", "24 unit", "30 unit"]
+  },
+  {
+    question: "Apoteker di bagian R&D mengembangkan tablet kaptopril. Berdasarkan BCS (Biopharmaceutical Classification System), kaptopril masuk kelas I, yang berarti...",
+    answer: "Kelarutan tinggi, Permeabilitas tinggi",
+    options: [
+      "Kelarutan rendah, Permeabilitas tinggi",
+      "Kelarutan tinggi, Permeabilitas tinggi",
+      "Kelarutan rendah, Permeabilitas rendah",
+      "Kelarutan tinggi, Permeabilitas rendah",
+      "Sangat tidak stabil di lambung"
+    ]
+  },
+  {
+    question: "Seorang pasien wanita menggunakan kontrasepsi oral dan diresepkan Rifampisin untuk pengobatan TB-nya. Apa yang akan terjadi?",
+    answer: "Kegagalan kontrasepsi akibat induksi enzim CYP3A4 oleh Rifampisin",
+    options: [
+      "Efek Rifampisin menurun",
+      "Kadar kontrasepsi meningkat",
+      "Kegagalan kontrasepsi akibat induksi enzim CYP3A4 oleh Rifampisin",
+      "Terjadi kerusakan hati akut",
+      "Absorpsi kontrasepsi terhambat"
+    ]
+  },
+  {
+    question: "Berapa gram laktosa yang harus ditambahkan pada 200 mg zat X agar didapat pengenceran 1:10?",
+    answer: "1800 mg",
+    options: ["200 mg", "1000 mg", "1800 mg", "2000 mg", "800 mg"]
+  },
+  {
+    question: "Antidotum pilihan untuk mengatasi sindrom ekstrapiramidal (seperti dystonia akut) akibat penggunaan antipsikotik adalah...",
+    answer: "Difenhidramin atau Injeksi Triheksifenidil",
+    options: ["Diazepam", "Flumazenil", "Difenhidramin atau Injeksi Triheksifenidil", "Nalokson", "Atropin"]
+  },
+  {
+    question: "Dalam analisis spektrum IR, serapan kuat pada bilangan gelombang 1700-1750 cm-1 menunjukkan adanya gugus fungsi...",
+    answer: "Karbonil (C=O)",
+    options: ["Hidroksil (-OH)", "Karbonil (C=O)", "Alkana (C-H)", "Amina (-NH2)", "Eter (C-O-C)"]
+  },
+  {
+    question: "Pasien dengan atrial fibrilasi menggunakan Warfarin. Hasil laboratorium menunjukkan INR = 8,0 tanpa tanda perdarahan aktif. Apa tindakan pertama yang direkomendasikan?",
+    answer: "Hentikan Warfarin sementara dan berikan Vitamin K1 oral",
+    options: [
+      "Berikan infus Heparin segera",
+      "Berikan Vitamin K1 melalui injeksi IM",
+      "Hentikan Warfarin sementara dan berikan Vitamin K1 oral",
+      "Lakukan transfusi darah",
+      "Turunkan dosis Warfarin menjadi setengahnya"
+    ]
+  },
+  {
+    question: "Berapa mEq natrium dalam 100 mL infus NaCl 0,9%? (Ar Na=23, Cl=35,5)",
+    answer: "15,4 mEq",
+    options: ["1,54 mEq", "15,4 mEq", "154 mEq", "9 mEq", "1540 mEq"]
+  },
+  {
+    question: "Apoteker menghitung stok pengaman (safety stock). Jika penggunaan rata-rata 10 unit/hari, waktu tunggu 5 hari, dan faktor keamanan 1.65 dengan standar deviasi 2 unit/hari. Berapakah safety stock-nya?",
+    answer: "7,38 unit",
+    options: ["5 unit", "7,38 unit", "10 unit", "16,5 unit", "20 unit"]
+  },
+  {
+    question: "Mekanisme kerja antibiotik golongan Glikopeptida (misal Vankomisin) adalah...",
+    answer: "Menghambat sintesis dinding sel melalui pengikatan pada D-Ala-D-Ala",
+    options: [
+      "Menghambat subunit 30S",
+      "Menghambat sintesis dinding sel melalui pengikatan pada D-Ala-D-Ala",
+      "Mengganggu permeabilitas membran sel",
+      "Menghambat topoisomerase IV",
+      "Menghambat RNA polimerase"
+    ]
+  },
+  {
+    question: "Berapa nilai pH larutan NH4Cl 0,1 M jika diketahui Kb NH3 = 10^-5?",
+    answer: "5",
+    options: ["9", "5", "7", "4", "10"]
+  },
+  {
+    question: "Pasien mengonsumsi Digoksin dan Furosemid secara bersamaan. Mengapa kombinasi ini berbahaya jika tidak dipantau?",
+    answer: "Furosemid menyebabkan hipokalemia yang meningkatkan sensitivitas jantung terhadap Digoksin",
+    options: [
+      "Furosemid menghambat ekskresi Digoksin",
+      "Digoksin meningkatkan efek diuretik",
+      "Furosemid menyebabkan hipokalemia yang meningkatkan sensitivitas jantung terhadap Digoksin",
+      "Keduanya berkompetisi pada reseptor yang sama",
+      "Terjadi pembentukan kompleks di lumen usus"
+    ]
+  },
+  {
+    question: "Seorang apoteker melakukan validasi metode. Didapatkan hasil perolehan kembali (recovery) sebesar 99,5%. Parameter validasi apa yang sedang diuji?",
+    answer: "Akurasi (Ketepatan)",
+    options: ["Presisi", "Akurasi (Ketepatan)", "Linieritas", "Selektivitas", "LOD"]
+  },
+  {
+    question: "Berapa banyak tablet yang harus disiapkan jika resep: 'R/ Aminofilin 150 mg, mf la pulv dtd no XX'. Tersedia tablet 200 mg.",
+    answer: "15 tablet",
+    options: ["10 tablet", "15 tablet", "20 tablet", "25 tablet", "30 tablet"]
+  },
+  {
+    question: "Industri farmasi memproduksi aerosol. Komponen yang berfungsi sebagai pendorong sediaan keluar dari wadah disebut...",
+    answer: "Propelan",
+    options: ["Aktuator", "Propelan", "Stem", "Dipping tube", "Vaporizer"]
+  },
+  {
+    question: "Pasien laki-laki didiagnosa BPH. Dokter memberikan Finasterid. Apa efek samping jangka panjang yang harus diedukasikan kepada pasien?",
+    answer: "Disfungsi ereksi dan penurunan libido",
+    options: ["Hipotensi ortostatik", "Disfungsi ereksi dan penurunan libido", "Gagal ginjal", "Retensi urin akut", "Ginekomastia"]
+  },
+  {
+    question: "Berapakah nilai kapasitas dapar jika penambahan 0,05 mol basa ke 1 liter larutan dapar mengubah pH dari 7,4 menjadi 7,6?",
+    answer: "0,25",
+    options: ["0,05", "0,10", "0,25", "0,50", "0,025"]
+  },
+  {
+    question: "Identifikasi simplisia daun kumis kucing (Orthosiphon stamineus) secara kimia untuk mendeteksi senyawa penanda (marker) menggunakan...",
+    answer: "Sinensetin",
+    options: ["Andrografolid", "Sinensetin", "Kurkumin", "Mangostin", "Asiatikosida"]
+  },
+  {
+    question: "Pasien dengan TBC paru mengeluh penglihatan kabur dan tidak bisa membedakan warna merah-hijau. Obat manakah yang menyebabkan hal ini?",
+    answer: "Etambutol",
+    options: ["Rifampisin", "Isoniazid", "Etambutol", "Pirazinamid", "Streptomisin"]
+  },
+  {
+    question: "Berapa mL etanol 96% yang dibutuhkan untuk membuat 1 liter etanol 70%?",
+    answer: "729 mL",
+    options: ["700 mL", "729 mL", "960 mL", "500 mL", "800 mL"]
+  },
+  {
+    question: "Sesuai regulasi, pelaporan narkotika dan psikotropika melalui aplikasi SIPNAP dilakukan paling lambat tanggal...",
+    answer: "10 setiap bulannya",
+    options: ["5 setiap bulannya", "10 setiap bulannya", "15 setiap bulannya", "20 setiap bulannya", "Akhir bulan"]
+  },
+  {
+    question: "Mekanisme kerja Antasida yang mengandung Aluminium Hidroksida dan Magnesium Hidroksida adalah...",
+    answer: "Reaksi netralisasi kimiawi terhadap HCl lambung",
+    options: ["Penghambatan pompa proton", "Antagonis reseptor H2", "Reaksi netralisasi kimiawi terhadap HCl lambung", "Membentuk lapisan pelindung fisis", "Meningkatkan sekresi mukus"]
+  },
+  {
+    question: "Berapa HLB butuh fase minyak campuran dari 30% Setil Alkohol (HLB 15) dan 70% Adeps Lanae (HLB 10)?",
+    answer: "11,5",
+    options: ["11,5", "12,5", "13,5", "14,5", "10,5"]
+  },
+  {
+    question: "Obat manakah yang termasuk golongan 'Potassium Sparing Diuretics' yang bekerja sebagai antagonis aldosteron?",
+    answer: "Spironolakton",
+    options: ["Furosemid", "Hidroklorotiazid", "Asetazolamid", "Spironolakton", "Manitol"]
+  },
+  {
+    question: "Analisis farmakoekonomi yang membandingkan biaya pengobatan dengan nilai moneter (Rupiah) dari hasil kesehatan disebut...",
+    answer: "Cost Benefit Analysis (CBA)",
+    options: ["CMA", "CEA", "CUA", "CBA", "CCA"]
+  },
+  {
+    question: "Berapa gram Na-diklofenak dalam 20 gram emulgel dengan kadar 1%?",
+    answer: "0,2 gram",
+    options: ["0,02 gram", "0,2 gram", "2 gram", "1 gram", "0,1 gram"]
+  },
+  {
+    question: "Dalam spektrofotometri UV-Vis, hukum Lambert-Beer tidak berlaku (terjadi deviasi) jika...",
+    answer: "Konsentrasi larutan terlalu pekat",
+    options: ["Larutan sangat encer", "Menggunakan monokromator", "Konsentrasi larutan terlalu pekat", "Suhu ruangan stabil", "Kuvet terbuat dari kuarsa"]
+  },
+  {
+    question: "Pasien dengan syok kardiogenik memerlukan inotropik kuat. Obat yang bekerja dominan pada reseptor Beta-1 tanpa banyak mempengaruhi resistensi vaskular adalah...",
+    answer: "Dobutamin",
+    options: ["Dopamin", "Epinefrin", "Dobutamin", "Norepinefrin", "Isoproterenol"]
+  },
+  {
+    question: "Berapa hari BUD (Beyond Use Date) untuk sediaan krim racikan yang mengandung air jika tidak ada data stabilitas?",
+    answer: "30 hari",
+    options: ["14 hari", "30 hari", "90 hari", "180 hari", "7 hari"]
+  },
+  {
+    question: "Uji sterilitas menurut Farmakope menggunakan media Fluid Thioglycollate Medium (FTM) terutama ditujukan untuk mendeteksi bakteri...",
+    answer: "Anaerob",
+    options: ["Aerob saja", "Anaerob", "Fakultatif saja", "Jamur dan Kapang", "Virus"]
+  },
+  {
+    question: "Mekanisme kerja obat antidiabetes golongan Meglitinid (seperti Repaglinid) adalah...",
+    answer: "Menutup kanal K+ pada sel beta pankreas (mirip sulfonilurea)",
+    options: [
+      "Meningkatkan sensitivitas insulin",
+      "Menghambat glukoneogenesis",
+      "Menutup kanal K+ pada sel beta pankreas (mirip sulfonilurea)",
+      "Menghambat alfa-glukosidase",
+      "Meningkatkan ekskresi gula di ginjal"
+    ]
+  },
+  {
+    question: "Berapa gram laktosa yang dibutuhkan untuk membuat 500 mg massa kapsul jika tiap kapsul mengandung 100 mg zat aktif dan berat total kapsul diinginkan 250 mg?",
+    answer: "150 mg/kapsul",
+    options: ["50 mg/kapsul", "100 mg/kapsul", "150 mg/kapsul", "200 mg/kapsul", "250 mg/kapsul"]
+  },
+  {
+    question: "Dalam ekstraksi, penggunaan cairan penyari alkohol 70% lebih disukai daripada alkohol 95% karena...",
+    answer: "Lebih optimal dalam melarutkan senyawa polar dan non-polar sekaligus",
+    options: [
+      "Lebih murah harganya",
+      "Tidak mudah terbakar",
+      "Lebih optimal dalam melarutkan senyawa polar dan non-polar sekaligus",
+      "Mencegah pertumbuhan mikroba lebih baik",
+      "Tidak merusak dinding sel tanaman"
+    ]
+  },
+  {
+    question: "Pasien didiagnosis malaria falciparum. Terapi lini pertama (ACT) yang digunakan di Indonesia saat ini adalah...",
+    answer: "Dihidroartemisinin + Piperakuin (DHP)",
+    options: [
+      "Klorokuin + Primakuin",
+      "Kina + Tetrasiklin",
+      "Dihidroartemisinin + Piperakuin (DHP)",
+      "Sulfadoksin + Pirimetamin",
+      "Artesunat + Amodiakuin"
+    ]
+  },
+  {
+    question: "Berapa banyak cairan yang harus ditambahkan ke 100 mL sirup 60% agar menjadi 20%?",
+    answer: "200 mL",
+    options: ["100 mL", "200 mL", "300 mL", "400 mL", "50 mL"]
+  },
+  {
+    question: "Parameter yang menunjukkan efisiensi kolom dalam kromatografi berdasarkan tinggi setara lempeng teoritis disebut...",
+    answer: "HETP",
+    options: ["N (Lempeng Teoritis)", "HETP", "Rs (Resolusi)", "Alpha (Selektivitas)", "Tf (Tailing Factor)"]
+  },
+  {
+    question: "Pasien asma diberikan aminofilin IV. Karena indeks terapi yang sempit, dilakukan pemantauan kadar obat dalam darah (TDM). Rentang terapi Aminofilin adalah...",
+    answer: "10 - 20 mcg/mL",
+    options: ["1 - 5 mcg/mL", "5 - 10 mcg/mL", "10 - 20 mcg/mL", "20 - 40 mcg/mL", "50 - 100 mcg/mL"]
+  },
+  {
+    question: "Sesuai CPOB, personel yang bekerja di area kelas A/B tidak boleh menggunakan...",
+    answer: "Kosmetik dan perhiasan",
+    options: ["Sarung tangan steril", "Masker", "Kosmetik dan perhiasan", "Pakaian pelindung khusus", "Penutup kepala"]
+  },
+  {
+    question: "Vaksin HPV harus disimpan pada suhu 2-8°C. Jika terjadi pembekuan secara tidak sengaja, struktur protein vaksin dapat rusak. Uji apa yang dilakukan untuk melihat apakah vaksin (terutama yang mengandung adsorben Alum) masih layak pakai setelah terpapar suhu beku?",
+    answer: "Shake Test (Uji Kocok)",
+    options: ["Visual Test", "Shake Test (Uji Kocok)", "Potency Test", "Sterility Test", "pH Test"]
+  },
+  {
+    question: "Pasien mengonsumsi Digoksin (substrat P-glikoprotein) dan diberikan Quinidin. Terjadi peningkatan kadar Digoksin yang signifikan dalam darah. Apa peran Quinidin dalam interaksi ini?",
+    answer: "Penghambat (Inhibitor) P-glikoprotein",
+    options: ["Induktor P-glikoprotein", "Penghambat (Inhibitor) P-glikoprotein", "Antagonis reseptor", "Meningkatkan filtrasi ginjal", "Mengurangi ikatan protein plasma"]
+  },
+  {
+    question: "Industri farmasi melakukan uji bioekivalensi (BE). Jika nilai AUC obat uji dibanding obat komparator adalah 0,95, maka nilai tersebut menunjukkan...",
+    answer: "Bioavailabilitas Relatif",
+    options: ["Bioavailabilitas Absolut", "Bioavailabilitas Relatif", "Klirens Total", "Volume Distribusi", "Laju Absorpsi"]
+  },
+  {
+    question: "Seorang peneliti ingin membandingkan rata-rata penurunan kadar gula darah dari dua kelompok pasien yang diberikan dua jenis obat berbeda. Uji statistik parametrik yang paling tepat digunakan adalah...",
+    answer: "Independent T-Test",
+    options: ["Paired T-Test", "Independent T-Test", "One-Way ANOVA", "Chi-Square", "Kruskal-Wallis"]
+  },
+  {
+    question: "Berapa gram Asam Borat (E=0,52) yang harus ditambahkan ke dalam 50 mL larutan Atropin Sulfat 1% (E=0,13) agar larutan menjadi isotonis?",
+    answer: "0,74 gram",
+    options: ["0,13 gram", "0,38 gram", "0,74 gram", "0,90 gram", "1,25 gram"]
+  },
+  {
+    question: "Pasien geriatri sering mengalami penurunan fungsi ginjal. Jika hasil Serum Kreatinin tetap stabil, mengapa perhitungan GFR seringkali menunjukkan penurunan fungsi pada lansia?",
+    answer: "Penurunan massa otot (sumber kreatinin) seiring usia",
+    options: ["Peningkatan asupan protein", "Penurunan massa otot (sumber kreatinin) seiring usia", "Peningkatan filtrasi glomerulus", "Gangguan absorpsi kreatinin", "Meningkatnya hidrasi tubuh"]
+  },
+  {
+    question: "Antidotum untuk keracunan timbal (Plumbum/Pb) yang diberikan secara injeksi adalah...",
+    answer: "CaNa2EDTA",
+    options: ["Asetilsistein", "Atropin", "CaNa2EDTA", "Deferoksamin", "Metilen Biru"]
+  },
+  {
+    question: "Berapa banyak tablet yang harus disiapkan untuk resep: 'R/ Parasetamol 250 mg, Codein 10 mg, mf caps dtd no XX'. Tersedia PCT 500 mg dan Codein 20 mg.",
+    answer: "10 tab PCT dan 10 tab Codein",
+    options: ["20 tab PCT dan 20 tab Codein", "10 tab PCT dan 10 tab Codein", "5 tab PCT dan 5 tab Codein", "15 tab PCT dan 15 tab Codein", "20 tab PCT dan 10 tab Codein"]
+  },
+  {
+    question: "Industri farmasi membuat emulsi dengan fase minyak 30% dan air 70%. Jika digunakan emulgator Span 80 (HLB 4,3) dan Tween 80 (HLB 15) untuk mencapai HLB butuh 12, berapakah perbandingan Span : Tween?",
+    answer: "28 : 72",
+    options: ["28 : 72", "72 : 28", "50 : 50", "40 : 60", "10 : 90"]
+  },
+  {
+    question: "Dalam CPOB 2024, sistem udara untuk area produksi sediaan non-steril harus dipantau. Parameter utama yang diatur oleh AHU (Air Handling Unit) adalah...",
+    answer: "Suhu, Kelembaban, dan Efisiensi Filtrasi Partikel",
+    options: ["Hanya suhu", "Suhu dan pencahayaan", "Suhu, Kelembaban, dan Efisiensi Filtrasi Partikel", "Jumlah mikroba permukaan saja", "Kadar oksigen"]
+  },
+  {
+    question: "Mekanisme kerja antibiotik golongan Tetrasiklin adalah...",
+    answer: "Menghambat sintesis protein dengan berikatan pada subunit 30S secara reversibel",
+    options: ["Menghambat subunit 50S", "Menghambat sintesis dinding sel", "Menghambat sintesis protein dengan berikatan pada subunit 30S secara reversibel", "Menghambat DNA Girase", "Merusak membran sel"]
+  },
+  {
+    question: "Berapa nilai pKa jika suatu basa lemah pada pH 9,0 terionisasi sebanyak 10%?",
+    answer: "8,04",
+    options: ["8,04", "9,96", "7,50", "10,0", "9,0"]
+  },
+  {
+    question: "Apoteker di industri farmasi menghitung t90 (masa kadaluarsa) untuk obat orde satu. Jika k = 0,01 per bulan, berapakah t90-nya?",
+    answer: "10,5 bulan",
+    options: ["6,9 bulan", "10,5 bulan", "12,0 bulan", "9,0 bulan", "15,0 bulan"]
+  },
+  {
+    question: "Pasien dengan fibrilasi atrium diberikan Dabigatran. Apa keunggulan utama Dabigatran dibanding Warfarin dalam hal pemantauan?",
+    answer: "Tidak memerlukan pemantauan rutin INR",
+    options: ["Onset kerja lebih lambat", "Bisa diberikan bersama vitamin K", "Tidak memerlukan pemantauan rutin INR", "Harga lebih murah", "Risiko perdarahan nol"]
+  },
+  {
+    question: "Berapa mEq Na+ yang terkandung dalam 1 liter larutan NaCl 0,45%? (BM NaCl = 58,5)",
+    answer: "77 mEq",
+    options: ["38,5 mEq", "77 mEq", "154 mEq", "308 mEq", "10 mEq"]
+  },
+  {
+    question: "Dalam analisis instrumentasi, detektor HPLC yang paling spesifik untuk mendeteksi senyawa yang memiliki struktur aromatik atau ikatan rangkap terkonjugasi adalah...",
+    answer: "Detektor UV-Vis atau PDA",
+    options: ["Detektor Indeks Bias (RID)", "Detektor UV-Vis atau PDA", "Detektor Konduktivitas", "Detektor Fluoresensi", "Detektor MS"]
+  },
+  {
+    question: "Identifikasi kualitatif saponin dengan 'Uji Kocok' dilakukan dengan memasukkan sampel ke dalam tabung reaksi berisi air, dikocok kuat. Hasil positif adalah terbentuknya buih setinggi minimal 1 cm yang stabil selama...",
+    answer: "10 menit",
+    options: ["1 menit", "5 menit", "10 menit", "30 menit", "1 jam"]
+  },
+  {
+    question: "Berapa mL sediaan suspensi Ibuprofen (200 mg/5 mL) yang harus diberikan kepada anak dengan dosis 100 mg?",
+    answer: "2,5 mL",
+    options: ["1,25 mL", "2,5 mL", "5 mL", "7,5 mL", "10 mL"]
+  },
+  {
+    question: "Antidotum untuk keracunan Sianida yang bekerja dengan cara membentuk methemoglobin untuk mengikat sianida adalah...",
+    answer: "Amil Nitrit",
+    options: ["Natrium Tiosulfat", "Amil Nitrit", "Kobalt Edetat", "Asetilsistein", "Atropin"]
+  },
+  {
+    question: "Pasien dengan Benign Prostatic Hyperplasia (BPH) juga menderita hipertensi. Lini pengobatan yang dapat mengatasi kedua kondisi tersebut secara bersamaan adalah...",
+    answer: "Alfa-1 Blocker (misal Terazosid atau Doksazosid)",
+    options: ["Beta Blocker", "Alfa-1 Blocker (misal Terazosid atau Doksazosid)", "ACE Inhibitor", "CCB", "Diuretik"]
+  },
+  {
+    question: "Hitung nilai ROI jika keuntungan bersih Apotek per tahun adalah 150 juta dan total aset (investasi) adalah 500 juta.",
+    answer: "30%",
+    options: ["10%", "20%", "30%", "40%", "50%"]
+  },
+  {
+    question: "Mekanisme kerja obat antidepresan golongan MAO Inhibitor adalah...",
+    answer: "Menghambat enzim yang mendegradasi neurotransmitter monoamin",
+    options: ["Menghambat reuptake serotonin selektif", "Menghambat enzim yang mendegradasi neurotransmitter monoamin", "Agonis reseptor GABA", "Antagonis reseptor NMDA", "Menghambat reuptake norepinefrin"]
+  },
+  {
+    question: "Berapa gram kalsium klorida (CaCl2.2H2O, BM=147) yang dibutuhkan untuk mendapatkan 10 mEq Ca2+?",
+    answer: "0,735 gram",
+    options: ["0,147 gram", "0,735 gram", "1,47 gram", "2,94 gram", "0,367 gram"]
+  },
+  {
+    question: "Dalam uji keseragaman kandungan, jika 10 unit sediaan diuji dan tidak memenuhi syarat, maka dilakukan pengujian tambahan sebanyak...",
+    answer: "20 unit",
+    options: ["5 unit", "10 unit", "20 unit", "30 unit", "50 unit"]
+  },
+  {
+    question: "Pasien mengonsumsi Spironolakton untuk edema pada sirosis hati. Manakah efek samping metabolik yang paling mungkin muncul?",
+    answer: "Hiperkalemia",
+    options: ["Hipokalemia", "Hipernatremia", "Hiperkalemia", "Hipokalsemia", "Hiperglikemia"]
+  },
+  {
+    question: "Industri farmasi memproduksi salep mata. Metode sterilisasi yang paling sesuai untuk basis salep yang tahan panas (petrolatum) adalah...",
+    answer: "Suhu Kering (Oven 160°C)",
+    options: ["Autoklaf 121°C", "Suhu Kering (Oven 160°C)", "Filtrasi Membran", "Gas Etilen Oksida", "Radiasi Gamma"]
+  },
+  {
+    question: "Berapa nilai hRf jika bercak zat berpindah sejauh 4,5 cm dan jarak fase gerak adalah 15 cm?",
+    answer: "30",
+    options: ["0,3", "30", "45", "60", "3"]
+  },
+  {
+    question: "Apoteker di PBF menerima pengembalian (retur) vaksin karena suhu kulkas sempat mati. Tindakan yang paling tepat dilakukan menurut CDOB adalah...",
+    answer: "Karantina produk dan hubungi produsen untuk verifikasi stabilitas",
+    options: ["Langsung dibuang", "Dijual kembali setelah suhu stabil", "Karantina produk dan hubungi produsen untuk verifikasi stabilitas", "Dikembalikan ke gudang stok utama", "Disimpan di freezer agar lebih dingin"]
+  },
+  {
+    question: "Mekanisme kerja antidiabetes golongan penghambat Alfa-Glukosidase adalah...",
+    answer: "Menghambat penguraian polisakarida menjadi monosakarida di usus",
+    options: ["Meningkatkan sekresi insulin", "Menghambat penguraian polisakarida menjadi monosakarida di usus", "Meningkatkan sensitivitas insulin", "Meningkatkan ekskresi glukosa di urin", "Menghambat glukoneogenesis"]
+  },
+  {
+    question: "Berapa gram zat aktif yang dibutuhkan untuk membuat 500 mL larutan 200 ppm?",
+    answer: "0,1 gram",
+    options: ["0,01 gram", "0,1 gram", "1 gram", "0,02 gram", "0,2 gram"]
+  },
+  {
+    question: "Pasien dengan tuberkulosis merasa air seninya berwarna merah/oranye. Apoteker menjelaskan ini adalah efek samping obat...",
+    answer: "Rifampisin",
+    options: ["Isoniazid", "Rifampisin", "Pirazinamid", "Etambutol", "Streptomisin"]
+  },
+  {
+    question: "Dalam spektrofotometri, kuvet yang digunakan untuk pengukuran pada daerah sinar tampak (visible) biasanya terbuat dari...",
+    answer: "Gelas atau Plastik",
+    options: ["Kuarsa", "Gelas atau Plastik", "Logam", "Porselen", "Silika sintetis"]
+  },
+  {
+    question: "Seorang pasien pediatrik mengalami dehidrasi berat. Larutan infus yang bersifat isotonis dan mengandung elektrolit seimbang menyerupai plasma adalah...",
+    answer: "Ringer Laktat",
+    options: ["Dekstrosa 5%", "Ringer Laktat", "NaCl 3%", "Manitol 20%", "Air Steril"]
+  },
+  {
+    question: "Berapa HLB butuh untuk membuat krim dengan fase minyak: 20 g Parafin (HLB 12) dan 30 g Setil Alkohol (HLB 15)?",
+    answer: "13,8",
+    options: ["12,5", "13,2", "13,8", "14,5", "15,0"]
+  },
+  {
+    question: "Pasien gagal jantung mengonsumsi Furosemid dan mengalami kram otot serta aritmia ringan. Hal ini kemungkinan besar disebabkan oleh...",
+    answer: "Hipokalemia",
+    options: ["Hiperkalemia", "Hipokalemia", "Hipernatremia", "Hipokalsemia", "Hipermagnesemia"]
+  },
+  {
+    question: "Berapakah kadar air dalam simplisia jika berat basah 500 g dan berat setelah dikeringkan menjadi 100 g?",
+    answer: "80%",
+    options: ["20%", "50%", "80%", "400%", "25%"]
+  },
+  {
+    question: "Mekanisme kerja antikanker golongan Taxane (seperti Paklitaksel) adalah...",
+    answer: "Mencegah depolimerisasi mikrotubulus (menstabilkan mikrotubulus)",
+    options: ["Mencegah polimerisasi mikrotubulus", "Mencegah depolimerisasi mikrotubulus (menstabilkan mikrotubulus)", "Alkilasi DNA", "Antimetabolit purin", "Inhibisi topoisomerase"]
+  },
+  {
+    question: "Berapa banyak cairan yang harus ditambahkan ke 50 mL alkohol 90% untuk membuat alkohol 70%?",
+    answer: "14,3 mL",
+    options: ["10,0 mL", "14,3 mL", "20,5 mL", "40,0 mL", "64,3 mL"]
+  },
+  {
+    question: "Dalam studi klinis, fase yang dilakukan pada sukarelawan sehat (20-80 orang) untuk mengetahui keamanan dan dosis obat adalah...",
+    answer: "Fase 1",
+    options: ["Fase Pre-klinik", "Fase 1", "Fase 2", "Fase 3", "Fase 4"]
+  },
+  {
+    question: "Antidotum untuk keracunan insektisida golongan karbamat adalah...",
+    answer: "Atropin (Pralidoksim tidak efektif)",
+    options: ["Pralidoksim", "Atropin (Pralidoksim tidak efektif)", "Nalokson", "Etanol", "Metilen Biru"]
+  },
+  {
+    question: "Berapa mEq magnesium dalam 5 mL larutan MgSO4 40%? (BM MgSO4 = 120, Valensi = 2)",
+    answer: "33,3 mEq",
+    options: ["16,7 mEq", "33,3 mEq", "66,6 mEq", "120 mEq", "40 mEq"]
+  },
+  {
+    question: "Identifikasi flavanoid pada ekstrak tanaman secara kimia menggunakan pereaksi Wilstatter (Mg dan HCl pekat) memberikan hasil positif berupa warna...",
+    answer: "Merah atau Jingga",
+    options: ["Hijau", "Biru", "Merah atau Jingga", "Kuning pekat", "Ungu"]
+  },
+  {
+    question: "Seorang apoteker akan memesan obat Fentanil injeksi. Surat pesanan yang digunakan adalah...",
+    answer: "Surat Pesanan Narkotika (Model N-1)",
+    options: ["Surat Pesanan Psikotropika", "Surat Pesanan Narkotika (Model N-1)", "Surat Pesanan Obat-Obat Tertentu", "Surat Pesanan Reguler", "Surat Pesanan Prekursor"]
+  },
+  {
+    question: "Mekanisme kerja obat laksatif golongan pencahar pencahar osmotik (misal Laktulosa) adalah...",
+    answer: "Menarik air ke dalam lumen usus secara osmotik",
+    options: ["Merangsang gerakan peristaltik", "Melubrikasi massa feses", "Menarik air ke dalam lumen usus secara osmotik", "Melunakkan feses", "Meningkatkan massa serat"]
+  },
+  {
+    question: "Berapa nilai pH larutan jika konsentrasi ion OH- adalah 10^-5 M?",
+    answer: "9",
+    options: ["5", "9", "7", "14", "1"]
+  },
+  {
+    question: "Zat tambahan pada pembuatan tablet yang berfungsi untuk memperbaiki sifat alir (flowability) serbuk disebut...",
+    answer: "Glidan (misal Silikon Dioksida Koloidal)",
+    options: ["Lubrikan", "Glidan (misal Silikon Dioksida Koloidal)", "Disintegran", "Binder", "Opaquant"]
+  },
+  {
+    question: "Pasien dengan asma akut diberikan terapi inhalasi agonis beta-2 kerja singkat (SABA). Manakah obat yang termasuk golongan ini?",
+    answer: "Salbutamol (Albuterol)",
+    options: ["Salmeterol", "Formoterol", "Salbutamol (Albuterol)", "Tiotropium", "Budesonid"]
+  },
+  {
+    question: "Berapa gram perak nitrat yang dibutuhkan untuk membuat 200 mL larutan 1:500?",
+    answer: "0,4 gram",
+    options: ["0,1 gram", "0,2 gram", "0,4 gram", "0,5 gram", "1,0 gram"]
+  },
+  {
+    question: "Dalam spektrofotometri IR, daerah 'Fingerprint Region' terletak pada bilangan gelombang...",
+    answer: "Di bawah 1500 cm-1",
+    options: ["4000 - 3000 cm-1", "3000 - 2000 cm-1", "2000 - 1500 cm-1", "Di bawah 1500 cm-1", "Di atas 4000 cm-1"]
+  },
+  {
+    question: "Berdasarkan aturan Young, berapakah dosis untuk anak usia 8 tahun jika dosis dewasa adalah 500 mg?",
+    answer: "200 mg",
+    options: ["100 mg", "150 mg", "200 mg", "250 mg", "300 mg"]
+  },
+  {
+    question: "Pasien kritis di ICU memerlukan Total Parenteral Nutrition (TPN). Jika pasien membutuhkan 2000 kkal per hari, dan 20% kalori berasal dari emulsi lemak 20% (9 kkal/g). Berapa volume emulsi lemak yang harus diberikan?",
+    answer: "222 mL",
+    options: ["100 mL", "150 mL", "222 mL", "400 mL", "500 mL"]
+  },
+  {
+    question: "Limbah laboratorium farmasi yang mengandung sisa pelarut organik seperti kloroform dan benzena dikategorikan sebagai limbah B3. Wadah limbah tersebut harus diberi simbol...",
+    answer: "Tengkorak dan Tulang Bersilang (Toksik)",
+    options: ["Api Menyala (Mudah Terbakar)", "Tengkorak dan Tulang Bersilang (Toksik)", "Lingkaran dengan tanda silang", "Ledakan", "Tanda Seru"]
+  },
+  {
+    question: "Dalam bioinformatika, algoritma yang digunakan untuk membandingkan urutan basa DNA atau asam amino protein secara berpasangan disebut...",
+    answer: "BLAST (Basic Local Alignment Search Tool)",
+    options: ["Molecular Docking", "BLAST (Basic Local Alignment Search Tool)", "PCR", "Qsar", "Electrophoresis"]
+  },
+  {
+    question: "Vaksin mRNA (seperti vaksin COVID-19 Pfizer/Moderna) memerlukan penyimpanan ultra-low temperature. Berapa suhu penyimpanan standar untuk freezer ultra-rendah tersebut?",
+    answer: "-60°C s/d -90°C",
+    options: ["2°C - 8°C", "-15°C s/d -25°C", "-60°C s/d -90°C", "0°C - 4°C", "Suhu kamar"]
+  },
+  {
+    question: "Berapakah nilai laju filtrasi glomerulus (GFR) pasien pria (60 th, 70 kg) dengan kadar Serum Kreatinin 2 mg/dL menggunakan rumus Cockcroft-Gault?",
+    answer: "35 mL/menit",
+    options: ["25 mL/menit", "35 mL/menit", "45 mL/menit", "70 mL/menit", "140 mL/menit"]
+  },
+  {
+    question: "Zat pengawet yang dilarang digunakan dalam sediaan injeksi intratekal atau epidural karena risiko neurotoksisitas adalah...",
+    answer: "Benzalkonium Klorida",
+    options: ["Metil Paraben", "Benzalkonium Klorida", "Propil Paraben", "Fenol", "Alkohol Benzilat"]
+  },
+  {
+    question: "Pasien dengan HIV/AIDS mendapatkan terapi Zidovudin. Efek samping hematologi yang paling sering muncul dan harus dipantau rutin adalah...",
+    answer: "Anemia dan Neutropenia",
+    options: ["Trombositopenia", "Anemia dan Neutropenia", "Leukositosis", "Eosinofilia", "Polisitemia"]
+  },
+  {
+    question: "Berapa gram dekstrosa monohidrat (E=0,16) yang dibutuhkan agar 100 mL larutan yang mengandung 1 gram zat X (E=0,2) menjadi isotonis?",
+    answer: "4,375 gram",
+    options: ["0,7 gram", "4,375 gram", "5,625 gram", "0,9 gram", "2,5 gram"]
+  },
+  {
+    question: "Dalam CPOB, kualifikasi kinerja (PQ) bertujuan untuk membuktikan bahwa...",
+    answer: "Sistem/peralatan bekerja secara konsisten sesuai spesifikasi pada kondisi operasional rutin",
+    options: [
+      "Peralatan dipasang sesuai desain",
+      "Peralatan berfungsi sesuai batas operasional",
+      "Sistem/peralatan bekerja secara konsisten sesuai spesifikasi pada kondisi operasional rutin",
+      "Desain peralatan sesuai kebutuhan pengguna",
+      "Peralatan bebas dari kontaminasi"
+    ]
+  },
+  {
+    question: "Antidotum untuk keracunan tembaga (Copper) yang bekerja sebagai agen pengkhelat oral adalah...",
+    answer: "D-Penisilamin",
+    options: ["Deferoksamin", "D-Penisilamin", "EDTA", "Dimercaprol", "Succimer"]
+  },
+  {
+    question: "Berapa mEq kalsium dalam 10 mL larutan Kalsium Glukonat 10%? (BM Kalsium Glukonat = 430, Valensi = 2)",
+    answer: "4,65 mEq",
+    options: ["2,32 mEq", "4,65 mEq", "10,0 mEq", "20,0 mEq", "43,0 mEq"]
+  },
+  {
+    question: "Mekanisme kerja obat sitostatika golongan inhibitor Tirosin Kinase (misal Imatinib) adalah...",
+    answer: "Menghambat sinyal pertumbuhan sel kanker pada tingkat molekuler",
+    options: ["Menghambat sintesis DNA", "Menghambat mitosis", "Menghambat sinyal pertumbuhan sel kanker pada tingkat molekuler", "Merusak membran sel", "Interkalasi DNA"]
+  },
+  {
+    question: "Dalam analisis HPLC, penggunaan 'Internal Standard' bertujuan untuk...",
+    answer: "Mengoreksi variasi volume penyuntikan dan kehilangan sampel selama preparasi",
+    options: [
+      "Meningkatkan resolusi puncak",
+      "Memperpendek waktu retensi",
+      "Mengoreksi variasi volume penyuntikan dan kehilangan sampel selama preparasi",
+      "Meningkatkan sensitivitas detektor",
+      "Menghilangkan pengotor fase gerak"
+    ]
+  },
+  {
+    question: "Berapa pH larutan penyangga yang dibuat dari 0,2 M NH3 dan 0,1 M NH4Cl? (Kb NH3 = 10^-5)",
+    answer: "9,3",
+    options: ["4,7", "5,3", "8,7", "9,3", "10"]
+  },
+  {
+    question: "Identifikasi senyawa golongan antrakuinon (misal pada daun sena) dilakukan dengan uji Borntrager yang menghasilkan warna...",
+    answer: "Merah pada lapisan air (setelah ditambah basa)",
+    options: ["Kuning", "Biru", "Merah pada lapisan air (setelah ditambah basa)", "Hijau", "Hitam"]
+  },
+  {
+    question: "Pasien anak mengalami diare akut. Selain oralit, WHO merekomendasikan pemberian suplemen Zinc selama 10 hari. Berapa dosis Zinc untuk anak usia di atas 6 bulan?",
+    answer: "20 mg sekali sehari",
+    options: ["5 mg sekali sehari", "10 mg sekali sehari", "20 mg sekali sehari", "40 mg sekali sehari", "50 mg sekali sehari"]
+  },
+  {
+    question: "Berapa gram air yang harus ditambahkan ke dalam 50 gram salep kadar 10% agar menjadi salep kadar 4%?",
+    answer: "75 gram",
+    options: ["25 gram", "50 gram", "75 gram", "100 gram", "125 gram"]
+  },
+  {
+    question: "Metode sterilisasi untuk produk akhir yang tidak tahan panas (termolabil) namun berbentuk larutan jernih adalah...",
+    answer: "Filtrasi Membran 0,22 mikron",
+    options: ["Autoklaf", "Oven", "Filtrasi Membran 0,22 mikron", "Gas Etilen Oksida", "Radiasi Gamma"]
+  },
+  {
+    question: "Pasien dengan rinitis alergi mengeluh mengantuk berat setelah minum obat flu. Manakah antihistamin yang kemungkinan besar ia konsumsi?",
+    answer: "Klorfeniramin Maleat (CTM)",
+    options: ["Loratadin", "Cetirizin", "Feksofenadin", "Desloratadin", "Klorfeniramin Maleat (CTM)"]
+  },
+  {
+    question: "Berapa nilai HLB campuran jika 4 gram Span 80 (HLB 4,3) dicampur dengan 6 gram Tween 80 (HLB 15)?",
+    answer: "10,72",
+    options: ["8,50", "9,65", "10,72", "12,40", "13,10"]
+  },
+  {
+    question: "Parameter validasi metode analisis yang menggambarkan kedekatan hasil antara serangkaian pengukuran dari sampel homogen yang sama disebut...",
+    answer: "Presisi (Ketertiruan)",
+    options: ["Akurasi", "Presisi (Ketertiruan)", "Spesifisitas", "LOD", "Robustness"]
+  },
+  {
+    question: "Pasien TB yang mengonsumsi Pirazinamid memiliki risiko peningkatan kadar...",
+    answer: "Asam Urat (Hiperurisemia)",
+    options: ["Gula darah", "Kolesterol", "Asam Urat (Hiperurisemia)", "Kreatinin", "Hemoglobin"]
+  },
+  {
+    question: "Berapa mL larutan stok 5% b/v yang dibutuhkan untuk membuat 200 mL larutan 0,05% b/v?",
+    answer: "2 mL",
+    options: ["0,2 mL", "1 mL", "2 mL", "5 mL", "10 mL"]
+  },
+  {
+    question: "Sesuai CPOB, batas maksimal cemaran mikroba untuk area Kelas A (udara) saat operasional adalah...",
+    answer: "< 1 CFU/m3",
+    options: ["< 1 CFU/m3", "< 10 CFU/m3", "< 50 CFU/m3", "< 100 CFU/m3", "Bebas mikroba sama sekali"]
+  },
+  {
+    question: "Mekanisme kerja obat antidepresan golongan SNRI (Serotonin-Norepinephrine Reuptake Inhibitor) adalah...",
+    answer: "Menghambat reuptake serotonin dan norepinefrin secara bersamaan",
+    options: [
+      "Menghambat reuptake serotonin saja",
+      "Menghambat reuptake norepinefrin saja",
+      "Menghambat reuptake serotonin dan norepinefrin secara bersamaan",
+      "Menghambat enzim MAO",
+      "Meningkatkan pelepasan GABA"
+    ]
+  },
+  {
+    question: "Berapa gram perak nitrat yang dibutuhkan untuk membuat 250 mL larutan 0,1 N? (BM AgNO3 = 170)",
+    answer: "4,25 gram",
+    options: ["1,70 gram", "4,25 gram", "8,50 gram", "17,0 gram", "2,12 gram"]
+  },
+  {
+    question: "Pasien hamil menderita asma. Obat pengontrol (controller) yang paling aman dan direkomendasikan adalah...",
+    answer: "Budesonid (Inhalasi Kortikosteroid)",
+    options: ["Prednison Oral", "Teofilin", "Budesonid (Inhalasi Kortikosteroid)", "Salmeterol saja", "Zafirlukast"]
+  },
+  {
+    question: "Dalam statistik farmasi, jika nilai p-value < 0,05 pada uji perbandingan, maka kesimpulannya adalah...",
+    answer: "Terdapat perbedaan yang signifikan secara statistik (H0 ditolak)",
+    options: [
+      "Tidak ada perbedaan",
+      "Terdapat perbedaan yang signifikan secara statistik (H0 ditolak)",
+      "Data tidak valid",
+      "Sampel kurang banyak",
+      "Hasil bersifat kebetulan"
+    ]
+  },
+  {
+    question: "Berapa banyak kapsul yang bisa dibuat dari 2 gram zat aktif jika tiap kapsul mengandung 250 mg?",
+    answer: "8 kapsul",
+    options: ["4 kapsul", "5 kapsul", "8 kapsul", "10 kapsul", "12 kapsul"]
+  },
+  {
+    question: "Identifikasi mikroskopis pada simplisia rimpang jahe (Zingiber officinale) menunjukkan adanya ciri khas berupa...",
+    answer: "Sel minyak dan amilum berbentuk pipih/telur dengan hilus di ujung",
+    options: ["Sklereid", "Rambut penutup", "Sel minyak dan amilum berbentuk pipih/telur dengan hilus di ujung", "Sistolit", "Stomata tipe parasitik"]
+  },
+  {
+    question: "Pasien dengan epilepsi menggunakan Asam Valproat. Manakah parameter fungsi organ yang harus dipantau ketat karena risiko toksisitas?",
+    answer: "Fungsi Hati (SGOT/SGPT)",
+    options: ["Fungsi Ginjal", "Fungsi Hati (SGOT/SGPT)", "Fungsi Jantung", "Fungsi Paru", "Kadar gula darah"]
+  },
+  {
+    question: "Berapa mL HCl pekat (37% b/b, BJ 1,19) yang dibutuhkan untuk membuat 1 liter HCl 0,1 M? (BM HCl = 36,5)",
+    answer: "8,3 mL",
+    options: ["5,5 mL", "8,3 mL", "10,2 mL", "12,1 mL", "15,0 mL"]
+  },
+  {
+    question: "Mekanisme kerja obat laksatif golongan stimulan (misal Bisakodil) adalah...",
+    answer: "Merangsang pleksus saraf di dinding usus untuk meningkatkan peristaltik",
+    options: [
+      "Menyerap air dan mengembang",
+      "Menarik air secara osmotik",
+      "Merangsang pleksus saraf di dinding usus untuk meningkatkan peristaltik",
+      "Melubrikasi feses",
+      "Menghambat enzim lipase"
+    ]
+  },
+  {
+    question: "Berapa suhu penyimpanan untuk sediaan yang harus disimpan di 'Tempat Sejuk'?",
+    answer: "8°C - 15°C",
+    options: ["2°C - 8°C", "8°C - 15°C", "15°C - 30°C", "30°C - 40°C", "Di bawah 0°C"]
+  },
+  {
+    question: "Pasien dengan hipertiroidisme mengalami badai tiroid (thyroid storm). Obat Beta-blocker manakah yang paling disukai karena onset cepat dan durasi singkat?",
+    answer: "Esmolol",
+    options: ["Propranolol", "Atenolol", "Bisoprolol", "Esmolol", "Metoprolol"]
+  },
+  {
+    question: "Berapa banyak cairan yang harus ditambahkan ke 100 mL sirup 40% agar kadarnya menjadi 10%?",
+    answer: "300 mL",
+    options: ["100 mL", "200 mL", "300 mL", "400 mL", "500 mL"]
+  },
+  {
+    question: "Dalam pemisahan kromatografi, parameter yang menunjukkan kemampuan sistem memisahkan dua komponen disebut...",
+    answer: "Resolusi (Rs)",
+    options: ["Faktor Retensi", "Resolusi (Rs)", "Selektivitas", "Lempeng Teoritis", "Tailing Factor"]
+  },
+  {
+    question: "Pasien dengan osteoartritis mengeluh nyeri lambung setelah mengonsumsi NSAID. Obat golongan inhibitor COX-2 selektif manakah yang paling tepat sebagai pengganti?",
+    answer: "Selekoksib",
+    options: ["Diklofenak", "Piroksikam", "Selekoksib", "Naproksen", "Ibuprofen"]
+  },
+  {
+    question: "Berapa gram zat X yang dibutuhkan untuk membuat 200 mL larutan 2% b/v?",
+    answer: "4 gram",
+    options: ["0,4 gram", "2 gram", "4 gram", "8 gram", "20 gram"]
+  },
+  {
+    question: "Dalam manajemen farmasi, rasio yang mengukur kemampuan apotek membayar hutang jangka pendek disebut...",
+    answer: "Liquidity Ratio (Rasio Likuiditas)",
+    options: ["Solvability Ratio", "Profitability Ratio", "Liquidity Ratio (Rasio Likuiditas)", "Inventory Turnover Ratio", "ROI"]
+  },
+  {
+    question: "Pasien gagal ginjal mengalami hiperfosfatemia. Manakah pengikat fosfat yang tidak mengandung kalsium?",
+    answer: "Sevelamer",
+    options: ["Kalsium Karbonat", "Kalsium Asetat", "Sevelamer", "Aluminium Hidroksida", "Magnesium Hidroksida"]
+  },
+  {
+    question: "Berapa mL sediaan tetes mata 1% yang mengandung 10 mg zat aktif?",
+    answer: "1 mL",
+    options: ["0,1 mL", "0,5 mL", "1 mL", "5 mL", "10 mL"]
+  },
+  {
+    question: "Mekanisme kerja obat antivirus Oseltamivir dalam mengobati influenza adalah...",
+    answer: "Menghambat enzim neuraminidase sehingga mencegah pelepasan virus dari sel",
+    options: [
+      "Menghambat uncoating virus",
+      "Menghambat RNA polimerase",
+      "Menghambat enzim neuraminidase sehingga mencegah pelepasan virus dari sel",
+      "Menghambat integrase",
+      "Menghambat protease"
+    ]
+  },
+  {
+    question: "Berapa nilai pKa jika suatu asam lemah pada pH 5,0 memiliki perbandingan bentuk terion : tak terion = 10 : 1?",
+    answer: "4",
+    options: ["3", "4", "5", "6", "7"]
+  },
+  {
+    question: "Industri farmasi memproduksi tablet salut selaput. Masalah 'Orange Peel' (permukaan kasar seperti kulit jeruk) biasanya disebabkan oleh...",
+    answer: "Tekanan penyemprotan terlalu rendah atau viskositas larutan salut terlalu tinggi",
+    options: [
+      "Penguapan pelarut terlalu cepat",
+      "Tekanan penyemprotan terlalu rendah atau viskositas larutan salut terlalu tinggi",
+      "Tablet inti terlalu lunak",
+      "Temperatur udara terlalu rendah",
+      "Kecepatan putar panci terlalu tinggi"
+    ]
+  },
+  {
+    question: "Pasien anak (BB 12 kg) menderita infeksi saluran kemih. Dosis Amoksisilin 40 mg/kgBB/hari dibagi dalam 3 dosis. Sediaan sirup 125 mg/5 mL. Berapa mL sekali minum?",
+    answer: "6,4 mL",
+    options: ["3,2 mL", "4,8 mL", "6,4 mL", "8,0 mL", "10,0 mL"]
+  },
+  {
+    question: "Dalam analisis instrumentasi, sumber radiasi yang digunakan pada Spektrofotometri Serapan Atom (AAS) adalah...",
+    answer: "Hollow Cathode Lamp (HCL)",
+    options: ["Lampu Deuterium", "Lampu Tungsten", "Hollow Cathode Lamp (HCL)", "Lampu Merkuri", "Nernst Glower"]
+  },
+  {
+    question: "Seorang apoteker akan memusnahkan obat psikotropika yang sudah kadaluarsa. Berita acara pemusnahan harus dibuat dan dilaporkan kepada...",
+    answer: "Dinas Kesehatan Kabupaten/Kota dan Balai POM setempat",
+    options: [
+      "Kementerian Kesehatan",
+      "Dinas Kesehatan Kabupaten/Kota dan Balai POM setempat",
+      "Kepolisian",
+      "IAI",
+      "Distributor"
+    ]
+  },
+  {
+    question: "Berapa HLB campuran dari 70% Span 20 (HLB 8,6) dan 30% Tween 20 (HLB 16,7)?",
+    answer: "11,03",
+    options: ["10,50", "11,03", "12,65", "13,90", "14,80"]
+  },
+  {
+    question: "Mekanisme kerja obat anestesi lokal (misal Lidokain) adalah...",
+    answer: "Memblokade kanal Natrium (Na+) pada membran sel saraf",
+    options: [
+      "Membuka kanal Kalium",
+      "Memblokade kanal Natrium (Na+) pada membran sel saraf",
+      "Agonis reseptor GABA",
+      "Antagonis reseptor NMDA",
+      "Menghambat pelepasan Asetilkolin"
+    ]
+  },
+  {
+    question: "Pasien pengguna Warfarin rutin mengonsumsi teh St. John's Wort untuk mengatasi depresinya. Pasien kemudian mengalami tromboemboli (pembekuan darah). Apa mekanisme interaksi yang terjadi?",
+    answer: "St. John's Wort menginduksi CYP3A4, mempercepat metabolisme Warfarin",
+    options: [
+      "St. John's Wort menghambat absorpsi Warfarin",
+      "St. John's Wort menginduksi CYP3A4, mempercepat metabolisme Warfarin",
+      "St. John's Wort memiliki efek sinergis dengan Warfarin",
+      "St. John's Wort mengikat protein plasma lebih kuat",
+      "St. John's Wort menghambat ekskresi ginjal Warfarin"
+    ]
+  },
+  {
+    question: "Seorang apoteker di industri melakukan validasi pembersihan. Kriteria keberterimaan didasarkan pada dosis terapeutik harian terkecil dari produk sebelumnya. Istilah ini dikenal dengan...",
+    answer: "MACO (Maximum Allowable Carryover)",
+    options: ["LOD", "LOQ", "MACO (Maximum Allowable Carryover)", "NOEL", "PDE"]
+  },
+  {
+    question: "Berapa gram NaCl yang harus ditambahkan pada 100 mL infus Dekstrosa 2% (E=0,16) agar menjadi larutan yang isotonis?",
+    answer: "0,58 gram",
+    options: ["0,32 gram", "0,58 gram", "0,90 gram", "1,22 gram", "0,45 gram"]
+  },
+  {
+    question: "Pasien perempuan (28 th) sedang menggunakan kontrasepsi oral dan didiagnosa epilepsi. Dokter memberikan Fenitoin. Apa saran apoteker terkait penggunaan kedua obat tersebut?",
+    answer: "Gunakan metode kontrasepsi tambahan (non-hormonal)",
+    options: [
+      "Hentikan penggunaan Fenitoin",
+      "Tingkatkan dosis kontrasepsi oral",
+      "Gunakan metode kontrasepsi tambahan (non-hormonal)",
+      "Minum kedua obat dengan selang waktu 4 jam",
+      "Tidak ada interaksi, lanjutkan terapi"
+    ]
+  },
+  {
+    question: "Dalam manajemen mutu, jika ditemukan hasil uji stabilitas yang tidak sesuai spesifikasi, prosedur yang harus segera dijalankan adalah...",
+    answer: "OOS (Out of Specification)",
+    options: ["CAPA", "OOS (Out of Specification)", "Change Control", "Risk Assessment", "Self Inspection"]
+  },
+  {
+    question: "Berapa nilai pKa jika suatu obat bersifat asam lemah dan pada pH 6,0 sebanyak 90% obat berada dalam bentuk terionisasi?",
+    answer: "5,05",
+    options: ["5,05", "6,95", "4,05", "7,00", "6,00"]
+  },
+  {
+    question: "Pasien laki-laki mengeluh batuk kering terus-menerus setelah seminggu mengonsumsi obat hipertensi. Manakah obat yang paling mungkin menyebabkan efek samping tersebut?",
+    answer: "Lisinopril",
+    options: ["Amlodipin", "Furosemid", "Lisinopril", "Valsartan", "Spironolakton"]
+  },
+  {
+    question: "Industri farmasi membuat sediaan tablet Salut Enterik. Tujuan utama dari penyalutan ini adalah...",
+    answer: "Melindungi zat aktif dari asam lambung atau melindungi lambung dari iritasi",
+    options: [
+      "Menutupi rasa tidak enak",
+      "Memperindah penampilan",
+      "Melindungi zat aktif dari asam lambung atau melindungi lambung dari iritasi",
+      "Mempercepat disintegrasi di lambung",
+      "Meningkatkan stabilitas terhadap cahaya"
+    ]
+  },
+  {
+    question: "Antidotum untuk mengatasi keracunan Parasetamol harus diberikan segera, idealnya sebelum berapa jam setelah kejadian overdosis?",
+    answer: "8 jam",
+    options: ["2 jam", "4 jam", "8 jam", "24 jam", "48 jam"]
+  },
+  {
+    question: "Berapa mL larutan stok 40% b/v yang dibutuhkan untuk membuat 500 mL larutan dengan konsentrasi 1:2000?",
+    answer: "0,625 mL",
+    options: ["0,5 mL", "0,625 mL", "1,25 mL", "2,5 mL", "5 mL"]
+  },
+  {
+    question: "Mekanisme kerja obat antipsikotik atipikal (seperti Risperidon) adalah...",
+    answer: "Antagonis reseptor Dopamin D2 dan Serotonin 5-HT2A",
+    options: [
+      "Antagonis reseptor Dopamin D2 saja",
+      "Antagonis reseptor Dopamin D2 dan Serotonin 5-HT2A",
+      "Agonis GABA",
+      "Penghambat reuptake Norepinefrin",
+      "Antagonis NMDA"
+    ]
+  },
+  {
+    question: "Berapa gram perak nitrat yang dibutuhkan untuk membuat 500 mL larutan 0,02 N? (BM AgNO3 = 170)",
+    answer: "1,7 gram",
+    options: ["0,85 gram", "1,7 gram", "3,4 gram", "17 gram", "0,17 gram"]
+  },
+  {
+    question: "Seorang apoteker di RS menemukan pasien mengalami ruam kulit hebat (Stevens-Johnson Syndrome) setelah minum Allopurinol. Laporan kejadian efek samping ini harus dikirimkan menggunakan...",
+    answer: "Formulir Kuning (MESO)",
+    options: ["Formulir Merah", "Formulir Putih", "Formulir Kuning (MESO)", "Buku Catatan Insiden", "Surat Rujukan Dokter"]
+  },
+  {
+    question: "Dalam ekstraksi bahan alam, proses pemisahan senyawa berdasarkan perbedaan kelarutan dalam dua pelarut yang tidak saling bercampur disebut...",
+    answer: "Partisi Cair-Cair",
+    options: ["Maserasi", "Fraksinasi", "Partisi Cair-Cair", "Destilasi", "Filtrasi"]
+  },
+  {
+    question: "Pasien dengan glaukoma sudut terbuka diberikan sediaan tetes mata Timolol. Apa mekanisme kerja obat ini dalam menurunkan tekanan intraokular?",
+    answer: "Menurunkan produksi aqueous humor",
+    options: [
+      "Meningkatkan aliran keluar aqueous humor",
+      "Menurunkan produksi aqueous humor",
+      "Menyebabkan miosis",
+      "Menyebabkan midriasis",
+      "Menghambat enzim karbonik anhidrase"
+    ]
+  },
+  {
+    question: "Berapa nilai HLB butuh fase minyak campuran dari 10 g Stearil alkohol (HLB 15) dan 20 g Isopropil miristat (HLB 11,5)?",
+    answer: "12,67",
+    options: ["12,00", "12,67", "13,25", "13,50", "14,00"]
+  },
+  {
+    question: "Sesuai CPOB, personel yang menangani produk sitostatika harus mendapatkan pemeriksaan kesehatan secara berkala. Hal ini untuk memantau paparan...",
+    answer: "Mutagenik dan Teratogenik",
+    options: ["Infeksi bakteri", "Gangguan pendengaran", "Mutagenik dan Teratogenik", "Kesehatan mata", "Kesehatan paru"]
+  },
+  {
+    question: "Berapa jumlah mEq ion K+ dalam 500 mL larutan KCl 0,3%? (BM KCl = 74,5)",
+    answer: "20,1 mEq",
+    options: ["10,05 mEq", "20,1 mEq", "40,2 mEq", "74,5 mEq", "150 mEq"]
+  },
+  {
+    question: "Mekanisme kerja obat antidiabetik golongan Tiazolidinedion (Pioglitazon) adalah...",
+    answer: "Agonis reseptor PPAR-gamma untuk meningkatkan sensitivitas insulin",
+    options: [
+      "Menghambat alfa-glukosidase",
+      "Agonis reseptor PPAR-gamma untuk meningkatkan sensitivitas insulin",
+      "Meningkatkan sekresi insulin",
+      "Menghambat reabsorpsi glukosa di ginjal",
+      "Menghambat DPP-4"
+    ]
+  },
+  {
+    question: "Apoteker menghitung harga jual obat dengan margin 25% dari harga beli. Jika harga beli inklud PPN adalah Rp 11.100, berapakah harga jualnya?",
+    answer: "Rp 13.875",
+    options: ["Rp 12.500", "Rp 13.320", "Rp 13.875", "Rp 14.200", "Rp 15.000"]
+  },
+  {
+    question: "Dalam spektrofotometri, pergeseran pita serapan ke arah intensitas yang lebih tinggi disebut efek...",
+    answer: "Hiperkromik",
+    options: ["Batokromik", "Hipsokromik", "Hiperkromik", "Hipokromik", "Isosbestik"]
+  },
+  {
+    question: "Pasien gagal ginjal dengan anemia diberikan terapi Erythropoietin Stimulating Agents (ESA). Efek samping yang paling sering muncul dan harus diwaspadai adalah...",
+    answer: "Hipertensi",
+    options: ["Hipotensi", "Hipertensi", "Gagal jantung", "Hipoglikemia", "Osteoporosis"]
+  },
+  {
+    question: "Berapa gram zat aktif yang dibutuhkan untuk membuat 1 liter larutan 0,5% b/v?",
+    answer: "5 gram",
+    options: ["0,5 gram", "5 gram", "50 gram", "500 mg", "10 gram"]
+  },
+  {
+    question: "Identifikasi kualitatif terhadap alkaloid dalam ekstrak tanaman menggunakan pereaksi Mayer akan memberikan hasil positif berupa...",
+    answer: "Endapan putih atau kekuningan",
+    options: ["Warna merah", "Warna jingga", "Endapan putih atau kekuningan", "Warna biru", "Endapan cokelat"]
+  },
+  {
+    question: "Mekanisme kerja obat asma golongan antagonis reseptor leukotrien (Montelukast) adalah...",
+    answer: "Memblokade reseptor CysLT1 untuk mencegah bronkokonstriksi",
+    options: [
+      "Menghambat enzim COX",
+      "Memblokade reseptor CysLT1 untuk mencegah bronkokonstriksi",
+      "Menghambat pelepasan histamin",
+      "Agonis beta-2",
+      "Menghambat sintesis IgE"
+    ]
+  },
+  {
+    question: "Berapa mL larutan NaOH 0,1 M yang dibutuhkan untuk menetralkan 25 mL larutan H2SO4 0,1 M?",
+    answer: "50 mL",
+    options: ["12,5 mL", "25 mL", "50 mL", "75 mL", "100 mL"]
+  },
+  {
+    question: "Dalam manajemen persediaan, obat-obatan yang memiliki fluktuasi permintaan sangat tinggi namun nilai investasinya rendah dikategorikan dalam analisis VEN sebagai kelompok...",
+    answer: "Essential (E)",
+    options: ["Vital (V)", "Essential (E)", "Non-essential (N)", "Slow moving", "Death stock"]
+  },
+  {
+    question: "Antidotum untuk mengatasi depresi pernapasan akibat overdosis Morfin adalah...",
+    answer: "Nalokson",
+    options: ["Naltrekson", "Nalokson", "Flumazenil", "Atropin", "Asetilsistein"]
+  },
+  {
+    question: "Berapa gram kalsium klorida (BM 111) dalam 250 mL larutan 0,2% b/v?",
+    answer: "0,5 gram",
+    options: ["0,25 gram", "0,5 gram", "1 gram", "1,25 gram", "0,111 gram"]
+  },
+  {
+    question: "Industri farmasi memproduksi suspensi. Untuk mencegah partikel mengendap terlalu cepat dan membentuk 'cake', ditambahkan bahan yang menurunkan tegangan antarmuka, yaitu...",
+    answer: "Wetting Agent (Zat pembasah)",
+    options: ["Flocculating Agent", "Wetting Agent (Zat pembasah)", "Suspending Agent", "Buffering Agent", "Preservative"]
+  },
+  {
+    question: "Pasien TB yang mengonsumsi Isoniazid disarankan mengonsumsi Vitamin B6 (Piridoksin). Apa tujuannya?",
+    answer: "Mencegah neuropati perifer",
+    options: ["Meningkatkan absorpsi INH", "Mencegah neuropati perifer", "Mencegah hepatotoksisitas", "Meningkatkan nafsu makan", "Mengurangi mual"]
+  },
+  {
+    question: "Berapa nilai pOH larutan jika pH = 8,5?",
+    answer: "5,5",
+    options: ["5,5", "6,5", "7,5", "8,5", "14"]
+  },
+  {
+    question: "Dalam pengujian disolusi terbanding (SST), jika nilai f2 (faktor kemiripan) berada di antara 50-100, maka kedua profil disolusi dinyatakan...",
+    answer: "Mirip atau ekivalen",
+    options: ["Tidak mirip", "Mirip atau ekivalen", "Sangat berbeda", "Tidak valid", "Melampaui standar"]
+  },
+  {
+    question: "Mekanisme kerja obat antihipertensi golongan CCB Dihidropiridin (Amlodipin) adalah...",
+    answer: "Menghambat kanal kalsium tipe-L terutama pada otot polos pembuluh darah",
+    options: [
+      "Menghambat kanal kalsium pada nodus SA/AV jantung",
+      "Menghambat kanal kalsium tipe-L terutama pada otot polos pembuluh darah",
+      "Menurunkan curah jantung",
+      "Menghambat enzim ACE",
+      "Agonis alfa-2 di sistem saraf pusat"
+    ]
+  },
+  {
+    question: "Berapa mL alkohol 70% yang dapat dibuat dari 100 mL alkohol 95%?",
+    answer: "135,7 mL",
+    options: ["100 mL", "135,7 mL", "150 mL", "195 mL", "70 mL"]
+  },
+  {
+    question: "Identifikasi simplisia daun kumis kucing (Orthosiphon stamineus) secara mikroskopis dicirikan dengan adanya fragmen...",
+    answer: "Rambut penutup dan rambut kelenjar tipe Labiatae",
+    options: ["Sklereid", "Rambut penutup dan rambut kelenjar tipe Labiatae", "Sistolit", "Stomata tipe parasitik", "Fragmen pembuluh kayu"]
+  },
+  {
+    question: "Pasien dengan gagal jantung mendapatkan terapi spironolakton. Apa peran spironolakton dalam kondisi ini selain sebagai diuretik?",
+    answer: "Mencegah remodeling jantung akibat aldosterone",
+    options: [
+      "Meningkatkan ekskresi natrium secara masif",
+      "Mencegah remodeling jantung akibat aldosterone",
+      "Meningkatkan kontraktilitas jantung",
+      "Menurunkan frekuensi nadi",
+      "Mencegah pembentukan edema paru secara langsung"
+    ]
+  },
+  {
+    question: "Berapa gram zat X yang harus ditimbang untuk membuat 60 mL larutan 500 ppm?",
+    answer: "0,03 gram",
+    options: ["0,003 gram", "0,03 gram", "0,3 gram", "3 gram", "0,06 gram"]
+  },
+  {
+    question: "Dalam analisis instrumentasi, detektor yang bekerja berdasarkan perbedaan kecepatan cahaya saat melewati sampel dibanding referensi adalah...",
+    answer: "Refractive Index Detector (RID)",
+    options: ["PDA", "RID", "ELSD", "MS", "Fluoresensi"]
+  },
+  {
+    question: "Pasien anak didiagnosis pneumonia. Dokter memberikan Seftriakson. Bagaimana mekanisme kerja Seftriakson?",
+    answer: "Menghambat sintesis dinding sel dengan berikatan pada PBP",
+    options: [
+      "Menghambat subunit 30S",
+      "Menghambat subunit 50S",
+      "Menghambat sintesis dinding sel dengan berikatan pada PBP",
+      "Menghambat DNA girase",
+      "Mengganggu membran sel"
+    ]
+  },
+  {
+    question: "Berapa nilai hRf jika bercak berpindah 2,5 cm dan jarak eluen 10 cm?",
+    answer: "25",
+    options: ["0,25", "2,5", "25", "10", "40"]
+  },
+  {
+    question: "Industri farmasi melakukan validasi proses pada produk yang sudah berjalan lama. Validasi ini disebut...",
+    answer: "Validasi Retrospektif",
+    options: ["Validasi Prospektif", "Validasi Konkuren", "Validasi Retrospektif", "Validasi Metode", "Validasi Pembersihan"]
+  },
+  {
+    question: "Pasien dengan hiperkolesterolemia mengonsumsi Simvastatin. Apa instruksi waktu minum yang paling tepat?",
+    answer: "Malam hari sebelum tidur",
+    options: ["Pagi hari", "Siang hari", "Sesaat sebelum makan", "Malam hari sebelum tidur", "Kapan saja asal rutin"]
+  },
+  {
+    question: "Berapa mL sirup 20% yang dihasilkan jika 50 mL sirup 60% diencerkan?",
+    answer: "150 mL",
+    options: ["100 mL", "150 mL", "200 mL", "250 mL", "300 mL"]
+  },
+  {
+    question: "Mekanisme kerja obat laksatif golongan pelunak feses (Docusate) adalah...",
+    answer: "Menurunkan tegangan permukaan feses sehingga air mudah masuk",
+    options: [
+      "Menarik air secara osmotik",
+      "Merangsang saraf usus",
+      "Menurunkan tegangan permukaan feses sehingga air mudah masuk",
+      "Melubrikasi dinding usus",
+      "Membentuk massa gelatin"
+    ]
+  },
+  {
+    question: "Berapa mEq magnesium dalam 1 liter larutan MgCl2 0,1%? (BM MgCl2 = 95, Valensi = 2)",
+    answer: "21,05 mEq",
+    options: ["10,5 mEq", "21,05 mEq", "42,1 mEq", "95 mEq", "100 mEq"]
+  },
+  {
+    question: "Dalam spektrofotometri, sumber lampu yang digunakan khusus untuk daerah UV adalah...",
+    answer: "Lampu Deuterium (D2)",
+    options: ["Lampu Tungsten", "Lampu Deuterium (D2)", "Lampu Merkuri", "Nernst Glower", "Lampu Xenon"]
+  },
+  {
+    question: "Pasien dengan Parkinson mendapatkan kombinasi Levodopa dan Karbidopa. Apa fungsi Karbidopa?",
+    answer: "Menghambat metabolisme perifer Levodopa agar lebih banyak masuk ke otak",
+    options: [
+      "Meningkatkan efek sedasi",
+      "Menghambat metabolisme perifer Levodopa agar lebih banyak masuk ke otak",
+      "Mengurangi efek mual di lambung saja",
+      "Menstimulasi reseptor dopamin secara langsung",
+      "Menurunkan tekanan darah"
+    ]
+  },
+  {
+    question: "Berapa gram perak nitrat yang dibutuhkan untuk membuat 100 mL larutan 1:1000?",
+    answer: "0,1 gram",
+    options: ["0,01 gram", "0,1 gram", "1 gram", "10 gram", "0,5 gram"]
+  },
+  {
+    question: "Sesuai regulasi, obat yang mengandung Narkotika hanya dapat dipesan menggunakan Surat Pesanan yang ditandatangani oleh...",
+    answer: "Apoteker Penanggung Jawab dengan stempel Apotek",
+    options: [
+      "Pemilik Apotek",
+      "Apoteker Penanggung Jawab dengan stempel Apotek",
+      "Asisten Apoteker senior",
+      "Dokter Penanggung Jawab",
+      "Semua Apoteker yang bekerja"
+    ]
+  },
+  {
+    question: "Pasien gagal ginjal (ClCr 30 mL/menit) mengalami infeksi berat dan diresepkan Gentamisin. Berdasarkan farmakokinetik, parameter apa yang harus disesuaikan untuk mencegah nefrotoksisitas lebih lanjut?",
+    answer: "Memperpanjang interval pemberian (pemberian lebih jarang)",
+    options: ["Meningkatkan dosis muatan (loading dose)", "Memperpanjang interval pemberian (pemberian lebih jarang)", "Menurunkan dosis tanpa mengubah interval", "Mengganti rute menjadi oral", "Menghentikan semua obat nefrotoksik tanpa pengganti"]
+  },
+  {
+    question: "Industri farmasi sedang melakukan scale-up produksi tablet Metformin dari skala pilot ke skala produksi 1 juta tablet. Perubahan ukuran batch ini memerlukan dokumentasi validasi yang disebut...",
+    answer: "Validasi Prospektif",
+    options: ["Validasi Retrospektif", "Validasi Konkuren", "Validasi Prospektif", "Kualifikasi Kinerja", "Validasi Metode"]
+  },
+  {
+    question: "Berapa gram Asam Borat (E=0,52) yang diperlukan untuk membuat 30 mL larutan Chloramphenicol 0,5% (E=0,14) menjadi isotonis?",
+    answer: "0,47 gram",
+    options: ["0,21 gram", "0,35 gram", "0,47 gram", "0,52 gram", "0,90 gram"]
+  },
+  {
+    question: "Seorang pasien overdosis Fenobarbital (asam lemah, pKa 7,4). Strategi untuk mempercepat ekskresi obat melalui ginjal adalah dengan pemberian Natrium Bikarbonat untuk mencapai pH urin...",
+    answer: "pH 8,0 (Basa)",
+    options: ["pH 5,0 (Asam)", "pH 6,0 (Asam)", "pH 7,0 (Netral)", "pH 8,0 (Basa)", "pH 4,0 (Sangat Asam)"]
+  },
+  {
+    question: "Dalam analisis Farmakoekonomi, jika Obat Baru lebih mahal Rp 5.000.000 dibanding Standar, namun memberikan tambahan 0,5 QALY, berapa nilai ICER-nya?",
+    answer: "10.000.000 / QALY",
+    options: ["2.500.000 / QALY", "5.000.000 / QALY", "10.000.000 / QALY", "15.000.000 / QALY", "20.000.000 / QALY"]
+  },
+  {
+    question: "Pasien asma menggunakan inhaler Budesonid. Apoteker memberikan edukasi untuk berkumur dengan air setelah pemakaian. Apa risiko yang ingin dicegah?",
+    answer: "Kandidiasis Oral (Thrush)",
+    options: ["Hipokalemia", "Bronkospasme akut", "Kandidiasis Oral (Thrush)", "Gigi berlubang", "Suara serak permanen"]
+  },
+  {
+    question: "Berapa mEq kalium dalam 20 mL larutan KCl 7,45%? (Ar K=39, Cl=35,5)",
+    answer: "20 mEq",
+    options: ["10 mEq", "20 mEq", "40 mEq", "74,5 mEq", "149 mEq"]
+  },
+  {
+    question: "Apoteker di industri melakukan uji stabilitas pada suhu 40°C/75% RH. Terjadi penurunan kadar zat aktif sebesar 10% dalam 3 bulan. Tindakan apa yang paling tepat sesuai protokol CPOB?",
+    answer: "Melakukan pengujian pada kondisi intermediet (30°C/65% RH)",
+    options: ["Menghentikan produksi segera", "Melakukan pengujian pada kondisi intermediet (30°C/65% RH)", "Menurunkan masa kadaluarsa secara sepihak", "Mengabaikan hasil karena suhu terlalu ekstrem", "Mengganti kemasan langsung"]
+  },
+  {
+    question: "Mekanisme kerja antikoagulan Rivaroxaban adalah...",
+    answer: "Inhibitor selektif faktor Xa",
+    options: ["Inhibitor trombin (Faktor IIa)", "Inhibitor selektif faktor Xa", "Antagonis Vitamin K", "Inhibitor ADP", "Aktivator Plasminogen"]
+  },
+  {
+    question: "Berapa mL insulin yang ditarik ke dalam spuit jika dosisnya 45 unit dan sediaan yang tersedia adalah insulin 100 unit/mL?",
+    answer: "0,45 mL",
+    options: ["0,045 mL", "0,45 mL", "0,9 mL", "4,5 mL", "1 mL"]
+  },
+  {
+    question: "Pasien dengan sirosis hati dan asites diberikan Spironolakton. Selain efek diuretik, Spironolakton digunakan karena mampu menghambat efek...",
+    answer: "Hiperaldosteronisme sekunder",
+    options: ["Hipernatremia", "Hiperaldosteronisme sekunder", "Hipovolemia", "Hiperkalemia", "Hipotensi portal"]
+  },
+  {
+    question: "Dalam identifikasi bahan alam, reaksi antara FeCl3 dengan senyawa polifenol (seperti Tanin) akan menghasilkan warna...",
+    answer: "Biru tua atau Hijau kehitaman",
+    options: ["Merah bata", "Kuning terang", "Biru tua atau Hijau kehitaman", "Ungu", "Putih susu"]
+  },
+  {
+    question: "Berapa banyak tablet 500 mg yang dibutuhkan untuk membuat 200 mL larutan dengan konsentrasi 0,25% b/v?",
+    answer: "1 tablet",
+    options: ["0,5 tablet", "1 tablet", "2 tablet", "4 tablet", "5 tablet"]
+  },
+  {
+    question: "Apoteker di apotek menerima resep narkotika dari luar provinsi. Sesuai regulasi, apa yang harus dilakukan?",
+    answer: "Menolak resep tersebut (Resep narkotika tidak boleh dilayani dari luar provinsi/kota kecuali ada verifikasi ketat)",
+    options: [
+      "Langsung melayani",
+      "Menyuruh pasien memfotokopi resep",
+      "Menolak resep tersebut",
+      "Memberikan setengah dosis",
+      "Mengganti dengan obat reguler"
+    ]
+  },
+  {
+    question: "Berapa nilai HLB butuh untuk campuran fase minyak: 40% Petrolatum (HLB 8) dan 60% Parafin Cair (HLB 12)?",
+    answer: "10,4",
+    options: ["9,0", "10,0", "10,4", "11,2", "12,0"]
+  },
+  {
+    question: "Pasien penderita diabetes tipe 2 yang rutin mengonsumsi Metformin akan menjalani pemeriksaan radiologi dengan kontras iodin. Apa instruksi apoteker?",
+    answer: "Hentikan Metformin 48 jam sebelum dan sesudah prosedur",
+    options: [
+      "Tingkatkan dosis Metformin",
+      "Minum Metformin bersama kontras",
+      "Hentikan Metformin 48 jam sebelum dan sesudah prosedur",
+      "Ganti Metformin dengan Insulin sementara",
+      "Tidak perlu ada perubahan"
+    ]
+  },
+  {
+    question: "Dalam analisis instrumentasi HPLC, jika nilai tailing factor (Tf) > 2,0, apa yang harus dilakukan untuk memperbaiki kromatogram?",
+    answer: "Menyesuaikan pH fase gerak atau menambahkan modifier (seperti trietilamin)",
+    options: [
+      "Meningkatkan laju alir",
+      "Mengganti detektor",
+      "Menyesuaikan pH fase gerak atau menambahkan modifier",
+      "Mengurangi volume penyuntikan",
+      "Memperpendek kolom"
+    ]
+  },
+  {
+    question: "Berapa gram kalsium klorida (BM 111) yang terdapat dalam 500 mL larutan 100 ppm?",
+    answer: "0,05 gram",
+    options: ["0,01 gram", "0,05 gram", "0,1 gram", "0,5 gram", "1 gram"]
+  },
+  {
+    question: "Mekanisme kerja obat antikanker golongan Inhibitor Aromatase (seperti Anastrozole) adalah...",
+    answer: "Menghambat konversi androstenedion menjadi estrogen di jaringan perifer",
+    options: [
+      "Memblokade reseptor estrogen",
+      "Menghambat konversi androstenedion menjadi estrogen di jaringan perifer",
+      "Menghambat sekresi LH/FSH",
+      "Menghambat sintesis DNA",
+      "Menghambat mikrotubulus"
+    ]
+  },
+  {
+    question: "Apoteker melakukan stok opname. Nilai persediaan awal 100 jt, pembelian 400 jt, persediaan akhir 50 jt. Berapa nilai Harga Pokok Penjualan (HPP)?",
+    answer: "450 juta",
+    options: ["350 juta", "400 juta", "450 juta", "500 juta", "550 juta"]
+  },
+  {
+    question: "Berapa nilai pKa jika suatu basa lemah pada pH 10 terionisasi sebanyak 50%?",
+    answer: "10",
+    options: ["4", "7", "10", "12", "14"]
+  },
+  {
+    question: "Sesuai CPOB, sediaan steril yang dibuat dengan teknik aseptik (bukan sterilisasi akhir) harus dilakukan di area...",
+    answer: "Kelas A dengan latar belakang Kelas B",
+    options: ["Kelas A dengan latar belakang Kelas B", "Kelas B saja", "Kelas C saja", "Kelas D", "Kelas E"]
+  },
+  {
+    question: "Pasien dengan neuropati perifer akibat kemoterapi diberikan Pregabalin. Apa golongan obat ini?",
+    answer: "Antikonvulsan (Analog GABA)",
+    options: ["NSAID", "Opioid", "Antikonvulsan (Analog GABA)", "Antidepresan TCA", "Kortikosteroid"]
+  },
+  {
+    question: "Berapa mL etanol 95% yang harus dicampur dengan air untuk mendapatkan 250 mL etanol 70%?",
+    answer: "184,2 mL",
+    options: ["150,5 mL", "175,0 mL", "184,2 mL", "200,0 mL", "210,5 mL"]
+  },
+  {
+    question: "Identifikasi kualitatif saponin (Uji Buih) dinyatakan positif jika buih tetap stabil selama 10 menit setelah penambahan 1 tetes...",
+    answer: "HCl 2N",
+    options: ["H2SO4 pekat", "HCl 2N", "NaOH 1N", "FeCl3", "Alkohol"]
+  },
+  {
+    question: "Mekanisme kerja obat antivirus Acyclovir adalah...",
+    answer: "Menghambat DNA polimerase virus setelah difosforilasi oleh timidin kinase virus",
+    options: [
+      "Menghambat uncoating virus",
+      "Menghambat protease virus",
+      "Menghambat DNA polimerase virus setelah difosforilasi oleh timidin kinase virus",
+      "Menghambat neuraminidase",
+      "Menghambat integrase"
+    ]
+  },
+  {
+    question: "Berapa gram perak nitrat yang dibutuhkan untuk membuat 50 mL larutan 0,05 N? (BM AgNO3 = 170)",
+    answer: "0,425 gram",
+    options: ["0,170 gram", "0,425 gram", "0,850 gram", "1,700 gram", "0,085 gram"]
+  },
+  {
+    question: "Pasien anak didiagnosis kejang demam. Dokter memberikan Diazepam rektal. Apa edukasi cara pakai yang benar?",
+    answer: "Masukkan ujung aplikator ke dubur, tekan tube hingga kosong, tarik sambil tetap ditekan",
+    options: [
+      "Diminum segera setelah makan",
+      "Masukkan ujung aplikator ke dubur, tekan tube hingga kosong, tarik sambil tetap ditekan",
+      "Gunakan seperti salep di area luar dubur",
+      "Larutkan dalam air sebelum digunakan",
+      "Dinginkan di freezer sebelum dimasukkan"
+    ]
+  },
+  {
+    question: "Berapa nilai hRf jika jarak tempuh senyawa adalah 6 cm dan jarak tempuh pelarut adalah 12 cm?",
+    answer: "50",
+    options: ["0,5", "5", "50", "60", "75"]
+  },
+  {
+    question: "Industri farmasi memproduksi tablet. Ditemukan masalah 'Lamination', yaitu tablet terpisah menjadi beberapa lapisan horizontal. Penyebab utamanya adalah...",
+    answer: "Udara yang terjebak dalam granul saat pengempaan",
+    options: [
+      "Granul terlalu lembab",
+      "Zat pengikat terlalu banyak",
+      "Udara yang terjebak dalam granul saat pengempaan",
+      "Punch dan die terlalu longgar",
+      "Tekanan pengempaan terlalu rendah"
+    ]
+  },
+  {
+    question: "Pasien penderita PPOK mendapatkan Tiotropium bromida. Apa golongan obat ini?",
+    answer: "LAMA (Long-Acting Muscarinic Antagonist)",
+    options: ["SABA", "LABA", "SAMA", "LAMA (Long-Acting Muscarinic Antagonist)", "ICS"]
+  },
+  {
+    question: "Berapa mL larutan stok 20% yang dibutuhkan untuk membuat 1 liter larutan 0,5%?",
+    answer: "25 mL",
+    options: ["10 mL", "25 mL", "50 mL", "100 mL", "5 mL"]
+  },
+  {
+    question: "Dalam statistik, untuk menguji hubungan antara dua variabel kategori (misal: jenis kelamin vs kepatuhan minum obat), digunakan uji...",
+    answer: "Chi-Square Test",
+    options: ["T-Test", "ANOVA", "Pearson Correlation", "Chi-Square Test", "Regression"]
+  },
+  {
+    question: "Pasien dengan hipertiroidisme hamil trimester pertama. Obat anti-tiroid manakah yang menjadi pilihan utama?",
+    answer: "Propiltiourasil (PTU)",
+    options: ["Metimazol", "Propiltiourasil (PTU)", "Iodium Radioaktif", "Lugol", "Propranolol"]
+  },
+  {
+    question: "Berapa gram glukosa yang dibutuhkan untuk membuat 250 mL larutan isotonis (E Glukosa = 0,16)?",
+    answer: "14,06 gram",
+    options: ["2,25 gram", "14,06 gram", "5,62 gram", "22,50 gram", "0,90 gram"]
+  },
+  {
+    question: "Mekanisme kerja obat laksatif golongan pencahar pembentuk massa (Bulk-forming) adalah...",
+    answer: "Menyerap air dan mengembang sehingga merangsang gerak peristaltik",
+    options: [
+      "Melubrikasi feses",
+      "Menarik air secara osmotik",
+      "Menyerap air dan mengembang sehingga merangsang gerak peristaltik",
+      "Merangsang saraf dinding usus secara kimiawi",
+      "Menghambat absorpsi natrium"
+    ]
+  },
+  {
+    question: "Berapa mEq natrium dalam 500 mL larutan Na-Bikarbonat 8,4%? (BM NaHCO3 = 84, Valensi = 1)",
+    answer: "500 mEq",
+    options: ["100 mEq", "250 mEq", "500 mEq", "840 mEq", "50 mEq"]
+  },
+  {
+    question: "Dalam spektrofotometri UV, pelarut yang sering digunakan karena memiliki 'cut-off' panjang gelombang yang rendah (sekitar 190 nm) adalah...",
+    answer: "Air atau Metanol",
+    options: ["Kloroform", "Benzena", "Aseton", "Air atau Metanol", "Etil Asetat"]
+  },
+  {
+    question: "Pasien laki-laki mengeluh impotensi dan pembesaran payudara (ginekomastia) setelah rutin minum obat lambung. Manakah obat yang menyebabkan hal ini?",
+    answer: "Simetidin",
+    options: ["Ranitidin", "Omeprazol", "Simetidin", "Antasida", "Sukralfat"]
+  },
+  {
+    question: "Berapa mL sediaan suspensi 125 mg/5 mL yang harus diberikan jika dosis yang diminta adalah 250 mg?",
+    answer: "10 mL",
+    options: ["2,5 mL", "5 mL", "7,5 mL", "10 mL", "15 mL"]
+  },
+  {
+    question: "Identifikasi mikroskopis pada daun digitalis (Digitalis purpurea) menunjukkan ciri khas berupa...",
+    answer: "Rambut penutup multiseluler yang ujungnya runcing dan rambut kelenjar",
+    options: [
+      "Kristal kalsium oksalat bentuk jarum",
+      "Rambut penutup multiseluler yang ujungnya runcing dan rambut kelenjar",
+      "Stomata tipe anomositik saja",
+      "Sel batu (sklereid)",
+      "Sistolit"
+    ]
+  },
+  {
+    question: "Pasien depresi yang sedang menggunakan Sertralin (SSRI) dilarang mengonsumsi suplemen St. John's Wort karena risiko...",
+    answer: "Sindrom Serotonin",
+    options: ["Krisis Hipertensi", "Sindrom Serotonin", "Gagal ginjal", "Hepatotoksisitas", "Aritmia"]
+  },
+  {
+    question: "Berapa gram NaOH (BM 40) yang harus ditimbang untuk membuat 250 mL larutan 0,1 M?",
+    answer: "1 gram",
+    options: ["0,4 gram", "1 gram", "4 gram", "10 gram", "2,5 gram"]
+  },
+  {
+    question: "Sesuai regulasi terbaru, masa berlaku Surat Izin Kerja Apoteker (SIKA) mengikuti masa berlaku...",
+    answer: "Surat Tanda Registrasi Apoteker (STRA)",
+    options: ["Ijazah", "KTP", "Surat Tanda Registrasi Apoteker (STRA)", "Sertifikat Kompetensi", "SK Pegawai"]
+  },
+  {
+    question: "Mekanisme kerja obat anti-obesitas Orlistat adalah...",
+    answer: "Menghambat enzim lipase lambung dan pankreas sehingga lemak tidak diserap",
+    options: [
+      "Menekan nafsu makan di pusat saraf",
+      "Meningkatkan pembakaran lemak",
+      "Menghambat enzim lipase lambung dan pankreas sehingga lemak tidak diserap",
+      "Meningkatkan ekskresi gula",
+      "Menghambat absorpsi karbohidrat"
+    ]
+  },
+  {
+    question: "Berapa nilai pOH larutan jika konsentrasi ion H+ adalah 0,001 M?",
+    answer: "11",
+    options: ["3", "7", "11", "14", "1"]
+  },
+  {
+    question: "Dalam pembuatan emulsi, fenomena di mana butiran minyak bergabung membentuk lapisan minyak yang terpisah secara permanen disebut...",
+    answer: "Cracking (Koalesens)",
+    options: ["Creaming", "Flocculation", "Cracking (Koalesens)", "Inversi Fase", "Deflokulasi"]
+  },
+  {
+    question: "Pasien dengan epilepsi yang mengonsumsi Fenitoin mengalami pembengkakan gusi. Apa saran non-farmakologi yang paling tepat?",
+    answer: "Menjaga kebersihan mulut dengan menyikat gigi secara rutin dan benar",
+    options: [
+      "Berhenti minum obat segera",
+      "Minum antibiotik",
+      "Menjaga kebersihan mulut dengan menyikat gigi secara rutin dan benar",
+      "Membilas mulut dengan air garam tiap jam",
+      "Mengurangi makan makanan manis"
+    ]
+  },
+  {
+    question: "Berapa gram laktosa yang dibutuhkan untuk pengenceran 1:10 dari 50 mg zat aktif?",
+    answer: "450 mg",
+    options: ["50 mg", "450 mg", "500 mg", "100 mg", "250 mg"]
+  },
+  {
+    question: "Zat tambahan tablet yang berfungsi untuk memastikan tablet hancur di dalam saluran cerna disebut...",
+    answer: "Disintegran",
+    options: ["Lubrikan", "Glidan", "Binder", "Disintegran", "Filler"]
+  },
+  {
+    question: "Pasien keturunan Asia Timur yang akan mengonsumsi Allopurinol disarankan melakukan skrining genetik HLA-B*5801. Apa tujuan skrining ini?",
+    answer: "Mencegah risiko reaksi hipersensitivitas berat (Stevens-Johnson Syndrome)",
+    options: [
+      "Menentukan dosis yang tepat",
+      "Mencegah risiko reaksi hipersensitivitas berat (Stevens-Johnson Syndrome)",
+      "Memastikan efektivitas obat",
+      "Melihat interaksi dengan makanan",
+      "Menghindari resistensi obat"
+    ]
+  },
+  {
+    question: "Dalam terapi kanker payudara, obat Trastuzumab hanya efektif jika pasien memiliki ekspresi berlebih pada reseptor...",
+    answer: "HER2 (Human Epidermal Growth Factor Receptor 2)",
+    options: ["EGFR", "HER2 (Human Epidermal Growth Factor Receptor 2)", "VEGF", "CD20", "Estrogen Receptor"]
+  },
+  {
+    question: "Industri farmasi di Indonesia melakukan uji stabilitas jangka panjang. Sesuai zona iklim IVB, kondisi penyimpanan yang digunakan adalah...",
+    answer: "30°C ± 2°C / 75% RH ± 5% RH",
+    options: [
+      "25°C ± 2°C / 60% RH ± 5% RH",
+      "30°C ± 2°C / 65% RH ± 5% RH",
+      "30°C ± 2°C / 75% RH ± 5% RH",
+      "40°C ± 2°C / 75% RH ± 5% RH",
+      "20°C ± 2°C / 45% RH ± 5% RH"
+    ]
+  },
+  {
+    question: "Berapa gram NaCl yang harus ditambahkan ke 500 mL larutan Atropin Sulfat 0,5% (E=0,13) agar larutan tersebut isotonis?",
+    answer: "4,175 gram",
+    options: ["0,325 gram", "0,900 gram", "4,175 gram", "4,500 gram", "3,825 gram"]
+  },
+  {
+    question: "Antibodi monoklonal yang bekerja dengan cara menghambat angiogenesis (pembentukan pembuluh darah baru pada tumor) adalah...",
+    answer: "Bevacizumab",
+    options: ["Rituximab", "Cetuximab", "Bevacizumab", "Infliximab", "Adalimumab"]
+  },
+  {
+    question: "Berapa mEq magnesium dalam 10 mL larutan MgSO4 20%? (BM MgSO4 = 120, Valensi = 2)",
+    answer: "33,3 mEq",
+    options: ["16,7 mEq", "33,3 mEq", "66,6 mEq", "120 mEq", "20 mEq"]
+  },
+  {
+    question: "Pasien dengan depresi diberikan Fluoxetin. Berapa lama waktu yang dibutuhkan (onset) hingga efek terapeutik maksimal obat ini terlihat?",
+    answer: "2 - 4 minggu",
+    options: ["1 - 2 jam", "1 - 2 hari", "2 - 4 minggu", "2 - 3 bulan", "Segera setelah diminum"]
+  },
+  {
+    question: "Apoteker di bagian QC melakukan uji sterilitas menggunakan media Soybean Casein Digest Medium (SCDM). Media ini terutama digunakan untuk menumbuhkan...",
+    answer: "Bakteri aerob dan jamur",
+    options: ["Bakteri anaerob", "Bakteri aerob dan jamur", "Virus", "Hanya spora", "Bakteri gram negatif saja"]
+  },
+  {
+    question: "Berapa nilai pKa jika suatu obat bersifat asam lemah dan pada pH 5,0 terdapat 50% dalam bentuk tak terionkan?",
+    answer: "5",
+    options: ["3", "4", "5", "6", "7"]
+  },
+  {
+    question: "Mekanisme kerja obat imunosupresan Siklosporin adalah...",
+    answer: "Menghambat enzim kalsineurin untuk mencegah aktivasi sel T",
+    options: [
+      "Menghambat sintesis purin",
+      "Menghambat enzim kalsineurin untuk mencegah aktivasi sel T",
+      "Menghambat reseptor IL-2",
+      "Menyebabkan lisis sel B",
+      "Menghambat mTOR"
+    ]
+  },
+  {
+    question: "Dalam CPOB, sistem tata udara (AHU) yang menggunakan 100% udara segar (fresh air) tanpa resirkulasi biasanya digunakan untuk ruang produksi...",
+    answer: "Produk Penisilin atau Hormon",
+    options: ["Tablet reguler", "Produk Penisilin atau Hormon", "Sirup non-steril", "Kapsul kosong", "Salep kulit"]
+  },
+  {
+    question: "Berapa gram laktosa yang dibutuhkan untuk membuat sediaan pengenceran 1:20 dari 25 mg zat X?",
+    answer: "475 mg",
+    options: ["25 mg", "475 mg", "500 mg", "100 mg", "225 mg"]
+  },
+  {
+    question: "Pasien TB mengalami efek samping kesemutan dan mati rasa di ujung jari. Suplemen apa yang harus diberikan?",
+    answer: "Vitamin B6 (Piridoksin)",
+    options: ["Vitamin B1", "Vitamin B6 (Piridoksin)", "Vitamin B12", "Vitamin C", "Zat Besi"]
+  },
+  {
+    question: "Industri farmasi membuat sediaan emulsi. Fenomena di mana terjadi perubahan tipe emulsi dari m/a menjadi a/m disebut...",
+    answer: "Inversi Fase",
+    options: ["Creaming", "Cracking", "Inversi Fase", "Flokulasi", "Deflokulasi"]
+  },
+  {
+    question: "Berapa mL larutan stok 15% b/v yang dibutuhkan untuk membuat 300 mL larutan 0,05% b/v?",
+    answer: "1 mL",
+    options: ["0,5 mL", "1 mL", "2 mL", "3 mL", "5 mL"]
+  },
+  {
+    question: "Antidotum untuk keracunan insektisida organofosfat (seperti malathion) yang bekerja mereaktivasi enzim asetilkolinesterase adalah...",
+    answer: "Pralidoksim (2-PAM)",
+    options: ["Atropin", "Pralidoksim (2-PAM)", "Nalokson", "Dimercaprol", "Asetilsistein"]
+  },
+  {
+    question: "Berapa nilai HLB campuran dari 5 g Span 60 (HLB 4,7) dan 5 g Tween 60 (HLB 14,9)?",
+    answer: "9,8",
+    options: ["4,7", "9,8", "14,9", "10,2", "11,5"]
+  },
+  {
+    question: "Dalam spektrofotometri, hukum Lambert-Beer menyatakan bahwa absorbansi berbanding lurus dengan...",
+    answer: "Konsentrasi dan tebal larutan (kuvet)",
+    options: [
+      "Konsentrasi dan panjang gelombang",
+      "Konsentrasi dan tebal larutan (kuvet)",
+      "Transmitansi dan konsentrasi",
+      "Suhu dan konsentrasi",
+      "Luas permukaan kuvet"
+    ]
+  },
+  {
+    question: "Pasien penderita asma menggunakan Teofilin dan juga merokok. Apa dampak merokok terhadap kadar Teofilin dalam darah?",
+    answer: "Kadar Teofilin menurun karena asap rokok menginduksi enzim metabolisme",
+    options: [
+      "Kadar Teofilin meningkat",
+      "Kadar Teofilin menurun karena asap rokok menginduksi enzim metabolisme",
+      "Tidak ada efek",
+      "Meningkatkan absorpsi Teofilin",
+      "Menurunkan ekskresi Teofilin"
+    ]
+  },
+  {
+    question: "Berapa banyak cairan yang harus ditambahkan ke 100 mL sirup 50% agar menjadi 10%?",
+    answer: "400 mL",
+    options: ["100 mL", "200 mL", "300 mL", "400 mL", "500 mL"]
+  },
+  {
+    question: "Mekanisme kerja obat pencahar bisakodil adalah...",
+    answer: "Stimulan (merangsang peristaltik usus)",
+    options: ["Osmotik", "Bulk-forming", "Stimulan (merangsang peristaltik usus)", "Emolien", "Lubrikan"]
+  },
+  {
+    question: "Berapa nilai pH larutan NaOH 0,01 M?",
+    answer: "12",
+    options: ["2", "7", "10", "12", "14"]
+  },
+  {
+    question: "Zat yang ditambahkan ke dalam tablet untuk meningkatkan ikatan antar partikel sehingga tablet tidak mudah rapuh disebut...",
+    answer: "Binder (Pengikat)",
+    options: ["Filler", "Binder (Pengikat)", "Disintegran", "Lubrikan", "Glidan"]
+  },
+  {
+    question: "Pasien dengan hipertensi dan diabetes mellitus tipe 2 paling tepat diberikan terapi lini pertama golongan...",
+    answer: "ACE Inhibitor atau ARB",
+    options: ["Beta Blocker", "CCB", "Diuretik", "ACE Inhibitor atau ARB", "Alfa Blocker"]
+  },
+  {
+    question: "Berapa gram perak nitrat yang dibutuhkan untuk membuat 200 mL larutan 0,01 N? (BM AgNO3 = 170)",
+    answer: "0,34 gram",
+    options: ["0,17 gram", "0,34 gram", "1,70 gram", "3,40 gram", "0,034 gram"]
+  },
+  {
+    question: "Identifikasi rimpang kunyit (Curcuma domestica) menggunakan pereaksi basa (seperti KOH atau NaOH) akan menghasilkan warna merah karena adanya senyawa...",
+    answer: "Kurkuminoid",
+    options: ["Atasiri", "Kurkuminoid", "Alkaloid", "Saponin", "Tanin"]
+  },
+  {
+    question: "Dalam manajemen farmasi, metode analisis yang digunakan untuk menentukan prioritas pengadaan berdasarkan nilai investasi tahunan disebut...",
+    answer: "Analisis ABC",
+    options: ["Analisis VEN", "Analisis ABC", "EOQ", "Buffer Stock", "Stock Opname"]
+  },
+  {
+    question: "Mekanisme kerja obat antivirus Oseltamivir adalah...",
+    answer: "Inhibitor neuraminidase",
+    options: ["Inhibitor DNA polimerase", "Inhibitor neuraminidase", "Inhibitor protease", "Inhibitor integrase", "Inhibitor uncoating"]
+  },
+  {
+    question: "Berapa mL sediaan elixir 250 mg/5 mL yang dibutuhkan jika pasien diminta minum 125 mg?",
+    answer: "2,5 mL",
+    options: ["1,25 mL", "2,5 mL", "5 mL", "10 mL", "7,5 mL"]
+  },
+  {
+    question: "Pasien yang menggunakan Digoksin mengalami mual, muntah, dan melihat lingkaran cahaya (halo). Ini adalah tanda keracunan. Antidotum spesifiknya adalah...",
+    answer: "Digoxin Immune Fab",
+    options: ["Atropin", "Digoxin Immune Fab", "Kalsium Glukonat", "Asetilsistein", "Kalium Klorida"]
+  },
+  {
+    question: "Berapa gram zat aktif dalam 20 gram salep dengan kadar 2,5%?",
+    answer: "0,5 gram",
+    options: ["0,05 gram", "0,25 gram", "0,5 gram", "1 gram", "0,1 gram"]
+  },
+  {
+    question: "Parameter yang menggambarkan kemampuan suatu metode analisis untuk memberikan hasil yang sama secara berulang dari sampel yang sama disebut...",
+    answer: "Presisi",
+    options: ["Akurasi", "Presisi", "Spesifisitas", "Linieritas", "Batas Deteksi"]
+  },
+  {
+    question: "Pasien laki-laki mengeluh nyeri sendi mendadak di jempol kaki. Dokter mendiagnosa serangan Gout Akut. Obat pilihan pertama untuk meredakan nyeri akut tersebut adalah...",
+    answer: "NSAID atau Kolkisin",
+    options: ["Allopurinol", "NSAID atau Kolkisin", "Probenesid", "Febuxostat", "Vitamin C"]
+  },
+  {
+    question: "Berapa mEq natrium dalam 100 mL infus NaCl 3% (hipertonis)? (Ar Na=23, Cl=35,5)",
+    answer: "512,8 mEq",
+    options: ["154 mEq", "300 mEq", "512,8 mEq", "1000 mEq", "51,2 mEq"]
+  },
+  {
+    question: "Apoteker di industri mengukur sudut henti serbuk. Jika sudut henti didapat 25 derajat, maka sifat alirnya adalah...",
+    answer: "Sangat Baik (Excellent)",
+    options: ["Sangat Baik (Excellent)", "Baik", "Cukup", "Buruk", "Sangat Buruk"]
+  },
+  {
+    question: "Mekanisme kerja obat antidepresan golongan Amitriptilin (TCA) adalah...",
+    answer: "Menghambat reuptake Norepinefrin dan Serotonin",
+    options: [
+      "Menghambat MAO",
+      "Menghambat reuptake Norepinefrin dan Serotonin",
+      "Menghambat reuptake Dopamin saja",
+      "Agonis GABA",
+      "Antagonis NMDA"]
+  },
+  {
+    question: "Berapa mL larutan NaOH 1 N yang dibutuhkan untuk membuat 500 mL larutan NaOH 0,1 N?",
+    answer: "50 mL",
+    options: ["5 mL", "10 mL", "50 mL", "100 mL", "250 mL"]
+  },
+  {
+    question: "Pasien penderita epilepsi yang menggunakan Karbamazepin mengalami ruam kulit. Pemeriksaan genetik HLA apa yang disarankan untuk etnis Asia?",
+    answer: "HLA-B*1502",
+    options: ["HLA-B*5801", "HLA-B*1502", "HLA-A*3101", "HLA-DQ8", "HLA-DR4"]
+  },
+  {
+    question: "Berapa nilai hRf jika bercak berpindah 4 cm dan jarak pelarut 10 cm?",
+    answer: "40",
+    options: ["0,4", "4", "40", "10", "100"]
+  },
+  {
+    question: "Industri farmasi melakukan uji disolusi sediaan lepas lambat (extended release). Berapa jumlah tahap pengujian minimal menurut Farmakope?",
+    answer: "3 Tahap (L1, L2, L3)",
+    options: ["1 Tahap", "2 Tahap", "3 Tahap (L1, L2, L3)", "4 Tahap", "5 Tahap"]
+  },
+  {
+    question: "Pasien dengan BPH (Benign Prostatic Hyperplasia) mendapatkan Tamsulosin. Apa mekanisme kerjanya?",
+    answer: "Antagonis reseptor alfa-1A adrenergik di prostat",
+    options: [
+      "Inhibitor 5-alfa reduktase",
+      "Antagonis reseptor alfa-1A adrenergik di prostat",
+      "Agonis kolinergik",
+      "Beta blocker",
+      "Antagonis kalsium"]
+  },
+  {
+    question: "Berapa banyak tablet 100 mg yang dibutuhkan untuk membuat 500 mL larutan 200 ppm?",
+    answer: "1 tablet",
+    options: ["0,5 tablet", "1 tablet", "2 tablet", "5 tablet", "10 tablet"]
+  },
+  {
+    question: "Dalam spektrofotometri IR, daerah serapan gugus fungsi -OH (hidroksil) biasanya muncul pada bilangan gelombang...",
+    answer: "3200 - 3600 cm-1",
+    options: ["1700 cm-1", "3200 - 3600 cm-1", "2900 cm-1", "1000 cm-1", "2200 cm-1"]
+  },
+  {
+    question: "Pasien wanita hamil mengalami mual muntah (morning sickness) yang parah. Obat lini pertama yang aman menurut FDA adalah...",
+    answer: "Piridoksin (Vitamin B6)",
+    options: ["Ondansetron", "Piridoksin (Vitamin B6)", "Metoklopramid", "Domperidon", "Simetidin"]
+  },
+  {
+    question: "Berapa gram perak nitrat (BM 170) yang dibutuhkan untuk membuat 250 mL larutan 0,2 M?",
+    answer: "8,5 gram",
+    options: ["4,25 gram", "8,5 gram", "17 gram", "34 gram", "2,12 gram"]
+  },
+  {
+    question: "Mekanisme kerja obat anti-hipertensi golongan Klonidin adalah...",
+    answer: "Agonis reseptor alfa-2 adrenergik sentral",
+    options: [
+      "Antagonis alfa-1",
+      "Agonis reseptor alfa-2 adrenergik sentral",
+      "Beta blocker",
+      "Penghambat ACE",
+      "Penghambat Renin"]
+  },
+  {
+    question: "Berapa mL alkohol 70% yang dapat dibuat dari 500 mL alkohol 96%?",
+    answer: "685,7 mL",
+    options: ["500 mL", "685,7 mL", "700 mL", "960 mL", "350 mL"]
+  },
+  {
+    question: "Dalam kromatografi gas, parameter yang digunakan untuk identifikasi kualitatif suatu senyawa adalah...",
+    answer: "Waktu Retensi (Retention Time)",
+    options: ["Luas Puncak", "Tinggi Puncak", "Waktu Retensi (Retention Time)", "Resolusi", "Faktor Kapasitas"]
+  },
+  {
+    question: "Pasien dengan syok anafilaktik segera diberikan injeksi Epinefrin (Adrenalin). Rute pemberian yang paling direkomendasikan adalah...",
+    answer: "Intramuskular (IM) di paha bagian luar",
+    options: [
+      "Intravena (IV) cepat",
+      "Subkutan (SC)",
+      "Intramuskular (IM) di paha bagian luar",
+      "Intradermal",
+      "Oral"]
+  },
+  {
+    question: "Berapa nilai pOH jika pH larutan adalah 4,5?",
+    answer: "9,5",
+    options: ["4,5", "7,0", "9,5", "10,5", "14"]
+  },
+  {
+    question: "Radiofarmaka Technetium-99m (Tc-99m) adalah isotop yang paling sering digunakan untuk diagnostik. Berapakah waktu paruh (t 1/2) dari Tc-99m?",
+    answer: "6 Jam",
+    options: ["6 Jam", "13 Jam", "8 Hari", "67 Jam", "110 Menit"]
+  },
+  {
+    question: "Dalam kasus dugaan keracunan Arsenik kronis, sampel biologis mana yang paling baik digunakan untuk mendeteksi paparan yang sudah terjadi berbulan-bulan yang lalu?",
+    answer: "Rambut dan Kuku",
+    options: ["Darah", "Urin", "Cairan Lambung", "Rambut dan Kuku", "Air Liur"]
+  },
+  {
+    question: "Berapa gram NaCl yang harus ditambahkan pada 250 mL larutan Dekstrosa 1% (E=0,16) agar menjadi isotonis?",
+    answer: "1,85 gram",
+    options: ["0,4 gram", "0,9 gram", "1,85 gram", "2,25 gram", "1,25 gram"]
+  },
+  {
+    question: "Pasien penderita kanker tiroid diberikan terapi radioaktif Iodium-131 (I-131). Apa jenis radiasi utama yang dipancarkan oleh I-131 untuk tujuan terapi sel kanker tersebut?",
+    answer: "Radiasi Beta",
+    options: ["Radiasi Alfa", "Radiasi Beta", "Radiasi Gamma", "Sinar-X", "Neutron"]
+  },
+  {
+    question: "Seorang apoteker di bagian RnD merancang sediaan Liposom. Keuntungan utama sistem penghantaran Liposom adalah...",
+    answer: "Mampu membawa zat aktif hidrofilik dan lipofilik sekaligus serta mengurangi toksisitas",
+    options: [
+      "Harga produksi sangat murah",
+      "Mampu membawa zat aktif hidrofilik dan lipofilik sekaligus serta mengurangi toksisitas",
+      "Sediaan sangat stabil pada suhu kamar",
+      "Tidak memerlukan teknologi sterilisasi khusus",
+      "Hanya bisa digunakan untuk rute oral"
+    ]
+  },
+  {
+    question: "Berapa mEq kalium dalam 10 mL larutan Kalium Fosfat (K2HPO4, BM=174) 17,4%? (Valensi K = 1, ada 2 atom K per molekul)",
+    answer: "20 mEq",
+    options: ["10 mEq", "20 mEq", "30 mEq", "40 mEq", "17,4 mEq"]
+  },
+  {
+    question: "Pasien dengan overdosis Benzodiazepin dibawa ke IGD. Antidotum spesifik yang harus diberikan adalah...",
+    answer: "Flumazenil",
+    options: ["Nalokson", "Flumazenil", "Atropin", "Asetilsistein", "Etanol"]
+  },
+  {
+    question: "Dalam analisis forensik, uji penapisan (screening) untuk golongan amfetamin menggunakan pereaksi Marquis akan memberikan warna...",
+    answer: "Jingga ke Cokelat",
+    options: ["Ungu", "Biru", "Jingga ke Cokelat", "Hijau", "Merah"]
+  },
+  {
+    question: "Berapa nilai pKa jika suatu asam lemah pada pH 4,0 terionisasi sebanyak 1%?",
+    answer: "6",
+    options: ["2", "3", "4", "5", "6"]
+  },
+  {
+    question: "Mekanisme kerja obat antineoplastik Cisplatin adalah...",
+    answer: "Membentuk ikatan silang (cross-link) dengan DNA sehingga menghambat replikasi",
+    options: [
+      "Inhibitor topoisomerase",
+      "Antimetabolit purin",
+      "Membentuk ikatan silang (cross-link) dengan DNA sehingga menghambat replikasi",
+      "Menghambat polimerisasi mikrotubulus",
+      "Inhibitor tirosin kinase"
+    ]
+  },
+  {
+    question: "Sesuai CPOB, wadah untuk sediaan radiofarmaka harus diberi label khusus dengan simbol 'Trefoil'. Warna standar simbol tersebut adalah...",
+    answer: "Magenta atau Hitam di atas latar belakang Kuning",
+    options: [
+      "Merah di atas Putih",
+      "Hijau di atas Putih",
+      "Magenta atau Hitam di atas latar belakang Kuning",
+      "Kuning di atas Biru",
+      "Tengkorak Putih di atas Hitam"
+    ]
+  },
+  {
+    question: "Berapa gram glukosa (E=0,16) yang dibutuhkan untuk membuat 100 mL larutan yang mengandung 0,2 gram Ephedrin HCl (E=0,3) menjadi isotonis?",
+    answer: "5,25 gram",
+    options: ["0,84 gram", "5,25 gram", "5,62 gram", "4,50 gram", "0,90 gram"]
+  },
+  {
+    question: "Pasien penderita Tuberkulosis mengeluh gangguan penglihatan dan tidak bisa membedakan warna merah-hijau. Obat manakah yang menyebabkan efek samping tersebut?",
+    answer: "Etambutol",
+    options: ["Rifampisin", "Isoniazid", "Pirazinamid", "Etambutol", "Streptomisin"]
+  },
+  {
+    question: "Industri farmasi memproduksi emulsi dengan HLB butuh 12. Tersedia Tween 80 (HLB 15) dan Span 80 (HLB 4,3). Berapa persentase Tween 80 yang dibutuhkan?",
+    answer: "72%",
+    options: ["28%", "50%", "72%", "80%", "60%"]
+  },
+  {
+    question: "Berapa mL larutan stok 1000 ppm yang dibutuhkan untuk membuat 200 mL larutan 50 ppm?",
+    answer: "10 mL",
+    options: ["5 mL", "10 mL", "15 mL", "20 mL", "2 mL"]
+  },
+  {
+    question: "Antidotum untuk keracunan metanol yang bekerja dengan menghambat enzim alkohol dehidrogenase secara kompetitif adalah...",
+    answer: "Fomepizole atau Etanol",
+    options: ["N-asetilsistein", "Fomepizole atau Etanol", "Atropin", "Natrium Tiosulfat", "EDTA"]
+  },
+  {
+    question: "Berapa nilai HLB campuran dari 30% zat A (HLB 10) dan 70% zat B (HLB 15)?",
+    answer: "13,5",
+    options: ["11,5", "12,5", "13,5", "14,5", "15,0"]
+  },
+  {
+    question: "Dalam analisis Kromatografi Lapis Tipis (KLT), senyawa yang bersifat lebih non-polar akan memiliki nilai Rf yang...",
+    answer: "Lebih besar (pada fase diam silika gel)",
+    options: ["Lebih kecil", "Lebih besar", "Sama dengan nol", "Sama dengan satu", "Tetap di titik penotolan"]
+  },
+  {
+    question: "Pasien geriatri diberikan obat golongan Benzodiazepin kerja panjang seperti Diazepam. Mengapa hal ini harus dihindari?",
+    answer: "Risiko akumulasi dan menyebabkan inkoordinasi motorik (risiko jatuh)",
+    options: [
+      "Efeknya terlalu cepat hilang",
+      "Risiko hipertensi",
+      "Risiko akumulasi dan menyebabkan inkoordinasi motorik (risiko jatuh)",
+      "Menyebabkan gangguan ginjal akut",
+      "Menyebabkan ketergantungan instan"
+    ]
+  },
+  {
+    question: "Berapa banyak kapsul 250 mg yang bisa dibuat dari 12,5 gram zat aktif?",
+    answer: "50 Kapsul",
+    options: ["25 Kapsul", "40 Kapsul", "50 Kapsul", "100 Kapsul", "125 Kapsul"]
+  },
+  {
+    question: "Mekanisme kerja obat diuretik hemat kalium seperti Amilorid adalah...",
+    answer: "Menghambat kanal Natrium (ENaC) di tubulus distal dan duktus kolektivus",
+    options: [
+      "Antagonis reseptor Aldosteron",
+      "Menghambat kanal Natrium (ENaC) di tubulus distal dan duktus kolektivus",
+      "Menghambat simporter Na-K-2Cl",
+      "Menghambat enzim karbonik anhidrase",
+      "Menghambat simporter Na-Cl"
+    ]
+  },
+  {
+    question: "Berapa pH larutan HCl 0,001 M?",
+    answer: "3",
+    options: ["1", "2", "3", "4", "7"]
+  },
+  {
+    question: "Zat tambahan tablet yang berfungsi untuk memudahkan pengeluaran tablet dari dalam lubang die saat pengempaan disebut...",
+    answer: "Lubrikan (Pelicin)",
+    options: ["Glidan", "Lubrikan (Pelicin)", "Binder", "Disintegran", "Filler"]
+  },
+  {
+    question: "Pasien dengan asma persisten sedang mendapatkan kombinasi LABA dan Kortikosteroid Inhalasi. Manakah kombinasi yang sesuai?",
+    answer: "Salmeterol dan Flutikason",
+    options: ["Salbutamol dan Budesonid", "Salmeterol dan Flutikason", "Formoterol dan Ipratropium", "Salmeterol dan Salbutamol", "Albuterol dan Prednison"]
+  },
+  {
+    question: "Berapa gram AgNO3 (BM 170) yang dibutuhkan untuk membuat 100 mL larutan 0,05 M?",
+    answer: "0,85 gram",
+    options: ["0,17 gram", "0,85 gram", "1,70 gram", "8,50 gram", "0,085 gram"]
+  },
+  {
+    question: "Identifikasi flavanoid dengan penambahan serbuk Magnesium dan HCl pekat (uji Shinoda) pada ekstrak akan memberikan warna...",
+    answer: "Merah, Kuning, atau Jingga",
+    options: ["Biru atau Hijau", "Merah, Kuning, atau Jingga", "Putih", "Hitam pekat", "Ungu"]
+  },
+  {
+    question: "Dalam manajemen farmasi, sistem penyimpanan obat di mana obat yang datang lebih dulu harus dikeluarkan lebih dulu disebut...",
+    answer: "FIFO (First In First Out)",
+    options: ["FEFO", "FIFO (First In First Out)", "LIFO", "Just In Time", "Alphabetical"]
+  },
+  {
+    question: "Mekanisme kerja antivirus Oseltamivir dalam terapi Influenza adalah...",
+    answer: "Menghambat pelepasan virion baru dari sel inang melalui inhibisi neuraminidase",
+    options: [
+      "Menghambat penetrasi virus",
+      "Menghambat replikasi RNA",
+      "Menghambat pelepasan virion baru dari sel inang melalui inhibisi neuraminidase",
+      "Menghambat translasi protein virus",
+      "Menghambat uncoating"
+    ]
+  },
+  {
+    question: "Berapa mL sirup yang diberikan jika dosis 100 mg dan sediaan memiliki kekuatan 250 mg/5 mL?",
+    answer: "2 mL",
+    options: ["1 mL", "2 mL", "3 mL", "4 mL", "5 mL"]
+  },
+  {
+    question: "Antidotum untuk keracunan besi (Iron) yang diberikan secara infus adalah...",
+    answer: "Deferoksamin",
+    options: ["EDTA", "Deferoksamin", "Penisilamin", "Dimercaprol", "Atropin"]
+  },
+  {
+    question: "Berapa gram zat aktif dalam 500 mL larutan dengan kadar 0,1% b/v?",
+    answer: "0,5 gram",
+    options: ["0,05 gram", "0,1 gram", "0,5 gram", "1 gram", "5 gram"]
+  },
+  {
+    question: "Parameter validasi metode analisis yang menunjukkan kemampuan metode untuk membedakan analit di tengah gangguan komponen lain (matriks) disebut...",
+    answer: "Spesifisitas (Selektivitas)",
+    options: ["Akurasi", "Presisi", "Spesifisitas (Selektivitas)", "Linieritas", "LOD"]
+  },
+  {
+    question: "Pasien penderita Parkinson yang menggunakan Levodopa harus menghindari konsumsi suplemen Vitamin B6 (Piridoksin) dosis tinggi. Mengapa?",
+    answer: "B6 meningkatkan konversi Levodopa menjadi Dopamin di perifer (sebelum masuk otak)",
+    options: [
+      "B6 menghambat absorpsi Levodopa",
+      "B6 meningkatkan efek samping mual",
+      "B6 meningkatkan konversi Levodopa menjadi Dopamin di perifer (sebelum masuk otak)",
+      "B6 merusak sirkulasi otak",
+      "B6 mempercepat ekskresi ginjal Levodopa"
+    ]
+  },
+  {
+    question: "Berapa mEq natrium dalam 1 liter larutan NaCl 0,9% (Isotonis)? (BM NaCl = 58,5)",
+    answer: "154 mEq",
+    options: ["77 mEq", "154 mEq", "308 mEq", "585 mEq", "100 mEq"]
+  },
+  {
+    question: "Dalam CPOB, area kelas B digunakan sebagai latar belakang untuk area kelas A. Berapa jumlah maksimal partikel ukuran ≥ 0,5 μm per m3 pada kondisi non-operasional di kelas B?",
+    answer: "3.520",
+    options: ["3.520", "352.000", "3.520.000", "20", "100"]
+  },
+  {
+    question: "Mekanisme kerja obat anti-aritmia kelas I (seperti Lidokain) adalah...",
+    answer: "Memblokade kanal Natrium (Na+)",
+    options: ["Memblokade kanal Kalium", "Memblokade kanal Natrium (Na+)", "Memblokade kanal Kalsium", "Beta blocker", "Agonis adrenergik"]
+  },
+  {
+    question: "Berapa mL HCl 12 N yang dibutuhkan untuk membuat 1 liter HCl 1 N?",
+    answer: "83,3 mL",
+    options: ["12 mL", "83,3 mL", "120 mL", "50 mL", "100 mL"]
+  },
+  {
+    question: "Pasien dengan HIV mengonsumsi Efavirenz. Kapan waktu minum obat yang paling disarankan untuk mengurangi efek samping sistem saraf pusat (seperti mimpi buruk)?",
+    answer: "Malam hari sebelum tidur (saat perut kosong)",
+    options: ["Pagi hari setelah sarapan", "Siang hari", "Malam hari sebelum tidur (saat perut kosong)", "Bersama makanan berlemak", "Kapan saja"]
+  },
+  {
+    question: "Berapa nilai hRf jika bercak berpindah 7,5 cm dan jarak pelarut 10 cm?",
+    answer: "75",
+    options: ["0,75", "7,5", "75", "10", "1"]
+  },
+  {
+    question: "Industri farmasi melakukan uji kerapuhan tablet (Friability). Berapa batas maksimal kehilangan bobot yang diperbolehkan?",
+    answer: "Tidak lebih dari 1%",
+    options: ["1%", "2%", "0,5%", "5%", "0,1%"]
+  },
+  {
+    question: "Mekanisme kerja obat hipertensi golongan Inhibitor Renin (seperti Aliskiren) adalah...",
+    answer: "Menghambat konversi Angiotensinogen menjadi Angiotensin I",
+    options: [
+      "Menghambat enzim ACE",
+      "Memblokade reseptor AT1",
+      "Menghambat konversi Angiotensinogen menjadi Angiotensin I",
+      "Menghambat sekresi Aldosteron",
+      "Meningkatkan pelepasan bradikinin"
+    ]
+  },
+  {
+    question: "Berapa banyak tablet 50 mg yang dibutuhkan untuk membuat 250 mL larutan 400 ppm?",
+    answer: "2 Tablet",
+    options: ["1 Tablet", "2 Tablet", "4 Tablet", "5 Tablet", "10 Tablet"]
+  },
+  {
+    question: "Dalam spektrofotometri, pergeseran puncak serapan ke panjang gelombang yang lebih panjang (red shift) disebut pergeseran...",
+    answer: "Batokromik",
+    options: ["Hipsokromik", "Batokromik", "Hiperkromik", "Hipokromik", "Isosbestik"]
+  },
+  {
+    question: "Pasien wanita (25 th) didiagnosis epilepsi dan menggunakan Asam Valproat. Jika ia berencana hamil, obat ini harus diwaspadai karena risiko...",
+    answer: "Defek tabung saraf (Neural Tube Defects)",
+    options: ["Gigi kuning", "Phocomelia", "Defek tabung saraf (Neural Tube Defects)", "Gagal ginjal janin", "Gangguan pendengaran"]
+  },
+  {
+    question: "Berapa gram kalsium klorida (CaCl2.2H2O, BM=147) yang dibutuhkan untuk 20 mEq Ca2+?",
+    answer: "1,47 gram",
+    options: ["0,735 gram", "1,47 gram", "2,94 gram", "14,7 gram", "0,147 gram"]
+  },
+  {
+    question: "Mekanisme kerja obat laksatif laktulosa adalah...",
+    answer: "Pencahar Osmotik (menarik air ke lumen usus)",
+    options: ["Stimulan", "Bulk-forming", "Pencahar Osmotik (menarik air ke lumen usus)", "Emolien", "Lubrikan"]
+  },
+  {
+    question: "Berapa mL alkohol 90% yang dibutuhkan untuk membuat 500 mL alkohol 70%?",
+    answer: "388,9 mL",
+    options: ["350,0 mL", "388,9 mL", "450,0 mL", "311,1 mL", "400,0 mL"]
+  },
+  {
+    question: "Dalam kromatografi gas, gas yang berfungsi membawa sampel melewati kolom disebut fase gerak atau...",
+    answer: "Gas Pembawa (Carrier Gas)",
+    options: ["Gas Eluen", "Gas Pembawa (Carrier Gas)", "Gas Detektor", "Gas Reaktan", "Gas Inert"]
+  },
+  {
+    question: "Pasien dengan infeksi jamur sistemik diberikan Amfoterisin B intravena. Efek samping akut yang paling sering muncul (infusion-related reaction) adalah...",
+    answer: "Demam dan Menggigil",
+    options: ["Ruam kulit", "Demam dan Menggigil", "Diare", "Hipotensi", "Sakit kepala"]
+  },
+  {
+    question: "Berapa nilai pOH jika konsentrasi ion OH- adalah 10^-9 M?",
+    answer: "9",
+    options: ["5", "9", "7", "14", "1"]
+  },
+  {
+    question: "Dalam teknologi nano, 'Enhanced Permeability and Retention (EPR) effect' adalah fenomena yang dimanfaatkan untuk penghantaran obat kanker secara pasif. Fenomena ini terjadi karena...",
+    answer: "Pembuluh darah tumor yang bocor (leaky) dan drainase limfatik yang buruk",
+    options: [
+      "Ukuran sel kanker yang lebih besar",
+      "Pembuluh darah tumor yang bocor (leaky) dan drainase limfatik yang buruk",
+      "Adanya reseptor khusus pada permukaan sel tumor",
+      "Keasaman (pH) jaringan tumor yang tinggi",
+      "Aliran darah yang sangat cepat di area tumor"
+    ]
+  },
+  {
+    question: "Metode Farmakoekonomi yang membandingkan biaya dua atau lebih intervensi kesehatan yang memiliki hasil (outcomes) identik secara klinis disebut...",
+    answer: "CMA (Cost Minimization Analysis)",
+    options: ["CEA", "CUA", "CBA", "CMA (Cost Minimization Analysis)", "BIA"]
+  },
+  {
+    question: "Berapa gram NaCl yang harus ditambahkan ke 100 mL larutan Atropin Sulfat 1% (E=0,13) agar larutan tersebut isotonis?",
+    answer: "0,77 gram",
+    options: ["0,13 gram", "0,77 gram", "0,90 gram", "1,03 gram", "0,45 gram"]
+  },
+  {
+    question: "Berdasarkan ICH Q10 (Pharmaceutical Quality System), elemen yang bertujuan untuk memantau kinerja proses dan mutu produk secara berkelanjutan adalah...",
+    answer: "Process Performance and Product Quality Monitoring System",
+    options: [
+      "Corrective and Preventive Action (CAPA)",
+      "Change Management System",
+      "Process Performance and Product Quality Monitoring System",
+      "Management Review",
+      "Risk Assessment"
+    ]
+  },
+  {
+    question: "Sediaan 'Stealth Liposome' dimodifikasi permukaannya dengan polimer tertentu agar tidak mudah dikenali oleh sistem imun (RES). Polimer yang paling umum digunakan adalah...",
+    answer: "PEG (Polyethylene Glycol)",
+    options: ["Chitosan", "PEG (Polyethylene Glycol)", "Gelatin", "Cellulose", "Polivinil Alkohol"]
+  },
+  {
+    question: "Berapa mEq kalsium dalam 5 mL larutan Kalsium Klorida (CaCl2.2H2O, BM=147) 10%? (Valensi Ca = 2)",
+    answer: "6,8 mEq",
+    options: ["3,4 mEq", "6,8 mEq", "10,0 mEq", "13,6 mEq", "20,0 mEq"]
+  },
+  {
+    question: "Pasien dengan gagal jantung mendapatkan terapi Isosorbid Dinitrat (ISDN) dan Sildenafil secara bersamaan. Apa risiko interaksi yang paling berbahaya?",
+    answer: "Hipotensi berat yang mengancam nyawa",
+    options: [
+      "Hipertensi krisis",
+      "Hipotensi berat yang mengancam nyawa",
+      "Gagal ginjal akut",
+      "Takikardia menetap",
+      "Priapismus"
+    ]
+  },
+  {
+    question: "Dalam CPOB, kualifikasi yang dilakukan untuk membuktikan bahwa peralatan atau sistem menunjang proses yang dirancang dalam batas operasional yang ditentukan disebut...",
+    answer: "Kualifikasi Operasional (OQ)",
+    options: ["DQ", "IQ", "OQ (Kualifikasi Operasional)", "PQ", "PV"]
+  },
+  {
+    question: "Berapa nilai pKa jika suatu basa lemah pada pH 9,0 memiliki konsentrasi bentuk tak terion sama dengan bentuk terionnya?",
+    answer: "5",
+    options: ["4", "5", "9", "10", "14"]
+  },
+  {
+    question: "Mekanisme kerja obat imunosupresan Azatioprin adalah...",
+    answer: "Antimetabolit purin yang menghambat sintesis DNA/RNA sel imun",
+    options: [
+      "Inhibitor kalsineurin",
+      "Antimetabolit purin yang menghambat sintesis DNA/RNA sel imun",
+      "Penghambat mTOR",
+      "Antibodi monoklonal",
+      "Inhibitor IL-6"
+    ]
+  },
+  {
+    question: "Metode sterilisasi gas Etilen Oksida (EtO) bekerja dengan mekanisme...",
+    answer: "Alkilasi protein dan asam nukleat mikroba",
+    options: ["Oksidasi sel", "Koagulasi protein", "Alkilasi protein dan asam nukleat mikroba", "Denaturasi lemak membran", "Paparan radiasi pengion"]
+  },
+  {
+    question: "Berapa gram laktosa yang dibutuhkan untuk membuat pengenceran 1:50 dari 10 mg atropin sulfat?",
+    answer: "490 mg",
+    options: ["10 mg", "490 mg", "500 mg", "510 mg", "250 mg"]
+  },
+  {
+    question: "Pasien pengguna Digoksin diberikan terapi Cholestyramine (pengikat asam empedu). Apa instruksi pemberian yang benar?",
+    answer: "Berikan Digoksin 1 jam sebelum atau 4-6 jam setelah Cholestyramine",
+    options: [
+      "Minum keduanya secara bersamaan",
+      "Berikan Digoksin 1 jam sebelum atau 4-6 jam setelah Cholestyramine",
+      "Hentikan salah satu obat",
+      "Double dosis Digoksin",
+      "Minum dengan air susu"
+    ]
+  },
+  {
+    question: "Dalam analisis HPLC, parameter yang menunjukkan efisiensi kolom melalui jumlah lempeng teoritis (N) dipengaruhi oleh...",
+    answer: "Ukuran partikel fase diam dan laju alir fase gerak",
+    options: [
+      "Volume injeksi",
+      "Jenis detektor",
+      "Ukuran partikel fase diam dan laju alir fase gerak",
+      "Suhu ruang laboratorium",
+      "Warna sampel"
+    ]
+  },
+  {
+    question: "Berapa mL larutan stok 40% yang dibutuhkan untuk membuat 200 mL larutan 5%?",
+    answer: "25 mL",
+    options: ["10 mL", "20 mL", "25 mL", "40 mL", "50 mL"]
+  },
+  {
+    question: "Antidotum untuk keracunan gas Sianida yang bekerja dengan mengikat sianida membentuk kompleks nonsianotoksik adalah...",
+    answer: "Hidroksokobalamin (Vitamin B12a)",
+    options: ["Atropin", "Natrium Bikarbonat", "Hidroksokobalamin (Vitamin B12a)", "Asetilsistein", "Esmolol"]
+  },
+  {
+    question: "Berapa nilai HLB campuran dari 4 gram Tween 80 (HLB 15) dan 1 gram Span 80 (HLB 4,3)?",
+    answer: "12,86",
+    options: ["9,65", "10,72", "12,86", "14,10", "15,00"]
+  },
+  {
+    question: "Dalam ekstraksi bahan alam, metode maserasi yang dipercepat dengan bantuan getaran suara frekuensi tinggi disebut...",
+    answer: "UEE (Ultrasound-Enhanced Extraction)",
+    options: ["Soxhlet", "Perkolasi", "UEE (Ultrasound-Enhanced Extraction)", "MASE", "Refluks"]
+  },
+  {
+    question: "Pasien dengan atrial fibrilasi menggunakan Warfarin. Pasien tersebut ingin mengonsumsi ekstrak Ginkgo biloba. Apa risiko yang mungkin timbul?",
+    answer: "Meningkatkan risiko pendarahan tanpa mengubah nilai INR secara signifikan",
+    options: [
+      "Menurunkan efek antikoagulan",
+      "Meningkatkan risiko pendarahan tanpa mengubah nilai INR secara signifikan",
+      "Gagal jantung akut",
+      "Stroke iskemik",
+      "Kerusakan hati"
+    ]
+  },
+  {
+    question: "Berapa gram zat X dalam 250 mL larutan dengan konsentrasi 1:500?",
+    answer: "0,5 gram",
+    options: ["0,1 gram", "0,25 gram", "0,5 gram", "1,25 gram", "2,5 gram"]
+  },
+  {
+    question: "Mekanisme kerja obat laksatif pencahar osmotik seperti Garam Inggris (MgSO4) adalah...",
+    answer: "Menarik air ke dalam usus melalui perbedaan tekanan osmotik",
+    options: [
+      "Melumasi feses",
+      "Menarik air ke dalam usus melalui perbedaan tekanan osmotik",
+      "Merangsang pleksus saraf",
+      "Menyerap lemak",
+      "Membentuk massa gelatin"
+    ]
+  },
+  {
+    question: "Berapa pH larutan penyangga yang dibuat dari 0,1 M Asam Asetat dan 0,1 M Natrium Asetat? (pKa = 4,76)",
+    answer: "4,76",
+    options: ["3,76", "4,76", "5,76", "7,00", "8,76"]
+  },
+  {
+    question: "Bahan tambahan dalam pembuatan tablet yang berfungsi untuk memperbaiki aliran serbuk (flowability) adalah...",
+    answer: "Glidan (seperti Talk atau Silikon Dioksida Koloidal)",
+    options: ["Binder", "Disintegran", "Glidan", "Lubrikan", "Filler"]
+  },
+  {
+    question: "Pasien dengan rinitis alergi yang juga memiliki asma disarankan menggunakan obat golongan antagonis reseptor leukotrien, yaitu...",
+    answer: "Montelukast",
+    options: ["Loratadin", "Montelukast", "Salbutamol", "Ipratropium", "Prednison"]
+  },
+  {
+    question: "Berapa gram perak nitrat yang dibutuhkan untuk membuat 500 mL larutan 0,1 N? (BM AgNO3 = 170)",
+    answer: "8,5 gram",
+    options: ["1,7 gram", "4,25 gram", "8,5 gram", "17 gram", "34 gram"]
+  },
+  {
+    question: "Identifikasi senyawa alkaloid dengan pereaksi Dragendorff pada KLT akan memberikan warna...",
+    answer: "Jingga atau Cokelat Kemerahan",
+    options: ["Biru", "Kuning", "Jingga atau Cokelat Kemerahan", "Hijau", "Ungu"]
+  },
+  {
+    question: "Dalam manajemen farmasi, waktu yang dibutuhkan sejak pemesanan obat dilakukan hingga barang sampai di apotek disebut...",
+    answer: "Lead Time",
+    options: ["Safety Stock", "Lead Time", "Reorder Point", "Turnover Ratio", "Economic Order Quantity"]
+  },
+  {
+    question: "Mekanisme kerja obat anti-HIV golongan Protease Inhibitor (seperti Lopinavir) adalah...",
+    answer: "Menghambat pemecahan poliprotein virus menjadi protein fungsional",
+    options: [
+      "Menghambat integrasi DNA ke inang",
+      "Menghambat transkripsi balik",
+      "Menghambat pemecahan poliprotein virus menjadi protein fungsional",
+      "Menghambat perlekatan virus (attachment)",
+      "Menghambat uncoating"
+    ]
+  },
+  {
+    question: "Berapa mL sediaan 125 mg/5 mL yang harus diberikan jika dosis sekali minum adalah 375 mg?",
+    answer: "15 mL",
+    options: ["5 mL", "10 mL", "15 mL", "20 mL", "25 mL"]
+  },
+  {
+    question: "Antidotum untuk keracunan Insektisida Karbamat adalah...",
+    answer: "Atropin Sulfat saja (Pralidoksim tidak efektif)",
+    options: ["Pralidoksim", "Atropin Sulfat saja", "Nalokson", "Natrium Tiosulfat", "Asetilsistein"]
+  },
+  {
+    question: "Berapa gram zat aktif dalam 100 gram krim dengan kadar 0,025%?",
+    answer: "0,025 gram (25 mg)",
+    options: ["0,25 gram", "0,025 gram", "2,5 gram", "250 mg", "2,5 mg"]
+  },
+  {
+    question: "Parameter validasi metode analisis yang menunjukkan linieritas hubungan antara respon alat dengan konsentrasi analit adalah...",
+    answer: "Koefisien Korelasi (r)",
+    options: ["Standar Deviasi", "Koefisien Variasi", "Koefisien Korelasi (r)", "Persen Recovery", "LOD"]
+  },
+  {
+    question: "Pasien dengan hiperurisemia asimtomatik (tanpa nyeri) tidak disarankan memulai terapi Allopurinol. Hal ini karena Allopurinol pada awal terapi justru dapat...",
+    answer: "Memicu serangan Gout akut karena mobilisasi kristal urat",
+    options: [
+      "Menyebabkan batu ginjal",
+      "Memicu serangan Gout akut karena mobilisasi kristal urat",
+      "Menyebabkan diare parah",
+      "Menurunkan kadar gula darah",
+      "Menyebabkan hipertensi"
+    ]
+  },
+  {
+    question: "Berapa mEq natrium dalam 250 mL infus RL yang mengandung 3,25 gram NaCl/L? (BM NaCl = 58,5)",
+    answer: "13,9 mEq",
+    options: ["6,9 mEq", "13,9 mEq", "27,8 mEq", "55,5 mEq", "111 mEq"]
+  },
+  {
+    question: "Sesuai CPOB, uji kebocoran (Leak Test) pada kemasan blister dilakukan menggunakan alat vakum dengan larutan berwarna...",
+    answer: "Metilen Biru",
+    options: ["Metil Merah", "Metilen Biru", "Eosin", "Iodium", "Fenolftalein"]
+  },
+  {
+    question: "Mekanisme kerja obat golongan Sulfonilurea (seperti Glibenklamid) adalah...",
+    answer: "Menutup kanal K-ATP pada sel beta pankreas untuk merangsang pengeluaran insulin",
+    options: [
+      "Meningkatkan sensitivitas insulin",
+      "Menghambat gluconeogenesis",
+      "Menutup kanal K-ATP pada sel beta pankreas untuk merangsang pengeluaran insulin",
+      "Menghambat DPP-4",
+      "Menghambat SGLT-2"
+    ]
+  },
+  {
+    question: "Berapa mL etanol 95% yang dibutuhkan untuk membuat 1 liter etanol 70%?",
+    answer: "736,8 mL",
+    options: ["700 mL", "736,8 mL", "950 mL", "685,7 mL", "800 mL"]
+  },
+  {
+    question: "Pasien dengan dislipidemia menggunakan Kolestiramin dan mengeluh konstipasi serta kekurangan vitamin larut lemak. Vitamin apa yang paling terpengaruh?",
+    answer: "Vitamin A, D, E, dan K",
+    options: ["Vitamin B1", "Vitamin B12", "Vitamin C", "Vitamin A, D, E, dan K", "Vitamin B Kompleks"]
+  },
+  {
+    question: "Berapa nilai hRf jika jarak noda adalah 3,2 cm dan jarak fase gerak adalah 8 cm?",
+    answer: "40",
+    options: ["0,4", "4", "32", "40", "80"]
+  },
+  {
+    question: "Industri farmasi memproduksi tablet. Ditemukan cacat 'Picking', yaitu sebagian massa tablet menempel pada permukaan punch. Solusinya adalah...",
+    answer: "Menambahkan atau mengganti jenis lubrikan serta memoles punch",
+    options: [
+      "Menambah binder",
+      "Menambah atau mengganti jenis lubrikan serta memoles punch",
+      "Meningkatkan tekanan pengempaan",
+      "Mengurangi jumlah disintegran",
+      "Meningkatkan kadar air granul"
+    ]
+  },
+  {
+    question: "Pasien penderita Parkinson yang mengonsumsi Levodopa disarankan untuk membatasi konsumsi makanan tinggi protein dalam satu waktu karena...",
+    answer: "Asam amino berkompetisi dengan Levodopa untuk absorpsi di usus dan sawar darah otak",
+    options: [
+      "Protein merusak Levodopa",
+      "Asam amino berkompetisi dengan Levodopa untuk absorpsi di usus dan sawar darah otak",
+      "Protein meningkatkan efek samping mual",
+      "Asam amino menghambat enzim DOPA-dekarboksilase",
+      "Protein menyebabkan hipertensi"
+    ]
+  },
+  {
+    question: "Berapa banyak tablet 250 mg yang dibutuhkan untuk membuat 500 mL larutan 1000 ppm?",
+    answer: "2 tablet",
+    options: ["1 tablet", "2 tablet", "3 tablet", "4 tablet", "5 tablet"]
+  },
+  {
+    question: "Dalam spektrofotometri, komponen yang berfungsi mengubah radiasi polikromatis menjadi monokromatis disebut...",
+    answer: "Monokromator",
+    options: ["Detektor", "Sumber radiasi", "Monokromator", "Kuvet", "Amplifier"]
+  },
+  {
+    question: "Pasien ibu hamil (trimester 3) mengalami nyeri punggung hebat. Analgetik mana yang paling harus dihindari karena risiko penutupan dini duktus arteriosus pada janin?",
+    answer: "Ibuprofen (NSAID)",
+    options: ["Parasetamol", "Ibuprofen (NSAID)", "Kodein", "Fentanil", "Tramadol"]
+  },
+  {
+    question: "Berapa gram perak nitrat (BM 170) yang dibutuhkan untuk membuat 250 mL larutan 0,02 N?",
+    answer: "0,85 gram",
+    options: ["0,425 gram", "0,85 gram", "1,70 gram", "3,40 gram", "0,170 gram"]
+  },
+  {
+    question: "Mekanisme kerja obat laksatif pelembut feses (Docusate) adalah...",
+    answer: "Bertindak sebagai surfaktan yang menurunkan tegangan permukaan air di usus",
+    options: [
+      "Membentuk massa gelatin",
+      "Menarik air secara osmotik",
+      "Bertindak sebagai surfaktan yang menurunkan tegangan permukaan air di usus",
+      "Merangsang kontraksi usus",
+      "Melubrikasi dinding usus"
+    ]
+  },
+  {
+    question: "Berapa mL alkohol 70% yang dihasilkan jika 100 mL alkohol 96% diencerkan?",
+    answer: "137,1 mL",
+    options: ["130 mL", "137,1 mL", "140,5 mL", "150 mL", "70 mL"]
+  },
+  {
+    question: "Dalam kromatografi gas, detektor yang paling sensitif untuk mendeteksi senyawa yang mengandung halogen (seperti pestisida klorin) adalah...",
+    answer: "ECD (Electron Capture Detector)",
+    options: ["FID", "TCD", "ECD (Electron Capture Detector)", "MS", "NPD"]
+  },
+  {
+    question: "Pasien dengan asma akut parah tidak merespon inhalasi salbutamol. Dokter memutuskan memberikan Aminofilin IV. Apa parameter vital yang harus dipantau ketat untuk mencegah toksisitas?",
+    answer: "Kadar teofilin darah dan denyut jantung (EKG)",
+    options: [
+      "Kadar gula darah",
+      "Tekanan darah saja",
+      "Kadar teofilin darah dan denyut jantung (EKG)",
+      "Laju urin",
+      "Berat badan"
+    ]
+  },
+
+////FARMAKOEKONOMI
+  {
+    question: "Seorang pasien Tn. A umur 50 tahun masuk RS dengan diagnosis Gangrene dan DM tipe 2. Pasien mendapat perawatan selama 9 hari dengan rincian sebagai berikut = <br><br><table border='1' style='width:100%; border-collapse: collapse;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Jenis Biaya</th> <th style='padding: 8px;'>Jumlah (Rp)</th> </tr> <tr> <td style='padding: 8px;'>Obat-obatan</td> <td style='padding: 8px;'>1.500.000</td> </tr> <tr> <td style='padding: 8px;'>Alat kesehatan</td> <td style='padding: 8px;'>505.000</td> </tr> <tr> <td style='padding: 8px;'>Jasa dokter</td> <td style='padding: 8px;'>405.000</td> </tr> <tr> <td style='padding: 8px;'>Kamar</td> <td style='padding: 8px;'>585.000</td> </tr> <tr> <td style='padding: 8px;'>Pemeriksaan labor</td> <td style='padding: 8px;'>714.000</td> </tr> <tr> <td style='padding: 8px;'>Pelayanan kesehatan lain (tindakan pembersihan luka gangrene, konsultasi gizi klinis)</td> <td style='padding: 8px;'>870.000</td> </tr> <tr> <td style='padding: 8px;'>Ambulans</td> <td style='padding: 8px;'>110.000</td> </tr> <tr> <td style='padding: 8px;'>Makan istri yang mendampingi di RS</td> <td style='padding: 8px;'>375.000</td> </tr> </table> <br> Berapa total biaya langsung medis?",
+ 
+    options: ["2.410.000", "3.709.000", "4.579.000", "4.689.000", "5.064.000"],
+    answer: "4.689.000"
+  },
+  {
+    question: "Seorang apoteker yang tergabung dalam Komite Farmasi dan Terapi di RS sedang menyusun Formularium RS. Obat X diajukan untuk menggantikan obat Y yang saat ini dipakai dalam tatalaksana hipertensi. Dilakukan kajian benefit-cost menggunakan diagram efektivitas-biaya, dan diketahui bahwa obat X masuk dalam kuadran IV. Apa keputusan apoteker berdasarkan kajian tersebut?",
+ 
+    options: ["Terima pengajuan penggantian obat", "Tolak pengajuan penggantian obat", "Pertimbangkan penggantian obat", "Obat X dominan", "Obat X didominasi"],
+    answer: "Tolak pengajuan penggantian obat"
+  },
+  {
+    question: "Seorang apoteker melakukan penelitian mengenai efikasi vaksin X dalam mengurangi kasus Covid-19. Total populasi subjek penelitian adalah 1600 orang yang terbagi menjadi 2 kelompok, yaitu kelompok di vaksin dan kelompok tidak di vaksin. Pada kelompok di vaksin, 26 orang terinfeksi, 774 orang tidak terinfeksi. Pada kelompok tidak di vaksin, 75 orang terinfeksi, 725 orang tidak terinfeksi. Berdasarkan nilai risiko relatif, bagaimanakah kesimpulan pemberian vaksin terhadap insiden infeksi? <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Kelompok</th> <th style='padding: 8px;'>Terinfeksi</th> <th style='padding: 8px;'>Tidak Terinfeksi</th> </tr> <tr> <td style='padding: 8px;'>Vaksin</td> <td style='padding: 8px;'>26 (A)</td> <td style='padding: 8px;'>774 (B)</td> </tr> <tr> <td style='padding: 8px;'>Tidak Vaksin</td> <td style='padding: 8px;'>75 (C)</td> <td style='padding: 8px;'>725 (D)</td> </tr> </table>",
+ 
+    options: ["RR < 1, vaksinasi menurunkan insiden infeksi", "RR < 1, vaksinasi meningkatkan insiden infeksi", "RR = 0, tidak ada hubungan antara intervensi dengan infeksi", "RR = 1, tidak ada hubungan antara intervensi dengan infeksi", "RR > 1, vaksinasi meningkatkan insiden infeksi"],
+    answer: "RR < 1, vaksinasi menurunkan insiden infeksi"
+  },
+  {
+    question: "Seorang apoteker penanggung jawab apotek wajib memiliki SIPA sebagai bukti dia sudah bisa berpraktek di Apotek. Berapa lama waktu berlaku SIPA?",
+ 
+    options: ["5 tahun dan selama STRA masih berlaku", "5 tahun tanpa STRA yang berlaku", "4 tahun dan selama STRA berlaku", "4 tahun tanpa STRA berlaku", "Seumur Hidup selama STRA masih berlaku"],
+    answer: "5 tahun dan selama STRA masih berlaku"
+  },
+  {
+    question: "Seorang apoteker melakukan studi farmakoekonomi, membandingkan obat karbapenem dengan sefalosporin dalam pengobatan sepsis. Nilai ICER karbapenem terhadap sefalosporin yaitu Rp. 250.000.000,-/QALY. Nilai cost effective threshold (ambang penilaian program) Indonesia adalah 3 GDP (1 GDP = Rp 50.000.000), Maka kesimpulan studi di atas adalah?",
+ 
+    options: ["Karbapanem di bawah cost effective threshold", "Karbapenem cost effective dibandingkan sefalosporin", "Karbapenem tidak cost effective dibandingkan sefalosporin", "Karbapanem mendominasi sefalosporin", "Karbapenem didominasi sefalosporin"],
+    answer: "Karbapenem tidak cost effective dibandingkan sefalosporin"
+  },
+  {
+    question: "Seorang pasien diabetes menjalani pengobatan. Untuk membandingkan efesiensi biaya dan efektivitas antara terapi A dan B, maka ICER keduanya dihitung sebesar Rp. 40.000,- per % efektifitas. Berdasarkan kebijakan RS batas maksimum Willingness to pay adalah Rp. 80.000,- per % efektifitas. Apakah terapi B layak digunakan berdasarkan nilai ICER dan WTP? <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Kondisi</th> <th style='padding: 8px;'>Kesimpulan</th> </tr> <tr> <td style='padding: 8px;'>ICER < WTP</td> <td style='padding: 8px;'>Layak</td> </tr> <tr> <td style='padding: 8px;'>ICER = WTP</td> <td style='padding: 8px;'>Netral</td> </tr> <tr> <td style='padding: 8px;'>ICER > WTP</td> <td style='padding: 8px;'>Tidak Layak</td> </tr> </table>",
+ 
+    options: ["Layak karena ICER < WTP", "Tidak layak karena ICER > WTP", "Layak dengan catatan tambahan", "Tidak dapat ditentukan karena data tidak lengkap", "Layak digunakan jika efektifitas lebih tinggi"],
+    answer: "Layak karena ICER < WTP"
+  },
+  {
+    question: "Rumah Sakit Raih melayani pasien menjalani terapi pengobatan regimen Doksorubisin dan Apoteker ditugaskan untuk melakukan dispensing. Apakah jenis wadah dan pelabelan untuk kegiatan dispensing tersebut?",
+ 
+    options: ["Merah", "Kuning", "Ungu", "Coklat", "Hitam"],
+    answer: "Ungu"
+  },
+  {
+    question: "RS RAIH memesan vaksin polio dari 5 PBF. Vaksin dari PT A dan B memiliki VVM kondisi A, vaksin dari PT C, D dan E memiliki VVM kondisi B. Data expired date yang tercantum pada vaksin PT. A adalah 6 bulan, PT. B 5 bulan, PT. C 6 bulan, PT. D 4 bulan, dan PT. E 2 bulan. Vaksin manakah yang harus didistribusikan terlebih dahulu?",
+ 
+    options: ["PT. A", "PT. B", "PT. C", "PT. D", "PT. E"],
+    answer: "PT. E"
+  },
+  {
+    question: "Apoteker sedang melakukan kajian terhadap Program Kesehatan Vaksinasi Hepatitis dan Pengobatan Diabetes kemudian didapat data sebagai berikut = <br> - Program Kesehatan Vaksinasi Hepatitis dapat menambah harapan hidup pasien selama 6 tahun pada state 0,75 <br> - Program Kesehatan Pengobatan Diabetes dapat menambah harapan hidup pasien selama 5 tahun pada state 0,5 <br> Berapakah QALY tambahan program kesehatan vaksinasi hepatitis dibanding program kesehatan pengobatan diabetes?",
+ 
+    options: ["2 QALY", "3 QALY", "1,5 QALY", "4 QALY", "2,5 QALY"],
+    answer: "2 QALY"
+  },
+  {
+    question: "Salah satu upaya pengadaan perbekalan farmasi di apotek adalah perencanaan. Untuk melakukan perencanaan pengadaan sediaan albumin termasuk yang jarang keluar dan harganya mahal maka diperlukan perencanaan pengadaan. Metode perencanaan pengadaan apakah yang paling tepat?",
+ 
+    options: ["Epidemiologi", "Konsumsi", "Kombinasi", "Just in time", "Analisis ABC"],
+    answer: "Just in time"
+  },
+  {
+    question: "Sebuah puskesmas mengalami aliran listrik putus akibat terjadinya bencana alam di daerah tersebut sehingga vaccine refrigerator mati. Kondisi putus listrik dikabarkan akan membutuhkan waktu setidaknya 5 hari dan bahan bakar genset yang tersedia hanya cukup untuk 1 hari. Diketahui jarak fasilitas pelayanan kesehatan terdekat yang memiliki vaccine refrigerator berjarak 4 jam. Apa tindakan yang tepat yang dilakukan oleh apoteker?",
+ 
+    options: ["Menunggu sampai listrik menyala kembali dan rutin mengecek VVM pada vaksin", "Menunggu sampai listrik menyala kembali dan menjaga refrigerator tetap tertutup rapat", "Memasukkan cold pack sebanyak-banyaknya ke dalam vaccine refrigerator agar suhu terjaga", "Mengeluarkan semua vaksin dan memasukkan ke dalam cold box sampai listrik menyala", "Memasukkan semua vaksin ke dalam cold box dan dibawa ke fasyankes terdekat"],
+    answer: "Memasukkan semua vaksin ke dalam cold box dan dibawa ke fasyankes terdekat"
+  },
+  {
+    question: "Puskesmas Raih sedang mebuat program pencegahan hipertensi untuk menekan risiko stroke. Apoteker diminta menilai kelayakan program dari segi biaya dan manfaat, dengan data = <br> - Manfaat ekonomi (penghematan biaya medis) = 10.000.000 <br> - Biaya pelaksanaan program = 4.000.000 <br> Hitung rasio CBA dan apakah program layak dijalankan?",
+ 
+    options: ["0,5 (tidak layak)", "1 (netral)", "1,5 (layak)", "2,5 (layak)", "3 (layak)"],
+    answer: "2,5 (layak)"
+  },
+  {
+    question: "Apoteker di puskesmas menerima vaksin OPV untuk program vaskinasi polio di puskesmas tersebut. Pada suhu berapa vaksin tersebut disimpan?",
+ 
+    options: ["-15 s/d -25 °C", "2 s/d 8 °C", "15 s/d 25 °C", "< 30 °C", "25 °C"],
+    answer: "2 s/d 8 °C"
+  },
+  {
+    question: "Seorang apoteker di bagian R&D suatu industri farmasi sedang mengembangkan oral polio vaccine (OPV) type attenuated dan membutuhkan bahan aktif untuk produksinya. Apakah bahan aktif yang tepat digunakan untuk vaksin tersebut?",
+ 
+    options: ["Virus yang diinaktivasi", "Protein virus", "Virus yang dilemahkan", "Toksoid virus", "Nukleotida virus"],
+    answer: "Virus yang dilemahkan"
+  },
+  {
+    question: "Seorang Apoteker akan menyusun RKO Ciprofloxacin untuk Bulan September-Desember di suatu rumah sakit berdasarkan jumlah pemakaian pada Bulan Agustus dan dengan mempertimbangkan pemakaian Ciprofloxacin pada kasus diare tahun lalu meningkat pada musim penghujan di Bulan September-Desember. Metode perencanaan apakah yang digunakan Apoteker tersebut?",
+ 
+    options: ["Konsumsi", "Campuran", "Proxy Cumsumption", "Pareto-VEN", "Epidemiologi"],
+    answer: "Campuran"
+  },
+  {
+    question: "Seorang Apoteker di rumah sakit sedang melakukan penyimpanan obat di antaranya = <br> - Amlodipine <br> - Epinefrin <br> - Clopidogrel <br> - Oksitoksin <br> - Propofol <br> Manakah dari obat di atas yang merupakan High Alert?",
+ 
+    options: ["1-2-3", "1-3-5", "2-3-4", "2-1-3", "2-4-5"],
+    answer: "2-4-5"
+  },
+  {
+    question: "Apoteker menerima pesanan vaksin yang diantarkan oleh PBF ke rumah sakit. Terdapat beberapa jenis vaksin yang diantarkan antara lain Vaksin Hepatitis B, Vaksin BCG, Vaksin Polio, Vaksin DPT, dan Vaksin PCV. Berapa kali suhu harus dikontrol?",
+ 
+    options: ["1 kali sehari", "2 kali sehari", "3 kali sehari", "1 kali seminggu", "3 kali seminggu"],
+    answer: "3 kali sehari"
+  },
+  {
+    question: "Seorang apoteker di RS menganalisis kasus pengobatan kanker payudara = <br> - Intervensi A = Tanpa uji skrining dan tanpa pemberian IFN, QALY = 3,05, biaya Rp. 150.000.000/pasien <br> - Intervensi B = Uji skrining dan pemberian IFN jika positif, QALY = 3,40, biaya Rp. 250.000.000/pasien <br> Berapa RIUB (Rasio Inkremental Utilitas - Biaya) jika dialihkan dari intervensi A ke B?",
+ 
+    options: ["Rp. 245.714.285/QALY", "Rp. 255.714.285/QALY", "Rp. 265.714.285/QALY", "Rp. 275.714.285/QALY", "Rp. 285.714.285/QALY"],
+    answer: "Rp. 285.714.285/QALY"
+  },
+  {
+    question: "Seorang apoteker di apotek hendaklah melakukan tugasnya dengan baik, salah satu hal yang paling penting adalah pemilihan PBF yang terbaik, meliputi banyaknya diskon, waktu tunggu, dan kemudahan pengambilan barang. Apoteker tersebut dalam melakukan tugasnya termasuk ke dalam salah satu ten stars pharmacy yaitu?",
+ 
+    options: ["Care Giver", "Communicator", "Manager", "Decision maker", "Enterpreneur"],
+    answer: "Decision maker"
+  },
+  {
+    question: "Apoteker yang tergabung pada Tim Farmasi dan Terapi sedang membandingkan obat standar yang sudah ada di Formularium Rumah Sakit dengan obat baru yang diajukan oleh dokter dan diketahui memiliki efek yang setara. Metode kajian farmakoekonomi apakah yang digunakan oleh apoteker tersebut?",
+ 
+    options: ["CEA", "CBA", "CMA", "CUA", "QALY"],
+    answer: "CMA"
+  },
+  {
+    question: "Apoteker di Apotek Raih akan memusnahkan beberapa sediaan sebagai berkut = <br> 1. Furosemide Ampul <br> 2. Tablet Amlodipine <br> 3. Sirup Parasetamol <br> 4. Suspensi Antasida <br> 5. Krim Desoksimetason <br> 6. Xeloda Tablet <br><br> Manakah sediaan yang bisa digabung pemusnahannya?",
+ 
+    options: ["1,2,3", "1,3,5", "3,4,5", "4,5,6", "2,4,6"],
+    answer: "3,4,5"
+  },
+  {
+    question: "Seorang apoteker sedang melakukan penerimaan vaksin Covid-19 tipe mRNA Moderna. Berdasarkan regulasi vaksin tersebut harus disimpan di suhu -20°C. Namun puskesmas tidak memiliki fasilitas penyimpanan dengan suhu tersebut, sehingga vaksin di simpan di kulkas dengan suhu sekitar 2-8 °C. Berapa lama waktu maksimal vaksin dapat disimpan di puskesmas?",
+ 
+    options: ["6 jam", "24 jam", "14 hari", "30 hari", "5 bulan"],
+    answer: "30 hari"
+  },
+  {
+    question: "PBF melakukan pengiriman vaksin ke rumah sakit menggunakan cold pack. Terpasang 2 unit alat temperature data logger yang berfungsi untuk mencatat suhu selama pengiriman. Berapa lama interval pencatatan suhu pada alat temperature data logger?",
+ 
+    options: ["5 menit", "10 menit", "30 menit", "1 jam", "3 jam"],
+    answer: "5 menit"
+  },
+  {
+    question: "Sebuah rumah sakit akan melakukan perencanaan dan pengadaan obat dengan RKO sebagai berikut = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Nama Obat</th> <th style='padding: 8px;'>Harga/Karton</th> </tr> <tr> <td style='padding: 8px;'>Ambroxol tablet</td> <td style='padding: 8px;'>Rp. 2.500.000,-</td> </tr> <tr> <td style='padding: 8px;'>Ephinefrine Injeksi</td> <td style='padding: 8px;'>Rp. 7.450.000,-</td> </tr> <tr> <td style='padding: 8px;'>OHT Ekstrak Psidii Folium</td> <td style='padding: 8px;'>Rp. 5.700.000,-</td> </tr> <tr> <td style='padding: 8px;'>Metamizole syrup</td> <td style='padding: 8px;'>Rp. 1.500.000,-</td> </tr> <tr> <td style='padding: 8px;'>Vitamin C tablet</td> <td style='padding: 8px;'>Rp. 2.000.000,-</td> </tr> </table> <br> Rumah sakit tersebut sedang mengalami kendala kekurangan obat sehingga Apoteker diharuskan untuk melakukan evaluasi terhadap RKO tesebut. Obat apakah yang akan dieleminasi dari RKO berdasarakan metode analisis evaluasi Pareto ABC-VEN?",
+ 
+    options: ["OHT Ekstrak Psidii Folium", "Ambroxol tablet", "Cefadroxil syrup", "Vitamin C tablet", "Ephinefrine Injeksi"],
+    answer: "OHT Ekstrak Psidii Folium"
+  },
+  {
+    question: "Puskesmas RAIH belum memiliki satupun seorang Apoteker. Berdasarkan Permenkes No. 26 tahun 2020 tentang Perubahan atas Permenkes No. 74 tahun 2016 tentang Standar Pelayanan Kefarmasian di Puskesmas, bagaimanakah penyelenggaraan Pelayanan Kefarmasian di puskesmas tersebut?",
+ 
+    options: ["Tidak boleh melakukan Pelayanan Kefarmasian", "Pelayanan Kefarmasian dilakukan secara terbatas oleh TTK", "Pelayanan Kefarmasian dilakukan secara penuh oleh TTK", "Dilakukan Pelayanan Kefarmasian selama 3 hari kerja selama seminggu oleh TTK", "Pelayanan Kefarmasian ditunda sampai ada Apoteker Penanggung Jawab Puskesmas"],
+    answer: "Pelayanan Kefarmasian dilakukan secara terbatas oleh TTK"
+  },
+  {
+    question: "Sebuah uji klinis acak, buta ganda, membandingkan obat E yang merupakan obat baru penurun tekanan darah dengan obat C sebagai kontrol, yang telah lama dipakai sebagai obat antihipertensi. Kedua obat tersebut diberikan selama 1 tahun. Target yang diharapkan adalah penurunan tekanan darah diastolik sampai di bawah 90 mmHg. Kejadian yang ingin dihindarkan ialah stroke. Obat E ini mempunyai efek samping menimbulkan batuk ringan. Hasil uji klinis ini dimasukkan ke dalam tabel seperti di bawah ini = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Nama obat</th> <th style='padding: 8px;'>Kejadian stroke (Ya)</th> <th style='padding: 8px;'>Jumlah (Tidak)</th> <th style='padding: 8px;'>Total</th> </tr> <tr> <td style='padding: 8px;'>E</td> <td style='padding: 8px;'>10</td> <td style='padding: 8px;'>40</td> <td style='padding: 8px;'>50</td> </tr> <tr> <td style='padding: 8px;'>C</td> <td style='padding: 8px;'>20</td> <td style='padding: 8px;'>30</td> <td style='padding: 8px;'>50</td> </tr> </table> <br> Berapakah nilai Relative Risk Reduction?",
+ 
+    options: ["0,2", "0,4", "0,5", "0,8", "1"],
+    answer: "0,5"
+  },
+  {
+    question: "PBF Raih Jaya akan melakukan pemusnahan obat kedaluwarsa/ rusak sebagai berikut = <br> - Parasetamol syrup <br> - Amoxiclav tablet <br> - Petidin injeksi <br> - Ranitidin tablet <br> - Sefiksim kapsul <br> APJ memerlukan saksi dalam pemusnahan obat tersebut. Siapakah saksi yang harus hadir?",
+ 
+    options: ["Tenaga Vokasi Farmasi yang memiliki SIP aktif", "Kemenkes dan Badan POM", "Dinkes kab/kota", "Unit pelaksana teknis BPOM setempat", "Dinkes Prov dan Dinkes kab/kota"],
+    answer: "Unit pelaksana teknis BPOM setempat"
+  },
+  {
+    question: "Sebuah rumah sakit sedang melakukan pemesanan vaksin yaitu MMR, hepatitis B, dan BCG. Pada vaksin tersebut terdapat indikator VVM yang menunjukkan segi empat berubah gelap namun lebih terang dari lingkaran. Bagaimanakah penanganan yang tepat untuk vaksin tersebut?",
+ 
+    options: ["Vaksin jangan digunakan", "Vaksin digunakan lebih dahulu bila belum kedaluwarsa", "Vaksin digunakan sesuai FIFO", "Vaksin digunakan sesuai FEFO", "Vaksin harus dimusnahkan"],
+    answer: "Vaksin digunakan lebih dahulu bila belum kedaluwarsa"
+  },
+  {
+    question: "Seorang apoteker mendirikan apotek baru dan akan membuat lemari khusus tempat penyimpanan sediaan narkotik dan psikotropik. Bagaimana ketentuan lemari khusus narkotik dan psikotropik berdasarkan regulasi?",
+ 
+    options: ["1 pintu 1 kunci", "1 pintu, 2 kunci yang berbeda", "1 pintu, 2 kunci yang sama", "2 pintu, 2 kunci yang berbeda", "2 pintu"],
+    answer: "1 pintu, 2 kunci yang berbeda"
+  },
+  {
+    question: "Apotek RAIH mengajukan Surat Izin Apotek (SIA) ke Dinas Pelayanan Terpadu Satu Pintu untuk izin apotek dengan operasional 24 jam tetapi pengajuan ditolak, karena permasalahan SDM apotek, saat ini Apotek Raih memiliki SDM sebanyak 6 orang dengan rincian = <br> - 1 Orang Apoteker Penanggung Jawab (STRA aktif) <br> - 5 Orang TTK (2 TTK STRTTK aktif, 1 TTK STRTTK tidak aktif, 1 TTK STRTTK sedang perpanjangan, 1 TTK lulusan SMK Farmasi) <br> - 1 Orang Admin Kasir (bukan lulusan Farmasi) <br> Apa yang menyebabkan penolakan pengajuan SIA Apotek Raih?",
+ 
+    options: ["STRTTK aktif hanya 2 orang", "Jumlah SDM tidak cukup untuk operasional 24 jam", "Admin kasir hanya 1 orang dan bukan dari lulusan farmasi", "Memiliki 1 orang Apoteker", "1 orang TTK lulusan SMK Farmasi"],
+    answer: "Jumlah SDM tidak cukup untuk operasional 24 jam"
+  },
+
+  {
+    question: "Seorang apoteker meminta PBF untuk mengirim vaksin lewat jalan darat. Dalam perjalanan, AC mati selama 5 jam dengan suhu 40°C. Apa yang harus dilakukan untuk memastikan vaksin masih layak digunakan?",
+ 
+    options: ["Mengambil salah satu sampel untuk diuji", "Meminta uji validasi ke PBF yang bersangkutan", "Memeriksa indikator VVM", "Mengembalikan ke PBF", "Retur barang ke supplier"],
+    answer: "Memeriksa indikator VVM"
+},
+{
+    question: "Seorang apoteker hendak membandingkan efektifitas suatu pengobatan dengan menggunakan sebuah artikel yang memiliki tingkatan evidence paling tinggi. Artikel dengan desain penelitian eksperimental mana yang sebaiknya dipilih oleh apoteker tersebut?",
+ 
+    options: ["Meta-analysis", "Randomized controlled trials", "Non-randomized control trials", "Cohort study", "Case-control study"],
+    answer: "Randomized controlled trials"
+},
+{
+    question: "Apoteker Rina telah melakukan pemusnahan obat-obatan yang telah kedaluwarsa di apotek dan hendak membuat berita acara pemusnahan sebanyak 4 rangkap. Siapa saja diberikan berita acara pemusnahan pada list dibawah ini? <br> 1. Kemenkes <br> 2. Badan POM <br> 3. Balai POM <br> 4. Dinkes Provinsi <br> 5. Dinkes Kab/Kota <br> 6. Arsip",
+ 
+    options: ["1, 2, 4, 6", "1, 3, 4, 6", "2, 3, 5, 6", "2, 4, 5, 6", "3, 4, 5, 6"],
+    answer: "3, 4, 5, 6"
+},
+{
+    question: "Berapakah jumlah pengambilan sampel vaksin polio OPV untuk pengujian sterilitas dan toksisitas vaksin OPV?",
+ 
+    options: ["10 vial", "22 vial", "29 vial", "40 vial", "50 vial"],
+    answer: "40 vial"
+},
+{
+    question: "Seorang pasien membawa resep berisi amoksisilin dan sirup antasida obat paten. Di apotek stok amoksisilin paten sedang kosong, sedangkan untuk sirup antasida masih ada stok untuk merk paten yang diminta dalam resep. Apa yang harus dilakukan apoteker?",
+ 
+    options: ["Mengganti amoksisilin dengan merk generik dengan persetujuan pasien, sementara antasida sirup tetap diberikan sesuai resep", "Mengganti amoksisilin dan antasida sirup dengan merk generik dengan persetujuan pasien", "Hanya melayani antasida sirup, untuk amoksisilin dibeli di apotek lain", "Menyarankan untk kembali ke dokter meminta untuk diganti amoksisilin dengan obat generik", "Menyarankan untuk ditebus di apotek lain untuk kedua item obat"],
+    answer: "Mengganti amoksisilin dengan merk generik dengan persetujuan pasien, sementara antasida sirup tetap diberikan sesuai resep"
+},
+{
+    question: "Berdasarkan Permenkes No. 72 Tahun 2016 tentang Standar Pelayanan Kefarmasian di Rumah Sakit mengatur tentang rasio jumlah apoteker. Jika pasien rawat jalan per hari mencapai 247, maka berapa apoteker yang dibutuhkan?",
+ 
+    options: ["1", "3", "5", "7", "8"],
+    answer: "5"
+},
+{
+    question: "Apoteker penanggung jawab apotek sedang melakukan pemesanan beberapa obat psikotropika. Namun pada saat obat psikotropika yang dipesan tiba di apotek, apoteker yang memesan obat tidak ada di tempat. Di apotek hanya ada apoteker lain yang menggantikan APA. Kurir PBF menelpon apoteker yang memesan obat. Apa yang harus diinstruksikan APA ke pada kurir PBF?",
+ 
+    options: ["Mengantarkan ke rumah APA", "Memberikan pesanan psikotropika kepada apoteker yang bertugas", "Meminta kurir datang kembali hari lain saat APA sedang ada di apotek", "Memesan kembali psikotropika atas nama apoteker yang bertugas", "Memberikan setengahnya kepada apoteker yang bertugas"],
+    answer: "Memberikan pesanan psikotropika kepada apoteker yang bertugas"
+},
+{
+    question: "Sebelum memilih obat untuk dimasukkan ke dalam formularium maka kriteria seleksi obat harus dilakukan. Berdasarkan apa seleksi tersebut?",
+ 
+    options: ["Rasio manfaat-risiko yang paling menguntungkan pasien", "Mutu terjamin tatapi tidak termasuk Farmaceuticalavailability (FA) dan Bioavalibility (BA)", "Harga yang stabil", "Diskon yang besar", "Praktis dalam penggunaan dan penyerahan tidak perlu disesuaikan dengan tenaga, sarana dan fasilitas kesehatan"],
+    answer: "Rasio manfaat-risiko yang paling menguntungkan pasien"
+},
+{
+    question: "APJ PBF Raih akan melakukan pelaporan obat triheksifenidil melalui aplikasi KEMENKES (e-Report). Setiap berapa bulan apoteker melakukan pelaporan tersebut?",
+ 
+    options: ["Setiap bulan", "Setiap 2 bulan", "Setiap 3 bulan", "Setiap 6 bulan", "Setiap tahun"],
+    answer: "Setiap 3 bulan"
+},
+{
+    question: "Berikut data pengkajian komponen biaya pengobatan pasien di RS RAIH = <br><br> <table border='1' style='width:100%; border-collapse: collapse;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Komponen biaya</th> <th style='padding: 8px;'>Biaya (Rp)</th> </tr> <tr> <td style='padding: 8px;'><strong>Biaya langsung medis</strong></td> <td style='padding: 8px;'></td> </tr> <tr> <td style='padding: 8px;'>Biaya Pelayanan Kesehatan (Penyedia Asuransi)</td> <td style='padding: 8px;'>3.709.634</td> </tr> <tr> <td style='padding: 8px;'>Biaya Pelayanan Kesehatan lainnya (Penyedia Asuransi)</td> <td style='padding: 8px;'>870.000</td> </tr> <tr> <td style='padding: 8px;'><strong>Biaya langsung non-medis</strong></td> <td style='padding: 8px;'></td> </tr> <tr> <td style='padding: 8px;'>Biaya Transportasi (Penyedia Asuransi)</td> <td style='padding: 8px;'>110.000</td> </tr> <tr> <td style='padding: 8px;'>Biaya konsumsi (Pasien)</td> <td style='padding: 8px;'>375.000</td> </tr> </table> <br> Berapakah total biaya yang harus dikeluarkan, dilihat dari perspektif penyedia asuransi kesehatan?",
+ 
+    options: ["3.709.634", "6.064.634", "4.579.634", "4.689.634", "110.000"],
+    answer: "4.689.634"
+},
+{
+    question: "Apoteker Suci akan melakukan cek kelengkapan obat di trolley emergency RS Raih. Setelah diperiksa, didapati obat sebagai berikut = <br> 1. Epinefrin ampul <br> 2. Amiodaron ampul <br> 3. Meropenem vial <br> 4. Aminofilin ampul <br> 5. Ranitidin ampul <br> 6. Salbutamol inhalasi <br> 7. Asam Traneksamat ampul <br> Manakah obat yang harus selalu tersedia di trolley emergency?",
+ 
+    options: ["1,4,7", "1,2,3", "2,3,6", "1,2,4", "5,6,7"],
+    answer: "1,2,4"
+},
+{
+    question: "Seorang ibu datang menebus resep sirup amoksisilin untuk anaknya usia 4 tahun yang terdiagnosis otitis media. Pasien diresepkan dokter penggunaan sirup amoksisilin selama 5 hari. Saat penyerahan, apoteker memberikan pelayanan informasi obat, salah satunya mengenai bagaimana cara membuang obat sisa obat sirup jika sudah selesai mengonsumsi selama 5 hari. Bagaimana cara membuang sirup amoksisilin yang tepat di rumah?",
+ 
+    options: ["Encerkan sisa obat dengan air, diamkan beberapa minggu lalu buang ke WC", "Encerkan sisa obat dengan air, diamkan beberapa minggu lalu buang ke IPAL", "Tambahkan NaOH lalu buang ke WC", "Tambahkan asam HCI lalu buang ke WC", "Campur dengan tanah lalu dikubur"],
+    answer: "Encerkan sisa obat dengan air, diamkan beberapa minggu lalu buang ke WC"
+},
+{
+    question: "PBF Raih Jaya akan melaporkan pemakaian obat amoksisilin tablet ke e-was BPOM. Pelaporan terakhir tanggal 25 Januari. Kapan Jatuh tempo pelaporan selanjutnya?",
+ 
+    options: ["10 Februari", "31 Januari", "25 Februari", "25 April", "31 Desember"],
+    answer: "25 Februari"
+},
+{
+    question: "Diketahui PBF Raih Jaya mendistribusikan beberapa item ke beberapa apotek = <br> 1. Vaksin Meningitis <br> 2. Hand Gloves <br> 3. Masker Bedah <br> 4. Morfin tablet <br> 5. Parasetamol tablet <br> 6. Sirup Amoksisilin <br> Berapakah sertifikat yang harus dimiliki PBF Raih Jaya?",
+ 
+    options: ["2", "3", "4", "5", "6"],
+    answer: "4"
+},
+{
+    question: "Sebuah obat dengan merk braxidin memiliki kandungan chlordiapoxide dan clinidium bromide. Di mana obat tersebut harus disimpan?",
+ 
+    options: ["Lemari obat bebas terbatas", "Lemari prekursor", "Lemari narkotik", "Lemari psikotropik", "Lemari obat High Alert Medicine"],
+    answer: "Lemari psikotropik"
+},
+{
+    question: "Pedagang Besar Farmasi (PBF) adalah perusahaan berbentuk badan hukum yang memiliki izin untuk pengadaan, penyimpanan, penyaluran obat dan/atau bahan obat dalam jumlah besar. Seorang apoteker hendaklah membeli obat-obatan untuk apoteknya dari PBF. Di bawah ini adalah hal-hal yang mendasari pemilihan PBF, kecuali?",
+ 
+    options: ["Legalitas", "Ketersediaan perbekalan", "Lead time pengiriman", "Diskon", "Nama besar PBF"],
+    answer: "Nama besar PBF"
+},
+{
+    question: "Kulkas PBF RAIH rusak. Salah satu prosedur yang dilakukan untuk tes vaksin rusak atau tidak dengan shake test. Vaksin manakah yang dapat dilakukan uji tersebut?",
+ 
+    options: ["BCG", "Polio (OPV)", "Campak", "MR", "DPT-HB"],
+    answer: "DPT-HB"
+},
+{
+    question: "Seorang apoteker di rumah sakit akan melakukan pemesanan obat kepada distributor dengan data sebagai berikut = <br> - Fentanil inj 2 box <br> - Etoricoxib 90 mg tab 2 box <br> - Fenobarbital inj 1 box <br> - Tramadol tab 1 box <br> - Alprazolam 1 mg tab 3 box <br> - Morfin 10 mg tab 1 fls <br> Berapakah surat pesanan yang harus dibuat oleh Apoteker tersebut?",
+ 
+    options: ["1 SP", "3 SP", "4 SP", "5 SP", "6 SP"],
+    answer: "5 SP"
+},
+{
+    question: "Apoteker akan melakukan visite pasien TB. Saat masuk RS Raih diberi obat = <br> - Parasetamol <br> - Rifampisin <br> - Isoniazid <br> - Pirazinamid <br> - Etambutol <br> Dalam CPPT ada keterangan pasien alergi parasetamol. Obat akan diberikan sesuai jadwal. Apoteker menyampaikan kepada pengawas mutu RS terkait kejadian tersebut, termasuk kejadian apakah hal tersebut?",
+ 
+    options: ["Kondisi Potensial Cidera (KPC)", "Kejadian Nyaris Cidera (KNC)", "Kejadian Tidak Cidera (KTC)", "Kejadian Tidak Diharapkan (KTD)", "Sentinel"],
+    answer: "Kejadian Nyaris Cidera (KNC)"
+},
+{
+    question: "Seorang apoteker sedang memeriksa gudang penyimpanan obat di suatu rumah sakit dan menemukan stok obat eritromisin yang masih banyak dan hampir kedaluwarsa. Ternyata hal tersebut dikarenakan sudah 3 bulan dokter tidak meresepkan eritromisin kepada pasien. Apoteker meminta TTK untuk mencatat obat tersebut ke daftar obat yang harus dievaluasi. Daftar obat apa yang dimaksud?",
+ 
+    options: ["Dead stock", "Out of stock", "Over stock", "Under stock", "Slow moving"],
+    answer: "Dead stock"
+},
+{
+    question: "Vaksin rotavirus direkomendasikan oleh IDAI untuk mencegah muntaber pada anak. Seorang apoteker di sebuah RS merekonstitusi vaksin rotavirus. Berapa lama masa pakai vaksin tersebut setelah direkonstitusi?",
+ 
+    options: ["2 minggu", "4 minggu", "1 minggu", "24 jam", "3 jam"],
+    answer: "24 jam"
+},
+{
+    question: "Seorang apoteker melakukan penelitian mengenai efikasi vaksin X dalam mengurangi kasus Covid-19. Total populasi subjek penelitian adalah 1600 orang yang terbagi menjadi 2 kelompok, yaitu kelompok di vaksin dan kelompok tidak di vaksin. Pada kelompok di vaksin, 26 orang terinfeksi, 774 orang tidak terinfeksi. Pada kelompok tidak di vaksin, 75 orang terinfeksi, 725 orang tidak terinfeksi. Berapakah Number Need to Treat? <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Kelompok</th> <th style='padding: 8px;'>Terinfeksi</th> <th style='padding: 8px;'>Tidak Terinfeksi</th> </tr> <tr> <td style='padding: 8px;'>Vaksin</td> <td style='padding: 8px;'>26 (A)</td> <td style='padding: 8px;'>774 (B)</td> </tr> <tr> <td style='padding: 8px;'>Tidak Vaksin</td> <td style='padding: 8px;'>75 (C)</td> <td style='padding: 8px;'>725 (D)</td> </tr> </table>",
+ 
+    options: ["15", "20", "25", "16", "35"],
+    answer: "16"
+},
+{
+    question: "Seorang apoteker di apotek menerima obat-obatan dari PBF. Apoteker mengetahui bahwa penyimpanan vaksin dalam chiller dan freezer, sebaiknya tidak terlalu padat sehingga sirkulasi udara dapat dijaga. Berapa cm jarak antar kotak vaksin?",
+ 
+    options: ["0,5-1 cm", "1-2 cm", "2-3 cm", "4-5 cm", "6-7 cm"],
+    answer: "1-2 cm"
+},
+{
+    question: "Seorang apoteker pengelola apotek melakukan pemesanan ke PBF. Namun, surat pesanan ditolak oleh PBF karena ada barang yang dipesan tidak tersedia. Lalu apoteker tersebut memutuskan untuk memesan merk lain yang tersedia di PBF. Apa yang harus dilakukan oleh apoteker tersebut?",
+ 
+    options: ["Memberi tanda pembatalan yang jelas pada SP, arsipkan, lalu membuat SP baru dengan nomor SP baru", "Memberi tanda pembatalan yang jelas pada SP, lalu membuat SP baru dengan nomer SP yang sama dengan sebelumnya", "Mencoret merk obat di SP tersebut lalu diganti dengan merk baru yang akan dipesan", "Langsung menelepon PBF untuk konfirmasi penggantian merk yang akan dipesan", "Membuang SP lama, lalu membuat SP baru"],
+    answer: "Memberi tanda pembatalan yang jelas pada SP, arsipkan, lalu membuat SP baru dengan nomor SP baru"
+},
+{
+    question: "Seorang perempuan berumur 42 tahun datang ke apotek untuk menebus resep Betadine Vaginal Douche. Apoteker kemudian mengkonsultasikan penggunaan obat di ruang konsultasi. Etika apakah yang dilakukan apoteker tersebut?",
+ 
+    options: ["Autonomy", "Confidentiality", "Social responsibility", "Fidelity", "Veracity"],
+    answer: "Confidentiality"
+},
+{
+    question: "Seorang mendapatkan vaksin DPT DTP-HB-Hib Vaccine sebanyak 1 box, dengan isi 10 vial. Vial vaksin tersebut berukuran 2,5 mL dengan dosis 1 kali pakai 0,5 mL. Saat diberikan, dokter menanyakan kepada apoteker lama vaksin sisa dapat digunakan. Berapa lama masa pemakaian vaksin sisa untuk vaksin tersebut?",
+ 
+    options: ["3 jam", "6 jam", "24 hari", "2 minggu", "4 minggu"],
+    answer: "4 minggu"
+},
+
+{
+    question: "Apoteker di puskesmas menerima vaksin dari gudang farmasi untuk kebutuhan selama 6 bulan. Saat diterima, Apoteker memeriksa vaccine vial monitor, sehingga terlihat seperti gambar di bawah ini = (Gambar: Segi empat berwarna ungu/gelap, sama gelapnya dengan lingkaran luar). Apa yang sebaiknya dilakukan oleh apoteker tersebut?",
+ 
+    options: ["Segera menyimpan vaksin di lemari pendingin", "Menerima vaksin karena masih dapat digunakan", "Menerima vaksin karena belum melewati masa kedaluwarsa", "Vaksin sudah tidak dapat digunakan lagi", "Vaksin harus digunakan terlebih dahulu daripada yang lain"],
+    answer: "Vaksin sudah tidak dapat digunakan lagi"
+},
+
+{
+    question: "Pasien menerima resep dari dokter yang berisi = R/ Bisakodil Supp No. III S1dd1 supp Tempat penyimpanan obat yang paling tepat untuk obat pada resep adalah?",
+ 
+    options: ["Disimpan di freezer", "Disimpan di suhu sejuk", "Disimpan di lemari pendingin", "Disimpan di suhu ruangan", "Disimpan di suhu kamar terkendali"],
+    answer: "Disimpan di lemari pendingin"
+},
+{
+    question: "Seorang apoteker di RS RAIH akan melakukan pengadaan yang diperlukan segera dengan nilai pengadaan Rp. 150.000.000. Metode pengadaan apa yang dipilih?",
+ 
+    options: ["Pembelian langsung", "E-catalogue", "Negosiasi", "Tender terbuka", "Tender tertutup"],
+    answer: "Pembelian langsung"
+},
+{
+    question: "Berikut data total Resep RS RAIH di Gudang Arsip = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Rekap Tahun</th> <th style='padding: 8px;'>Narkotika (lembar)</th> <th style='padding: 8px;'>Psikotropika (lembar)</th> <th style='padding: 8px;'>Obat Lainnya (lembar)</th> </tr> <tr> <td style='padding: 8px;'>Des 2017</td> <td style='padding: 8px;'>3020</td> <td style='padding: 8px;'>7430</td> <td style='padding: 8px;'>600030</td> </tr> <tr> <td style='padding: 8px;'>Des 2018</td> <td style='padding: 8px;'>4400</td> <td style='padding: 8px;'>8430</td> <td style='padding: 8px;'>700100</td> </tr> <tr> <td style='padding: 8px;'>Des 2019</td> <td style='padding: 8px;'>2990</td> <td style='padding: 8px;'>9430</td> <td style='padding: 8px;'>300123</td> </tr> <tr> <td style='padding: 8px;'>Des 2020</td> <td style='padding: 8px;'>1000</td> <td style='padding: 8px;'>2020</td> <td style='padding: 8px;'>432100</td> </tr> <tr> <td style='padding: 8px;'>Des 2021</td> <td style='padding: 8px;'>2900</td> <td style='padding: 8px;'>6540</td> <td style='padding: 8px;'>653621</td> </tr> <tr> <td style='padding: 8px;'>Des 2023</td> <td style='padding: 8px;'>4700</td> <td style='padding: 8px;'>9999</td> <td style='padding: 8px;'>980343</td> </tr> </table> <br> Berapakah total lembar resep yang dapat dimusnahkan pada tahun Januari 2025?",
+ 
+    options: ["3729176", "1635953", "2071073", "2734134", "1323410"],
+    answer: "1635953"
+},
+{
+    question: "Klinik RAIH akan melaksanakan program vaksin Campak di desa Limau Manis. Ke mana klinik RAIH melakukan permintaan vaksin?",
+ 
+    options: ["Dinkes Kota", "Puskesmas Terdekat", "RSUD Terdekat", "PBF Terdekat", "Gudang Farmasi Terdekat"],
+    answer: "Puskesmas Terdekat"
+},
+{
+    question: "Seorang pasien post operasi laparotomy di RS RAIH. Dokter memberikan resep ketorolac 2 x 1 ampul injeksi selama 7 hari. Apa jenis ketidaktepatan pengobatan dokter tersebut?",
+ 
+    options: ["Tidak tepat indikasi", "Tidak tepat dosis", "Tidak tepat cara pemberian", "Tidak tepat frekuensi", "Tidak tepat durasi"],
+    answer: "Tidak tepat durasi"
+},
+{
+    question: "Apoteker ingin membuat perencanaan pengadaan obat. Berdasarkan konsumsi obat tahun kemarin = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Obat</th> <th style='padding: 8px;'>Jumlah (Tab)</th> <th style='padding: 8px;'>Harga Satuan</th> </tr> <tr> <td style='padding: 8px;'>A</td> <td style='padding: 8px;'>200</td> <td style='padding: 8px;'>Rp. 100</td> </tr> <tr> <td style='padding: 8px;'>B</td> <td style='padding: 8px;'>30</td> <td style='padding: 8px;'>Rp. 500</td> </tr> <tr> <td style='padding: 8px;'>C</td> <td style='padding: 8px;'>50</td> <td style='padding: 8px;'>Rp. 1.000</td> </tr> <tr> <td style='padding: 8px;'>D</td> <td style='padding: 8px;'>10</td> <td style='padding: 8px;'>Rp. 10.000</td> </tr> </table> <br> Bagaimana prioritas perencanaan pengadaan obat berdasarkan sistem pareto?",
+ 
+    options: ["A-B-C-D", "C-B-A-D", "D-C-A-B", "B-A-D-C", "D-A-C-B"],
+    answer: "D-C-A-B"
+},
+{
+    question: "Sebuah rumah sakit akan melakukan pengadaan obat dengan analisa VEN-ABC. Apoteker bagian pengadaan akan melakukan pengadaan obat antibiotik ceftriaxone yang termasuk dalam sediaan yang penting dan termasuk ke dalam 25% dari total investasi. Apa tipe yang tepat dalam pengadaan injeksi antibiotik ceftriaxone tersebut?",
+ 
+    options: ["V-A", "V-B", "E-A", "E-B", "N-A"],
+    answer: "E-A"
+},
+
+{
+    question: "Apoteker rumah sakit RAIH sedang membandingkan efektivitas – harga tablet Candesartan dan tablet Valsartan untuk pengobatan Hipertensi. Harga tablet Candesartan adalah 16.000/strip dan tablet Valsartan adalah 48.000/strip. Hasil pengamatan menunjukkan efektivitas pengobatan hipertensi dengan tablet Candesartan sebesar 85% dan tablet Valsartan sebesar 95%. Jika terapi yang dimaksud memerlukan 2 strip Candesartan dan 1 strip Valsartan, berapakah ICER nya?",
+ 
+    options: ["320.000", "160.000", "320.500", "160.500", "360.000"],
+    answer: "160.000"
+},
+{
+    question: "Apoteker dinkes kota Padang mengevaluasi kejadian TBC di salah satu kecamatan untuk perencanaan permintaan obat TBC. Parameter yg diukur TBC mortality rate (per 100.000 jiwa). Tahun ini penderitaan TBC 300 orang dan 5 orang dinyatakan meninggal. Jumlah penduduk di kecamatan Padang Barat 150.000 jiwa. Berapa nilai TBC mortality rate?",
+ 
+    options: ["1,67", "2,5", "3,33", "5", "7,5"],
+    answer: "3,33"
+},
+{
+    question: "Apoteker KEKE akan melakukan penyusunan vaksin di Puskesmas Payakumbuh. Vaksin apakah yang mesti apoteker KEKE letakkan di evaporator lemari pendingin?",
+ 
+    options: ["Hepatitis B", "DPT", "IPV", "HIB", "MR"],
+    answer: "MR"
+},
+{
+    question: "Apoteker Robby akan melakukan analisis farmakoekonomi, dengan metode cost effective analysis. Terapi A dengan biaya 10.000 menghasilkan 20 QALY, terapi B dengan biaya 15.000 menghasilkan 25 QALY. Jika WTP = 3.000/QALY, apakah terapi B layak diteruskan berdasarkan analisi ICER?",
+ 
+    options: ["Layak karena ICER < WTP", "Layak karena ICER > WTP", "Tidak layak karena ICER > WTP", "Tidak layak karena biaya tinggi", "Terapi A lebih baik dari B"],
+    answer: "Layak karena ICER < WTP"
+},
+{
+    question: "Apoteker Robby sedang melakukan penelitian hubungan obesitas dengan PJK. Didapatkan data sebagai berikut = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Kelompok</th> <th style='padding: 8px;'>PJK +</th> <th style='padding: 8px;'>PJK -</th> <th style='padding: 8px;'>Jumlah</th> </tr> <tr> <td style='padding: 8px;'>Obesitas</td> <td style='padding: 8px;'>6</td> <td style='padding: 8px;'>4</td> <td style='padding: 8px;'>10</td> </tr> <tr> <td style='padding: 8px;'>Tidak obesitas</td> <td style='padding: 8px;'>2</td> <td style='padding: 8px;'>8</td> <td style='padding: 8px;'>10</td> </tr> <tr> <td style='padding: 8px;'><strong>Total</strong></td> <td style='padding: 8px;'><strong>8</strong></td> <td style='padding: 8px;'><strong>13</strong></td> <td style='padding: 8px;'><strong>21</strong></td> </tr> </table> <br> Berapakah nilai risk ratio?",
+ 
+    options: ["0,3", "3", "0,4", "12", "2,5"],
+    answer: "3"
+},
+{
+    question: "Apoteker menerima obat dari PBF, lalu mengecek kondisi fisik barang dengan faktur dan surat pesanan. Ternyata selama pengiriman, suhu cool box insulin memiliki suhu 18 derajat. Apa tindakan yang dilakukan apoteker?",
+ 
+    options: ["Disimpan di kulkas", "Disimpan di suhu kamar", "Dikembalikan ke PBF", "Dimusnahkan", "Dinginkan insulin di suhu < 0°C"],
+    answer: "Dikembalikan ke PBF"
+},
+{
+    question: "Apoteker WANDA memesan obat diazepam rektal ke PBF RAIH, kemudian PBF menginfokan bahwa obat kosong dan akan tersedia 2 bulan lagi. Apa yang harus dilakukan apoteker wanda?",
+ 
+    options: ["Meminta surat penolakan pesanan dari PBF", "Mengirimkan SP kepada pbf lain", "Menunggu sampai obat tersedia di PBF", "Membeli dengan jumlah terbatas ke Apotek terdekat", "Meminjam dengan jumlah terbatas ke Apotek terdekat"],
+    answer: "Meminta surat penolakan pesanan dari PBF"
+},
+{
+    question: "Seorang apoteker di rumah sakit melakukan analisis ABC dan VEN, di mana ia harus melakukan pengadaan dengan menekan biaya, sehingga apoteker tersebut harus mengeliminasi 3 obat. Pilihlah obat manakah yang harus apoteker tersebut eliminasi secara berurutan? <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Kategori</th> <th style='padding: 8px;'>V</th> <th style='padding: 8px;'>E</th> <th style='padding: 8px;'>N</th> </tr> <tr> <td style='padding: 8px;'>A</td> <td style='padding: 8px;'>Epinefrin</td> <td style='padding: 8px;'>Esomeprazol</td> <td style='padding: 8px;'>Injeksi hyaluronat</td> </tr> <tr> <td style='padding: 8px;'>B</td> <td style='padding: 8px;'>Dopamin</td> <td style='padding: 8px;'>Captopril</td> <td style='padding: 8px;'>Glukosamin</td> </tr> <tr> <td style='padding: 8px;'>C</td> <td style='padding: 8px;'>Dobutamin</td> <td style='padding: 8px;'>Rebamipid</td> <td style='padding: 8px;'>Vitamin C</td> </tr> </table>",
+ 
+    options: ["Injeksi hyaluronat, glukosamin, vitamin C", "Dobutamin, rebamipid, vitamin C", "Epinefrin, dopamine, dobutamine", "Epinefrin, esomeprazole, injeksi hyaluronat", "Vitamin C, rebamipid, dobutamin"],
+    answer: "Injeksi hyaluronat, glukosamin, vitamin C"
+},
+{
+    question: "RS Raih akan melakukan pemusnahan obat sebagai berikut (Inhaler/Aerosol). Bagaimanakah cara pemusnahan obat di atas?",
+ 
+    options: ["Dibuang melalui wastafel atau WC", "Masukkan ke Limbah benda tajam", "Disemprotkan perlahan ke dalam air", "Insinerator suhu tinggi", "Dihancurkan dan dicampur dengan bahan limbah lainnya"],
+    answer: "Disemprotkan perlahan ke dalam air"
+},
+{
+    question: "PBF Raih mengalami mati lampu dan sudah hampir 1 jam. Suhu chiller sudah mendekati 8 derajat celcius. Langkah selanjutnya yang perlu dilakukan apoteker terhadap vaksin adalah?",
+ 
+    options: ["Mengeluarkan vaksin dari chiller", "Menambahkan dry ice", "Menambahkan cool pack", "Mengganti termometer chiller", "Retur vaksin ke Pusat"],
+    answer: "Menambahkan cool pack"
+},
+
+{
+    question: "Sebuah uji klinis acak, buta ganda, membandingkan obat E yang merupakan obat baru penurun tekanan darah dengan obat C sebagai kontrol, yang telah lama dipakai sebagai obat antihipertensi. Kedua obat tersebut diberikan selama 1 tahun. Target yang diharapkan adalah penurunan tekanan darah diastolik sampai di bawah 90 mmHg. Kejadian yang ingin dihindarkan ialah stroke. Obat E ini mempunyai efek samping menimbulkan batuk ringan. Hasil uji klinis ini dimasukkan ke dalam tabel seperti di bawah ini = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Nama obat</th> <th style='padding: 8px;'>Kejadian stroke (Ya)</th> <th style='padding: 8px;'>Tidak</th> <th style='padding: 8px;'>Jumlah</th> </tr> <tr> <td style='padding: 8px;'>E</td> <td style='padding: 8px;'>10</td> <td style='padding: 8px;'>40</td> <td style='padding: 8px;'>50</td> </tr> <tr> <td style='padding: 8px;'>C</td> <td style='padding: 8px;'>20</td> <td style='padding: 8px;'>30</td> <td style='padding: 8px;'>50</td> </tr> </table>",
+ 
+    options: ["0,2", "0,4", "0,5", "0,8", "1"],
+    answer: "0,5"
+},
+{
+    question: "RS RAIH melakukan pemusnahan ampul fentanil, karena tidak memenuhi syarat kadar. Produk tersebut harus dimusnahkan sesuai dengan peraturan yang berlaku. Bagaimana pemusnahan produk tersebut?",
+ 
+    options: ["Ditanam dalam tanah", "Dibakar dengan insenerator", "Dilarutkan, proses limbah cair", "Dihancurkan, proses limbah padat", "Dimasukkan ke limbah B3 medis"],
+    answer: "Dimasukkan ke limbah B3 medis"
+},
+{
+    question: "Nana baru saja lulus dan diterima menjadi Apoteker Penanggung Jawab di salah satu apotek yang baru dibuka. Ia ingin melakukan pengadaan tablet kombinasi Parasetamol + Pseudoefedrin. Berapa rangkap jumlah SP yang disiapkan?",
+ 
+    options: ["1 rangkap", "2 rangkap", "3 rangkap", "4 rangkap", "5 rangkap"],
+    answer: "3 rangkap"
+},
+{
+    question: "Kulkas PBF RAIH rusak. Salah satu prosedur yang dilakukan untuk tes vaksin rusak atau tidak dengan shake test. Parameter apakah yang dilihat pada uji tersebut?",
+ 
+    options: ["Kejernihan vaksin", "Suhu vaksin", "VVM", "Laju pengendapan", "Viskositas"],
+    answer: "Laju pengendapan"
+},
+
+{
+    question: "Seorang pasien di apotek membawa krim optalmik Kloramphenikol yang dibelinya di apotek 2 jam yang lalu. Pasien tersebut komplain karna dirasa krim terlalu cair. Apa yang anda lakukan sebagai apoteker yang sedang bertugas?",
+ 
+    options: ["Meminta pasien menukar dengan yang baru", "Menjelaskan bahwa obat hal tersebut merupakan teknologi terbaru dari produsen krim", "Menggali informasi terkait penyimpanan yang dilakukan", "Menjelaskan bahwa barang yang sudah dibeli tidak bias dikembalikan", "Mengembalikan uang pasien dan meminta maaf"],
+    answer: "Menggali informasi terkait penyimpanan yang dilakukan"
+},
+{
+    question: "Apotek raih melakukan pemesanan obat ke PBF RA secara online melalui aplikasi. Pihak PBF sudah menerima dan mengonfirmasi pesanan online apotek Raih. Kapan maksimal apotek mengirimkan SP ke PBF?",
+ 
+    options: ["Saat Barang datang", "Paling Lambat 3 Hari Setelah pemesanan online", "Paling Lambat 7 Hari Setelah pemesanan online", "Besok Hari", "Paling Lambat 10 Hari Setelah pemesanan online"],
+    answer: "Paling Lambat 7 Hari Setelah pemesanan online"
+},
+{
+    question: "Apoteker di rumah sakit sedang menganalisis dua macam program Kesehatan dengan data sebagai berikut = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Parameter</th> <th style='padding: 8px;'>Vaksin</th> <th style='padding: 8px;'>Obat Anti Tuberculosis</th> </tr> <tr> <td style='padding: 8px;'>Biaya</td> <td style='padding: 8px;'>Rp 100.000.000</td> <td style='padding: 8px;'>Rp 80.000.000</td> </tr> <tr> <td style='padding: 8px;'>Benefit</td> <td style='padding: 8px;'>Rp 250.000.000</td> <td style='padding: 8px;'>Rp 125.000.000</td> </tr> </table> <br> Analisis farmakoekonomi apakah yang digunakan apoteker tersebut?",
+ 
+    options: ["CBA", "CMA", "CUA", "CEA", "ICER"],
+    answer: "CBA"
+},
+{
+    question: "Dokter Kurnia akan membuka Klinik Praktik Mandiri dan melakukan pembelian obat ke apotek RAIH. Apakah obat yang tidak diperbolehkan tersedia di Klinik tersebut?",
+ 
+    options: ["Nitrogliserin Tablet", "NaCl 0,9%", "Nifedipin Tablet", "Propanolol Tablet", "Captopril Tablet"],
+    answer: "Captopril Tablet"
+},
+{
+    question: "Diketahui obat asma antara montelukast dan zafirlukast memiliki manfaat yang serupa. Bila berdasarkan data yang dikumpulkan dari pengujian BA/BE pasien, diketahui = <br> - Zafirlukast memiliki onset of action lebih lama dibanding montelukast <br> - Montelukast memiliki biaya yang lebih tinggi bila dibandingkan dengan zafirlukast <br> Berdasarkan sudut pandang farmakoekonomi, montelukast termasuk dalam kategori?",
+ 
+    options: ["Obat yang memiliki manfaat lebih rendah dengan biaya lebih rendah", "Obat yang memiliki manfaat lebih rendah dengan biaya lebih tinggi", "Obat yang memiliki manfaat lebih tinggi dengan biaya lebih tinggi", "Obat yang memiliki manfaat lebih rendah dengan biaya lebih tinggi", "Kedua obat tidak digunakan"],
+    answer: "Obat yang memiliki manfaat lebih tinggi dengan biaya lebih tinggi"
+},
+{
+    question: "Suatu rumah sakit melakukan produksi untuk memenuhi kebutuhan pelayanan kesehatan di rumah sakit tersebut. Sediaan farmasi apakah yang tidak dapat diproduksi oleh rumah sakit?",
+ 
+    options: ["Kasa steril", "Sirup OBH", "H2O2 3%", "Alkohol 70%", "Salep mata"],
+    answer: "Salep mata"
+},
+{
+    question: "Sebuah puskesmas di desa akan mengadakan imunisasi bersama. Di puskesmas tersebut memiliki beberapa jenis vaksin sesuai dengan kebutuhan pasien. Vaksin apakah yang dapat disimpan di suhu ruang?",
+ 
+    options: ["Vaksin BCG", "Vaksin DPT", "Vaksin Polio", "Vaksin TT", "Vaksin Hepatitis"],
+    answer: "Vaksin Hepatitis"
+},
+{
+    question: "Seorang pasien kejang di bangsal interne RS Raih. Obat anti kejang yang biasanya tersedia di trolly emergensi bangsal?",
+ 
+    options: ["Diazepam", "Carbamazepin", "Asam valproate", "Fenitoin", "Lamotrigin"],
+    answer: "Diazepam"
+},
+{
+    question: "Sebuah Rumah Sakit akan melakukan pemusnahan sediaan farmasi dan alat kesehatan berdasarkan kriteria dibawah ini = <br> 1. Produk tidak memenuhi persyaratan mutu <br> 2. Memenuhi persyaratan untuk dipergunakan dalam pelayanan <br> 3. Telah kedaluwarsa <br> 4. Dicabut izin edarnya <br> 5. Sediaan farmasi dalam kondisi baik dan belum expired <br> Manakah yang merupakan kriteria pemusnahan yang tepat?",
+ 
+    options: ["1, 2, 3", "1, 3, 4", "1, 3, 5", "1, 2, 4", "2, 3, 4"],
+    answer: "1, 3, 4"
+},
+{
+    question: "Berikut data pengkajian obat statin di RS Raih = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Nama Obat</th> <th style='padding: 8px;'>Harga</th> <th style='padding: 8px;'>% Penurunan LDL</th> </tr> <tr> <td style='padding: 8px;'>Simvastatin</td> <td style='padding: 8px;'>12.000/strip</td> <td style='padding: 8px;'>84%</td> </tr> <tr> <td style='padding: 8px;'>Atorvastatin</td> <td style='padding: 8px;'>20.000/strip</td> <td style='padding: 8px;'>90%</td> </tr> <tr> <td style='padding: 8px;'>Rosuvastatin</td> <td style='padding: 8px;'>55.000/strip</td> <td style='padding: 8px;'>95%</td> </tr> <tr> <td style='padding: 8px;'>Pravastatin</td> <td style='padding: 8px;'>30.000/strip</td> <td style='padding: 8px;'>87%</td> </tr> <tr> <td style='padding: 8px;'>Lovastatin</td> <td style='padding: 8px;'>25.000/strip</td> <td style='padding: 8px;'>88%</td> </tr> </table> <br> Manakah obat yang paling cost effective berdasarkan nilai ACER?",
+ 
+    options: ["Simvastatin", "Atorvastatin", "Rosuvastatin", "Pravastatin", "Lovastatin"],
+    answer: "Simvastatin"
+},
+{
+    question: "Sebuah antibiotik tablet mempunyai Nomor Registrasi DKL0622242246A1. Digit manakah yang menunjukkan bentuk sediaan obat jadi?",
+ 
+    options: ["46", "222", "DKL", "6", "A1"],
+    answer: "46"
+},
+
+{
+    question: "Seorang pasien membutuhkan 500 mL infus NaCl 0.9% setiap 6 jam. Kemudian apoteker menyiapkan 4 flask NaCl 0.9% kepada perawat untuk diberikan kepada pasien. Sistem distribusi apa yang sedang diterapkan apoteker?",
+ 
+    options: ["Sistem distribusi sentralisasi", "Sistem distribusi desentralisasi", "Floor stock", "Daily dose dispensing", "Unit dose dispensing"],
+    answer: "Daily dose dispensing"
+},
+{
+    question: "Seseorang terjatuh saat mengendari kuda dan terluka. Untuk mencegahnya terinfeksi tetanus, sebaiknya diberikan?",
+ 
+    options: ["Vaksin BCG", "Vaksin DPT", "Vaksin Hepatitis", "Serum anti-BCG", "Serum anti-DPT"],
+    answer: "Serum anti-DPT"
+},
+{
+    question: "Sebuah rumah sakit baru saja dibangun di wilayah pelosok. Apoteker baru akan memulai merencanakan pengadaan namun tidak memiliki data apapun. Metode apakah yang tepat untuk digunakan dalam perencanaan tersebut?",
+ 
+    options: ["Epidemiologi", "Konsumsi", "Konsignasi", "Morbiditas", "Proxy consumption"],
+    answer: "Proxy consumption"
+},
+{
+    question: "Seorang pasien memeriksakan diri ke sebuah rumah sakit atas keluhan demam, nyeri perut, dan diare yang telah dideritanya selama 3 hari. Selama pasien pergi ke rumah sakit, anaknya dititipkan di penitipan anak. Setelah mendapatkan pelayanan kesehatan dan obat-obatan untuk rawat jalan, pasien tersebut kemudian pulang dan menjemput anaknya. Rincian biaya yang telah dikeluarkan oleh pasien tersebut seperti di bawah ini = <br><br> <table border='1' style='width:100%; border-collapse: collapse;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>No</th> <th style='padding: 8px;'>Item</th> <th style='padding: 8px;'>Biaya</th> </tr> <tr> <td style='padding: 8px; question-align: center;'>1</td> <td style='padding: 8px;'>Pendaftaran</td> <td style='padding: 8px;'>Rp. 20.000</td> </tr> <tr> <td style='padding: 8px; question-align: center;'>2</td> <td style='padding: 8px;'>Jasa Tenaga Medis</td> <td style='padding: 8px;'>Rp. 75.000</td> </tr> <tr> <td style='padding: 8px; question-align: center;'>3</td> <td style='padding: 8px;'>Jasa Apoteker</td> <td style='padding: 8px;'>Rp. 40.000</td> </tr> <tr> <td style='padding: 8px; question-align: center;'>4</td> <td style='padding: 8px;'>Obat-Obatan</td> <td style='padding: 8px;'>Rp. 160.000</td> </tr> <tr> <td style='padding: 8px; question-align: center;'>5</td> <td style='padding: 8px;'>Laboratorium</td> <td style='padding: 8px;'>Rp. 60.000</td> </tr> <tr> <td style='padding: 8px; question-align: center;'>6</td> <td style='padding: 8px;'>Biaya Transportasi pulang pergi Rumah Sakit</td> <td style='padding: 8px;'>Rp. 30.000</td> </tr> <tr> <td style='padding: 8px; question-align: center;'>7</td> <td style='padding: 8px;'>Jasa asuh anak</td> <td style='padding: 8px;'>Rp. 25.000</td> </tr> </table> <br> Biaya manakah yang termasuk biaya medis langsung?",
+ 
+    options: ["Jasa Dokter dan Biaya Transportasi", "Biaya Obat dan Biaya transportasi", "Biaya Transportasi dan Biaya Pendaftaran", "Obat-obatan dan Laboratorium", "Jasa Asuh anak and Pendaftaran"],
+    answer: "Obat-obatan dan Laboratorium"
+},
+{
+    question: "Setiap resep obat yang masuk ke apotek dilakukan penyimpanan selama 5 tahun, setelah itu dilakukan pemusnahan dengan cara dibakar. Kepada siapakah berita acara pemusnahan resep tersebut dilaporkan?",
+ 
+    options: ["Kemenkes", "Balai POM", "BPOM", "Dinkes Provinsi", "Dinkes Kabupaten/Kota"],
+    answer: "Dinkes Kabupaten/Kota"
+},
+{
+    question: "Apoteker bagian gudang di Rumah Sakit melakukan penerimaan yang dikirim oleh distributor. Apakah yang harus dilakukan pertama kali oleh apoteker?",
+ 
+    options: ["Memeriksa kesesuaian antara jumlah barang di faktur penjualan dengan barang yang diterima", "Memeriksa kesesuaian antara faktur penjualan dengan surat pesanan", "Memeriksa keabsahan faktur", "Kesesuaian antara jumlah barang di faktur penjualan dengan kondisi fisik barang", "Kesesuaian antara jumlah barang di surat pesanan dengan kondisi fisik barang"],
+    answer: "Memeriksa keabsahan faktur"
+},
+{
+    question: "Apoteker Rahma menjual berbagai jenis alat kesehatan di Apoteknya. Pada awal bulan ini Apoteker Rahma menjual alat pengukur tekanan darah sebesar Rp. 500.000,- sehingga pada akhir bulan terbit faktur penjualan untuk alat pengukuran tekanan darah tersebut. Metode apakah yang digunakan untuk penjualan alat tekanan darah tersebut?",
+ 
+    options: ["Cash On Delivery", "Cash Lunak", "Kredit", "Just In Time", "Konsinyasi"],
+    answer: "Konsinyasi"
+},
+
+{
+    question: "Sebuah rumah sakit akan melakukan pengadaan perbekalan kefarmasian. Diketahui bahwa anggaran yang dialokasikan dalam pengadaan sebesar Rp. 20 milyar. Ketika daftar pengadaan perbekalan kefarmasian disusun, diketahui bahwa nilai pengadaan yang dibutuhkan oleh rumah sakit adalah sebesar Rp. 25 milyar. Berikut adalah daftar kategori PUT (Prioritas, Utama, Tambahan) = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Kategori PUT</th> <th style='padding: 8px;'>Kategori ABC</th> <th style='padding: 8px;'>Nama Obat</th> </tr> <tr> <td style='padding: 8px;'>Prioritas</td> <td style='padding: 8px;'>A</td> <td style='padding: 8px;'>Insulin</td> </tr> <tr> <td style='padding: 8px;'>Prioritas</td> <td style='padding: 8px;'>B</td> <td style='padding: 8px;'>Albumin</td> </tr> <tr> <td style='padding: 8px;'>Prioritas</td> <td style='padding: 8px;'>C</td> <td style='padding: 8px;'>Infus KCl</td> </tr> <tr> <td style='padding: 8px;'>Utama</td> <td style='padding: 8px;'>A</td> <td style='padding: 8px;'>Rifampisin</td> </tr> <tr> <td style='padding: 8px;'>Utama</td> <td style='padding: 8px;'>B</td> <td style='padding: 8px;'>Isoniazid</td> </tr> <tr> <td style='padding: 8px;'>Utama</td> <td style='padding: 8px;'>C</td> <td style='padding: 8px;'>Fenitoin</td> </tr> <tr> <td style='padding: 8px;'>Tambahan</td> <td style='padding: 8px;'>A</td> <td style='padding: 8px;'>Zat Besi</td> </tr> <tr> <td style='padding: 8px;'>Tambahan</td> <td style='padding: 8px;'>B</td> <td style='padding: 8px;'>Suplemen Jantung</td> </tr> <tr> <td style='padding: 8px;'>Tambahan</td> <td style='padding: 8px;'>C</td> <td style='padding: 8px;'>Suplemen Anak</td> </tr> </table> <br> Apakah obat yang dapat ditunda terlebih dahulu dalam pengadaan berdasarakan analisis PUT tersebut?",
+ 
+    options: ["Insulin", "Infus KCl", "Rifampisin", "Zat Besi", "Suplemen Anak"],
+    answer: "Zat Besi"
+},
+
+{
+    question: "Dalam pengadaan obat epinefrin injeksi dari Pedagang Besar Farmasi (PBF), ditemukan warna dan label pada kemasan obat berbeda dengan kemasan yang sudah tersedia di Rumah Sakit. Sebagai seorang apoteker penanggung jawab, saudara segera melakukan proses pengembalian barang, kemudian apoteker di PBF melakukan proses administrasi pengembalian barang. Dimanakah apoteker harus menyimpan obat kembalian tersebut?",
+ 
+    options: ["Lemari/ rak barang rusak", "Lemari/ rak penerimaan barang", "Lemari/ rak penyimpanan barang", "Lemari/ rak karantina", "Lemari/ rak recall"],
+    answer: "Lemari/ rak karantina"
+},
+{
+    question: "Rumah Sakit Berkat melayani untuk kemoterapi. Apoteker akan mengadakan obat sitostatika untuk keperluan pelayanan kemoterapi. Apakah yang harus ada pada saat penerimaan obat sitostatika?",
+ 
+    options: ["COA", "COO", "Suhu coolbox", "COE", "MSDS"],
+    answer: "MSDS"
+},
+
+{
+    question: "Seorang apoteker sedang melayani pasien di apotek RAIH. Apoteker selalu mendahulukan yang datang dahuluan yang dilayani tanpa melihat ras, suku ataupun agama. Sikap apoteker ini mencerminkan etika profesi?",
+ 
+    options: ["Autonomy", "Beneficence", "Social responsibility", "Veracity", "Non-Maleficence"],
+    answer: "Social responsibility"
+},
+
+
+
+
+
+
+
 
 
 ];

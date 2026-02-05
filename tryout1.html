@@ -1,0 +1,362 @@
+﻿<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="assets/logo.jpg">
+    <title>TRYOUT UKMPPAI</title>
+    <style>
+        /* --- STYLE UJIAN --- */
+        * { box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f6f9; margin: 0; padding: 0; display: flex; flex-direction: column; height: 100vh; }
+        .header { background-color: #fff; padding: 10px 20px; border-bottom: 1px solid #ddd; display: flex; justify-content: space-between; align-items: center; height: 60px; flex-shrink: 0; z-index: 20; }
+        .header h1 { margin: 0; font-size: 18px; color: #333; }
+        .header-right { display: flex; gap: 10px; align-items: center; }
+        .timer-box { border: 1px solid #e74c3c; color: #c0392b; padding: 6px 12px; font-weight: bold; background: #fff; border-radius: 4px; font-size: 14px; min-width: 100px; text-align: center; }
+        .btn-header { background-color: #6c757d; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; font-size: 14px; }
+        .btn-header:hover { background-color: #5a6268; }
+        .btn-reset { background-color: #dc3545; }
+        .btn-pause { background-color: #ffc107; color: #333; font-weight: bold; }
+        .btn-back { background-color: #6c757d; color: #white; font-weight: bold; }
+        .main-container { display: flex; flex: 1; overflow: hidden; position: relative; }
+        .pause-overlay { position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(255, 255, 255, 0.98); z-index: 100; display: none; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
+        .btn-resume { padding: 15px 40px; font-size: 18px; background-color: #28a745; color: white; border: none; border-radius: 50px; cursor: pointer; box-shadow: 0 4px 15px rgba(40, 167, 69, 0.3); transition: transform 0.2s; }
+        .btn-resume:hover { transform: scale(1.05); }
+        .question-area { flex: 1; padding: 30px; overflow-y: auto; }
+        
+        /* >>> PERBAIKAN DI SINI: BACKGROUND PUTIH, BORDER ABU-ABU <<< */
+        .question-card { background-color: #ffffff; padding: 25px; border-radius: 8px; border: 1px solid #ddd; color: #000000; font-size: 16px; line-height: 1.6; margin-bottom: 20px; }
+        
+        .question-image { max-width: 100%; max-height: 300px; display: block; margin: 10px 0 20px 0; border-radius: 5px; border: 1px solid #ddd; }
+        .options-group { display: flex; flex-direction: column; gap: 12px; }
+        .option-label { display: flex; align-items: center; background: white; padding: 15px 20px; border: 1px solid #ddd; border-radius: 8px; cursor: pointer; transition: 0.2s; font-size: 15px; color: #000; }
+        .option-label:hover { background-color: #f1f8ff; border-color: #2196f3; }
+        .option-label input { margin-right: 15px; transform: scale(1.3); accent-color: #2196f3; }
+        .nav-buttons { margin-top: 40px; display: flex; flex-wrap: wrap; gap: 10px; padding-bottom: 40px; }
+        .btn { padding: 12px 24px; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 14px; }
+        .btn-prev { background-color: #6c757d; color: white; }
+        .btn-next { background-color: #007bff; color: white; }
+        .btn-doubt { background-color: #ffc107; color: #333; }
+        .btn-finish { background-color: #28a745; color: white; display: none;}
+        .sidebar { width: 340px; background: white; border-left: 1px solid #ddd; display: flex; flex-direction: column; transition: margin-right 0.3s ease; flex-shrink: 0; }
+        .sidebar.hidden { margin-right: -340px; display: none; }
+        .sidebar-header { padding: 15px; border-bottom: 1px solid #eee; font-weight: bold; display: flex; justify-content: space-between; align-items: center; background-color: #f8f9fa; }
+        .close-sidebar-btn { background: none; border: none; font-size: 20px; cursor: pointer; color: #888; }
+        .grid-container { padding: 15px; display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; overflow-y: auto; }
+        .grid-item { aspect-ratio: 1; border: 1px solid #ced4da; background: white; display: flex; justify-content: center; align-items: center; cursor: pointer; border-radius: 6px; font-weight: bold; font-size: 14px; color: #495057; }
+        .grid-item:hover { background-color: #e9ecef; }
+        .grid-item.active { border: 2px solid #007bff; background-color: #e3f2fd; color: #007bff; }
+        .grid-item.answered { background-color: #343a40; color: white; border-color: #343a40; }
+        .grid-item.doubtful { background-color: #ffc107; color: #212529; border-color: #e0a800; }
+        .review-card { background: white; border: 1px solid #ddd; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        .review-card.correct { border-left: 6px solid #28a745; }
+        .review-card.wrong { border-left: 6px solid #dc3545; }
+        .review-status { font-weight: bold; margin-bottom: 10px; display: block; font-size: 14px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .text-correct { color: #28a745; }
+        .text-wrong { color: #dc3545; }
+        .score-display { text-align: center; padding: 40px; background: #fff; margin-bottom: 30px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+       <button class="btn-header btn-back" onclick="location.href='index.html'" id="btn-back">
+  < Kembali
+</button>
+        <h1 id="exam-title">Simulasi Try Out</h1>
+        <div class="header-right">
+            <div class="timer-box" id="timer">00:00</div>
+            <button class="btn-header btn-pause" onclick="togglePause()" id="btn-pause">&#10074;&#10074; Pause</button>
+            <button class="btn-header btn-reset" onclick="resetExam()">&#8635; Reset</button>
+            <button class="btn-header" onclick="toggleSidebar()" id="btn-toggle">Navigasi</button>
+        </div>
+    </div>
+
+    <div class="main-container">
+        <div class="pause-overlay" id="pause-overlay">
+            <div class="pause-content">
+                <h2>Ujian Dijeda</h2>
+                <button class="btn-resume" onclick="togglePause()">&#9658; Lanjutkan</button>
+            </div>
+        </div>
+
+        <div class="question-area" id="question-area">
+            <div id="quiz-content">
+                <div style="margin-bottom: 15px; font-weight: bold; color: #555; display: flex; justify-content: space-between;">
+                    <span>Soal No. <span id="current-no" style="font-size: 1.2em; color: #007bff;">1</span></span>
+                </div>
+                <div class="question-card">
+                    <img id="q-img" class="question-image" style="display: none;"> 
+                    <div id="question-text">Loading soal...</div>
+                </div>
+                <div class="options-group" id="options-container"></div>
+            </div>
+
+            <div class="nav-buttons" id="nav-buttons-area">
+                <button class="btn btn-prev" onclick="prevQuestion()">&#8592; Sebelumnya</button>
+                <button class="btn btn-doubt" onclick="toggleDoubt()">Ragu-ragu</button>
+                <button class="btn btn-next" onclick="nextQuestion()">Selanjutnya &#8594;</button>
+                <button class="btn btn-finish" id="btn-finish" onclick="finishQuiz(false)">Selesai Ujian</button>
+            </div>
+        </div>
+
+        <div class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                Navigasi Soal
+                <button class="close-sidebar-btn" onclick="toggleSidebar()">&times;</button>
+            </div>
+            <div class="grid-container" id="nav-grid"></div>
+            <div style="padding: 20px; border-top: 1px solid #eee; background-color: #f8f9fa;">
+        <div style="font-weight: bold; color: #444; margin-bottom: 15px; font-size: 14px;">Keterangan Warna:</div>
+        
+        <div style="display: flex; flex-direction: column; gap: 12px;">
+            <div style="display: flex; align-items: center; gap: 10px; font-size: 14px;">
+                <div style="width: 18px; height: 18px; background-color: #28a745; border-radius: 3px;"></div>
+                <span>Sudah Dijawab</span>
+            </div>
+            <div style="display: flex; align-items: center; gap: 10px; font-size: 14px;">
+                <div style="width: 18px; height: 18px; background-color: #ffc107; border-radius: 3px;"></div>
+                <span>Ragu-ragu</span>
+            </div>
+            <div style="display: flex; align-items: center; gap: 10px; font-size: 14px;">
+                <div style="width: 18px; height: 18px; background: white; border: 1px solid #ced4da; border-radius: 3px;"></div>
+                <span>Belum Dijawab</span>
+            </div>
+            <div style="display: flex; align-items: center; gap: 10px; font-size: 14px;">
+                <div style="width: 18px; height: 18px; background-color: #e3f2fd; border: 2px solid #007bff; border-radius: 3px;"></div>
+                <span>Sedang Dibuka</span>
+            </div>
+        </div>
+    </div>
+
+<script src="question.js"></script>
+
+<script>
+
+    const STORAGE_KEY = 'cbt_master_session_v2'; 
+    let timeLimit = 100 * 60; // 100 Menit
+    
+    let questionss = []; 
+    let currentQuestionIndex = 0;
+    let userAnswers = [];
+    let userDoubts = [];
+    let isFinished = false;
+    let isPaused = false;
+    let timerInterval = null;
+
+    const els = {
+        qText: document.getElementById('question-text'),
+        qImg: document.getElementById('q-img'),
+        opts: document.getElementById('options-container'),
+        no: document.getElementById('current-no'),
+        grid: document.getElementById('nav-grid'),
+        sidebar: document.getElementById('sidebar'),
+        timer: document.getElementById('timer'),
+        content: document.getElementById('quiz-content'),
+        navBtns: document.getElementById('nav-buttons-area'),
+        finishBtn: document.getElementById('btn-finish'),
+        toggleBtn: document.getElementById('btn-toggle'),
+        pauseBtn: document.getElementById('btn-pause'),
+        pauseOverlay: document.getElementById('pause-overlay')
+    };
+
+    function init() {
+        questionss = prepareQuestions();
+        userAnswers = new Array(questionss.length).fill(null);
+        userDoubts = new Array(questionss.length).fill(false);
+        initGrid();
+        loadQuestion(0);
+        startTimer();
+    }
+
+    function prepareQuestions() {
+        // 'questions' adalah variabel dari question.js
+        let qCopy = JSON.parse(JSON.stringify(questions)); 
+        shuffleArray(qCopy);
+        
+        // Ambil maksimal 200 soal
+        qCopy = qCopy.slice(0, 200);
+
+        qCopy.forEach(q => {
+            // Simpan teks jawaban benar sebelum diacak
+            let correctText = q.answer; 
+
+            // Acak pilihan jawaban
+            shuffleArray(q.options);
+
+            // Cari index baru dari jawaban benar tersebut
+            q.answer = q.options.indexOf(correctText);
+        });
+
+        return qCopy;
+    }
+
+    function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+    }
+
+    function loadQuestion(index) {
+        if(isFinished || isPaused) return;
+        currentQuestionIndex = index;
+        const q = questionss[index];
+        
+        els.no.innerText = index + 1;
+        
+        // Menggunakan q.question sesuai format baru
+        els.qText.innerHTML = q.question;
+        
+        if(q.img && q.img.trim() !== "") { 
+            els.qImg.src = q.img; 
+            els.qImg.style.display = 'block'; 
+        } else { 
+            els.qImg.style.display = 'none'; 
+        }
+
+        els.opts.innerHTML = '';
+        q.options.forEach((opt, i) => {
+            const label = document.createElement('label');
+            label.className = 'option-label';
+            const input = document.createElement('input');
+            input.type = 'radio';
+            input.name = 'answer';
+            input.value = i;
+            if (userAnswers[index] === i) input.checked = true;
+            input.onchange = () => { 
+                userAnswers[index] = i; 
+                updateGridStatus(); 
+            };
+            label.appendChild(input);
+            label.appendChild(document.createTextNode(opt)); 
+            els.opts.appendChild(label);
+        });
+        
+        updateGridStatus();
+        els.finishBtn.style.display = (index === questionss.length - 1) ? 'block' : 'none';
+    }
+
+    function showResults() {
+        els.navBtns.style.display = 'none';
+        els.sidebar.classList.add('hidden');
+        els.toggleBtn.style.display = 'none';
+        els.pauseBtn.style.display = 'none';
+
+        let correctCount = 0;
+        let reviewHTML = "";
+        const answerMap = ["A", "B", "C", "D", "E"];
+
+        questionss.forEach((q, i) => {
+            const userAnswer = userAnswers[i];
+            const isCorrect = userAnswer === q.answer;
+            if(isCorrect) correctCount++;
+            
+            const userAnsText = userAnswer !== null ? 
+                answerMap[userAnswer] + ". " + q.options[userAnswer] : 
+                "<span style='color:red'>Tidak dijawab</span>";
+            
+            const correctAnsText = answerMap[q.answer] + ". " + q.options[q.answer];
+            
+            reviewHTML += `
+                <div class="review-card ${isCorrect ? 'correct' : 'wrong'}">
+                    <span class="review-status ${isCorrect ? 'text-correct' : 'text-wrong'}">
+                        No. ${i+1}: ${isCorrect ? 'BENAR' : 'SALAH'}
+                    </span>
+                    <p style="margin-top:0;">${q.question}</p>
+                    <div style="background:#f8f9fa; padding:10px; border-radius:5px; font-size:14px;">
+                        <strong>Jawaban Kamu:</strong> ${userAnsText} <br>
+                        <strong>Kunci Jawaban:</strong> <span style="color:#28a745; font-weight:bold;">${correctAnsText}</span>
+                    </div>
+                </div>`;
+        });
+
+        let score = (correctCount / questionss.length) * 100;
+        els.content.innerHTML = `
+            <div class="score-display">
+                <h2 style="color:#2c3e50;">Hasil Ujian</h2>
+                <div style="font-size: 56px; color:#007bff; font-weight:bold;">${score.toFixed(1)}</div>
+                <p>Benar: <strong>${correctCount}</strong> dari ${questionss.length} soal</p>
+                <button onclick="location.reload()" class="btn btn-reset" style="margin-top:15px; padding:12px 30px;">Ulangi Ujian</button>
+            </div>
+            <h3 style="padding-bottom:10px; border-bottom:2px solid #ddd;">Kunci Jawaban</h3>
+            <div style="padding-top:20px;">${reviewHTML}</div>`;
+    }
+
+    // Fungsi pendukung lainnya (timer, grid, dll) tetap sama
+    function initGrid() {
+        els.grid.innerHTML = '';
+        questionss.forEach((_, index) => {
+            const btn = document.createElement('div');
+            btn.className = 'grid-item';
+            btn.innerText = index + 1;
+            btn.onclick = () => { if(!isFinished && !isPaused) loadQuestion(index); };
+            btn.id = `nav-${index}`;
+            els.grid.appendChild(btn);
+        });
+        updateGridStatus();
+    }
+
+    function updateGridStatus() {
+        document.querySelectorAll('.grid-item').forEach(el => el.classList.remove('active'));
+        const currentNav = document.getElementById(`nav-${currentQuestionIndex}`);
+        if(currentNav) currentNav.classList.add('active');
+        questionss.forEach((_, idx) => {
+            const nav = document.getElementById(`nav-${idx}`);
+            if(!nav) return;
+            nav.classList.remove('answered', 'doubtful');
+            if (userDoubts[idx]) nav.classList.add('doubtful');
+            else if (userAnswers[idx] !== null) nav.classList.add('answered');
+        });
+    }
+
+    function togglePause() {
+        if (isFinished) return;
+        isPaused = !isPaused;
+        if (isPaused) {
+            clearInterval(timerInterval);
+            els.pauseOverlay.style.display = 'flex';
+            els.pauseBtn.innerHTML = "&#9658; Lanjut";
+        } else {
+            startTimer();
+            els.pauseOverlay.style.display = 'none';
+            els.pauseBtn.innerHTML = "&#10074;&#10074; Pause";
+        }
+    }
+
+    function startTimer() {
+        if(isFinished || isPaused) return;
+        if(timerInterval) clearInterval(timerInterval);
+        timerInterval = setInterval(() => {
+            if(timeLimit <= 0) { finishQuiz(true); return; }
+            timeLimit--;
+            let h = Math.floor(timeLimit / 3600);
+            let m = Math.floor((timeLimit % 3600) / 60);
+            let s = timeLimit % 60;
+            els.timer.innerText = `${h < 10 ? "0"+h : h}:${m < 10 ? "0"+m : m}:${s < 10 ? "0"+s : s}`;
+        }, 1000);
+    }
+
+    function finishQuiz(isTimeout) {
+        if(isFinished) return;
+        if (!isTimeout && !confirm("Yakin ingin mengakhiri ujian?")) return;
+        isFinished = true;
+        clearInterval(timerInterval);
+        showResults();
+    }
+
+    function toggleDoubt() {
+        if(isFinished || isPaused) return;
+        userDoubts[currentQuestionIndex] = !userDoubts[currentQuestionIndex];
+        updateGridStatus();
+    }
+
+    function nextQuestion() { if (currentQuestionIndex < questionss.length - 1) loadQuestion(currentQuestionIndex + 1); }
+    function prevQuestion() { if (currentQuestionIndex > 0) loadQuestion(currentQuestionIndex - 1); }
+    function toggleSidebar() { els.sidebar.classList.toggle('hidden'); }
+
+    init();
+</script>
+</body>
+</html>
+
