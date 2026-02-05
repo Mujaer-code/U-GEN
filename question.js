@@ -9993,7 +9993,7 @@ let questions = [
     options: ["0,1", "0,2", "0,3", "0,4", "0,5"]
   },
   {
-    question: "Industri ITB-Farma akan mengembangkan suatu formula larutan X. Untuk mencegah kristalisasi gula pada leher botol maka dalam formula dapat ditambahkan….",
+    question: "Industri akan mengembangkan suatu formula larutan X. Untuk mencegah kristalisasi gula pada leher botol maka dalam formula dapat ditambahkan….",
     answer: "Gliserol",
     options: ["Xantham Gum", "Natrium Benzoat", "Na CMC", "Gliserol", "Natrium metabisulfit"]
   },

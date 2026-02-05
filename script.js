@@ -134,6 +134,7 @@ function optionSelected(answer) {
       questionCount++; // Pindah ke soal berikutnya
       showQuestions(questionCount);
       updateProgress();
+      oneMinute();
     } else {
       showResultBox(); // **Tampilkan hasil jika semua soal terjawab**
     }
