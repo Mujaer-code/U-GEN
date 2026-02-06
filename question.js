@@ -22242,7 +22242,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang petani saat bekerja di sawah ternyata digigit tikus dengan kondisi berat. Pasien diketahui alergi dengan antibiotik doksisiklin. Antibiotik apa yang direkomendasikan mengatasi infeksi gigitan tikus saat pasien datang ke IGD? (UKMPPAI Februari 2025)",
+  question: "Seorang petani saat bekerja di sawah ternyata digigit tikus dengan kondisi berat. Pasien diketahui alergi dengan antibiotik doksisiklin. Antibiotik apa yang direkomendasikan mengatasi infeksi gigitan tikus saat pasien datang ke IGD?",
   img: "",
   options: ["Penisilin G", "Cefixim", "Azitromisin", "Levofloksasin", "Metronidazol"],
   answer: 0
@@ -22314,25 +22314,25 @@ let questions = [
   answer: 3
 },
 {
-  question: "Seorang perempuan berusia 27 tahun mengeluhkan mual dan demam beberapa hari. Setelah diperiksa, hasil kultur darah menunjukkan positif Salmonella thyposa. Dokter memberikan pengobatan kloramfenikol. Manakah di bawah ini yang termasuk mekanisme dari kloramfenikol? (UKAI September 2020)",
+  question: "Seorang perempuan berusia 27 tahun mengeluhkan mual dan demam beberapa hari. Setelah diperiksa, hasil kultur darah menunjukkan positif Salmonella thyposa. Dokter memberikan pengobatan kloramfenikol. Manakah di bawah ini yang termasuk mekanisme dari kloramfenikol?",
   img: "",
   options: ["Menghambat sintesis protein dengan cara berikatan dengan ribosom 30’s", "Menghambat enzim-enzim essensial dan metabolism folat", "Menghambat sintesis protein dengan berikatan dengan ribosom subunit 50’s", "Membunuh bakteri concentrate supercoiling", "Mempengaruhi sintesis atau metabolisme asam nukleat"],
   answer: 2
 },
 {
-  question: "Seorang wanita berusia 35 tahun hamil trimester 2 didiagnosis infeksi saluran kemih. Diketahui pasien alergi obat nitrofurantoin dan betalaktam. Apa rekomendasi antibiotik yang dapat direkomendasikan? (TO UKMPPAI November 2024)",
+  question: "Seorang wanita berusia 35 tahun hamil trimester 2 didiagnosis infeksi saluran kemih. Diketahui pasien alergi obat nitrofurantoin dan betalaktam. Apa rekomendasi antibiotik yang dapat direkomendasikan?",
   img: "",
   options: ["Kotrimoksazol", "Eritromisin", "Levofloxacin", "Metronidazol", "Sefaleksin"],
   answer: 0
 },
 {
-  question: "Seorang ibu membawa anaknya ke puskesmas untuk mengikuti program vaksin yang diberikan untuk mencegah penyakit diare. Program vaksin apakah yang diikuti oleh anak dari ibu tersebut? (UKAI Januari 2020)",
+  question: "Seorang ibu membawa anaknya ke puskesmas untuk mengikuti program vaksin yang diberikan untuk mencegah penyakit diare. Program vaksin apakah yang diikuti oleh anak dari ibu tersebut?  ",
   img: "",
   options: ["TT", "Rabies", "Torch", "Polio", "Rotavirus"],
   answer: 4
 },
 {
-  question: "Seorang laki-laki usia 40 tahun mendapat diagnosis oleh dokter yaitu ISK pyelonefritis akut. Pasien memiliki riwayat alergi betalaktam dan flouroquinolon. Terapi antibiotik apa yang tepat untuk pasien? (UKAI Agustus 2022)",
+  question: "Seorang laki-laki usia 40 tahun mendapat diagnosis oleh dokter yaitu ISK pyelonefritis akut. Pasien memiliki riwayat alergi betalaktam dan flouroquinolon. Terapi antibiotik apa yang tepat untuk pasien?  ",
   img: "",
   options: ["Kotrimoksazol", "Cephalosporin", "Gentamisin", "Azitromisin", "Tetrasiklin"],
   answer: 0
@@ -22356,13 +22356,13 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien wanita usia 25 tahun mengalami diare persisten. Berdasarkan uji bakteri, diketahui pasien terinfeksi Shigella. Pasien alergi antibiotik betalaktam dan makrolida. Antibiotik apa yang anda rekomendasikan? (UKAI Agustus 2022)",
+  question: "Seorang pasien wanita usia 25 tahun mengalami diare persisten. Berdasarkan uji bakteri, diketahui pasien terinfeksi Shigella. Pasien alergi antibiotik betalaktam dan makrolida. Antibiotik apa yang anda rekomendasikan?  ",
   img: "",
   options: ["Azitromisin", "Ciprofloksasin", "Seftriakson", "Sefadroksil", "Amoksisilin"],
   answer: 1
 },
 {
-  question: "Seorang wanita muda berusia 25 tahun mengalami pendarahan di vaginanya dan sensasi panas saat buang air kecil. Pasien didiagnosis terinfeksi bakteri N. Gonorrheae orofaring. Apakah rekomendasi terapi penyakit tersebut? (TO UKMPPAI November 2024)",
+  question: "Seorang wanita muda berusia 25 tahun mengalami pendarahan di vaginanya dan sensasi panas saat buang air kecil. Pasien didiagnosis terinfeksi bakteri N. Gonorrheae orofaring. Apakah rekomendasi terapi penyakit tersebut?",
   img: "",
   options: ["Penisilin G", "Doksisiklin", "Azitromisin", "Eritromisin", "Ceftriakson"],
   answer: 4
@@ -22374,7 +22374,7 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang perempuan usia 35 tahun mengalami infeksi yang disebabkan oleh C. difficile. Dokter berdiskusi dengan apoteker terkait antibiotik yang tepat untuk pasien. Pasien alergi dengan metronidazole. Obat apa yang direkomendasikan? (UKAI Agustus 2022)",
+  question: "Seorang perempuan usia 35 tahun mengalami infeksi yang disebabkan oleh C. difficile. Dokter berdiskusi dengan apoteker terkait antibiotik yang tepat untuk pasien. Pasien alergi dengan metronidazole. Obat apa yang direkomendasikan?  ",
   img: "",
   options: ["Siprofloksasin", "Azitromisin", "Vankomisin", "Seftriakson", "Doksisiklin"],
   answer: 2
@@ -22386,13 +22386,13 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang pria 24 tahun didiagnosis menderita sifilis setelah dilakukan pemeriksaan lab positif T. Pallidum. Dokter akan memberikan antibiotik primer. Pasien alergi penisilin. Apakah antibiotik yang direkomendasikan pada kasus di atas? (UKAI Februari 2023)",
+  question: "Seorang pria 24 tahun didiagnosis menderita sifilis setelah dilakukan pemeriksaan lab positif T. Pallidum. Dokter akan memberikan antibiotik primer. Pasien alergi penisilin. Apakah antibiotik yang direkomendasikan pada kasus di atas?   ",
   img: "",
   options: ["Amoksisilin", "Doksisiklin", "Levofloksasin", "Prokain penisilin", "Benzatin penisilin"],
   answer: 1
 },
 {
-  question: "Manakah antibiotik yang memiliki efek samping tendon rupture? (UKMPPAI Agustus 2024)",
+  question: "Manakah antibiotik yang memiliki efek samping tendon rupture?",
   img: "",
   options: ["Vankomisin", "Kotrimoksazol", "Kloramfenikol", "Doksisiklin", "Siprofloksasin"],
   answer: 4
@@ -22404,25 +22404,25 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang wanita usia 30 tahun datang dengan keluhan demam. Demam yang dirasakan setiap 2 hari, Wanita tersebut didiagnosis terkena malaria berat, dokter telah memberikan artesunat iv tetapi tidak ada perbaikan. Dokter ingin mengganti terapi, apakah obat yang dapat direkomendasikan kepada dokter? (UKMPPAI Februari 2025)",
+  question: "Seorang wanita usia 30 tahun datang dengan keluhan demam. Demam yang dirasakan setiap 2 hari, Wanita tersebut didiagnosis terkena malaria berat, dokter telah memberikan artesunat iv tetapi tidak ada perbaikan. Dokter ingin mengganti terapi, apakah obat yang dapat direkomendasikan kepada dokter?  ",
   img: "",
   options: ["Kuinin", "Primakuin", "Klorokuin", "DHP", "Arthemether"],
   answer: 4
 },
 {
-  question: "Pasien HIV (30 tahun) mendapatkan terapi zidovudine, lamivudin, dan nevirapine. Setelah sebulan pengobatan, pasien mengalami anemia. Dokter menduga anemia disebabkan oleh penggunaan zidovudin. Apakah yang anda rekomendasikan mengenai penggunaan zidovudin? (UKAI Februari 2023)",
+  question: "Pasien HIV (30 tahun) mendapatkan terapi zidovudine, lamivudin, dan nevirapine. Setelah sebulan pengobatan, pasien mengalami anemia. Dokter menduga anemia disebabkan oleh penggunaan zidovudin. Apakah yang anda rekomendasikan mengenai penggunaan zidovudin?   ",
   img: "",
   options: ["Obat diganti tenofovir", "Obat diganti Stavudin", "Obat dihentikan", "Obat diturunkan dosisnya", "Obat dilanjutkan dengan pemantauan hematologi"],
   answer: 0
 },
 {
-  question: "Seorang wanita usia 20 tahun datang dengan keluhan demam. Demam yang dirasakan setiap 2 hari. Dokter ingin memberikan terapi Dihydroartemisinin & Piperakuin (DHP) + Primakuin, tetapi diketahui pasien alergi primakuin. Dokter ingin mengganti terapi primakuin, apakah obat yang dapat direkomendasikan kepada dokter? (TO UKMPPAI November 2024)",
+  question: "Seorang wanita usia 20 tahun datang dengan keluhan demam. Demam yang dirasakan setiap 2 hari. Dokter ingin memberikan terapi Dihydroartemisinin & Piperakuin (DHP) + Primakuin, tetapi diketahui pasien alergi primakuin. Dokter ingin mengganti terapi primakuin, apakah obat yang dapat direkomendasikan kepada dokter?",
   img: "",
   options: ["Amodiakuin", "Mefloquin", "Tafenoquin", "Kuinin", "Klorokuin"],
   answer: 2
 },
 {
-  question: "Seorang bapak usia 30 tahun didiagnosis TB paru BTA (+). Diketahui pasien memiliki istri yang sedang hamil anak pertama dengan usia kehamilan 5 minggu. Bagaimana terapi profilaksis yang tepat bagi istri pasien? (TO UKAI Desember 2022)",
+  question: "Seorang bapak usia 30 tahun didiagnosis TB paru BTA (+). Diketahui pasien memiliki istri yang sedang hamil anak pertama dengan usia kehamilan 5 minggu. Bagaimana terapi profilaksis yang tepat bagi istri pasien?",
   img: "",
   options: ["Isoniazid", "Isoniazid + rifapentin", "Rifampisin", "Isoniazid + piridoksin + kotrimoksazol", "Isoniazid + rifampisin + pirazinamid + etambutol"],
   answer: 0
@@ -22434,13 +22434,13 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang pria usia 60 tahun masuk RS dengan diagnosis sepsis. Dokter menganjurkan dilakukan kultur darah. Dari hasil kultur darah yang diambil dari lokasi CVC didapatkan hasil biakan Staphylococcus aureus (MRSA) (Methicillin - resistant Staphylococcus aureus). Berdasarkan data riwayat pasien, apoteker mendapatkan informasi bahwa pasien pernah mengalami red man syndrome. Dokter bertanya pada anda sebagai apoteker, obat apa yang tepat untuk pasien? (TO UKAI Desember 2022)",
+  question: "Seorang pria usia 60 tahun masuk RS dengan diagnosis sepsis. Dokter menganjurkan dilakukan kultur darah. Dari hasil kultur darah yang diambil dari lokasi CVC didapatkan hasil biakan Staphylococcus aureus (MRSA) (Methicillin - resistant Staphylococcus aureus). Berdasarkan data riwayat pasien, apoteker mendapatkan informasi bahwa pasien pernah mengalami red man syndrome. Dokter bertanya pada anda sebagai apoteker, obat apa yang tepat untuk pasien?",
   img: "",
   options: ["Vankomisin", "Linezolid", "Dapson", "Karbapenem", "Seftriakson"],
   answer: 1
 },
 {
-  question: "Seorang pasien didiagnosis mengalami otitis media akut tanpa komplikasi. Dokter kemudian meresepkan sebuah obat, namun setelah dikonfirmasi pasien alergi golongan penicillin. Dokter lalu mengonsultasikan kepada apoteker terkait terapi antibiotik yang tepat untuk pasien. Antibiotik apa yang digunakan? (TO UKAI Desember 2022)",
+  question: "Seorang pasien didiagnosis mengalami otitis media akut tanpa komplikasi. Dokter kemudian meresepkan sebuah obat, namun setelah dikonfirmasi pasien alergi golongan penicillin. Dokter lalu mengonsultasikan kepada apoteker terkait terapi antibiotik yang tepat untuk pasien. Antibiotik apa yang digunakan?",
   img: "",
   options: ["Sefuroksim", "Eritromisin", "Azitromisin", "Gentamisin", "Levofloksasin"],
   answer: 0
@@ -22452,7 +22452,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien mengonsumsi OAT. Setelah mengonsumsi OAT tersebut, pasien mengalami buang air kecil sedikit. Obat apa yang menyebabkan efek samping tersebut? (TO UKAI Desember 2022)",
+  question: "Seorang pasien mengonsumsi OAT. Setelah mengonsumsi OAT tersebut, pasien mengalami buang air kecil sedikit. Obat apa yang menyebabkan efek samping tersebut?",
   img: "",
   options: ["Rifampisin", "Isoniazid", "Etambutol", "Pirazinamid", "Streptomisin"],
   answer: 4
@@ -22464,19 +22464,19 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien didiagnosis ISK akibat bakteri Pseudomonas aeruginosa. Dokter meminta rekomendasi apoteker untuk antibiotik yang bekerja spesifik pada spektrum gram negatif. Antibiotik apa yang anda rekomendasikan? (UKAI Februari 2023)",
+  question: "Seorang pasien didiagnosis ISK akibat bakteri Pseudomonas aeruginosa. Dokter meminta rekomendasi apoteker untuk antibiotik yang bekerja spesifik pada spektrum gram negatif. Antibiotik apa yang anda rekomendasikan?   ",
   img: "",
   options: ["Gentamisin", "Ciprofloksasin", "Metronidazol", "Kotrimoksazol", "Seftriakson"],
   answer: 0
 },
 {
-  question: "Apoteker Chresna sedang melakukan PTO pada pasien Hepatitis B. Apa parameter penting yang harus dipantau terkait keberhasilan terapi pasien? (UKMPPAI Februari 2025)",
+  question: "Apoteker Chresna sedang melakukan PTO pada pasien Hepatitis B. Apa parameter penting yang harus dipantau terkait keberhasilan terapi pasien?  ",
   img: "",
   options: ["SGOT/SGPT", "Viral Load", "HBV DNA", "Albumin", "USG"],
   answer: 2
 },
 {
-  question: "Seorang pasien datang ke apotek dengan keluhan nystagmus dan vertigo. Hasil komunikasi dengan pasien didapati pasien sedang menjalani terapi OAT untuk kategori II. Efek yang timbul diketahui merupakan efek samping dari obat. Obat manakah yang memberikan efek samping seperti keluhan pasien? (UKAI Januari 2020)",
+  question: "Seorang pasien datang ke apotek dengan keluhan nystagmus dan vertigo. Hasil komunikasi dengan pasien didapati pasien sedang menjalani terapi OAT untuk kategori II. Efek yang timbul diketahui merupakan efek samping dari obat. Obat manakah yang memberikan efek samping seperti keluhan pasien?  ",
   img: "",
   options: ["Streptomisin", "Etambutol", "Rifampisin", "Isoniazid", "Pirazinamid"],
   answer: 0
@@ -22500,7 +22500,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang wanita usia 27 tahun didiagnosis infeksi toksoplasmosis. Pasien saat ini sedang hamil 12 minggu. Terapi apa yang tepat untuk pasien? (UKAI Februari 2023)",
+  question: "Seorang wanita usia 27 tahun didiagnosis infeksi toksoplasmosis. Pasien saat ini sedang hamil 12 minggu. Terapi apa yang tepat untuk pasien?   ",
   img: "",
   options: ["Spiramisin", "Pirimetamin", "Pirimetamin + Sulfadiazin", "Klindamisin", "Leukovorin"],
   answer: 0
@@ -22518,7 +22518,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang wanita usia 30 tahun didiagnosis HIV stadium 3 dan mendapatkan terapi tenofovir + lamivudine + efavirenz. Pasien juga mendapatkan obat untuk profilaksis pneumonia karena penurunan sistem imun. Obat apa yang tepat diberikan? (UKAI Februari 2023)",
+  question: "Seorang wanita usia 30 tahun didiagnosis HIV stadium 3 dan mendapatkan terapi tenofovir + lamivudine + efavirenz. Pasien juga mendapatkan obat untuk profilaksis pneumonia karena penurunan sistem imun. Obat apa yang tepat diberikan?   ",
   img: "",
   options: ["Amoksisilin", "Klotrimazol", "Azitromisin", "Levofloksasin", "Kotrimoksazol"],
   answer: 4
@@ -22560,7 +22560,7 @@ let questions = [
   answer: 3
 },
 {
-  question: "Seorang pasien dirawat di HCU RS Insan Jaya Muda. Pasien mendapatkan terapi Vankomisin, saat pemberian awal pasien diberikan Loading Dose Vankomisin. Apakah tujuan pemberian antibiotik secara Loading Dose? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien dirawat di HCU RS Insan Jaya Muda. Pasien mendapatkan terapi Vankomisin, saat pemberian awal pasien diberikan Loading Dose Vankomisin. Apakah tujuan pemberian antibiotik secara Loading Dose?  ",
   img: "",
   options: ["Karena vankomisin termasuk antibiotik TIME DEPENDENT", "Mempercepat kadar tunak", "Mencegah resistensi vankomisin", "Mencegah toksisitas vankomisin", "Meminimalisir efek samping vankomisin"],
   answer: 1
@@ -22572,7 +22572,7 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang wanita datang ke RS dengan keluhan nyeri panggul dan nyeri berkemih. Pasien didiagnosis gonococcal urethritis. Terapi apa yang tepat untuk pasien tersebut? (UKAI Februari 2023)",
+  question: "Seorang wanita datang ke RS dengan keluhan nyeri panggul dan nyeri berkemih. Pasien didiagnosis gonococcal urethritis. Terapi apa yang tepat untuk pasien tersebut?   ",
   img: "",
   options: ["Ceftriakson", "Benzatin benzil penisilin", "Kotrimoksazol", "Ciprofloksasin", "Nitrofurantoin"],
   answer: 0
@@ -22608,7 +22608,7 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang pasien datang ke apotek menebus resep berisi ampisilin. Informasi obat apa yang harus disampaikan oleh apoteker? (UKAI Agustus 2022)",
+  question: "Seorang pasien datang ke apotek menebus resep berisi ampisilin. Informasi obat apa yang harus disampaikan oleh apoteker?  ",
   img: "",
   options: ["Minum 30 menit sebelum makan", "Minum obat saat makan", "Minum obat 30 menit setelah makan", "Minum obat 1 jam setelah makan", "Minum obat di malam hari"],
   answer: 0
@@ -22626,7 +22626,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang pria dirawat di RS karena meningitis. Hasil kultur bakteri menunjukkan pasien terinfeksi Haemophilus influenzae positif betalaktamase. Dokter berdiskusi dengan apoteker terkait pemilihan antibiotik. Apa yang direkomendasikan oleh apoteker? (UKAI Februari 2023)",
+  question: "Seorang pria dirawat di RS karena meningitis. Hasil kultur bakteri menunjukkan pasien terinfeksi Haemophilus influenzae positif betalaktamase. Dokter berdiskusi dengan apoteker terkait pemilihan antibiotik. Apa yang direkomendasikan oleh apoteker?   ",
   img: "",
   options: ["Ceftriakson", "Ampisilin", "Gentamisin", "Benzilpenisilin", "Kloramfenikol"],
   answer: 0
@@ -22656,13 +22656,13 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien didiagnosis oleh dokter bronchitis. Dokter memberikan terapi antibiotik empiris tetapi pasien alergi gol makrolida. Obat apakah yang tepat? (TO UKMPPAI November 2024)",
+  question: "Seorang pasien didiagnosis oleh dokter bronchitis. Dokter memberikan terapi antibiotik empiris tetapi pasien alergi gol makrolida. Obat apakah yang tepat?",
   img: "",
   options: ["Azitromisin", "Cefotaxime", "Amoksisilin", "Levofloksasin", "Kotrimoksazol"],
   answer: 3
 },
 {
-  question: "Seorang pasien mengalami demam dan batuk berdahak. Dokter mendiagnosis pasien tersebut terkena Vancomycin-Resistant Staphylococcus Aureus. Sebagai apoteker, obat apa yang anda sarankan? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien mengalami demam dan batuk berdahak. Dokter mendiagnosis pasien tersebut terkena Vancomycin-Resistant Staphylococcus Aureus. Sebagai apoteker, obat apa yang anda sarankan?  ",
   img: "",
   options: ["Vankomisin", "Ciprofloksasin", "Cefadroksil", "Kotrimoksazol", "Linezolid"],
   answer: 4
@@ -22686,25 +22686,25 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang pasien HIV yang sudah memulai terapi, mengeluhkan nyeri saat berkemih akhir-akhir ini. Setelah ditelusuri, apoteker menduga keluhan tersebut karena efek samping dari obat HIV yang digunakan. Obat apakah itu? (UKAI Agustus 2022)",
+  question: "Seorang pasien HIV yang sudah memulai terapi, mengeluhkan nyeri saat berkemih akhir-akhir ini. Setelah ditelusuri, apoteker menduga keluhan tersebut karena efek samping dari obat HIV yang digunakan. Obat apakah itu?  ",
   img: "",
   options: ["Zidovudin", "Tenofovir", "Lamivudin", "Indinavir", "Emtracitibine"],
   answer: 3
 },
 {
-  question: "Seorang pasien pria usia 35 tahun didiagnosis meningitis akibat infeksi Neisseria meningitides. Setelah 1 minggu dirawat di RS, pasien terinfeksi Streptococcus pneumoniae. Dokter meminta apoteker untuk memilihkan antibiotik betalaktam dengan spektrum terluas untuk mengatasi kedua infeksi yang dialami pasien. Antibiotik apa yang anda rekomendasikan? (UKAI Februari 2023)",
+  question: "Seorang pasien pria usia 35 tahun didiagnosis meningitis akibat infeksi Neisseria meningitides. Setelah 1 minggu dirawat di RS, pasien terinfeksi Streptococcus pneumoniae. Dokter meminta apoteker untuk memilihkan antibiotik betalaktam dengan spektrum terluas untuk mengatasi kedua infeksi yang dialami pasien. Antibiotik apa yang anda rekomendasikan?   ",
   img: "",
   options: ["Meropenem", "Vankomisin", "Ampisilin", "Gentamisin", "Ceftriakson"],
   answer: 0
 },
 {
-  question: "Seorang pasien didiagnosis TBC dan mengonsumsi regimen 2HRZE + 4HR. Setelah 1 bulan didapati mata pasien menguning dan dilakukan pemeriksaan laboratorium AST/ALT pasien naik 3x lipat. Apa yang direkomendasikan Apoteker kepada dokter? (TO UKMPPAI November 2024)",
+  question: "Seorang pasien didiagnosis TBC dan mengonsumsi regimen 2HRZE + 4HR. Setelah 1 bulan didapati mata pasien menguning dan dilakukan pemeriksaan laboratorium AST/ALT pasien naik 3x lipat. Apa yang direkomendasikan Apoteker kepada dokter?",
   img: "",
   options: ["Mengganti regimen terapi menjadi 2HES/ 10HE", "Mengganti regimen terapi menjadi 6-9RZE", "Lanjutkan pengobatan", "Menghentikan pengobatan", "Tunggu 2 minggu sampai gejala hilang kemudian lanjutkan"],
   answer: 3
 },
 {
-  question: "Seorang pasien HIV mengonsumsi regimen HIV yang menggunakan obat tenofovir. Apoteker Robby akan melakukan pemantauan terapi obat. Apa parameter efektivitas pengobatan yang dipantau setiap 12 bulan? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien HIV mengonsumsi regimen HIV yang menggunakan obat tenofovir. Apoteker Robby akan melakukan pemantauan terapi obat. Apa parameter efektivitas pengobatan yang dipantau setiap 12 bulan?  ",
   img: "",
   options: ["AST/ALT", "Viral Load", "CD4", "Hb", "Anti-TBC"],
   answer: 1
@@ -22716,13 +22716,13 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang ODHA wanita datang ke instalasi farmasi untuk menebus resep. 3 bulan lalu pasien rutin menerima terapi kombinasi obat ARV (tenofovir, lamivudin, dan efavirenz). Bulan ini pasien diresepkan dengan kombinasi yang sama. Pasien mengeluh gangguan yang mengarah ke neuropsikiatri. Saat pemberian informasi, apoteker mengatur waktu penggunaan untuk meminimalkan keluhan dari pasien. Apakah informasi waktu penggunaan yang disarankan? (UKAI Februari 2023)",
+  question: "Seorang ODHA wanita datang ke instalasi farmasi untuk menebus resep. 3 bulan lalu pasien rutin menerima terapi kombinasi obat ARV (tenofovir, lamivudin, dan efavirenz). Bulan ini pasien diresepkan dengan kombinasi yang sama. Pasien mengeluh gangguan yang mengarah ke neuropsikiatri. Saat pemberian informasi, apoteker mengatur waktu penggunaan untuk meminimalkan keluhan dari pasien. Apakah informasi waktu penggunaan yang disarankan?   ",
   img: "",
   options: ["Pada pagi hari, saat makan", "Pada pagi hari, sesudah makan", "Pada siang hari, saat perut kosong", "Pada siang hari, sesudah makan siang", "Pada malam hari, sebelum tidur"],
   answer: 4
 },
 {
-  question: "Seorang anak perempuan usia 10 tahun mengalami infeksi tetanus karena bakteri Clostridium tetani. Dokter ingin memberikan antibiotik dengan rute intramuscular. Apakah antibiotik yang dimaksud? (TO UKMPPAI Juni 2023)",
+  question: "Seorang anak perempuan usia 10 tahun mengalami infeksi tetanus karena bakteri Clostridium tetani. Dokter ingin memberikan antibiotik dengan rute intramuscular. Apakah antibiotik yang dimaksud? ",
   img: "",
   options: ["Penisilin G", "Prokain penisilin", "Ampisilin", "Metronidazol", "Doksisilin"],
   answer: 1
@@ -22740,7 +22740,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang pasien didiagnosis HIV + TBC. Dokter menanyakan obat HIV apa yang berinteraksi paling minimal dengan Rifampisin? (TO UKMPPAI November 2024)",
+  question: "Seorang pasien didiagnosis HIV + TBC. Dokter menanyakan obat HIV apa yang berinteraksi paling minimal dengan Rifampisin? ",
   img: "",
   options: ["Nevirapin", "Efavirens", "Dolutegravir", "LPV/r", "Zidovudine"],
   answer: 1
@@ -22758,13 +22758,13 @@ let questions = [
   answer: 3
 },
 {
-  question: "Seorang anak laki-laki usia 6 tahun terjatuh and tergores besi karena naik sepeda. Terapi apa yang perlu segera diberikan sebagai profilaksis tetanus? (UKAI Agustus 2022)",
+  question: "Seorang anak laki-laki usia 6 tahun terjatuh and tergores besi karena naik sepeda. Terapi apa yang perlu segera diberikan sebagai profilaksis tetanus?  ",
   img: "",
   options: ["Serum anti tetanus", "Imunisasi toksoid DPT (difteri, pertusis, tetanus)", "Imunisasi toksoid Td (tetanus difteri)", "Doksisiklin", "Vaksin BCG"],
   answer: 0
 },
 {
-  question: "Diketahui pasien wanita 24 tahun dengan riwayat positif HIV stadium 2 sejak 2 tahun lalu dengan regimen terapi tenofovir + lamivudine + efavirenz. Pasien saat ini diketahui hamil 6 minggu. Dokter meminta saran apoteker untuk penggantian efavirenz karena risiko teratogenik. Obat apa yang anda sarankan? (UKAI Februari 2023)",
+  question: "Diketahui pasien wanita 24 tahun dengan riwayat positif HIV stadium 2 sejak 2 tahun lalu dengan regimen terapi tenofovir + lamivudine + efavirenz. Pasien saat ini diketahui hamil 6 minggu. Dokter meminta saran apoteker untuk penggantian efavirenz karena risiko teratogenik. Obat apa yang anda sarankan?   ",
   img: "",
   options: ["Stavudin", "Nevirapin", "Lamivudin", "Abacavir", "Emtricitabine"],
   answer: 1
@@ -22788,7 +22788,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien wanita usia 27 tahun didiagnosis dokter mengalami infeksi Chlamydia trachomatis. Dokter bertanya kepada apoteker terkait antibiotik yang bisa diberikan. Pasien alergi doksisiklin. Apakah rekomendasi yang anda berikan? (UKAI September 2020)",
+  question: "Seorang pasien wanita usia 27 tahun didiagnosis dokter mengalami infeksi Chlamydia trachomatis. Dokter bertanya kepada apoteker terkait antibiotik yang bisa diberikan. Pasien alergi doksisiklin. Apakah rekomendasi yang anda berikan?",
   img: "",
   options: ["Amoksisilin", "Eritromisin", "Kotrimoksazol", "Ceftriakson", "Tetrasiklin"],
   answer: 1
@@ -22800,7 +22800,7 @@ let questions = [
   answer: 2
 },
 {
-  question: "Pasien berumur 10 tahun dibawa orang tuanya ke dokter karena sudah seminggu yang lalu diarenya tak kunjung sembuh. Kemudian dilakukan pemeriksaan and dilakukan kultur. Pasien didiagnosis terinfeksi Giardia lamblia. Antibiotik apakah yang tepat untuk diberikan? (UKAI September 2020)",
+  question: "Pasien berumur 10 tahun dibawa orang tuanya ke dokter karena sudah seminggu yang lalu diarenya tak kunjung sembuh. Kemudian dilakukan pemeriksaan and dilakukan kultur. Pasien didiagnosis terinfeksi Giardia lamblia. Antibiotik apakah yang tepat untuk diberikan?",
   img: "",
   options: ["Metronidazol", "Azitromisin", "Levofloksasin", "Doksisiklin", "Eritromisin"],
   answer: 0
@@ -22837,13 +22837,13 @@ let questions = [
 },
 
 {
-  question: "Seorang pasien laki-laki berumur 55 tahun datang ke RS dengan diagnosis hipertensi. Setelah pengobatan selama 3 bulan dengan captopril, tekanan darah pasien belum mencapai target. Dokter merekomendasikan obat tambahan. Apakah obat tambahan yang perlu dihindari? (UKAI September 2020)",
+  question: "Seorang pasien laki-laki berumur 55 tahun datang ke RS dengan diagnosis hipertensi. Setelah pengobatan selama 3 bulan dengan captopril, tekanan darah pasien belum mencapai target. Dokter merekomendasikan obat tambahan. Apakah obat tambahan yang perlu dihindari?",
   img: "",
   options: ["Amlodipin", "Propanolol", "HCT", "Irbesartan", "Spironolakton"],
   answer: 3
 },
 {
-  question: "Seorang wanita 59 tahun dirawat dengan diagnosis stroke nonkardioemboli. Terapi apa yang tepat untuk diberikan? (UKMPPAI Februari 2025)",
+  question: "Seorang wanita 59 tahun dirawat dengan diagnosis stroke nonkardioemboli. Terapi apa yang tepat untuk diberikan?  ",
   img: "",
   options: ["Aspirin", "Warfarin", "Klopidogrel", "Cilostazol", "Manitol"],
   answer: 0
@@ -22867,7 +22867,7 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang wanita 45 tahun dirawat di RS Insan Jaya Muda dengan diagnosis stroke kardioemboli. Pasien diberikan terapi warfarin, namun beberapa hari penggunaan muncul lebam pada pasien. Dokter bertanya kepada apoteker obat pengganti yang dapat digunakan, apa rekomendasi terapi yang tepat untuk diberikan? (TO UKMPPAI Juni 2024)",
+  question: "Seorang wanita 45 tahun dirawat di RS Insan Jaya Muda dengan diagnosis stroke kardioemboli. Pasien diberikan terapi warfarin, namun beberapa hari penggunaan muncul lebam pada pasien. Dokter bertanya kepada apoteker obat pengganti yang dapat digunakan, apa rekomendasi terapi yang tepat untuk diberikan? ",
   img: "",
   options: ["Aspirin", "Apixaban", "Klopidogrel", "Heparin", "Manitol"],
   answer: 1
@@ -22933,19 +22933,19 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang perempuan 25 tahun dengan usia kehamilan 2 bulan, melakukan pemeriksaan antenatal care/ANC (pemeriksaaan kehamilan) di suatu rumah sakit. Hasil pemeriksaan darah menunjukan bahwa kadar D-dimer melebihi batas normal. Dokter memutuskan untuk meresepkan antikoagulan dan meminta pertimbangan apoteker mengenai antikoagulan yang aman untuk pasien. Apa obat yang tepat untuk direkomendasikan? (UKAI Agustus 2022)",
+  question: "Seorang perempuan 25 tahun dengan usia kehamilan 2 bulan, melakukan pemeriksaan antenatal care/ANC (pemeriksaaan kehamilan) di suatu rumah sakit. Hasil pemeriksaan darah menunjukan bahwa kadar D-dimer melebihi batas normal. Dokter memutuskan untuk meresepkan antikoagulan dan meminta pertimbangan apoteker mengenai antikoagulan yang aman untuk pasien. Apa obat yang tepat untuk direkomendasikan?  ",
   img: "",
   options: ["Aspirin", "Enoxaparin", "Heparin", "Warfarin", "Dabigatran"],
   answer: 1
 },
 {
-  question: "Seorang pasien berusia 60 tahun dilarikan ke rumah sakit dengan keluhan lemah bagian kiri, bicara pelo, dan nyeri. Pasien memiliki riwayat penyakit jantung sejak 5 tahun yang lalu. Dokter mendiagnosis bahwa pasien mengalami stoke dan diberikan alteplase. Berapa golden hour untuk periode penggunaan alteplase? (UKAI Agustus 2022)",
+  question: "Seorang pasien berusia 60 tahun dilarikan ke rumah sakit dengan keluhan lemah bagian kiri, bicara pelo, dan nyeri. Pasien memiliki riwayat penyakit jantung sejak 5 tahun yang lalu. Dokter mendiagnosis bahwa pasien mengalami stoke dan diberikan alteplase. Berapa golden hour untuk periode penggunaan alteplase?  ",
   img: "",
   options: ["4", "5", "6", "10", "12"],
   answer: 0
 },
 {
-  question: "Seorang pasien Tn. L usia 45 tahun memiliki riwayat gangguan ginjal kronis dan dislipidemia. Berdasarkan pemeriksaan lab terakhir, GFR = 28 mL/menit/1,73 m², kolestrol total 220 mg/dL, LDL 140 mg/dL, dan trigliserida 350 mg/dL. Dokter berdiskusi dengan apoteker terkait pemilihan obat. Obat apa yang kontraindikasi untuk pasien? (UKAI Februari 2023)",
+  question: "Seorang pasien Tn. L usia 45 tahun memiliki riwayat gangguan ginjal kronis dan dislipidemia. Berdasarkan pemeriksaan lab terakhir, GFR = 28 mL/menit/1,73 m², kolestrol total 220 mg/dL, LDL 140 mg/dL, dan trigliserida 350 mg/dL. Dokter berdiskusi dengan apoteker terkait pemilihan obat. Obat apa yang kontraindikasi untuk pasien?   ",
   img: "",
   options: ["Simvastatin", "Rosuvastatin", "Gemfibrozil", "Ezetimibe", "Kolestiramin"],
   answer: 2
@@ -23005,13 +23005,13 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang pasien di RS Insan Jaya Muda untuk operasi pengangkatan tumor. Diketahui pasien riwayat stroke iskemik dan rutin mengonsumsi aspirin. Pasien tersebut bertanya kepada apoteker saat visite, apakah pasien tersebut masih boleh mengonsumsi aspirin sebelum operasi dilakukan? (TO UKMPPAI Juni 2024)",
+  question: "Seorang pasien di RS Insan Jaya Muda untuk operasi pengangkatan tumor. Diketahui pasien riwayat stroke iskemik dan rutin mengonsumsi aspirin. Pasien tersebut bertanya kepada apoteker saat visite, apakah pasien tersebut masih boleh mengonsumsi aspirin sebelum operasi dilakukan? ",
   img: "",
   options: ["Aspirin harus dihentikan 24 jam sebelum operasi", "Aspirin harus dihentikan 48 jam sebelum operasi", "Aspirin harus dihentikan 3 hari sebelum operasi", "Aspirin harus dihentikan 5 hari sebelum operasi", "Aspirin dikonsumsi seperti biasa sebelum operasi"],
   answer: 4
 },
 {
-  question: "Seorang pasien laki-laki usia 45 tahun memiliki riwayat hipertensi dan rutin mengonsumsi obat antihipertensi. Pasien datang ke rumah sakit dengan keluhan nyeri dada, cepat lelah, dan detak jantung yang tidak normal. Pasien didiagnosis aritmia sinoatrial blok. Dengan diagnosis tersebut, apoteker melakukan pengkajian terhadap obat-obatan yang dikonsumsi oleh pasien untuk memastikan pasien tidak menggunakan obat antihipertensi yang kontraindikasi dengan diagnosis baru pasien. Obat apakah itu? (TO UKAI Juli 2022)",
+  question: "Seorang pasien laki-laki usia 45 tahun memiliki riwayat hipertensi dan rutin mengonsumsi obat antihipertensi. Pasien datang ke rumah sakit dengan keluhan nyeri dada, cepat lelah, dan detak jantung yang tidak normal. Pasien didiagnosis aritmia sinoatrial blok. Dengan diagnosis tersebut, apoteker melakukan pengkajian terhadap obat-obatan yang dikonsumsi oleh pasien untuk memastikan pasien tidak menggunakan obat antihipertensi yang kontraindikasi dengan diagnosis baru pasien. Obat apakah itu?",
   img: "",
   options: ["Amlodipin", "Diltiazem", "Hidroklortiazid", "Kaptopril", "Valsartan"],
   answer: 1
@@ -23041,7 +23041,7 @@ let questions = [
   answer: 3
 },
 {
-  question: "Seorang pasien laki-laki 65 tahun datang ke RS dengan keluhan nyeri lambung. Diketahui pasien mengonsumsi aspirin 80 mg selama 3 bulan sebagai antiplatelet. Oleh karena itu, pasien diberikan clopidogrel sebagai pengganti aspirin and omeprazol untuk mengatasi nyeri lambung. Apoteker menemukan drug related problem yaitu interaksi obat antara clopidogrel and omeprazol. Apa yang harus apoteker jelaskan kepada dokter? (UKAI Februari 2023)",
+  question: "Seorang pasien laki-laki 65 tahun datang ke RS dengan keluhan nyeri lambung. Diketahui pasien mengonsumsi aspirin 80 mg selama 3 bulan sebagai antiplatelet. Oleh karena itu, pasien diberikan clopidogrel sebagai pengganti aspirin and omeprazol untuk mengatasi nyeri lambung. Apoteker menemukan drug related problem yaitu interaksi obat antara clopidogrel and omeprazol. Apa yang harus apoteker jelaskan kepada dokter?   ",
   img: "",
   options: ["Omeprazol menghambat metabolisme oleh enzim CYP2C19 sehingga kadar clopidogrel aktif dalam darah berkurang", "Omeprazol menghambat metabolisme oleh enzim CYP2C19 sehingga kadar clopidogrel aktif dalam darah meningkat", "Omeprazol menginduksi metabolisme pada enzim CYP2C19 sehingga kadar clopidogrel aktif dalam darah berkurang", "Clopidogrel menginduksi metabolisme pada enzim CYP2C19 sehingga kadar omeprazol dalam darah berkurang", "Clopidogrel menginduksi metabolisme pada enzim CYP2C19 sehingga kadar omeprazol dalam darah meningkat"],
   answer: 0
@@ -23089,7 +23089,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Wanita 26 tahun didiagnosis hipertensi 2 bulan yang lalu and diketahui sedang hamil 6 minggu. Dokter memberikan terapi golongan beta blocker untuk menurunkan tekanan darah. Apakah obat golongan beta blocker yang tidak boleh diberikan kepada pasien tersebut? (UKMPPAI Agustus 2024)",
+  question: "Wanita 26 tahun didiagnosis hipertensi 2 bulan yang lalu and diketahui sedang hamil 6 minggu. Dokter memberikan terapi golongan beta blocker untuk menurunkan tekanan darah. Apakah obat golongan beta blocker yang tidak boleh diberikan kepada pasien tersebut?  ",
   img: "",
   options: ["Propranolol", "Bisoprolol", "Nebivolol", "Atenolol", "Labetalol"],
   answer: 3
@@ -23101,7 +23101,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien dibawah ke RS Insan Jaya Muda oleh keluarganya dengan keadaan tidak sadarkan diri. Saat diperiksa pasien tersebut mengalami stroke iskemik dengan tekanan darah 200/105 mmHg. Saat ditanyakan pasien merasa sakit kepala and mati rasa 2 jam yang lalu. Dokter berencana ingin memberikan alteplase pada pasien tetapi terkendala karena tekanan darah pasien masih tinggi, kemudian dokter berkonsultasi dengan apoteker untuk obat antihipertensi pasien agar alteplase dapat diberikan. Apa obat yang dapat direkomendasikan apoteker kepada dokter untuk hal tersebut? (UKMPPAI Agustus 2024)",
+  question: "Seorang pasien dibawah ke RS Insan Jaya Muda oleh keluarganya dengan keadaan tidak sadarkan diri. Saat diperiksa pasien tersebut mengalami stroke iskemik dengan tekanan darah 200/105 mmHg. Saat ditanyakan pasien merasa sakit kepala and mati rasa 2 jam yang lalu. Dokter berencana ingin memberikan alteplase pada pasien tetapi terkendala karena tekanan darah pasien masih tinggi, kemudian dokter berkonsultasi dengan apoteker untuk obat antihipertensi pasien agar alteplase dapat diberikan. Apa obat yang dapat direkomendasikan apoteker kepada dokter untuk hal tersebut?  ",
   img: "",
   options: ["Kaptopril", "Nikardipin", "Propranolol", "Hidroklortiazide", "Norepinefrin"],
   answer: 1
@@ -23125,13 +23125,13 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang pasien laki-laki usia 70 tahun masuk IGD rumah sakit karena serangan jantung. Berdasarkan hasil EKG, pasien didiagnosis STEMI. Setelah di rawat di RS selama 5 hari, dokter meresepkan obat pulang ticagrelor and aspirin. Ticagrelor harus digunakan terus-menerus selama 12 bulan, and aspirin dilanjutkan seumur hidup untuk mencegah serangan ulang. Apa tujuan pemberian ticagrelor? (UKAI Februari 2023)",
+  question: "Seorang pasien laki-laki usia 70 tahun masuk IGD rumah sakit karena serangan jantung. Berdasarkan hasil EKG, pasien didiagnosis STEMI. Setelah di rawat di RS selama 5 hari, dokter meresepkan obat pulang ticagrelor and aspirin. Ticagrelor harus digunakan terus-menerus selama 12 bulan, and aspirin dilanjutkan seumur hidup untuk mencegah serangan ulang. Apa tujuan pemberian ticagrelor?   ",
   img: "",
   options: ["Memecah plasmin sehingga terbentuk fibrin degradation products", "Inhibisi faktor IX", "Menghambat faktor Xa melalui antithrombin III", "Menghambat jalur induksi adenosine diphosphate (ADP) untuk melakukan agregasi platelet", "Menghambat sintesis prostaglandin dengan hambat agregasi platelet COX-1"],
   answer: 3
 },
 {
-  question: "Seorang pasien 55 tahun baru saja keluar RS setelah mengalami angina stabil. Diketahui pasien memiliki riwayat penyakit diabetes mellitus sejak 2 tahun lalu. Tekanan darah terakhir pasien yaitu 140/90 mmHg. Hasil pemeriksaan laboratorium menunjukkan hasil LDL-C = 130 mg/dL and HDL-C = 50 mg/dL. Selama di RS, pasien mendapatkan obat = aspirin 100 mg 1 x 1, ISDN 5 mg 3 x 1, bisoprolol 5 mg 1 x 1, and lisinopril 1 x 10 mg. Apa indikasi penggunaan lisinopril? (UKAI Februari 2023)",
+  question: "Seorang pasien 55 tahun baru saja keluar RS setelah mengalami angina stabil. Diketahui pasien memiliki riwayat penyakit diabetes mellitus sejak 2 tahun lalu. Tekanan darah terakhir pasien yaitu 140/90 mmHg. Hasil pemeriksaan laboratorium menunjukkan hasil LDL-C = 130 mg/dL and HDL-C = 50 mg/dL. Selama di RS, pasien mendapatkan obat = aspirin 100 mg 1 x 1, ISDN 5 mg 3 x 1, bisoprolol 5 mg 1 x 1, and lisinopril 1 x 10 mg. Apa indikasi penggunaan lisinopril?   ",
   img: "",
   options: ["Mencegah gagal ginjal", "Menurunkan tekanan darah", "Mencegah cardiac remodeling", "Mencegah terjadinya serangan", "Menurunkan gula darah"],
   answer: 2
@@ -23143,7 +23143,7 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang Ibu usia 25 tahun hamil dengan usia kehamilan 24 minggu. Ibu tersebut didiagnosis oleh dokter menderita hipertensi selama kehamilan dengan TD terendah 170/120 mmHg. Dokter ingin memberikan terapi terhadap keluhan ibu tersebut. Obat apa yang dikontraindikasikan? (UKAI Februari 2023)",
+  question: "Seorang Ibu usia 25 tahun hamil dengan usia kehamilan 24 minggu. Ibu tersebut didiagnosis oleh dokter menderita hipertensi selama kehamilan dengan TD terendah 170/120 mmHg. Dokter ingin memberikan terapi terhadap keluhan ibu tersebut. Obat apa yang dikontraindikasikan?   ",
   img: "",
   options: ["Hidralazin", "Labetolol", "Verapamil", "Lisinopril", "Klonidin"],
   answer: 3
@@ -23155,25 +23155,25 @@ let questions = [
   answer: 0
 },
 {
-  question: "Laki-laki usia 55 tahun mengeluh pegal-pegal selama 3 bulan terakhir. Diketahui pasien memiliki riwayat hiperlipidemia, hipertensi, dan DM. Kadar kolesterol total 260 mg/dL, LDL 280 mg/dL, TG 520 mg/dL, dan HDL 30 mg/dL. Obat apa yang disarankan? (UKAI Februari 2023)",
+  question: "Laki-laki usia 55 tahun mengeluh pegal-pegal selama 3 bulan terakhir. Diketahui pasien memiliki riwayat hiperlipidemia, hipertensi, dan DM. Kadar kolesterol total 260 mg/dL, LDL 280 mg/dL, TG 520 mg/dL, dan HDL 30 mg/dL. Obat apa yang disarankan?   ",
   img: "",
   options: ["Atorvastatin + Fenofibrat", "Simvastatin + Gemfibrozil", "Simvastatin + Ezetimibe", "Rosuvastatin + Niasin", "Fenofibrat"],
   answer: 0
 },
 {
-  question: "Pasien hiperlipidemia tidak lagi merespon dengan pemberian statin intensitas sedang. Dokter akan meresepkan penggantian obat dengan statin intensitas tinggi. Dokter menanyakan kepada apoteker, obat apa yang tepat diberikan? (UKAI Februari 2021)",
+  question: "Pasien hiperlipidemia tidak lagi merespon dengan pemberian statin intensitas sedang. Dokter akan meresepkan penggantian obat dengan statin intensitas tinggi. Dokter menanyakan kepada apoteker, obat apa yang tepat diberikan?   ",
   img: "",
   options: ["Rosuvastatin 20 mg", "Atorvastatin 20 mg", "Simvastatin 40 mg", "Lovastatin 80 mg", "Pravastatin 20 mg"],
   answer: 0
 },
 {
-  question: "Pasien dengan riwayat hipertensi, telah mendapatkan 3 terapi antihipertensi namun tekanan darah pasien tersebut adalah 160/100 mmHg. Pasien diduga mengalami resistensi hipertensi. Sebagai apoteker, obat apa yang seharusnya diberikan? (UKAI Februari 2021)",
+  question: "Pasien dengan riwayat hipertensi, telah mendapatkan 3 terapi antihipertensi namun tekanan darah pasien tersebut adalah 160/100 mmHg. Pasien diduga mengalami resistensi hipertensi. Sebagai apoteker, obat apa yang seharusnya diberikan?   ",
   img: "",
   options: ["ACEI", "Diuretik", "ARB", "CCB", "Beta Bloker"],
   answer: 1
 },
 {
-  question: "Seorang pasien STEMI mendapatkan terapi DAPT (dual antiplatelet therapy) yaitu Aspirin + Ticagrelor. Ternyata stok Ticagrelor habis di RS Insan Jaya Muda. Apoteker ingin merekomendasikan terapi pengganti ticagrelor, apa rekomendasi apoteker kepada dokter? (TO UKMPPAI November 2024)",
+  question: "Seorang pasien STEMI mendapatkan terapi DAPT (dual antiplatelet therapy) yaitu Aspirin + Ticagrelor. Ternyata stok Ticagrelor habis di RS Insan Jaya Muda. Apoteker ingin merekomendasikan terapi pengganti ticagrelor, apa rekomendasi apoteker kepada dokter?",
   img: "",
   options: ["Clopidogrel", "Warfarin", "Dypridamole", "Ticlopidine", "Prasugrel"],
   answer: 4
@@ -23185,7 +23185,7 @@ let questions = [
   answer: 3
 },
 {
-  question: "Seorang bapak berusia 60 tahun datang ke dokter mengeluhkan mengalami sakit perut mendadak. Diketahui bapak tersebut rutin mengonsumsi obat antihipertensi dan antihiperlipidemia. Setelah ditelusuri, dokter menyatakan bahwa pasien mengalami cholelithiasis yang merupakan efek samping dari penggunaan obat. Apakah obat yang menyebabkan terjadinya efek samping tersebut? (UKAI September 2021)",
+  question: "Seorang bapak berusia 60 tahun datang ke dokter mengeluhkan mengalami sakit perut mendadak. Diketahui bapak tersebut rutin mengonsumsi obat antihipertensi dan antihiperlipidemia. Setelah ditelusuri, dokter menyatakan bahwa pasien mengalami cholelithiasis yang merupakan efek samping dari penggunaan obat. Apakah obat yang menyebabkan terjadinya efek samping tersebut?",
   img: "",
   options: ["Acebutolol", "Asam nikotinat", "Diltiazem", "Fenofibrat", "HCT"],
   answer: 3
@@ -23203,7 +23203,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang pasien di RS Insan Jaya Muda untuk operasi pengangkatan tumor, diketahui pasien riwayat stroke iskemik dan rutin mengonsumsi Klopidogrel. Pasien tersebut bertanya kepada apoteker saat visite, apakah pasien tersebut masih boleh mengonsumsi Klopidogrel sebelum operasi dilakukan? (TO UKMPPAI Juni 2024)",
+  question: "Seorang pasien di RS Insan Jaya Muda untuk operasi pengangkatan tumor, diketahui pasien riwayat stroke iskemik dan rutin mengonsumsi Klopidogrel. Pasien tersebut bertanya kepada apoteker saat visite, apakah pasien tersebut masih boleh mengonsumsi Klopidogrel sebelum operasi dilakukan?",
   img: "",
   options: ["Klopidogrel harus dihentikan 24 jam sebelum operasi", "Klopidogrel harus dihentikan 48 jam sebelum operasi", "Klopidogrel harus dihentikan 3 hari sebelum operasi", "Klopidogrel harus dihentikan 5 hari sebelum operasi", "Klopidogrel dikonsumsi seperti biasa sebelum operasi"],
   answer: 3
@@ -23221,7 +23221,7 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang pasien N-STEMI datang ke IGD RS Insan Jaya Muda. Dokter ingin memberikan terapi Fondaparinux, ternyata stok obat tersebut habis di RS Insan Jaya Muda. Apoteker ingin merekomendasikan terapi pengganti Fondaparinux, apa rekomendasi apoteker kepada dokter? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien N-STEMI datang ke IGD RS Insan Jaya Muda. Dokter ingin memberikan terapi Fondaparinux, ternyata stok obat tersebut habis di RS Insan Jaya Muda. Apoteker ingin merekomendasikan terapi pengganti Fondaparinux, apa rekomendasi apoteker kepada dokter?  ",
   img: "",
   options: ["Alteplase", "DAPT (dual antiplatelet therapy)", "Enoxaparin", "UFH", "Warfarin"],
   answer: 2
@@ -23245,7 +23245,7 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang pasien didiagnosis NSTEMI, kemudian diberikan antikoagulan fondaparinux. Parameter apa yang perlu dimonitor selama penggunaan fondaparinux? (UKAI Agustus 2022)",
+  question: "Seorang pasien didiagnosis NSTEMI, kemudian diberikan antikoagulan fondaparinux. Parameter apa yang perlu dimonitor selama penggunaan fondaparinux?  ",
   img: "",
   options: ["aPTT", "PT", "INR", "Hb", "BUN"],
   answer: 3
@@ -23257,7 +23257,7 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang laki-laki umur 45 tahun dilarikan ke UGD dengan tekanan darah 220/110 mmHg. Dokter melakukan pemeriksaan dan mendiagnosis emergency hypertension. Dokter bertanya pada anda sebagai apoteker yang bertugas saat itu. Obat apa yang sebaiknya diberikan pada pasien untuk menangani kondisi tersebut? (UKAI Agustus 2022)",
+  question: "Seorang laki-laki umur 45 tahun dilarikan ke UGD dengan tekanan darah 220/110 mmHg. Dokter melakukan pemeriksaan dan mendiagnosis emergency hypertension. Dokter bertanya pada anda sebagai apoteker yang bertugas saat itu. Obat apa yang sebaiknya diberikan pada pasien untuk menangani kondisi tersebut?  ",
   img: "",
   options: ["Furosemide", "Hidroklortiazid", "Alteplase", "Nicardipin", "Manitol"],
   answer: 3
@@ -23269,13 +23269,13 @@ let questions = [
   answer: 4
 },
 {
-  question: "Pasien laki-laki usia 55 tahun didiagnosis mengalami hipertensi dan hiperlipidemia beberapa tahun lalu. Dokter meresepkan terapi obat dan mengingatkan untuk menjaga gaya hidup. Namun, pasien tidak menghiraukan nasihat dokter sehingga ia akhirnya didiagnosis mengidap jantung koroner, meskipun kadar kolesterolnya berada di nilai normal. Dokter kemudian meresepkan Aspirin, Atenolol, dan Atorvastatin untuk pasien. Mengapa Atorvastatin tetap diberikan? (UKAI Januari 2020)",
+  question: "Pasien laki-laki usia 55 tahun didiagnosis mengalami hipertensi dan hiperlipidemia beberapa tahun lalu. Dokter meresepkan terapi obat dan mengingatkan untuk menjaga gaya hidup. Namun, pasien tidak menghiraukan nasihat dokter sehingga ia akhirnya didiagnosis mengidap jantung koroner, meskipun kadar kolesterolnya berada di nilai normal. Dokter kemudian meresepkan Aspirin, Atenolol, dan Atorvastatin untuk pasien. Mengapa Atorvastatin tetap diberikan?  ",
   img: "",
   options: ["Atorvastatin mencegah terjadinya rebound hiperlipid", "Atorvastatin harus diminum seumur hidup", "Aspirin danpat bekerja lebih efektif bersama Atorvastatin", "Atenolol harus dikombinasikan dengan Atorvastatin", "Atorvastatin mencegah pembentukan plak aterosklerosis"],
   answer: 4
 },
 {
-  question: "Seorang pasien CKD mendapatkan terapi kaptopril 3 x 25 mg. Secara kepustakaan diketahui kaptopril memiliki sifat sebagai renal protektif. Bagaimanakah mekanisme tersebut? (TO UKMPPAI November 2024)",
+  question: "Seorang pasien CKD mendapatkan terapi kaptopril 3 x 25 mg. Secara kepustakaan diketahui kaptopril memiliki sifat sebagai renal protektif. Bagaimanakah mekanisme tersebut?",
   img: "",
   options: ["Vasokontriksi renal eferen", "Vasokontriksi renal aferen", "Vasodilatasi renal eferen", "Vasodilatasi renal aferen", "Meningkatkan tekanan intraglomerulus"],
   answer: 2
@@ -23293,7 +23293,7 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang pria dibawa ke IGD dengan kondisi tidak sadarkan diri. Pasien melakukan percobaan bunuh diri dengan menelan banyak obat ansietasnya yaitu bromazepam. Antidot apa yang tepat untuk pasien? (TO UKAI Desember 2022)",
+  question: "Seorang pria dibawa ke IGD dengan kondisi tidak sadarkan diri. Pasien melakukan percobaan bunuh diri dengan menelan banyak obat ansietasnya yaitu bromazepam. Antidot apa yang tepat untuk pasien?",
   img: "",
   options: ["Asetilsistein", "NAPQI", "Benzodiazepin", "Flumazenil", "Fomepizol"],
   answer: 3
@@ -23347,13 +23347,13 @@ let questions = [
   answer: 2
 },
 {
-  question: "Pasien laki-laki umur 40 tahun menderita penyakit hipertensi dengan riwayat asma. Dokter memberikan obat beta bloker untuk pengobatannya. Obat beta bloker manakah yang dapat direkomendasikan? (UKAI Februari 2021)",
+  question: "Pasien laki-laki umur 40 tahun menderita penyakit hipertensi dengan riwayat asma. Dokter memberikan obat beta bloker untuk pengobatannya. Obat beta bloker manakah yang dapat direkomendasikan?   ",
   img: "",
   options: ["Nadolol", "Timolol", "Propanolol", "Labetalol", "Metoprolol"],
   answer: 4
 },
 {
-  question: "Seorang pasien berusia 41 tahun mengeluhkan adanya nyeri di pundak dan kepala. Setelah dilakukan pengecekan tekanan darah, didapatkan hasil 150/90 mmHg. Diketahui pasien memiliki riwayat DM sejak 1 tahun lalu dan menggunakan anti diabetika oral. Masuk ke dalam klasifikasi hipertensi manakah pasien tersebut? (UKAI September 2021)",
+  question: "Seorang pasien berusia 41 tahun mengeluhkan adanya nyeri di pundak dan kepala. Setelah dilakukan pengecekan tekanan darah, didapatkan hasil 150/90 mmHg. Diketahui pasien memiliki riwayat DM sejak 1 tahun lalu dan menggunakan anti diabetika oral. Masuk ke dalam klasifikasi hipertensi manakah pasien tersebut?",
   img: "",
   options: ["Hipertensi primer, hipertensi stage I", "Hipertensi primer, hipertensi stage II", "Hipertensi sekunder, hipertensi stage I", "Hipertensi sekunder, hipertensi stage II", "Hipertensi krisis, hipertensi stage I"],
   answer: 2
@@ -23377,7 +23377,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang pasien syok sepsis dan diberikan terapi norepinefrin. Bagaimana mekanisme norepinefrin dalam meningkatkan tekanan darah, reseptor mana yang paling dominan dipengaruhi untuk mengatasi syok? (TO UKMPPAI November 2024)",
+  question: "Seorang pasien syok sepsis dan diberikan terapi norepinefrin. Bagaimana mekanisme norepinefrin dalam meningkatkan tekanan darah, reseptor mana yang paling dominan dipengaruhi untuk mengatasi syok?",
   img: "",
   options: ["Stimulasi Beta 2", "Hambat Alfa 2", "Stimulasi Beta 2", "Hambat Beta 1", "Stimulasi Alfa 1"],
   answer: 4
@@ -23425,7 +23425,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang apoteker di suatu RS melakukan MESO pada seorang pasien (perempuan, usia 50 tahun, penderita hipertensi, DM tipe 2, hiperkolesterol, dan asam urat). Pasien rutin minum obat captopril, hidroklortiazid, glimeprid, metformin, dan simvastatin. Saat ini pasien mengalami keluhan nyeri pada ibu jari kaki dan diperkirakan karena terjadi peningkatan kadar asam urat. Apoteker mengatakan pada pasien, hal tersebut disebabkan karena efek samping salah satu obat. Apakah obat yang dimaksud? (UKAI Februari 2023)",
+  question: "Seorang apoteker di suatu RS melakukan MESO pada seorang pasien (perempuan, usia 50 tahun, penderita hipertensi, DM tipe 2, hiperkolesterol, dan asam urat). Pasien rutin minum obat captopril, hidroklortiazid, glimeprid, metformin, dan simvastatin. Saat ini pasien mengalami keluhan nyeri pada ibu jari kaki dan diperkirakan karena terjadi peningkatan kadar asam urat. Apoteker mengatakan pada pasien, hal tersebut disebabkan karena efek samping salah satu obat. Apakah obat yang dimaksud?   ",
   img: "",
   options: ["Captopril", "Hidroklortiazide", "Glimepirid", "Metformin", "Simvastatin"],
   answer: 1
@@ -23438,7 +23438,7 @@ let questions = [
 },
 
 {
-  question: "Seorang pasien laki-laki umur 60 tahun didiagnosis diabetes Mellitus tipe 2. Apoteker melakukan penelusuran riwayat penyakit dan obat supaya dapat memilih obat yang tepat untuk pasien. Obat DM apa yang dikontraindikasikan pada pasien gagal jantung? (UKAI Agustus 2022)",
+  question: "Seorang pasien laki-laki umur 60 tahun didiagnosis diabetes Mellitus tipe 2. Apoteker melakukan penelusuran riwayat penyakit dan obat supaya dapat memilih obat yang tepat untuk pasien. Obat DM apa yang dikontraindikasikan pada pasien gagal jantung?  ",
   img: "",
   options: ["Dapagliflozin", "Metformin", "Glimepirid", "Liraglutide", "Pioglitazon"],
   answer: 4
@@ -23546,13 +23546,13 @@ let questions = [
   answer: 1
 },
 {
-  question: "Pasien dengan diagnosis hipertiroid rutin selama 2 bulan mengonsumsi PTU 3x1 tab. Setelah dilakukan tes labor didapatkan pasien sudah dalam kondisi eutiroid. Sebagai apoteker apa saran anda kepada dokter? (TO UKMPPAI November 2024)",
+  question: "Pasien dengan diagnosis hipertiroid rutin selama 2 bulan mengonsumsi PTU 3x1 tab. Setelah dilakukan tes labor didapatkan pasien sudah dalam kondisi eutiroid. Sebagai apoteker apa saran anda kepada dokter?",
   img: "",
   options: ["Terapi dapat dihentikan", "Terapi dapat dilanjutkan dengan kenaikan dosis", "Terapi dihentikan secara bertahap", "Terapi dilanjutkan hingga 6 bulan dengan dosis tetap", "Terapi dilanjutkan hingga 12-24 bulan dengan dosis diturunkan"],
   answer: 4
 },
 {
-  question: "Seorang pasien laki-laki 65 tahun mengalami perbesaran prostat. Dokter memberikan satu tablet prazosin diminum satu kali sehari selama 3 bulan. Pasien datang kontrol dan mengeluhkan efek samping sehingga dokter mengganti obat dan memberikan tamsulosin. Efek samping apa yang dialami pasien? (UKAI Februari 2023)",
+  question: "Seorang pasien laki-laki 65 tahun mengalami perbesaran prostat. Dokter memberikan satu tablet prazosin diminum satu kali sehari selama 3 bulan. Pasien datang kontrol dan mengeluhkan efek samping sehingga dokter mengganti obat dan memberikan tamsulosin. Efek samping apa yang dialami pasien?   ",
   img: "",
   options: ["Resistensi urin", "Sesak nafas", "Peningkatan nadi", "Hipotensi ortostatik", "Ginekomastia"],
   answer: 3
@@ -23636,7 +23636,7 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang ibu hamil trimester 1 diberikan terapi PTU. Kenapa terapi PTU dipilih untuk ibu hamil pada trimester 1 dibandingkan dengan metimazol? (TO UKMPPAI November 2024)",
+  question: "Seorang ibu hamil trimester 1 diberikan terapi PTU. Kenapa terapi PTU dipilih untuk ibu hamil pada trimester 1 dibandingkan dengan metimazol?",
   img: "",
   options: ["Metimazole menyebabkan hepatotoksisitas maternal", "Metimazole aman pada fase organogenesis", "Metimazol menyebabkan esofageal atresia", "PTU melewati plasenta lebih banyak", "Metimazol memiliki waktu paruh yang panjang"],
   answer: 2
@@ -23774,7 +23774,7 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang pria usia 55 tahun datang ke dokter dengan mengeluhkan gejala sering buang air kecil, namun sulit dan sakit saat berkemih. Pasien didiagnosis Benign Prostate Hyperplasia dan diresepkan tadalafil. Bagaimana mekanisme kerja obat tersebut? (UKAI Agustus 2022)",
+  question: "Seorang pria usia 55 tahun datang ke dokter dengan mengeluhkan gejala sering buang air kecil, namun sulit dan sakit saat berkemih. Pasien didiagnosis Benign Prostate Hyperplasia dan diresepkan tadalafil. Bagaimana mekanisme kerja obat tersebut?  ",
   img: "",
   options: ["Penghambat reseptor alfa", "Inhibitor phosphodiesterase", "Penghambat 5 alpha reductase", "Antagonis beta adrenergik", "Agonis alfa adrenergik"],
   answer: 1
@@ -23792,7 +23792,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien ibu hamil setelah melahirkan ingin menggunakan obat KB untuk mengatur jarak kelahiran anak, apakah obat KB yang dikontraindikasikan buat ibu tersebut? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien ibu hamil setelah melahirkan ingin menggunakan obat KB untuk mengatur jarak kelahiran anak, apakah obat KB yang dikontraindikasikan buat ibu tersebut?  ",
   img: "",
   options: ["Levonorgestrel", "Desogestrel", "Noretidron", "Noretisteron", "Mestranol"],
   answer: 4
@@ -23804,7 +23804,7 @@ let questions = [
   answer: 3
 },
 {
-  question: "Seorang ibu akan menggunakan sediaan insulin rapid acting masing-masing 8 unit untuk tiga kali pemakaian. Pemakaian insulin yang benar adalah? (UKAI Agustus 2022)",
+  question: "Seorang ibu akan menggunakan sediaan insulin rapid acting masing-masing 8 unit untuk tiga kali pemakaian. Pemakaian insulin yang benar adalah?  ",
   img: "",
   options: ["15 menit sebelum makan", "Saat makan", "1 jam sebelum makan", "1 jam setelah makan", "15 menit setelah makan"],
   answer: 0
@@ -23840,7 +23840,7 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang pasien datang ke RS dengan keluhan jantung berdebar, tremor, berat badan turun, sulit tidur, dan sering merasa gerah. Dokter mendiagnosis pasien hipertiroid dan diresepkan karbimazol, propranolol, suplemen kalsium karbonat, dan vitamin D3. Saat menebus obat, pasien bertanya apa fungsi pemberian vitamin D3? (UKAI Februari 2023)",
+  question: "Seorang pasien datang ke RS dengan keluhan jantung berdebar, tremor, berat badan turun, sulit tidur, dan sering merasa gerah. Dokter mendiagnosis pasien hipertiroid dan diresepkan karbimazol, propranolol, suplemen kalsium karbonat, dan vitamin D3. Saat menebus obat, pasien bertanya apa fungsi pemberian vitamin D3?   ",
   img: "",
   options: ["Meredakan gejala tremor", "Meningkatkan nafsu makan", "Menurunkan T3", "Mencegah patah tulang", "Membantu tidur di malam hari"],
   answer: 3
@@ -23882,7 +23882,7 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang pasien pria usia 50 tahun didiagnosis BPH sedang-berat dengan gejala pembesaran prostat. Pasien diresepkan tamsulosin. Obat apa yang perlu ditambahkan untuk memaksimalkan terapi? (UKAI Februari 2023)",
+  question: "Seorang pasien pria usia 50 tahun didiagnosis BPH sedang-berat dengan gejala pembesaran prostat. Pasien diresepkan tamsulosin. Obat apa yang perlu ditambahkan untuk memaksimalkan terapi?   ",
   img: "",
   options: ["Dutasterid", "Tadalafil", "Silodosin", "Prazosin", "Sildenafil"],
   answer: 0
@@ -23912,7 +23912,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang wanita usia 28 tahun menderita hipertiroid dan rutin mengonsumsi metimazol 20 mg 3 kali sehari selama trimester 3. Di minggu ke-40 kehamilan, pasien melahirkan pervaginam. Saat ini pasien memberikan ASI eksklusif kepada bayinya. Dokter meminta rekomendasi apoteker terkait pengobatan hipertiroid pasien. Apa yang anda rekomendasikan? (UKAI Februari 2023)",
+  question: "Seorang wanita usia 28 tahun menderita hipertiroid dan rutin mengonsumsi metimazol 20 mg 3 kali sehari selama trimester 3. Di minggu ke-40 kehamilan, pasien melahirkan pervaginam. Saat ini pasien memberikan ASI eksklusif kepada bayinya. Dokter meminta rekomendasi apoteker terkait pengobatan hipertiroid pasien. Apa yang anda rekomendasikan?   ",
   img: "",
   options: ["Melanjutkan terapi dengan metimazol", "Meningkatkan dosis metimazol", "Ganti obat dengan karbimazol", "Ganti obat dengan propiltiourasil", "Menurunkan dosis metimazol"],
   answer: 4
@@ -23942,7 +23942,7 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang pasien DM masuk IGD dengan kondisi hiperglikemia dan ditangani dengan pemberian continuous insulin infusion. Selain kadar gula darah, parameter apa yang perlu dimonitor? (UKAI Agustus 2022)",
+  question: "Seorang pasien DM masuk IGD dengan kondisi hiperglikemia dan ditangani dengan pemberian continuous insulin infusion. Selain kadar gula darah, parameter apa yang perlu dimonitor?  ",
   img: "",
   options: ["Kalium", "Kalsium", "Natrium", "Fosfat", "Magnesium"],
   answer: 0
@@ -24008,7 +24008,7 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang pasien wanita usia 25 tahun dan sudah menikah mengonsumsi etinilestradiol dan desogestrel. Pasien mengeluh siklus menstruasi tidak teratur dan dismenore. Dokter berdiskusi dengan apoteker menanyakan penggantian obat yang tepat. Obat apa yang direkomendasikan oleh apoteker? (UKAI Agustus 2022)",
+  question: "Seorang pasien wanita usia 25 tahun dan sudah menikah mengonsumsi etinilestradiol dan desogestrel. Pasien mengeluh siklus menstruasi tidak teratur dan dismenore. Dokter berdiskusi dengan apoteker menanyakan penggantian obat yang tepat. Obat apa yang direkomendasikan oleh apoteker?  ",
   img: "",
   options: ["Levonogestrel", "Etinil estradiol saja", "Etinil estradiol + Levonogestrel", "Desogestrel + Levonogestrel", "Mestranol + Desogestrel"],
   answer: 0
@@ -24051,7 +24051,7 @@ let questions = [
     answer: 0
   },
   {
-    question: "Seorang pasien berusia 18 tahun didiagnosis epilepsi. Dia sudah menggunakan fenitoin selama 2 tahun, tetapi masih menunjukkan kekambuhan. Dokter menanyakan apoteker terkait obat yang berperan sebagai inhibitor GABA transaminase, sehingga dapat menghambat degradasi GABA. Apa obat yang dimaksud? (UKAI Agustus 2022)",
+    question: "Seorang pasien berusia 18 tahun didiagnosis epilepsi. Dia sudah menggunakan fenitoin selama 2 tahun, tetapi masih menunjukkan kekambuhan. Dokter menanyakan apoteker terkait obat yang berperan sebagai inhibitor GABA transaminase, sehingga dapat menghambat degradasi GABA. Apa obat yang dimaksud?  ",
     img: "",
     options: ["Carbamazepin", "Gabapentin", "Fenitoin", "Vigabatrin", "Tiagabin"],
     answer: 3
@@ -24069,7 +24069,7 @@ let questions = [
     answer: 0
   },
   {
-    question: "Seorang wanita datang ke poliklinik jiwa RS Insan Jaya Muda karena kecemasan yang dialaminya, pasien beberapa kali berkeinginan untuk bunuh diri. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat antidepresan yang memiliki ESO insiden rasa ingin bunuh diri paling tinggi, sehingga dokter tidak meresepkan obat tersebut. Apa obat yang harus dihindari tersebut? (TO UKMPPAI Juni 2024)",
+    question: "Seorang wanita datang ke poliklinik jiwa RS Insan Jaya Muda karena kecemasan yang dialaminya, pasien beberapa kali berkeinginan untuk bunuh diri. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat antidepresan yang memiliki ESO insiden rasa ingin bunuh diri paling tinggi, sehingga dokter tidak meresepkan obat tersebut. Apa obat yang harus dihindari tersebut?",
     img: "",
     options: ["Venlafaxine", "Escitalopram", "Amitriptiline", "Levomilnacipran", "Imipramin"],
     answer: 0
@@ -24081,7 +24081,7 @@ let questions = [
     answer: 0
   },
   {
-    question: "Di suatu klinik, seorang wanita usia 68 tahun didiagnosis dokter menderita rheumatoid arthritis. Selain itu, pasien juga memiliki riwayat gangguan retina. Dokter berdiskusi dengan apoteker terkait toksisitas obat Disease Modifying Antirheumatoid Drug (DMARD) yang menimbulkan gangguan mata. Obat apa yang dimaksud? (UKAI Agustus 2022)",
+    question: "Di suatu klinik, seorang wanita usia 68 tahun didiagnosis dokter menderita rheumatoid arthritis. Selain itu, pasien juga memiliki riwayat gangguan retina. Dokter berdiskusi dengan apoteker terkait toksisitas obat Disease Modifying Antirheumatoid Drug (DMARD) yang menimbulkan gangguan mata. Obat apa yang dimaksud?  ",
     img: "",
     options: ["Hidroksiklorokuin", "Metotreksat", "Penisilin", "Siklosporin", "Klorambusil"],
     answer: 0
@@ -24099,7 +24099,7 @@ let questions = [
     answer: 4
   },
   {
-    question: "Seorang wanita usia 52 tahun mengeluh nyeri pada lutut dan kesulitan berjalan. Data radiologi menunjukkan nilai T score pasien adalah -3,00. Dokter mendiagnosis pasien menderita osteoporosis dan meresepkan obat alendronate. Apoteker menjelaskan aturan minum alendronate yaitu saat bangun tidur pagi hari perut kosong. Obat diminum dengan segelas air dan posisi duduk tegak dipertahankan selama minimal 30 menit. Pasien bertanya mengapa obat harus diminum dalam keadaan perut kosong? (UKAI Februari 2023)",
+    question: "Seorang wanita usia 52 tahun mengeluh nyeri pada lutut dan kesulitan berjalan. Data radiologi menunjukkan nilai T score pasien adalah -3,00. Dokter mendiagnosis pasien menderita osteoporosis dan meresepkan obat alendronate. Apoteker menjelaskan aturan minum alendronate yaitu saat bangun tidur pagi hari perut kosong. Obat diminum dengan segelas air dan posisi duduk tegak dipertahankan selama minimal 30 menit. Pasien bertanya mengapa obat harus diminum dalam keadaan perut kosong?   ",
     img: "",
     options: ["Mengurangi risiko efek samping iritasi esofagus", "Mempercepat absorbsi obat", "Menghindari first-pass metabolism", "Mengurangi risiko efek samping mual", "Mencegah efek samping osteonekrosis"],
     answer: 1
@@ -24111,7 +24111,7 @@ let questions = [
     answer: 2
   },
   {
-    question: "Penjual suplemen kesehatan di salah satu media sosial viral karena klaim dapat berkhasiat dengan cepat dalam 2 minggu. Suplemen tersebut diketahui berguna untuk melangsingkan tubuh. Karena viral, BPOM langsung melakukan inspeksi dan didapati suplemen tesebut (+) mengandung sibutramine. Bagaimanakah mekanisme sibutramine dapat melangsingkan tubuh? (TO UKMPPAI Juni 2024)",
+    question: "Penjual suplemen kesehatan di salah satu media sosial viral karena klaim dapat berkhasiat dengan cepat dalam 2 minggu. Suplemen tersebut diketahui berguna untuk melangsingkan tubuh. Karena viral, BPOM langsung melakukan inspeksi dan didapati suplemen tesebut (+) mengandung sibutramine. Bagaimanakah mekanisme sibutramine dapat melangsingkan tubuh?",
     img: "",
     options: ["Agonis GLP-1", "Serotonin dan Norepinerin reuptake inhibitor", "Noradrenergik", "Hambat re-uptake Dopamin dan Norepinferin", "Noradrenergik + aktivator reseptor GABA"],
     answer: 1
@@ -24123,19 +24123,19 @@ let questions = [
     answer: 0
   },
   {
-    question: "Seorang ibu hamil trimester 2, sulit mengendalikan emosi selama 3 minggu terakhir, kadang pasien marah, terus sedih dan kadang merasa cemas. Dokter ingin meresepkan obat mood stabilizer kepada pasien, apakah rekomendasi obat yang dapat diberikan? (UKMPPAI Agustus 2024)",
+    question: "Seorang ibu hamil trimester 2, sulit mengendalikan emosi selama 3 minggu terakhir, kadang pasien marah, terus sedih dan kadang merasa cemas. Dokter ingin meresepkan obat mood stabilizer kepada pasien, apakah rekomendasi obat yang dapat diberikan?  ",
     img: "",
     options: ["Haloperidol", "Chlorpromazine", "Trifluopherazine", "Paroxetin", "Lamotrigin"],
     answer: 4
   },
   {
-    question: "Seorang pasien mengalami epilepsi dan rutin mengonsumsi obat asam valproate selama 11 bulan. Apakah parameter yang harus dimonitor terkait penggunaan obat tersebut? (UKMPPAI Februari 2025)",
+    question: "Seorang pasien mengalami epilepsi dan rutin mengonsumsi obat asam valproate selama 11 bulan. Apakah parameter yang harus dimonitor terkait penggunaan obat tersebut?  ",
     img: "",
     options: ["Hemoglobin", "AST/ALT", "Kadar B12", "BUN", "Serum Kreatinin"],
     answer: 1
   },
   {
-    question: "Seorang ibu hamil trimester 1 mengalami epilepsi. Dokter ingin meresepkan obat antiepilepsi kepada pasien, apakah rekomendasi obat yang dapat diberikan? (TO UKMPPAI November 2024)",
+    question: "Seorang ibu hamil trimester 1 mengalami epilepsi. Dokter ingin meresepkan obat antiepilepsi kepada pasien, apakah rekomendasi obat yang dapat diberikan?",
     img: "",
     options: ["Asam Valproat", "Fenitoin", "Karbamazepin", "Fenobarbital", "Levetiracetam"],
     answer: 4
@@ -24147,19 +24147,19 @@ let questions = [
     answer: 0
   },
   {
-    question: "Seorang pasien hamil menderita epilepsi dan rutin mengonsumsi obat antiepilepsi. Apakah rekomendasi suplemen tambahan yang dapat digunakan ibu hamil tersebut untuk mencegah malformasi janin karena penggunaan OAE? (TO UKMPPAI Januari 2024)",
+    question: "Seorang pasien hamil menderita epilepsi dan rutin mengonsumsi obat antiepilepsi. Apakah rekomendasi suplemen tambahan yang dapat digunakan ibu hamil tersebut untuk mencegah malformasi janin karena penggunaan OAE?",
     img: "",
     options: ["Vitamin B12", "Vitamin B Komplek", "Tablet tambah darah", "Asam folat", "Vitamin B6"],
     answer: 3
   },
   {
-    question: "Seorang wanita berusia 60 tahun datang ke dokter dan didiagnosis osteoarthritis. Dokter memberikan viscosupplementation untuk menunjang pengobatannya. Obat yang tepat diberikan untuk pasien adalah? (UKAI Februari 2023)",
+    question: "Seorang wanita berusia 60 tahun datang ke dokter dan didiagnosis osteoarthritis. Dokter memberikan viscosupplementation untuk menunjang pengobatannya. Obat yang tepat diberikan untuk pasien adalah?   ",
     img: "",
     options: ["Deksametason", "Piroksikam", "Natrium diklofenak", "Asam hialuronat", "Ibuprofen"],
     answer: 3
   },
   {
-    question: "Seorang pasien wanita usia 28 tahun dengan kehamilan 32 minggu menebus obat di apotek. Pasien mendapatkan terapi nifedipin dan metiprednisolon. Pasien bertanya terkait apa indikasi diberikan metilprednisolon. Penjelasan apa yang diberikan apoteker? (TO UKAI Juli 2022)",
+    question: "Seorang pasien wanita usia 28 tahun dengan kehamilan 32 minggu menebus obat di apotek. Pasien mendapatkan terapi nifedipin dan metiprednisolon. Pasien bertanya terkait apa indikasi diberikan metilprednisolon. Penjelasan apa yang diberikan apoteker?",
     img: "",
     options: ["Mengurangi kontraksi rahim", "Menginduksi kontraksi rahim", "Membantu maturasi paru-paru pada janin", "Mengatasi inflamasi", "Mengurangi nyeri"],
     answer: 2
@@ -24201,7 +24201,7 @@ let questions = [
     answer: 3
   },
   {
-    question: "Ibu hamil mengalami eklamsia saat partum. Dokter memberikan MgSO4 kepada pasien. Pemberian MgSO4 harus dihentikan 24 jam postpartum. Risiko apa yang menyebabkan obat tersebut tidak bisa digunakan jangka panjang? (TO UKMPPAI November 2024)",
+    question: "Ibu hamil mengalami eklamsia saat partum. Dokter memberikan MgSO4 kepada pasien. Pemberian MgSO4 harus dihentikan 24 jam postpartum. Risiko apa yang menyebabkan obat tersebut tidak bisa digunakan jangka panjang?",
     img: "",
     options: ["Hiperkalsemia", "Hipokalemia", "Hipertensi", "Hipertermia", "Pendarahan"],
     answer: 4
@@ -24243,7 +24243,7 @@ let questions = [
     answer: 1
   },
   {
-    question: "Seorang pasien didiagnosis Osteoarthritis. Dokter ingin meresepkan obat dengan mekanisme kerja merangsang sintesis GAG (glikosaminoglikan). Apakah obat yang dimaksud? (UKMPPAI Februari 2025)",
+    question: "Seorang pasien didiagnosis Osteoarthritis. Dokter ingin meresepkan obat dengan mekanisme kerja merangsang sintesis GAG (glikosaminoglikan). Apakah obat yang dimaksud?  ",
     img: "",
     options: ["Glukosamin", "Tramadol", "Kalsium", "Topikal Capsaicin", "Duloxetine"],
     answer: 0
@@ -24273,7 +24273,7 @@ let questions = [
     answer: 2
   },
   {
-    question: "Seorang laki-laki usia 53 tahun menderita hiperurisemia dengan kadar asam urat 8 mg/dL. Pasien diketahui memiliki riwayat gangguan ginjal kronis. Obat apa yang apoteker rekomendasikan untuk pasien tersebut? (UKAI Agustus 2022)",
+    question: "Seorang laki-laki usia 53 tahun menderita hiperurisemia dengan kadar asam urat 8 mg/dL. Pasien diketahui memiliki riwayat gangguan ginjal kronis. Obat apa yang apoteker rekomendasikan untuk pasien tersebut?  ",
     img: "",
     options: ["Kolkisin", "Allopurinol", "Probenecid", "Piroksikam", "Metil prednisolon"],
     answer: 1
@@ -24291,7 +24291,7 @@ let questions = [
     answer: 0
   },
   {
-    question: "Seorang wanita usia 25 tahun datang ke dokter spesialis kandungan karena sudah telat haid 2 minggu. Berdasarkan hasil pemeriksaan, diketahui pasien hamil. Dokter meresepkan obat untuk mencegah neural tube defect. Apa obat yang dimaksud? (UKAI Agustus 2022)",
+    question: "Seorang wanita usia 25 tahun datang ke dokter spesialis kandungan karena sudah telat haid 2 minggu. Berdasarkan hasil pemeriksaan, diketahui pasien hamil. Dokter meresepkan obat untuk mencegah neural tube defect. Apa obat yang dimaksud?  ",
     img: "",
     options: ["Asam folat", "Vitamin B kompleks", "Metilprednisolon", "Zat besi", "Vitamin E"],
     answer: 0
@@ -24309,7 +24309,7 @@ let questions = [
     answer: 0
   },
   {
-    question: "Pasien CKD dengan GFR 20 mL/menit, hasil labor menunjukkan asam urat 10. Pasien diketahui alergi allopurinol. Pilihan terapi untuk mengontrol gout yang tepat adalah? (TO UKMPPAI November 2024)",
+    question: "Pasien CKD dengan GFR 20 mL/menit, hasil labor menunjukkan asam urat 10. Pasien diketahui alergi allopurinol. Pilihan terapi untuk mengontrol gout yang tepat adalah?",
     img: "",
     options: ["Probenesid", "Febuxostat", "Kolkisin", "Allopurinol", "Ibuprofen"],
     answer: 1
@@ -24321,7 +24321,7 @@ let questions = [
     answer: 0
   },
   {
-    question: "Seorang pasien mengeluh migrain. Dokter ingin meresepkan obat dengan mekanisme agonist reseptor serotonin 5-HT1B dan 5-HT1D. Apakah obat yang dapat diberikan? (UKMPPAI Februari 2025)",
+    question: "Seorang pasien mengeluh migrain. Dokter ingin meresepkan obat dengan mekanisme agonist reseptor serotonin 5-HT1B dan 5-HT1D. Apakah obat yang dapat diberikan?  ",
     img: "",
     options: ["Ergotamin", "Aspirin", "Naproxen", "Sumatriptan", "Klorpromazin"],
     answer: 3
@@ -24357,7 +24357,7 @@ let questions = [
     answer: 1
   },
   {
-    question: "Seorang pasien obseitas diberikan terapi obat orlistat. Pasien bertanya kepada Apoteker Mita, bagaimana penggunaan obat tersebut? (TO UKMPPAI November 2024)",
+    question: "Seorang pasien obseitas diberikan terapi obat orlistat. Pasien bertanya kepada Apoteker Mita, bagaimana penggunaan obat tersebut?",
     img: "",
     options: ["Setelah makan", "Sebelum makan", "Sebelum tidur", "Saat Makan", "Suapan pertama"],
     answer: 0
@@ -24387,7 +24387,7 @@ let questions = [
     answer: 2
   },
   {
-    question: "Seorang pria berumur 24 tahun mengeluhkan nyeri sendi di lutut. Dokter mendiagnosis pasien mengalami osteoarthritis. Diketahui pasien memiliki riwayat gangguan ginjal dan tukak lambung. Terapi apa yang disarankan oleh apoteker? (UKAI Agustus 2022)",
+    question: "Seorang pria berumur 24 tahun mengeluhkan nyeri sendi di lutut. Dokter mendiagnosis pasien mengalami osteoarthritis. Diketahui pasien memiliki riwayat gangguan ginjal dan tukak lambung. Terapi apa yang disarankan oleh apoteker?  ",
     img: "",
     options: ["Naproksen", "Parasetamol", "Asetosal", "Ibuprofen", "Celecoxib"],
     answer: 1
@@ -24399,7 +24399,7 @@ let questions = [
     answer: 1
   },
   {
-    question: "Seorang pasien pria 27 tahun datang ke poliklinik jiwa RS Insan Jaya Muda karena kecemasan yang dialaminya, pasien baru melangsungkan pernikahan beberapa bulan yang lalu. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat antidepresan yang efek samping disfungsi seksual yang paling sedikit mengingat latar belakang pasien yang baru saja menikah. Apa rekomendasi apoteker? (TO UKMPPAI Juni 2024)",
+    question: "Seorang pasien pria 27 tahun datang ke poliklinik jiwa RS Insan Jaya Muda karena kecemasan yang dialaminya, pasien baru melangsungkan pernikahan beberapa bulan yang lalu. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat antidepresan yang efek samping disfungsi seksual yang paling sedikit mengingat latar belakang pasien yang baru saja menikah. Apa rekomendasi apoteker?",
     img: "",
     options: ["Mirtazapine", "Escitalopram", "Amitriptiline", "Levomilnacipran", "Paroxetin"],
     answer: 0
@@ -24423,7 +24423,7 @@ let questions = [
     answer: 4
   },
   {
-    question: "Seorang pasien CKD stage 4 mengalami asam urat.  Dokter ingin meresepkan obat yang tidak perlu penyesuaian dosis. Apakah obat yang dimaksud? (TO UKMPPAI November 2024)",
+    question: "Seorang pasien CKD stage 4 mengalami asam urat.  Dokter ingin meresepkan obat yang tidak perlu penyesuaian dosis. Apakah obat yang dimaksud?",
     img: "",
     options: ["Allopurinol", "Febuxostat", "Probenecid", "Ibuprofen", "Naproxen"],
     answer: 1
@@ -24495,7 +24495,7 @@ let questions = [
     answer: 2
   },
     {
-    question: "Seorang pasien wanita usia 65 tahun didiagnosis osteoporosis dan diresepkan obat golongan bifosfonat khusus untuk wanita post menopause yaitu asam ibandronat. Apoteker mengedukasi pasien cara minum obat yaitu diminum pagi hari saat perut kosong dengan segelas air putih dan duduk tegak dipertahankan selama 60 menit. Apa alasan aturan harus duduk tegak? (UKAI Agustus 2022)",
+    question: "Seorang pasien wanita usia 65 tahun didiagnosis osteoporosis dan diresepkan obat golongan bifosfonat khusus untuk wanita post menopause yaitu asam ibandronat. Apoteker mengedukasi pasien cara minum obat yaitu diminum pagi hari saat perut kosong dengan segelas air putih dan duduk tegak dipertahankan selama 60 menit. Apa alasan aturan harus duduk tegak?  ",
     img: "",
     options: ["Mencegah iritasi esofagus dan ulserasi", "Meningkatkan absorbsi obat", "Mempercepat pelepasan obat", "Meningkatkan kelarutan obat", "Mencegah mual dan muntah"],
     answer: 0
@@ -24507,7 +24507,7 @@ let questions = [
     answer: 3
   },
   {
-    question: "Seorang anak usia 6 tahun dibawa ke IGD karena tiba-tiba jatuh lalu kejang. Pasien didiagnosis kejang tonik-klonik. Pasien diberikan fenitoin dan diresepkan obat pulang untuk pencegahan kejang berulang. Apoteker memberikan layanan informasi obat kepada orang tua pasien. Efek samping apa dari fenitoin yang perlu dijelaskan oleh apoteker? (UKAI Februari 2023)",
+    question: "Seorang anak usia 6 tahun dibawa ke IGD karena tiba-tiba jatuh lalu kejang. Pasien didiagnosis kejang tonik-klonik. Pasien diberikan fenitoin dan diresepkan obat pulang untuk pencegahan kejang berulang. Apoteker memberikan layanan informasi obat kepada orang tua pasien. Efek samping apa dari fenitoin yang perlu dijelaskan oleh apoteker?   ",
     img: "",
     options: ["Gangguan pendengaran", "Pankreatitis", "Gangguan saluran gastrointestinal", "Kulit memerah", "Cleft palate"],
     answer: 3
@@ -24537,7 +24537,7 @@ let questions = [
     answer: 0
   },
   {
-    question: "Seorang pasien datang ke poliklinik jiwa RS Insan Jaya Muda karena kecemasan yang dialaminya, pasien menderita insomnia. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat golongan SSRI yang efek samping insomnia paling sedikit. Apa rekomendasi apoteker? (TO UKMPPAI Juni 2024)",
+    question: "Seorang pasien datang ke poliklinik jiwa RS Insan Jaya Muda karena kecemasan yang dialaminya, pasien menderita insomnia. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat golongan SSRI yang efek samping insomnia paling sedikit. Apa rekomendasi apoteker?",
     img: "",
     options: ["Fluoxetine", "Sertralin", "Fluvoxamin", "Citalopram", "Paroxetine"],
     answer: 4
@@ -24561,7 +24561,7 @@ let questions = [
     answer: 2
   },
   {
-    question: "Seorang pasien perempuan usia 30 tahun, hamil usia 4 bulan, mengalami depresi berat karena berbagai permasalahan yang dihadapinya. Dokter ingin meresepkan antidepresan untuk menghilangkan gejala penyakitnya. Apakah antidepresan yang tepat untuk disarankan kepada dokter? (UKMPPAI Februari 2025)",
+    question: "Seorang pasien perempuan usia 30 tahun, hamil usia 4 bulan, mengalami depresi berat karena berbagai permasalahan yang dihadapinya. Dokter ingin meresepkan antidepresan untuk menghilangkan gejala penyakitnya. Apakah antidepresan yang tepat untuk disarankan kepada dokter?  ",
     img: "",
     options: ["Phenelzine", "Buspiron", "Venlavaxine", "Amytriptiline", "Duloxetine"],
     answer: 1
@@ -24597,7 +24597,7 @@ let questions = [
     answer: 2
   },
   {
-    question: "Pasien kemoterapi mendapatkan obat untuk mengurangi rasa nyerinya di mana pasien mendapatkan obat fentanyl patch. Pasien menanyakan berapa lama fentanyl patch dapat digunakan? (UKAI Februari 2023)",
+    question: "Pasien kemoterapi mendapatkan obat untuk mengurangi rasa nyerinya di mana pasien mendapatkan obat fentanyl patch. Pasien menanyakan berapa lama fentanyl patch dapat digunakan?   ",
     img: "",
     options: ["24 jam", "48 jam", "72 jam", "60 jam", "120 jam"],
     answer: 2
@@ -24664,13 +24664,13 @@ let questions = [
     answer: 1
   },
   {
-    question: "Pasien mengalami ensefalopati hepatik, lalu diberikan asam amino dan laktulosa. Parameter apa yang digunakan untuk mengetahui efektivitas terapi? (UKAI Agustus 2022)",
+    question: "Pasien mengalami ensefalopati hepatik, lalu diberikan asam amino dan laktulosa. Parameter apa yang digunakan untuk mengetahui efektivitas terapi?  ",
     img: "",
     options: ["Tingkat kesadaran pasien", "Refleks", "Tekanan darah", "SGPT", "SGOT"],
     answer: 0
   },
   {
-    question: "Seorang pasien laki-laki usia 58 tahun didiagnosis dokter mengalami penyakit glaukoma dengan keluhan pandangan berkabut, fotophobia, dan sakit kepala. Dokter meresepkan obat tetes mata yang mengandung pilokarpin HCl 2%. Bagaimana mekanisme aksi obat tersebut? (UKAI Agustus 2022)",
+    question: "Seorang pasien laki-laki usia 58 tahun didiagnosis dokter mengalami penyakit glaukoma dengan keluhan pandangan berkabut, fotophobia, dan sakit kepala. Dokter meresepkan obat tetes mata yang mengandung pilokarpin HCl 2%. Bagaimana mekanisme aksi obat tersebut?  ",
     img: "",
     options: ["Inhibitor enzim kolinesterase", "Antagonis reseptor beta adrenergik", "Inhibitor enzim karbonik anhidrase", "Agonis reseptor alfa adrenergic", "Agonis reseptor kolinergik"],
     answer: 4
@@ -24784,7 +24784,7 @@ let questions = [
     answer: 0
   },
   {
-    question: "Seorang pasien pilek dan mengonsumsi Pseudoefedrin. Setelah beberapa hari pasien mengeluhkan jantung berdebar dan sakit kepala. Setelah dilakukan pemeriksaan pasien mengalami hipertensi. Bagaimana mekanisme Pseudoefedrin menyebabkan kenaikan tekanan darah? (TO UKMPPAI November 2024)",
+    question: "Seorang pasien pilek dan mengonsumsi Pseudoefedrin. Setelah beberapa hari pasien mengeluhkan jantung berdebar dan sakit kepala. Setelah dilakukan pemeriksaan pasien mengalami hipertensi. Bagaimana mekanisme Pseudoefedrin menyebabkan kenaikan tekanan darah?",
     img: "",
     options: ["Agonis Alfa 1", "Agonis Alfa 2", "Antagonis Alfa 2", "Antagonis Beta 1", "Antagonis Beta 2"],
     answer: 0
@@ -24838,7 +24838,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang apoteker bagian R&D industri sedang mengembangkan sediaan inhalasi salbutamol dan melakukan studi mengenai structure-activity relationship dari salbutamol. Salbutamol memiliki struktur dasar yang sama dengan epinefrin, yaitu β-fenil etilamin. Epinefrin bekerja pada reseptor adrenergik α-1, α-2,β-1, dan β-2. Salbutamol memiliki perbedaan struktur dengan epinefrin, yang mana menyebabkan salbutamol bekerja spesifik sebagai agonis reseptor β-2. Gugus apa dari salbutamol yang menyebabkan kerja spesifik tersebut? (UKAI Februari 2023)",
+  question: "Seorang apoteker bagian R&D industri sedang mengembangkan sediaan inhalasi salbutamol dan melakukan studi mengenai structure-activity relationship dari salbutamol. Salbutamol memiliki struktur dasar yang sama dengan epinefrin, yaitu β-fenil etilamin. Epinefrin bekerja pada reseptor adrenergik α-1, α-2,β-1, dan β-2. Salbutamol memiliki perbedaan struktur dengan epinefrin, yang mana menyebabkan salbutamol bekerja spesifik sebagai agonis reseptor β-2. Gugus apa dari salbutamol yang menyebabkan kerja spesifik tersebut?   ",
   img: "33spsp.png",
   options: ["Gugus N-tersier butil", "Gugus metil pada amin", "Gugus hidroksi pada posisi meta cincin fenil", "Gugus hidroksi pada karbon β", "Gugus benzen"],
   answer: 0
@@ -24856,7 +24856,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Pasien wanita mengeluhkan kondisi matanya dan didiagnosis glaukoma sudut terbuka oleh dokter. Dokter memberikan sediaan yang mengandung latanoprost. Bagaimana mekanisme kerja obat tersebut? (UKAI Agustus 2022)",
+  question: "Pasien wanita mengeluhkan kondisi matanya dan didiagnosis glaukoma sudut terbuka oleh dokter. Dokter memberikan sediaan yang mengandung latanoprost. Bagaimana mekanisme kerja obat tersebut?  ",
   img: "",
   options: ["Mencegah peningkatan IOP", "Menurunkan pengeluaran trabekular pada aqueus humor", "Menurunkan aqueus humor pada siliaris mata", "Meningkatkan aliran keluar uveoscleral", "Meningkatkan aqueus humor pada siliaris mata"],
   answer: 3
@@ -24952,7 +24952,7 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang pasien wanita 45 tahun berkonsultasi ke dokter mata terkait gangguan penglihatan yang dialaminya. Dokter mendiagnosis pasien mengalami glaukoma primer sudut terbuka. Dokter memberikan obat tetes mata latanaprost. 2 hari kemudian pasien datang kembali dengan keluhan tidak cocok dengan obat yang diresepkan dan mengalami reaksi hipersensitivitas. Dokter akan mengganti obat dan berdiskusi dengan apoteker terkait pilihan obat yang paling tepat. Apa rekomendasi anda? (UKAI Februari 2023)",
+  question: "Seorang pasien wanita 45 tahun berkonsultasi ke dokter mata terkait gangguan penglihatan yang dialaminya. Dokter mendiagnosis pasien mengalami glaukoma primer sudut terbuka. Dokter memberikan obat tetes mata latanaprost. 2 hari kemudian pasien datang kembali dengan keluhan tidak cocok dengan obat yang diresepkan dan mengalami reaksi hipersensitivitas. Dokter akan mengganti obat dan berdiskusi dengan apoteker terkait pilihan obat yang paling tepat. Apa rekomendasi anda?   ",
   img: "",
   options: ["Betaxolol", "Brimonidin", "Pilokarpin", "Bimatoprost", "Dorzolamid"],
   answer: 0
@@ -24982,13 +24982,13 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang pasien laki-laki usia 56 tahun mengalami glaukoma sudut terbuka dengan riwayat hipertensi dan gagal ginjal. Dokter memberikan terapi latanoprost. Indikator apa yang diperlukan untuk memantau efektivitas terapi? (UKAI Agustus 2022)",
+  question: "Seorang pasien laki-laki usia 56 tahun mengalami glaukoma sudut terbuka dengan riwayat hipertensi dan gagal ginjal. Dokter memberikan terapi latanoprost. Indikator apa yang diperlukan untuk memantau efektivitas terapi?  ",
   img: "",
   options: ["Tekanan darah", "Tekanan intraokular", "Serum kreatinin", "Profil darah", "BUN"],
   answer: 1
 },
 {
-  question: "Seorang pasien menderita GERD dan rutin mengonsumsi lansoprazole selama hampir 10 minggu. Parameter apa yg harus dimonitor jika menggunakan lansoprazole jangka panjang? (TO UKMPPAI November 2024)",
+  question: "Seorang pasien menderita GERD dan rutin mengonsumsi lansoprazole selama hampir 10 minggu. Parameter apa yg harus dimonitor jika menggunakan lansoprazole jangka panjang?",
   img: "",
   options: ["Densitas tulang", "SGOT/SGPT", "LDL", "Gula darah", "Asam folat"],
   answer: 0
@@ -25024,7 +25024,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Ibu hamil trimester 2 mengalami GERD dan sudah menggunakan lansoprazol, tetapi asam lambung masih naik ke kerongkongan. Apakah rekomendasi obat tambahan yang dapat diberikan kepada pasien? (TO UKMPPAI November 2024)",
+  question: "Ibu hamil trimester 2 mengalami GERD dan sudah menggunakan lansoprazol, tetapi asam lambung masih naik ke kerongkongan. Apakah rekomendasi obat tambahan yang dapat diberikan kepada pasien?",
   img: "",
   options: ["Metoklopramide", "Antasida", "Sukralfat", "Domperidone", "Ranitidin"],
   answer: 0
@@ -25054,7 +25054,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Pasien kanker diberikan terapi oleh dokter yaitu obat siklofosfamid. Agar mencegah terjadinya efek samping pendarahan kandung kemih, maka pasien diberikan? (UKAI Agustus 2022)",
+  question: "Pasien kanker diberikan terapi oleh dokter yaitu obat siklofosfamid. Agar mencegah terjadinya efek samping pendarahan kandung kemih, maka pasien diberikan?  ",
   img: "",
   options: ["Mesna", "Leukovorin", "Deksametason", "Antagonis reseptor H2", "Allopurinol"],
   answer: 0
@@ -25078,7 +25078,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien datang ke Apotek Insan Jaya Muda untuk konsultasi obat bersama apoteker. Pasien rutin mengonsumsi obat lambung dan sudah 5 hari tidak bisa BAB. Manakah obat lambung yang memiliki efek samping konstipasi? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien datang ke Apotek Insan Jaya Muda untuk konsultasi obat bersama apoteker. Pasien rutin mengonsumsi obat lambung dan sudah 5 hari tidak bisa BAB. Manakah obat lambung yang memiliki efek samping konstipasi?  ",
   img: "",
   options: ["Sukralfat", "Omeprazole", "Ranitidin", "Simetikon", "Misoprostol"],
   answer: 0
@@ -25114,13 +25114,13 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien lansia mual muntah 3x datang ke poliklinik umum Insan Jaya Muda. Dokter ingin memberikan obat untuk mengatasi kondisi tersebut, apakah rekomendasi obat yang dapat diberikan kepada pasien? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien lansia mual muntah 3x datang ke poliklinik umum Insan Jaya Muda. Dokter ingin memberikan obat untuk mengatasi kondisi tersebut, apakah rekomendasi obat yang dapat diberikan kepada pasien?  ",
   img: "",
   options: ["Metoklopramid", "Hiosin", "Piridoksin", "Dimehidrinat", "Domperidone"],
   answer: 4
 },
 {
-  question: "Seorang anak 2 tahun mengalami diare dengan kondisi feses tidak memiliki bercak darah. Selain diberikan oralit, anak tersebut juga diberikan sirup zinc. Bagaimana dosis dan lama penggunaan sirup zinc tersebut? (UKAI Agustus 2022)",
+  question: "Seorang anak 2 tahun mengalami diare dengan kondisi feses tidak memiliki bercak darah. Selain diberikan oralit, anak tersebut juga diberikan sirup zinc. Bagaimana dosis dan lama penggunaan sirup zinc tersebut?  ",
   img: "",
   options: ["10 mg setiap 3-4 kali sehari selama 7-14 hari", "20 mg setiap 2-4 kali sehari selama 5 hari", "10 mg setiap buang air besar selama 3 hari", "20 mg setiap hari selama 10-14 hari", "10 mg setiap 1-3 kali sehari selama 14 hari"],
   answer: 3
@@ -25138,7 +25138,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien asma rutin mengonsumsi obat anti asma. Setelah beberapa hari pasien mengalami gejala jantung berdebar. Apakah obat anti asma yang menyebabkan kondisi tersebut? (TO UKMPPAI November 2024)",
+  question: "Seorang pasien asma rutin mengonsumsi obat anti asma. Setelah beberapa hari pasien mengalami gejala jantung berdebar. Apakah obat anti asma yang menyebabkan kondisi tersebut?",
   img: "",
   options: ["Salbutamol", "Aminofilin", "Prednisolon", "Kromolin", "Zafirlukast"],
   answer: 0
@@ -25150,7 +25150,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang pasien datang ke poliklinik mata RS Insan Jaya Muda dengan diagnosis glaukoma sudut terbuka. Pasien rutin menggunakan timolol, tetapi tidak ada perbaikan. Apa terapi pengganti yang dapat digunakan pasien? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien datang ke poliklinik mata RS Insan Jaya Muda dengan diagnosis glaukoma sudut terbuka. Pasien rutin menggunakan timolol, tetapi tidak ada perbaikan. Apa terapi pengganti yang dapat digunakan pasien?  ",
   img: "",
   options: ["Latanoprost", "Brimonidin", "Pilokarpin", "Manitol", "Gliserin"],
   answer: 0
@@ -25162,7 +25162,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien diagnosis glaukoma sudut terbuka rutin menggunakan obat. Setelah beberapa minggu penggunaan pasien susah berkemih and didapati pasien mengalami batu ginjal. Obat manakah yang menyebabkan hal tersebut? (TO UKMPPAI November 2024)",
+  question: "Seorang pasien diagnosis glaukoma sudut terbuka rutin menggunakan obat. Setelah beberapa minggu penggunaan pasien susah berkemih and didapati pasien mengalami batu ginjal. Obat manakah yang menyebabkan hal tersebut?",
   img: "",
   options: ["Pilokarpin", "Dorzolamide", "Latanoprost", "Timolol", "Brimonidine"],
   answer: 1
@@ -25174,19 +25174,19 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang pasien asma eksaserbasi dengan nilai labor IgE = 43 IU/mL. Apakah rekomendasi terapi yang dapat diberikan kepada pasien? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien asma eksaserbasi dengan nilai labor IgE = 43 IU/mL. Apakah rekomendasi terapi yang dapat diberikan kepada pasien?  ",
   img: "",
   options: ["Salbutamol", "Budesonide", "Formeterol", "Omalizumab", "Ipratropium"],
   answer: 3
 },
 {
-  question: "Anak umur 3 tahun mengalami pilek & hidung tersumbat, datang kepoliklinik RS Insan Jaya Muda. Apakah obat yang dapat diberikan dokter kepada pasien tersebut? (TO UKMPPAI November 2024)",
+  question: "Anak umur 3 tahun mengalami pilek & hidung tersumbat, datang kepoliklinik RS Insan Jaya Muda. Apakah obat yang dapat diberikan dokter kepada pasien tersebut?",
   img: "",
   options: ["Normal saline", "Pseudoefedrin", "Fenilpropanolamin", "Olopatadin", "Montelukast"],
   answer: 0
 },
 {
-  question: "Pasien mengonsumsi obat flu karena sudah mengalami pilek 2 hari. Pasien akan melakukan tes kesehatan CPNS and didapatkan positif palsu saat pasien melakukan tes narkoba. Obat flu apakah yang menyebabkan kondisi tersebut? (TO UKMPPAI November 2024)",
+  question: "Pasien mengonsumsi obat flu karena sudah mengalami pilek 2 hari. Pasien akan melakukan tes kesehatan CPNS and didapatkan positif palsu saat pasien melakukan tes narkoba. Obat flu apakah yang menyebabkan kondisi tersebut?",
   img: "",
   options: ["Ketotifen", "Pseudoefedrin", "Setirizin", "Klorfeniramin", "Olopatadin"],
   answer: 1
@@ -25234,7 +25234,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang pria akan melakukan perjalanan ke luar negeri dengan pesawat and datang ke apotek membeli obat anti mual and muntah karena mabuk perjalanan. Obat apa yang anda sarankan? (UKAI Februari 2023)",
+  question: "Seorang pria akan melakukan perjalanan ke luar negeri dengan pesawat and datang ke apotek membeli obat anti mual and muntah karena mabuk perjalanan. Obat apa yang anda sarankan?   ",
   img: "",
   options: ["Ondansentron", "Metoklopramid", "Pyridoxin HCl", "Dimehidrinate", "Domperidon"],
   answer: 3
