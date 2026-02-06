@@ -67,7 +67,6 @@
         <div class="header-right">
             <div class="timer-box" id="timer">00:00</div>
             <button class="btn-header btn-pause" onclick="togglePause()" id="btn-pause">&#10074;&#10074; Pause</button>
-            <button class="btn-header btn-reset" onclick="resetExam()">&#8635; Reset</button>
             <button class="btn-header" onclick="toggleSidebar()" id="btn-toggle">Navigasi</button>
         </div>
     </div>
@@ -133,8 +132,9 @@
 
 <script>
 
-    const STORAGE_KEY = 'cbt_master_session_v2'; 
-    let timeLimit = 100 * 60; // 100 Menit
+    const STORAGE_KEY = 'cbt_master_session_v2';
+    const PROGRESS_KEY = 'cbt_last_index';
+    let timeLimit = 200 * 60; // 200 Menit
     
     let questionss = []; 
     let currentQuestionIndex = 0;
@@ -170,26 +170,43 @@
     }
 
     function prepareQuestions() {
-        // 'questions' adalah variabel dari question.js
-        let qCopy = JSON.parse(JSON.stringify(questions)); 
-        shuffleArray(qCopy);
-        
-        // Ambil maksimal 200 soal
-        qCopy = qCopy.slice(0, 200);
+    // 1. Ambil indeks terakhir dari localStorage, jika tidak ada mulai dari 0
+    let lastIndex = parseInt(localStorage.getItem(PROGRESS_KEY)) || 0;
+    
+    // 2. Clone master data (variabel 'questions' dari file eksternal)
+    let qCopy = JSON.parse(JSON.stringify(questions)); 
+    
+    // 3. Ambil potongan 200 soal berikutnya berdasarkan lastIndex
+    // Misal: lastIndex 200, maka ambil dari 200 sampai 400
+    let batchSize = 200;
+    let selectedBatch = qCopy.slice(lastIndex, lastIndex + batchSize);
 
-        qCopy.forEach(q => {
-            // Simpan teks jawaban benar sebelum diacak
-            let correctText = q.answer; 
-
-            // Acak pilihan jawaban
-            shuffleArray(q.options);
-
-            // Cari index baru dari jawaban benar tersebut
-            q.answer = q.options.indexOf(correctText);
-        });
-
-        return qCopy;
+    // 4. Jika soal sudah habis (misal sudah sampai 3000), kembali ke 0 atau beri peringatan
+    if (selectedBatch.length === 0) {
+        alert("Semua soal (3000+) sudah dikerjakan! Mengulang dari awal.");
+        localStorage.setItem(PROGRESS_KEY, 0);
+        return prepareQuestions(); // Rekursif untuk ambil dari index 0
     }
+
+    // 5. Simpan progres index untuk sesi berikutnya (akan diupdate permanen saat klik 'Selesai')
+    // Kita simpan dulu di variabel sementara agar tidak update jika user refresh di tengah jalan
+    window.nextSessionStart = lastIndex + selectedBatch.length;
+
+    selectedBatch.forEach(q => {
+        let correctText;
+        if (typeof q.answer === 'number') {
+            correctText = q.options[q.answer];
+        } else {
+            correctText = q.answer;
+        }
+        
+        // Kita acak opsinya saja, tapi soalnya urut per batch agar tidak double
+        shuffleArray(q.options);
+        q.answer = q.options.findIndex(opt => opt.trim() === correctText.trim());
+    });
+
+    return selectedBatch;
+}
 
     function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
@@ -199,90 +216,119 @@
     }
 
     function loadQuestion(index) {
-        if(isFinished || isPaused) return;
-        currentQuestionIndex = index;
-        const q = questionss[index];
-        
-        els.no.innerText = index + 1;
-        
-        // Menggunakan q.question sesuai format baru
-        els.qText.innerHTML = q.question;
-        
-        if(q.img && q.img.trim() !== "") { 
-            els.qImg.src = q.img; 
-            els.qImg.style.display = 'block'; 
-        } else { 
-            els.qImg.style.display = 'none'; 
-        }
-
-        els.opts.innerHTML = '';
-        q.options.forEach((opt, i) => {
-            const label = document.createElement('label');
-            label.className = 'option-label';
-            const input = document.createElement('input');
-            input.type = 'radio';
-            input.name = 'answer';
-            input.value = i;
-            if (userAnswers[index] === i) input.checked = true;
-            input.onchange = () => { 
-                userAnswers[index] = i; 
-                updateGridStatus(); 
-            };
-            label.appendChild(input);
-            label.appendChild(document.createTextNode(opt)); 
-            els.opts.appendChild(label);
-        });
-        
-        updateGridStatus();
-        els.finishBtn.style.display = (index === questionss.length - 1) ? 'block' : 'none';
+    if(isFinished || isPaused) return;
+    currentQuestionIndex = index;
+    const q = questionss[index];
+    
+    els.no.innerText = index + 1;
+    els.qText.innerHTML = q.question;
+    
+    // PERBAIKAN: Pastikan path folder 'assets/' ditambahkan jika perlu
+    if(q.img && q.img.trim() !== "") { 
+        // Jika di JSON cuma nama file, tambahkan "assets/" di depannya
+        els.qImg.src = q.img.startsWith('http') ? q.img : `assets/${q.img}`; 
+        els.qImg.style.display = 'block'; 
+    } else { 
+        els.qImg.style.display = 'none'; 
     }
 
-    function showResults() {
-        els.navBtns.style.display = 'none';
-        els.sidebar.classList.add('hidden');
-        els.toggleBtn.style.display = 'none';
-        els.pauseBtn.style.display = 'none';
+    els.opts.innerHTML = '';
+    q.options.forEach((opt, i) => {
+        const label = document.createElement('label');
+        label.className = 'option-label';
+        
+        const input = document.createElement('input');
+        input.type = 'radio';
+        input.name = 'answer';
+        
+        // Simpan index sebagai value
+        input.value = i;
 
-        let correctCount = 0;
-        let reviewHTML = "";
-        const answerMap = ["A", "B", "C", "D", "E"];
+        // Logika agar tetap tercentang saat navigasi (Back/Next)
+        if (userAnswers[index] === i) input.checked = true;
 
-        questionss.forEach((q, i) => {
-            const userAnswer = userAnswers[i];
-            const isCorrect = userAnswer === q.answer;
-            if(isCorrect) correctCount++;
-            
-            const userAnsText = userAnswer !== null ? 
-                answerMap[userAnswer] + ". " + q.options[userAnswer] : 
-                "<span style='color:red'>Tidak dijawab</span>";
-            
-            const correctAnsText = answerMap[q.answer] + ". " + q.options[q.answer];
-            
-            reviewHTML += `
-                <div class="review-card ${isCorrect ? 'correct' : 'wrong'}">
-                    <span class="review-status ${isCorrect ? 'text-correct' : 'text-wrong'}">
-                        No. ${i+1}: ${isCorrect ? 'BENAR' : 'SALAH'}
-                    </span>
-                    <p style="margin-top:0;">${q.question}</p>
-                    <div style="background:#f8f9fa; padding:10px; border-radius:5px; font-size:14px;">
-                        <strong>Jawaban Kamu:</strong> ${userAnsText} <br>
-                        <strong>Kunci Jawaban:</strong> <span style="color:#28a745; font-weight:bold;">${correctAnsText}</span>
-                    </div>
-                </div>`;
-        });
+        input.onchange = () => { 
+            userAnswers[index] = i; 
+            updateGridStatus(); 
+        };
 
-        let score = (correctCount / questionss.length) * 100;
-        els.content.innerHTML = `
-            <div class="score-display">
-                <h2 style="color:#2c3e50;">Hasil Ujian</h2>
-                <div style="font-size: 56px; color:#007bff; font-weight:bold;">${score.toFixed(1)}</div>
-                <p>Benar: <strong>${correctCount}</strong> dari ${questionss.length} soal</p>
-                <button onclick="location.reload()" class="btn btn-reset" style="margin-top:15px; padding:12px 30px;">Ulangi Ujian</button>
-            </div>
-            <h3 style="padding-bottom:10px; border-bottom:2px solid #ddd;">Kunci Jawaban</h3>
-            <div style="padding-top:20px;">${reviewHTML}</div>`;
+        label.appendChild(input);
+        label.appendChild(document.createTextNode(` ${opt}`)); // Tambah spasi dikit biar rapi
+        els.opts.appendChild(label);
+    });
+    
+    updateGridStatus();
+    els.finishBtn.style.display = (index === questionss.length - 1) ? 'block' : 'none';
+}
+
+function showResults() {
+    els.navBtns.style.display = 'none';
+    els.sidebar.classList.add('hidden');
+    if(els.toggleBtn) els.toggleBtn.style.display = 'none';
+    if(els.pauseBtn) els.pauseBtn.style.display = 'none';
+
+    let correctCount = 0;
+    let reviewHTML = "";
+    const answerMap = ["A", "B", "C", "D", "E"];
+
+    questionss.forEach((q, i) => {
+        // userAnswers[i] sudah berupa angka dari input radio value
+        const userIdx = userAnswers[i]; 
+        const correctIdx = q.answer; // Sudah dipastikan angka oleh prepareQuestions
+
+        const isCorrect = (userIdx !== null && parseInt(userIdx) === correctIdx);
+        if (isCorrect) correctCount++;
+
+        const userDisplay = (userIdx !== null) 
+            ? `${answerMap[userIdx]}. ${q.options[userIdx]}` 
+            : "<span style='color:red'>Tidak dijawab</span>";
+
+        const correctDisplay = `${answerMap[correctIdx]}. ${q.options[correctIdx]}`;
+
+        reviewHTML += `
+            <div class="review-card ${isCorrect ? 'correct' : 'wrong'}" style="border-left: 5px solid ${isCorrect ? '#28a745' : '#dc3545'}; padding: 15px; margin-bottom: 15px; background: #fff; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                <div style="font-weight:bold; color: ${isCorrect ? '#28a745' : '#dc3545'}">
+                    No. ${i+1}: ${isCorrect ? 'BENAR' : 'SALAH'}
+                </div>
+                <p style="margin: 5px 0;">${q.question}</p>
+                <div style="background:#f8f9fa; padding:10px; border-radius:5px; font-size:14px;">
+                    <strong>Jawaban Kamu:</strong> ${userDisplay} <br>
+                    <strong>Kunci Jawaban:</strong> <span style="color:#28a745; font-weight:bold;">${correctDisplay}</span>
+                </div>
+            </div>`;
+    });
+
+    let score = (correctCount / questionss.length) * 100;
+    els.content.innerHTML = `
+        <div class="score-display" style="text-align:center; padding: 20px;">
+            <h2 style="color:#2c3e50;">Hasil Ujian</h2>
+            <div style="font-size: 56px; color:#007bff; font-weight:bold;">${score.toFixed(1)}</div>
+            <p>Benar: <strong>${correctCount}</strong> dari ${questionss.length} soal</p>
+            
+            <button onclick="location.reload()" class="btn" style="margin-top:10px; padding:10px 20px; cursor:pointer; background:#6c757d; color:white; border:none; border-radius:5px;">Ulangi Batch Ini</button>
+
+            <button onclick="startNextSession()" class="btn" style="margin-top:10px; padding:10px 20px; cursor:pointer; background:#46b94b; color:white; border:none; border-radius:5px;">Ujian Selanjutnya (Soal Baru)</button>
+            
+            <br>
+            <button onclick="resetTotalProgress()" style="margin-top:20px; background:none; border:none; color:red; cursor:pointer; text-decoration:underline; font-size:12px;">Reset Semua Progress (Kembali ke Soal 1)</button>
+        </div>
+        <h3 style="border-bottom: 2px solid #ddd; padding-bottom:10px; margin-top:20px;">Review Jawaban</h3>
+        <div style="margin-top:10px;">${reviewHTML}</div>`;
+}
+function startNextSession() {
+    if (window.nextSessionStart) {
+        localStorage.setItem(PROGRESS_KEY, window.nextSessionStart);
+        location.reload();
     }
+}
 
+// Fungsi untuk reset total jika user ingin kembali ke soal nomor 1
+function resetTotalProgress() {
+    if (confirm("Apakah Anda yakin ingin menghapus semua progress dan kembali ke soal nomor 1?")) {
+        localStorage.setItem(PROGRESS_KEY, 0);
+        location.reload();
+    }
+}
     // Fungsi pendukung lainnya (timer, grid, dll) tetap sama
     function initGrid() {
         els.grid.innerHTML = '';
@@ -344,6 +390,8 @@
         clearInterval(timerInterval);
         showResults();
     }
+
+
 
     function toggleDoubt() {
         if(isFinished || isPaused) return;

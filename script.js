@@ -79,33 +79,45 @@ refresh.onclick =() => {
   resetProgress();
 }
 
-// Menampilkan pertanyaan
 function showQuestions(index) {
   const qIndex = questionOrder[index];
   const questionText = document.querySelector('.question-text');
-  questionText.innerHTML = questions[qIndex].question;
+  const currentQuestion = questions[qIndex];
+
+  let displayContent = `<p>${currentQuestion.question}</p>`;
+  
+  if (currentQuestion.img) {
+    displayContent += `
+      <div class="question-image-container" style="text-align: center; margin: 15px 0;">
+        <img src="assets/${currentQuestion.img}" alt="Ilustrasi" style="max-width: 100%; border-radius: 8px;">
+      </div>`;
+  }
+  
+  questionText.innerHTML = displayContent;
 
   let optionTag = '';
-  questions[qIndex].options.forEach(opt => {
+  currentQuestion.options.forEach(opt => {
     optionTag += `<div class="option"><span class="circle"></span><span>${opt}</span></div>`;
   });
   optionList.innerHTML = optionTag;
 
   const option = document.querySelectorAll('.option');
-  option.forEach((el, i) => {
+  option.forEach((el) => {
     el.setAttribute('onclick', 'optionSelected(this)');
 
-  
     const jawabanDulu = userAnswers[index];
-
     const teksOpsi = el.innerText.trim();
 
-    const jawabanBenar = questions[qIndex].answer.trim();
-
+    // LOGIKA PINTAR: Cek apakah answer itu angka atau teks
+    let teksJawabanBenar;
+    if (typeof currentQuestion.answer === 'number') {
+      teksJawabanBenar = currentQuestion.options[currentQuestion.answer];
+    } else {
+      teksJawabanBenar = currentQuestion.answer;
+    }
 
     if(jawabanDulu === teksOpsi) {
-   
-      if(teksOpsi === jawabanBenar) {
+      if(teksOpsi === teksJawabanBenar.trim()) {
         el.classList.add('correct'); 
       } else {
         el.classList.add('incorrect');
@@ -117,33 +129,42 @@ function showQuestions(index) {
 // Pilih jawaban
 function optionSelected(answer) {
   const qIndex = questionOrder[questionCount];
+  const currentQuestion = questions[qIndex];
   const userAnswer = answer.textContent.trim();
-  const correctAnswer = questions[qIndex].answer.trim();
+
+  // LOGIKA PINTAR: Deteksi format answer (String vs Number)
+  let correctAnswerText;
+  if (typeof currentQuestion.answer === 'number') {
+    // Jika formatnya angka (0, 1, 2...), ambil teks dari array options
+    correctAnswerText = currentQuestion.options[currentQuestion.answer].trim();
+  } else {
+    // Jika formatnya sudah teks ("Adefovir"), langsung gunakan
+    correctAnswerText = currentQuestion.answer.trim();
+  }
 
   userAnswers[questionCount] = userAnswer;
 
-
-   if (userAnswer === correctAnswer) {
-    console.log("Jawaban benar!");
-
+  if (userAnswer === correctAnswerText) {
     answer.classList.add('correct');
-    correctSound.play();
+    if(typeof correctSound !== 'undefined') correctSound.play();
 
-     // **✅ Cek jika sudah soal terakhir**
-    if (questionCount < questions.length - 1) {
-      questionCount++; // Pindah ke soal berikutnya
-      showQuestions(questionCount);
-      updateProgress();
-      oneMinute();
-    } else {
-      showResultBox(); // **Tampilkan hasil jika semua soal terjawab**
-    }
+    setTimeout(() => {
+      if (questionCount < questions.length - 1) {
+        questionCount++;
+        showQuestions(questionCount);
+        if(typeof updateProgress === 'function') updateProgress();
+        if(typeof oneMinute === 'function') oneMinute();
+      } else {
+        if(typeof showResultBox === 'function') showResultBox();
+      }
+    });
 
   } else {
     answer.classList.add('incorrect');
-    wrongSound.play();
+    if(typeof wrongSound !== 'undefined') wrongSound.play();
   }
 }
+
 
 // Next Button
 nextBtn.onclick = () => {
