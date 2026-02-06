@@ -17460,13 +17460,13 @@ let questions = [
     answer: "Layak karena ICER < WTP"
   },
   {
-    question: "Rumah Sakit Raih melayani pasien menjalani terapi pengobatan regimen Doksorubisin dan Apoteker ditugaskan untuk melakukan dispensing. Apakah jenis wadah dan pelabelan untuk kegiatan dispensing tersebut?",
+    question: "Rumah Sakit Insan Jaya Muda melayani pasien menjalani terapi pengobatan regimen Doksorubisin dan Apoteker ditugaskan untuk melakukan dispensing. Apakah jenis wadah dan pelabelan untuk kegiatan dispensing tersebut?",
  
     options: ["Merah", "Kuning", "Ungu", "Coklat", "Hitam"],
     answer: "Ungu"
   },
   {
-    question: "RS RAIH memesan vaksin polio dari 5 PBF. Vaksin dari PT A dan B memiliki VVM kondisi A, vaksin dari PT C, D dan E memiliki VVM kondisi B. Data expired date yang tercantum pada vaksin PT. A adalah 6 bulan, PT. B 5 bulan, PT. C 6 bulan, PT. D 4 bulan, dan PT. E 2 bulan. Vaksin manakah yang harus didistribusikan terlebih dahulu?",
+    question: "RS Insan Jaya Muda memesan vaksin polio dari 5 PBF. Vaksin dari PT A dan B memiliki VVM kondisi A, vaksin dari PT C, D dan E memiliki VVM kondisi B. Data expired date yang tercantum pada vaksin PT. A adalah 6 bulan, PT. B 5 bulan, PT. C 6 bulan, PT. D 4 bulan, dan PT. E 2 bulan. Vaksin manakah yang harus didistribusikan terlebih dahulu?",
  
     options: ["PT. A", "PT. B", "PT. C", "PT. D", "PT. E"],
     answer: "PT. E"
@@ -17490,7 +17490,7 @@ let questions = [
     answer: "Memasukkan semua vaksin ke dalam cold box dan dibawa ke fasyankes terdekat"
   },
   {
-    question: "Puskesmas Raih sedang mebuat program pencegahan hipertensi untuk menekan risiko stroke. Apoteker diminta menilai kelayakan program dari segi biaya dan manfaat, dengan data = <br> - Manfaat ekonomi (penghematan biaya medis) = 10.000.000 <br> - Biaya pelaksanaan program = 4.000.000 <br> Hitung rasio CBA dan apakah program layak dijalankan?",
+    question: "Puskesmas Insan Jaya Muda sedang mebuat program pencegahan hipertensi untuk menekan risiko stroke. Apoteker diminta menilai kelayakan program dari segi biaya dan manfaat, dengan data = <br> - Manfaat ekonomi (penghematan biaya medis) = 10.000.000 <br> - Biaya pelaksanaan program = 4.000.000 <br> Hitung rasio CBA dan apakah program layak dijalankan?",
  
     options: ["0,5 (tidak layak)", "1 (netral)", "1,5 (layak)", "2,5 (layak)", "3 (layak)"],
     answer: "2,5 (layak)"
@@ -17544,7 +17544,7 @@ let questions = [
     answer: "CMA"
   },
   {
-    question: "Apoteker di Apotek Raih akan memusnahkan beberapa sediaan sebagai berkut = <br> 1. Furosemide Ampul <br> 2. Tablet Amlodipine <br> 3. Sirup Parasetamol <br> 4. Suspensi Antasida <br> 5. Krim Desoksimetason <br> 6. Xeloda Tablet <br><br> Manakah sediaan yang bisa digabung pemusnahannya?",
+    question: "Apoteker di Apotek Insan Jaya Muda akan memusnahkan beberapa sediaan sebagai berkut = <br> 1. Furosemide Ampul <br> 2. Tablet Amlodipine <br> 3. Sirup Parasetamol <br> 4. Suspensi Antasida <br> 5. Krim Desoksimetason <br> 6. Xeloda Tablet <br><br> Manakah sediaan yang bisa digabung pemusnahannya?",
  
     options: ["1,2,3", "1,3,5", "3,4,5", "4,5,6", "2,4,6"],
     answer: "3,4,5"
@@ -17568,7 +17568,7 @@ let questions = [
     answer: "OHT Ekstrak Psidii Folium"
   },
   {
-    question: "Puskesmas RAIH belum memiliki satupun seorang Apoteker. Berdasarkan Permenkes No. 26 tahun 2020 tentang Perubahan atas Permenkes No. 74 tahun 2016 tentang Standar Pelayanan Kefarmasian di Puskesmas, bagaimanakah penyelenggaraan Pelayanan Kefarmasian di puskesmas tersebut?",
+    question: "Puskesmas Insan Jaya Muda belum memiliki satupun seorang Apoteker. Berdasarkan Permenkes No. 26 tahun 2020 tentang Perubahan atas Permenkes No. 74 tahun 2016 tentang Standar Pelayanan Kefarmasian di Puskesmas, bagaimanakah penyelenggaraan Pelayanan Kefarmasian di puskesmas tersebut?",
  
     options: ["Tidak boleh melakukan Pelayanan Kefarmasian", "Pelayanan Kefarmasian dilakukan secara terbatas oleh TTK", "Pelayanan Kefarmasian dilakukan secara penuh oleh TTK", "Dilakukan Pelayanan Kefarmasian selama 3 hari kerja selama seminggu oleh TTK", "Pelayanan Kefarmasian ditunda sampai ada Apoteker Penanggung Jawab Puskesmas"],
     answer: "Pelayanan Kefarmasian dilakukan secara terbatas oleh TTK"
@@ -17580,7 +17580,7 @@ let questions = [
     answer: "0,5"
   },
   {
-    question: "PBF Raih Jaya akan melakukan pemusnahan obat kedaluwarsa/ rusak sebagai berikut = <br> - Parasetamol syrup <br> - Amoxiclav tablet <br> - Petidin injeksi <br> - Ranitidin tablet <br> - Sefiksim kapsul <br> APJ memerlukan saksi dalam pemusnahan obat tersebut. Siapakah saksi yang harus hadir?",
+    question: "PBF Insan Jaya Muda Jaya akan melakukan pemusnahan obat kedaluwarsa/ rusak sebagai berikut = <br> - Parasetamol syrup <br> - Amoxiclav tablet <br> - Petidin injeksi <br> - Ranitidin tablet <br> - Sefiksim kapsul <br> APJ memerlukan saksi dalam pemusnahan obat tersebut. Siapakah saksi yang harus hadir?",
  
     options: ["Tenaga Vokasi Farmasi yang memiliki SIP aktif", "Kemenkes dan Badan POM", "Dinkes kab/kota", "Unit pelaksana teknis BPOM setempat", "Dinkes Prov dan Dinkes kab/kota"],
     answer: "Unit pelaksana teknis BPOM setempat"
@@ -17598,7 +17598,7 @@ let questions = [
     answer: "1 pintu, 2 kunci yang berbeda"
   },
   {
-    question: "Apotek RAIH mengajukan Surat Izin Apotek (SIA) ke Dinas Pelayanan Terpadu Satu Pintu untuk izin apotek dengan operasional 24 jam tetapi pengajuan ditolak, karena permasalahan SDM apotek, saat ini Apotek Raih memiliki SDM sebanyak 6 orang dengan rincian = <br> - 1 Orang Apoteker Penanggung Jawab (STRA aktif) <br> - 5 Orang TTK (2 TTK STRTTK aktif, 1 TTK STRTTK tidak aktif, 1 TTK STRTTK sedang perpanjangan, 1 TTK lulusan SMK Farmasi) <br> - 1 Orang Admin Kasir (bukan lulusan Farmasi) <br> Apa yang menyebabkan penolakan pengajuan SIA Apotek Raih?",
+    question: "Apotek Insan Jaya Muda mengajukan Surat Izin Apotek (SIA) ke Dinas Pelayanan Terpadu Satu Pintu untuk izin apotek dengan operasional 24 jam tetapi pengajuan ditolak, karena permasalahan SDM apotek, saat ini Apotek Insan Jaya Muda memiliki SDM sebanyak 6 orang dengan rincian = <br> - 1 Orang Apoteker Penanggung Jawab (STRA aktif) <br> - 5 Orang TTK (2 TTK STRTTK aktif, 1 TTK STRTTK tidak aktif, 1 TTK STRTTK sedang perpanjangan, 1 TTK lulusan SMK Farmasi) <br> - 1 Orang Admin Kasir (bukan lulusan Farmasi) <br> Apa yang menyebabkan penolakan pengajuan SIA Apotek Insan Jaya Muda?",
  
     options: ["STRTTK aktif hanya 2 orang", "Jumlah SDM tidak cukup untuk operasional 24 jam", "Admin kasir hanya 1 orang dan bukan dari lulusan farmasi", "Memiliki 1 orang Apoteker", "1 orang TTK lulusan SMK Farmasi"],
     answer: "Jumlah SDM tidak cukup untuk operasional 24 jam"
@@ -17653,19 +17653,19 @@ let questions = [
     answer: "Rasio manfaat-risiko yang paling menguntungkan pasien"
 },
 {
-    question: "APJ PBF Raih akan melakukan pelaporan obat triheksifenidil melalui aplikasi KEMENKES (e-Report). Setiap berapa bulan apoteker melakukan pelaporan tersebut?",
+    question: "APJ PBF Insan Jaya Muda akan melakukan pelaporan obat triheksifenidil melalui aplikasi KEMENKES (e-Report). Setiap berapa bulan apoteker melakukan pelaporan tersebut?",
  
     options: ["Setiap bulan", "Setiap 2 bulan", "Setiap 3 bulan", "Setiap 6 bulan", "Setiap tahun"],
     answer: "Setiap 3 bulan"
 },
 {
-    question: "Berikut data pengkajian komponen biaya pengobatan pasien di RS RAIH = <br><br> <table border='1' style='width:100%; border-collapse: collapse;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Komponen biaya</th> <th style='padding: 8px;'>Biaya (Rp)</th> </tr> <tr> <td style='padding: 8px;'><strong>Biaya langsung medis</strong></td> <td style='padding: 8px;'></td> </tr> <tr> <td style='padding: 8px;'>Biaya Pelayanan Kesehatan (Penyedia Asuransi)</td> <td style='padding: 8px;'>3.709.634</td> </tr> <tr> <td style='padding: 8px;'>Biaya Pelayanan Kesehatan lainnya (Penyedia Asuransi)</td> <td style='padding: 8px;'>870.000</td> </tr> <tr> <td style='padding: 8px;'><strong>Biaya langsung non-medis</strong></td> <td style='padding: 8px;'></td> </tr> <tr> <td style='padding: 8px;'>Biaya Transportasi (Penyedia Asuransi)</td> <td style='padding: 8px;'>110.000</td> </tr> <tr> <td style='padding: 8px;'>Biaya konsumsi (Pasien)</td> <td style='padding: 8px;'>375.000</td> </tr> </table> <br> Berapakah total biaya yang harus dikeluarkan, dilihat dari perspektif penyedia asuransi kesehatan?",
+    question: "Berikut data pengkajian komponen biaya pengobatan pasien di RS Insan Jaya Muda = <br><br> <table border='1' style='width:100%; border-collapse: collapse;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Komponen biaya</th> <th style='padding: 8px;'>Biaya (Rp)</th> </tr> <tr> <td style='padding: 8px;'><strong>Biaya langsung medis</strong></td> <td style='padding: 8px;'></td> </tr> <tr> <td style='padding: 8px;'>Biaya Pelayanan Kesehatan (Penyedia Asuransi)</td> <td style='padding: 8px;'>3.709.634</td> </tr> <tr> <td style='padding: 8px;'>Biaya Pelayanan Kesehatan lainnya (Penyedia Asuransi)</td> <td style='padding: 8px;'>870.000</td> </tr> <tr> <td style='padding: 8px;'><strong>Biaya langsung non-medis</strong></td> <td style='padding: 8px;'></td> </tr> <tr> <td style='padding: 8px;'>Biaya Transportasi (Penyedia Asuransi)</td> <td style='padding: 8px;'>110.000</td> </tr> <tr> <td style='padding: 8px;'>Biaya konsumsi (Pasien)</td> <td style='padding: 8px;'>375.000</td> </tr> </table> <br> Berapakah total biaya yang harus dikeluarkan, dilihat dari perspektif penyedia asuransi kesehatan?",
  
     options: ["3.709.634", "6.064.634", "4.579.634", "4.689.634", "110.000"],
     answer: "4.689.634"
 },
 {
-    question: "Apoteker Suci akan melakukan cek kelengkapan obat di trolley emergency RS Raih. Setelah diperiksa, didapati obat sebagai berikut = <br> 1. Epinefrin ampul <br> 2. Amiodaron ampul <br> 3. Meropenem vial <br> 4. Aminofilin ampul <br> 5. Ranitidin ampul <br> 6. Salbutamol inhalasi <br> 7. Asam Traneksamat ampul <br> Manakah obat yang harus selalu tersedia di trolley emergency?",
+    question: "Apoteker Suci akan melakukan cek kelengkapan obat di trolley emergency RS Insan Jaya Muda. Setelah diperiksa, didapati obat sebagai berikut = <br> 1. Epinefrin ampul <br> 2. Amiodaron ampul <br> 3. Meropenem vial <br> 4. Aminofilin ampul <br> 5. Ranitidin ampul <br> 6. Salbutamol inhalasi <br> 7. Asam Traneksamat ampul <br> Manakah obat yang harus selalu tersedia di trolley emergency?",
  
     options: ["1,4,7", "1,2,3", "2,3,6", "1,2,4", "5,6,7"],
     answer: "1,2,4"
@@ -17677,13 +17677,13 @@ let questions = [
     answer: "Encerkan sisa obat dengan air, diamkan beberapa minggu lalu buang ke WC"
 },
 {
-    question: "PBF Raih Jaya akan melaporkan pemakaian obat amoksisilin tablet ke e-was BPOM. Pelaporan terakhir tanggal 25 Januari. Kapan Jatuh tempo pelaporan selanjutnya?",
+    question: "PBF Insan Jaya Muda Jaya akan melaporkan pemakaian obat amoksisilin tablet ke e-was BPOM. Pelaporan terakhir tanggal 25 Januari. Kapan Jatuh tempo pelaporan selanjutnya?",
  
     options: ["10 Februari", "31 Januari", "25 Februari", "25 April", "31 Desember"],
     answer: "25 Februari"
 },
 {
-    question: "Diketahui PBF Raih Jaya mendistribusikan beberapa item ke beberapa apotek = <br> 1. Vaksin Meningitis <br> 2. Hand Gloves <br> 3. Masker Bedah <br> 4. Morfin tablet <br> 5. Parasetamol tablet <br> 6. Sirup Amoksisilin <br> Berapakah sertifikat yang harus dimiliki PBF Raih Jaya?",
+    question: "Diketahui PBF Insan Jaya Muda Jaya mendistribusikan beberapa item ke beberapa apotek = <br> 1. Vaksin Meningitis <br> 2. Hand Gloves <br> 3. Masker Bedah <br> 4. Morfin tablet <br> 5. Parasetamol tablet <br> 6. Sirup Amoksisilin <br> Berapakah sertifikat yang harus dimiliki PBF Insan Jaya Muda Jaya?",
  
     options: ["2", "3", "4", "5", "6"],
     answer: "4"
@@ -17701,7 +17701,7 @@ let questions = [
     answer: "Nama besar PBF"
 },
 {
-    question: "Kulkas PBF RAIH rusak. Salah satu prosedur yang dilakukan untuk tes vaksin rusak atau tidak dengan shake test. Vaksin manakah yang dapat dilakukan uji tersebut?",
+    question: "Kulkas PBF Insan Jaya Muda rusak. Salah satu prosedur yang dilakukan untuk tes vaksin rusak atau tidak dengan shake test. Vaksin manakah yang dapat dilakukan uji tersebut?",
  
     options: ["BCG", "Polio (OPV)", "Campak", "MR", "DPT-HB"],
     answer: "DPT-HB"
@@ -17713,7 +17713,7 @@ let questions = [
     answer: "5 SP"
 },
 {
-    question: "Apoteker akan melakukan visite pasien TB. Saat masuk RS Raih diberi obat = <br> - Parasetamol <br> - Rifampisin <br> - Isoniazid <br> - Pirazinamid <br> - Etambutol <br> Dalam CPPT ada keterangan pasien alergi parasetamol. Obat akan diberikan sesuai jadwal. Apoteker menyampaikan kepada pengawas mutu RS terkait kejadian tersebut, termasuk kejadian apakah hal tersebut?",
+    question: "Apoteker akan melakukan visite pasien TB. Saat masuk RS Insan Jaya Muda diberi obat = <br> - Parasetamol <br> - Rifampisin <br> - Isoniazid <br> - Pirazinamid <br> - Etambutol <br> Dalam CPPT ada keterangan pasien alergi parasetamol. Obat akan diberikan sesuai jadwal. Apoteker menyampaikan kepada pengawas mutu RS terkait kejadian tersebut, termasuk kejadian apakah hal tersebut?",
  
     options: ["Kondisi Potensial Cidera (KPC)", "Kejadian Nyaris Cidera (KNC)", "Kejadian Tidak Cidera (KTC)", "Kejadian Tidak Diharapkan (KTD)", "Sentinel"],
     answer: "Kejadian Nyaris Cidera (KNC)"
@@ -17775,25 +17775,25 @@ let questions = [
     answer: "Disimpan di lemari pendingin"
 },
 {
-    question: "Seorang apoteker di RS RAIH akan melakukan pengadaan yang diperlukan segera dengan nilai pengadaan Rp. 150.000.000. Metode pengadaan apa yang dipilih?",
+    question: "Seorang apoteker di RS Insan Jaya Muda akan melakukan pengadaan yang diperlukan segera dengan nilai pengadaan Rp. 150.000.000. Metode pengadaan apa yang dipilih?",
  
     options: ["Pembelian langsung", "E-catalogue", "Negosiasi", "Tender terbuka", "Tender tertutup"],
     answer: "Pembelian langsung"
 },
 {
-    question: "Berikut data total Resep RS RAIH di Gudang Arsip = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Rekap Tahun</th> <th style='padding: 8px;'>Narkotika (lembar)</th> <th style='padding: 8px;'>Psikotropika (lembar)</th> <th style='padding: 8px;'>Obat Lainnya (lembar)</th> </tr> <tr> <td style='padding: 8px;'>Des 2017</td> <td style='padding: 8px;'>3020</td> <td style='padding: 8px;'>7430</td> <td style='padding: 8px;'>600030</td> </tr> <tr> <td style='padding: 8px;'>Des 2018</td> <td style='padding: 8px;'>4400</td> <td style='padding: 8px;'>8430</td> <td style='padding: 8px;'>700100</td> </tr> <tr> <td style='padding: 8px;'>Des 2019</td> <td style='padding: 8px;'>2990</td> <td style='padding: 8px;'>9430</td> <td style='padding: 8px;'>300123</td> </tr> <tr> <td style='padding: 8px;'>Des 2020</td> <td style='padding: 8px;'>1000</td> <td style='padding: 8px;'>2020</td> <td style='padding: 8px;'>432100</td> </tr> <tr> <td style='padding: 8px;'>Des 2021</td> <td style='padding: 8px;'>2900</td> <td style='padding: 8px;'>6540</td> <td style='padding: 8px;'>653621</td> </tr> <tr> <td style='padding: 8px;'>Des 2023</td> <td style='padding: 8px;'>4700</td> <td style='padding: 8px;'>9999</td> <td style='padding: 8px;'>980343</td> </tr> </table> <br> Berapakah total lembar resep yang dapat dimusnahkan pada tahun Januari 2025?",
+    question: "Berikut data total Resep RS Insan Jaya Muda di Gudang Arsip = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Rekap Tahun</th> <th style='padding: 8px;'>Narkotika (lembar)</th> <th style='padding: 8px;'>Psikotropika (lembar)</th> <th style='padding: 8px;'>Obat Lainnya (lembar)</th> </tr> <tr> <td style='padding: 8px;'>Des 2017</td> <td style='padding: 8px;'>3020</td> <td style='padding: 8px;'>7430</td> <td style='padding: 8px;'>600030</td> </tr> <tr> <td style='padding: 8px;'>Des 2018</td> <td style='padding: 8px;'>4400</td> <td style='padding: 8px;'>8430</td> <td style='padding: 8px;'>700100</td> </tr> <tr> <td style='padding: 8px;'>Des 2019</td> <td style='padding: 8px;'>2990</td> <td style='padding: 8px;'>9430</td> <td style='padding: 8px;'>300123</td> </tr> <tr> <td style='padding: 8px;'>Des 2020</td> <td style='padding: 8px;'>1000</td> <td style='padding: 8px;'>2020</td> <td style='padding: 8px;'>432100</td> </tr> <tr> <td style='padding: 8px;'>Des 2021</td> <td style='padding: 8px;'>2900</td> <td style='padding: 8px;'>6540</td> <td style='padding: 8px;'>653621</td> </tr> <tr> <td style='padding: 8px;'>Des 2023</td> <td style='padding: 8px;'>4700</td> <td style='padding: 8px;'>9999</td> <td style='padding: 8px;'>980343</td> </tr> </table> <br> Berapakah total lembar resep yang dapat dimusnahkan pada tahun Januari 2025?",
  
     options: ["3729176", "1635953", "2071073", "2734134", "1323410"],
     answer: "1635953"
 },
 {
-    question: "Klinik RAIH akan melaksanakan program vaksin Campak di desa Limau Manis. Ke mana klinik RAIH melakukan permintaan vaksin?",
+    question: "Klinik Insan Jaya Muda akan melaksanakan program vaksin Campak di desa Limau Manis. Ke mana klinik Insan Jaya Muda melakukan permintaan vaksin?",
  
     options: ["Dinkes Kota", "Puskesmas Terdekat", "RSUD Terdekat", "PBF Terdekat", "Gudang Farmasi Terdekat"],
     answer: "Puskesmas Terdekat"
 },
 {
-    question: "Seorang pasien post operasi laparotomy di RS RAIH. Dokter memberikan resep ketorolac 2 x 1 ampul injeksi selama 7 hari. Apa jenis ketidaktepatan pengobatan dokter tersebut?",
+    question: "Seorang pasien post operasi laparotomy di RS Insan Jaya Muda. Dokter memberikan resep ketorolac 2 x 1 ampul injeksi selama 7 hari. Apa jenis ketidaktepatan pengobatan dokter tersebut?",
  
     options: ["Tidak tepat indikasi", "Tidak tepat dosis", "Tidak tepat cara pemberian", "Tidak tepat frekuensi", "Tidak tepat durasi"],
     answer: "Tidak tepat durasi"
@@ -17812,7 +17812,7 @@ let questions = [
 },
 
 {
-    question: "Apoteker rumah sakit RAIH sedang membandingkan efektivitas – harga tablet Candesartan dan tablet Valsartan untuk pengobatan Hipertensi. Harga tablet Candesartan adalah 16.000/strip dan tablet Valsartan adalah 48.000/strip. Hasil pengamatan menunjukkan efektivitas pengobatan hipertensi dengan tablet Candesartan sebesar 85% dan tablet Valsartan sebesar 95%. Jika terapi yang dimaksud memerlukan 2 strip Candesartan dan 1 strip Valsartan, berapakah ICER nya?",
+    question: "Apoteker rumah sakit Insan Jaya Muda sedang membandingkan efektivitas – harga tablet Candesartan dan tablet Valsartan untuk pengobatan Hipertensi. Harga tablet Candesartan adalah 16.000/strip dan tablet Valsartan adalah 48.000/strip. Hasil pengamatan menunjukkan efektivitas pengobatan hipertensi dengan tablet Candesartan sebesar 85% dan tablet Valsartan sebesar 95%. Jika terapi yang dimaksud memerlukan 2 strip Candesartan dan 1 strip Valsartan, berapakah ICER nya?",
  
     options: ["320.000", "160.000", "320.500", "160.500", "360.000"],
     answer: "160.000"
@@ -17848,7 +17848,7 @@ let questions = [
     answer: "Dikembalikan ke PBF"
 },
 {
-    question: "Apoteker WANDA memesan obat diazepam rektal ke PBF RAIH, kemudian PBF menginfokan bahwa obat kosong dan akan tersedia 2 bulan lagi. Apa yang harus dilakukan apoteker wanda?",
+    question: "Apoteker WANDA memesan obat diazepam rektal ke PBF Insan Jaya Muda, kemudian PBF menginfokan bahwa obat kosong dan akan tersedia 2 bulan lagi. Apa yang harus dilakukan apoteker wanda?",
  
     options: ["Meminta surat penolakan pesanan dari PBF", "Mengirimkan SP kepada pbf lain", "Menunggu sampai obat tersedia di PBF", "Membeli dengan jumlah terbatas ke Apotek terdekat", "Meminjam dengan jumlah terbatas ke Apotek terdekat"],
     answer: "Meminta surat penolakan pesanan dari PBF"
@@ -17860,13 +17860,13 @@ let questions = [
     answer: "Injeksi hyaluronat, glukosamin, vitamin C"
 },
 {
-    question: "RS Raih akan melakukan pemusnahan obat sebagai berikut (Inhaler/Aerosol). Bagaimanakah cara pemusnahan obat di atas?",
+    question: "RS Insan Jaya Muda akan melakukan pemusnahan obat sebagai berikut (Inhaler/Aerosol). Bagaimanakah cara pemusnahan obat di atas?",
  
     options: ["Dibuang melalui wastafel atau WC", "Masukkan ke Limbah benda tajam", "Disemprotkan perlahan ke dalam air", "Insinerator suhu tinggi", "Dihancurkan dan dicampur dengan bahan limbah lainnya"],
     answer: "Disemprotkan perlahan ke dalam air"
 },
 {
-    question: "PBF Raih mengalami mati lampu dan sudah hampir 1 jam. Suhu chiller sudah mendekati 8 derajat celcius. Langkah selanjutnya yang perlu dilakukan apoteker terhadap vaksin adalah?",
+    question: "PBF Insan Jaya Muda mengalami mati lampu dan sudah hampir 1 jam. Suhu chiller sudah mendekati 8 derajat celcius. Langkah selanjutnya yang perlu dilakukan apoteker terhadap vaksin adalah?",
  
     options: ["Mengeluarkan vaksin dari chiller", "Menambahkan dry ice", "Menambahkan cool pack", "Mengganti termometer chiller", "Retur vaksin ke Pusat"],
     answer: "Menambahkan cool pack"
@@ -17879,7 +17879,7 @@ let questions = [
     answer: "0,5"
 },
 {
-    question: "RS RAIH melakukan pemusnahan ampul fentanil, karena tidak memenuhi syarat kadar. Produk tersebut harus dimusnahkan sesuai dengan peraturan yang berlaku. Bagaimana pemusnahan produk tersebut?",
+    question: "RS Insan Jaya Muda melakukan pemusnahan ampul fentanil, karena tidak memenuhi syarat kadar. Produk tersebut harus dimusnahkan sesuai dengan peraturan yang berlaku. Bagaimana pemusnahan produk tersebut?",
  
     options: ["Ditanam dalam tanah", "Dibakar dengan insenerator", "Dilarutkan, proses limbah cair", "Dihancurkan, proses limbah padat", "Dimasukkan ke limbah B3 medis"],
     answer: "Dimasukkan ke limbah B3 medis"
@@ -17891,7 +17891,7 @@ let questions = [
     answer: "3 rangkap"
 },
 {
-    question: "Kulkas PBF RAIH rusak. Salah satu prosedur yang dilakukan untuk tes vaksin rusak atau tidak dengan shake test. Parameter apakah yang dilihat pada uji tersebut?",
+    question: "Kulkas PBF Insan Jaya Muda rusak. Salah satu prosedur yang dilakukan untuk tes vaksin rusak atau tidak dengan shake test. Parameter apakah yang dilihat pada uji tersebut?",
  
     options: ["Kejernihan vaksin", "Suhu vaksin", "VVM", "Laju pengendapan", "Viskositas"],
     answer: "Laju pengendapan"
@@ -17904,7 +17904,7 @@ let questions = [
     answer: "Menggali informasi terkait penyimpanan yang dilakukan"
 },
 {
-    question: "Apotek raih melakukan pemesanan obat ke PBF RA secara online melalui aplikasi. Pihak PBF sudah menerima dan mengonfirmasi pesanan online apotek Raih. Kapan maksimal apotek mengirimkan SP ke PBF?",
+    question: "Apotek Insan Jaya Muda melakukan pemesanan obat ke PBF RA secara online melalui aplikasi. Pihak PBF sudah menerima dan mengonfirmasi pesanan online apotek Insan Jaya Muda. Kapan maksimal apotek mengirimkan SP ke PBF?",
  
     options: ["Saat Barang datang", "Paling Lambat 3 Hari Setelah pemesanan online", "Paling Lambat 7 Hari Setelah pemesanan online", "Besok Hari", "Paling Lambat 10 Hari Setelah pemesanan online"],
     answer: "Paling Lambat 7 Hari Setelah pemesanan online"
@@ -17916,7 +17916,7 @@ let questions = [
     answer: "CBA"
 },
 {
-    question: "Dokter Kurnia akan membuka Klinik Praktik Mandiri dan melakukan pembelian obat ke apotek RAIH. Apakah obat yang tidak diperbolehkan tersedia di Klinik tersebut?",
+    question: "Dokter Kurnia akan membuka Klinik Praktik Mandiri dan melakukan pembelian obat ke apotek Insan Jaya Muda. Apakah obat yang tidak diperbolehkan tersedia di Klinik tersebut?",
  
     options: ["Nitrogliserin Tablet", "NaCl 0,9%", "Nifedipin Tablet", "Propanolol Tablet", "Captopril Tablet"],
     answer: "Captopril Tablet"
@@ -17940,7 +17940,7 @@ let questions = [
     answer: "Vaksin Hepatitis"
 },
 {
-    question: "Seorang pasien kejang di bangsal interne RS Raih. Obat anti kejang yang biasanya tersedia di trolly emergensi bangsal?",
+    question: "Seorang pasien kejang di bangsal interne RS Insan Jaya Muda. Obat anti kejang yang biasanya tersedia di trolly emergensi bangsal?",
  
     options: ["Diazepam", "Carbamazepin", "Asam valproate", "Fenitoin", "Lamotrigin"],
     answer: "Diazepam"
@@ -17952,7 +17952,7 @@ let questions = [
     answer: "1, 3, 4"
 },
 {
-    question: "Berikut data pengkajian obat statin di RS Raih = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Nama Obat</th> <th style='padding: 8px;'>Harga</th> <th style='padding: 8px;'>% Penurunan LDL</th> </tr> <tr> <td style='padding: 8px;'>Simvastatin</td> <td style='padding: 8px;'>12.000/strip</td> <td style='padding: 8px;'>84%</td> </tr> <tr> <td style='padding: 8px;'>Atorvastatin</td> <td style='padding: 8px;'>20.000/strip</td> <td style='padding: 8px;'>90%</td> </tr> <tr> <td style='padding: 8px;'>Rosuvastatin</td> <td style='padding: 8px;'>55.000/strip</td> <td style='padding: 8px;'>95%</td> </tr> <tr> <td style='padding: 8px;'>Pravastatin</td> <td style='padding: 8px;'>30.000/strip</td> <td style='padding: 8px;'>87%</td> </tr> <tr> <td style='padding: 8px;'>Lovastatin</td> <td style='padding: 8px;'>25.000/strip</td> <td style='padding: 8px;'>88%</td> </tr> </table> <br> Manakah obat yang paling cost effective berdasarkan nilai ACER?",
+    question: "Berikut data pengkajian obat statin di RS Insan Jaya Muda = <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Nama Obat</th> <th style='padding: 8px;'>Harga</th> <th style='padding: 8px;'>% Penurunan LDL</th> </tr> <tr> <td style='padding: 8px;'>Simvastatin</td> <td style='padding: 8px;'>12.000/strip</td> <td style='padding: 8px;'>84%</td> </tr> <tr> <td style='padding: 8px;'>Atorvastatin</td> <td style='padding: 8px;'>20.000/strip</td> <td style='padding: 8px;'>90%</td> </tr> <tr> <td style='padding: 8px;'>Rosuvastatin</td> <td style='padding: 8px;'>55.000/strip</td> <td style='padding: 8px;'>95%</td> </tr> <tr> <td style='padding: 8px;'>Pravastatin</td> <td style='padding: 8px;'>30.000/strip</td> <td style='padding: 8px;'>87%</td> </tr> <tr> <td style='padding: 8px;'>Lovastatin</td> <td style='padding: 8px;'>25.000/strip</td> <td style='padding: 8px;'>88%</td> </tr> </table> <br> Manakah obat yang paling cost effective berdasarkan nilai ACER?",
  
     options: ["Simvastatin", "Atorvastatin", "Rosuvastatin", "Pravastatin", "Lovastatin"],
     answer: "Simvastatin"
@@ -18028,7 +18028,7 @@ let questions = [
 },
 
 {
-    question: "Seorang apoteker sedang melayani pasien di apotek RAIH. Apoteker selalu mendahulukan yang datang dahuluan yang dilayani tanpa melihat ras, suku ataupun agama. Sikap apoteker ini mencerminkan etika profesi?",
+    question: "Seorang apoteker sedang melayani pasien di apotek Insan Jaya Muda. Apoteker selalu mendahulukan yang datang dahuluan yang dilayani tanpa melihat ras, suku ataupun agama. Sikap apoteker ini mencerminkan etika profesi?",
  
     options: ["Autonomy", "Beneficence", "Social responsibility", "Veracity", "Non-Maleficence"],
     answer: "Social responsibility"
@@ -18041,7 +18041,7 @@ let questions = [
     answer: 3
 },
 {
-    question: "Industri RAIH telah mengedarkan produk selama 3 tahun. Apoteker bagian QA ingin melakukan pelaporan PSUR (Pelaporan Berkala Pasca Pemasaran). Setiap berapa kali dilakukan pelaporan PSUR tersebut?",
+    question: "Industri Insan Jaya Muda telah mengedarkan produk selama 3 tahun. Apoteker bagian QA ingin melakukan pelaporan PSUR (Pelaporan Berkala Pasca Pemasaran). Setiap berapa kali dilakukan pelaporan PSUR tersebut?",
     img: "",
     options: ["Setiap 3 bulan sekali", "Setiap 6 bulan sekali", "Setiap 1 tahun sekali", "Setiap 2 tahun sekali", "Setiap 3 tahun sekali"],
     answer: 2
@@ -18095,13 +18095,13 @@ let questions = [
     answer: 0
 },
 {
-    question: "Industri RAIH JAYA akan melakukan pengajuan registrasi ke BPOM. Dokumen yang harus disiapkan Industri Raih Jaya adalah?",
+    question: "Industri Insan Jaya Muda JAYA akan melakukan pengajuan registrasi ke BPOM. Dokumen yang harus disiapkan Industri Insan Jaya Muda Jaya adalah?",
     img: "",
     options: ["Deviasi", "MSDS", "Work instruction", "DMF", "ISO"],
     answer: 3
 },
 {
-    question: "Industri Raih akan mengembangkan pabrik baru untuk sediaan Doksorubisin. Saat ini sedang dilakukan rapat perencanaan pengembangan sistem tata udara (HVAC) di pabrik baru tersebut. Apa sistem HVAC terbaik untuk pabrik tersebut?",
+    question: "Industri Insan Jaya Muda akan mengembangkan pabrik baru untuk sediaan Doksorubisin. Saat ini sedang dilakukan rapat perencanaan pengembangan sistem tata udara (HVAC) di pabrik baru tersebut. Apa sistem HVAC terbaik untuk pabrik tersebut?",
     img: "",
     options: ["Cascade", "Bubble", "Full fresh air", "Resirkulasi", "Exhaust"],
     answer: 2
@@ -18149,7 +18149,7 @@ let questions = [
     answer: 0
 },
 {
-    question: "RnD Industri Raih sedang meninjau kemasan strip tablet parasetamol (10 tablet/strip) yang telah diproduksi. Manakah informasi yang perlu tercantum pada kemasan?",
+    question: "RnD Industri Insan Jaya Muda sedang meninjau kemasan strip tablet parasetamol (10 tablet/strip) yang telah diproduksi. Manakah informasi yang perlu tercantum pada kemasan?",
     img: "",
     options: ["Cara Pemberian", "Tanggal Produksi", "Cara Penyimpanan", "Nomor Izin Edar", "Bentuk Sediaan"],
     answer: 3
@@ -18239,7 +18239,7 @@ let questions = [
     answer: 3
 },
 {
-    question: "Suatu industri RAIH akan melakukan toll out injeksi vitamin C ke beberapa pilihan industri: <br> A - Injeksi Methotrexate <br> B - Salep Gentamisin <br> C - Injeksi Ceftriaxone <br> D - Injeksi Insulin <br> E - Injeksi Ketorolak <br><br> Manakah industri yang tepat dipilih industr RAIH?",
+    question: "Suatu industri Insan Jaya Muda akan melakukan toll out injeksi vitamin C ke beberapa pilihan industri: <br> A - Injeksi Methotrexate <br> B - Salep Gentamisin <br> C - Injeksi Ceftriaxone <br> D - Injeksi Insulin <br> E - Injeksi Ketorolak <br><br> Manakah industri yang tepat dipilih industr Insan Jaya Muda?",
     img: "",
     options: ["Industri A", "Industri B", "Industri C", "Industri D", "Industri E"],
     answer: 4
@@ -18498,7 +18498,7 @@ let questions = [
     answer: 1
 },
 {
-    question: "Industri Raih memiliki autoklaf dengan volume chamber 100 liter. Bahan yang akan disterilisasi memiliki densitas 1,2 gr/cm³. Berapakah kapasitas autoklaf?",
+    question: "Industri Insan Jaya Muda memiliki autoklaf dengan volume chamber 100 liter. Bahan yang akan disterilisasi memiliki densitas 1,2 gr/cm³. Berapakah kapasitas autoklaf?",
     img: "",
     options: ["20 kg", "30 kg", "40 kg", "60 kg", "120 kg"],
     answer: 4
@@ -18558,7 +18558,7 @@ let questions = [
     answer: 1
 },
 {
-    question: "Industri Raih memproduksi Infus Albumin 25% dengan sistem Blow Fill Seal (BFS), di ruangan kelas apakah dilakukan proses pengisian?",
+    question: "Industri Insan Jaya Muda memproduksi Infus Albumin 25% dengan sistem Blow Fill Seal (BFS), di ruangan kelas apakah dilakukan proses pengisian?",
     img: "blow_fill.png",
     options: ["Kelas A", "Kelas B", "Kelas C", "Kelas D", "Kelas E"],
     answer: 0
@@ -18588,7 +18588,7 @@ let questions = [
     answer: 0
 },
 {
-    question: "QC akan melakukan pengujian COD, BOD, dan TSS pada IPAL industri RAIH. Pada bak nomor berapakah dilakukan sampling air limbah oleh QC?",
+    question: "QC akan melakukan pengujian COD, BOD, dan TSS pada IPAL industri Insan Jaya Muda. Pada bak nomor berapakah dilakukan sampling air limbah oleh QC?",
     img: "",
     options: ["I", "II", "III", "IV", "VII"],
     answer: 4
@@ -18666,7 +18666,7 @@ let questions = [
     answer: 2
 },
 {
-    question: "Industri Raih akan melakukan Pelaporan PSUR (Periodic Safety Update Report), Industri Raih memiliki produk Sirup Obat Batuk yang sudah beredar 1 tahun. Berapa kali industri Raih wajib melakukan pelaporan PSUR?",
+    question: "Industri Insan Jaya Muda akan melakukan Pelaporan PSUR (Periodic Safety Update Report), Industri Insan Jaya Muda memiliki produk Sirup Obat Batuk yang sudah beredar 1 tahun. Berapa kali industri Insan Jaya Muda wajib melakukan pelaporan PSUR?",
     img: "",
     options: ["Setiap bulan", "Setiap 3 bulan", "Setiap 6 bulan", "Setiap tahun", "Setiap 2 tahun"],
     answer: 2
@@ -18678,7 +18678,7 @@ let questions = [
     answer: 0
 },
 {
-    question: "Produk tablet Vit C Industri Raih dalam waktu 10 tahun berturut-turut rutin melakukan validasi yang sama karena tidak ada perubahan proses maupun perubahan yang berdampak pada mutu produk. Kegiatan validasi apakah yang dimaksud?",
+    question: "Produk tablet Vit C Industri Insan Jaya Muda dalam waktu 10 tahun berturut-turut rutin melakukan validasi yang sama karena tidak ada perubahan proses maupun perubahan yang berdampak pada mutu produk. Kegiatan validasi apakah yang dimaksud?",
     img: "",
     options: ["Verifikasi Proses Kontinu", "Validasi Proses Tradisional", "Validasi Proses Konkuren", "Verifikasi Proses On-Going", "Pendekatan Hibrida"],
     answer: 3
@@ -18816,7 +18816,7 @@ let questions = [
     answer: 1
 },
 {
-    question: "Seorang pasien datang ke Apotek RAIH dan menebus resep sebagai berikut = R/ Asam stearate 145 TEA 15 Adeps lanae 30 Paraf liq. 250 Aqua dest. 550 mf cream. Anda sebagai apoteker mengecek persediaan Acid stearic, TEA, Adeps lanae, dan Par Liq. Stok masih tersedia dengan sisa waktu kedaluwarsa masing masing bahan berturut turut yaitu = 1 bulan, 45 hari, 1 tahun, dan 2 tahun. Setelah sediaan krim tersebut siap diberikan kepada pasien, informasi BUD yang akan anda berikan kepada pasien adalah?",
+    question: "Seorang pasien datang ke Apotek Insan Jaya Muda dan menebus resep sebagai berikut = R/ Asam stearate 145 TEA 15 Adeps lanae 30 Paraf liq. 250 Aqua dest. 550 mf cream. Anda sebagai apoteker mengecek persediaan Acid stearic, TEA, Adeps lanae, dan Par Liq. Stok masih tersedia dengan sisa waktu kedaluwarsa masing masing bahan berturut turut yaitu = 1 bulan, 45 hari, 1 tahun, dan 2 tahun. Setelah sediaan krim tersebut siap diberikan kepada pasien, informasi BUD yang akan anda berikan kepada pasien adalah?",
     img: "",
     options: ["7,5 hari", "11,25 hari", "14 hari", "30 hari", "45 hari"],
     answer: 2
@@ -18978,7 +18978,7 @@ let questions = [
     answer: 2
 },
 {
-    question: "Industri RAIH akan melakukan registrasi vaksin flu, registrasi kategori berapakah yang dilakukan industri RAIH?",
+    question: "Industri Insan Jaya Muda akan melakukan registrasi vaksin flu, registrasi kategori berapakah yang dilakukan industri Insan Jaya Muda?",
     img: "",
     options: ["1", "2", "3", "4", "5"],
     answer: 0
@@ -19122,13 +19122,13 @@ let questions = [
     answer: 3
 },
 {
-    question: "RnD Industri Raih sedang mengembangkan injeksi vinkristin. Zat Aktif memiliki 20 mg zat dapat dilarutkan dalam 150 mL pelarut. Bagaimana tingkat kelarutan zat aktif vinkristin menurut Farmakope Indonesia?",
+    question: "RnD Industri Insan Jaya Muda sedang mengembangkan injeksi vinkristin. Zat Aktif memiliki 20 mg zat dapat dilarutkan dalam 150 mL pelarut. Bagaimana tingkat kelarutan zat aktif vinkristin menurut Farmakope Indonesia?",
     img: "",
     options: ["Mudah Larut", "Agak Sukar Larut", "Sukar Larut", "Sangat Sukar Larut", "Praktis Tidak Larut"],
     answer: 3
 },
 {
-    question: "Industri Raih sedang melakukan registrasi untuk NIE yang pada awal terdaftar ED 4 tahun, setelah pengamatan stabilitas, obat stabil selama 6 tahun. Registrasi apa yang dilakukan?",
+    question: "Industri Insan Jaya Muda sedang melakukan registrasi untuk NIE yang pada awal terdaftar ED 4 tahun, setelah pengamatan stabilitas, obat stabil selama 6 tahun. Registrasi apa yang dilakukan?",
     img: "",
     options: ["Registrasi baru", "Registrasi ulang", "Registrasi variasi major", "Registrasi variasi minor yang memerlukan persetujuan", "Registrasi variasi minor dengan notifikasi"],
     answer: 3
@@ -19158,7 +19158,7 @@ let questions = [
     answer: 1
 },
 {
-    question: "Industri Raih akan membuat produk baru sebagai berikut: <br> 1. Tablet Digoksin <br> 2. Salbutamol Inhalasi <br> 3. Tablet Lepas Lambat Metformin <br> 4. Tablet Tambah Darah <br> 5. Tablet Pirazinamide <br> 6. Salbutamol Tablet <br><br> Manakah dari sediaan di atas yang perlu dilakukan uji in vivo?",
+    question: "Industri Insan Jaya Muda akan membuat produk baru sebagai berikut: <br> 1. Tablet Digoksin <br> 2. Salbutamol Inhalasi <br> 3. Tablet Lepas Lambat Metformin <br> 4. Tablet Tambah Darah <br> 5. Tablet Pirazinamide <br> 6. Salbutamol Tablet <br><br> Manakah dari sediaan di atas yang perlu dilakukan uji in vivo?",
     img: "",
     options: ["1,2,3", "2,4,6", "4,5,6", "1,5,6", "1,2,5"],
     answer: 3
@@ -19182,7 +19182,7 @@ let questions = [
     answer: 0
 },
 {
-    question: "Industri Raih sedang melakukan perubahan literatur produksi sebelumnya menggunakan farmakope ed 5 menjadi farmakope ed 6. Registrasi apa yang dilakukan?",
+    question: "Industri Insan Jaya Muda sedang melakukan perubahan literatur produksi sebelumnya menggunakan farmakope ed 5 menjadi farmakope ed 6. Registrasi apa yang dilakukan?",
     img: "",
     options: ["Registrasi baru", "Registrasi ulang", "Registrasi variasi major", "Registrasi variasi minor yang memerlukan persetujuan", "Registrasi variasi minor dengan notifikasi"],
     answer: 4
@@ -19393,13 +19393,13 @@ let questions = [
     answer: 2
 },
 {
-    question: "QC Raih melakukan uji identifikasi senyawa X pake IR. Gugus fungsi apa yang dapat dideteksi oleh IR pada panjang gelombang di atas 3000 dengan bentuk landai?",
+    question: "QC Insan Jaya Muda melakukan uji identifikasi senyawa X pake IR. Gugus fungsi apa yang dapat dideteksi oleh IR pada panjang gelombang di atas 3000 dengan bentuk landai?",
     img: "28p.png",
     options: ["C=C", "C-H", "O-H", "C=O", "C-N"],
     answer: 2
 },
 {
-    question: "Apoteker QC Industri Raih akan membuat asam fosfat pH 5 dari asam fosfat dan natrium dihidrogen fosfat. Berapa volume asam fosfat 0,1 M yang perlu ditambahkan apabila akan dibuat asam fosfat pH 5 sebanyak 200 mL dengan natrium dihidrogen fosfat 0,2 M? (Ka=10⁻⁵)",
+    question: "Apoteker QC Industri Insan Jaya Muda akan membuat asam fosfat pH 5 dari asam fosfat dan natrium dihidrogen fosfat. Berapa volume asam fosfat 0,1 M yang perlu ditambahkan apabila akan dibuat asam fosfat pH 5 sebanyak 200 mL dengan natrium dihidrogen fosfat 0,2 M? (Ka=10⁻⁵)",
     img: "",
     options: ["100 mL", "200 mL", "250 mL", "400 mL", "10000 mL"],
     answer: 3
@@ -19447,13 +19447,13 @@ let questions = [
     answer: 2
 },
 {
-    question: "Raih Apoteker sedang melakukan analisis senyawa obat menggunakan HPLC. Tipe HPLC yang digunakan adalah fase terbalik dengan kolom ODS. Fase gerak yang dipakai buffer fospat : air (20:80). Maka di antara senyawa di atas, manakah secara berurutan yang akan terelusi lebih dulu dengan waktu retensi yang lebih singkat?",
+    question: "Insan Jaya Muda Apoteker sedang melakukan analisis senyawa obat menggunakan HPLC. Tipe HPLC yang digunakan adalah fase terbalik dengan kolom ODS. Fase gerak yang dipakai buffer fospat : air (20:80). Maka di antara senyawa di atas, manakah secara berurutan yang akan terelusi lebih dulu dengan waktu retensi yang lebih singkat?",
     img: "37p.png",
     options: ["Kodein – morfin – thebain – benzilmorfin", "Morfin – thebain – benzilmorfin – kodein", "Benzylmorfin – thebain – morfin – kodein", "Thebain – benzilmorfin – kodein – morfin", "Morfin – kodein – thebain – benzilmorfin"],
     answer: 4
 },
 {
-    question: "QC Industri Raih sedang melakukan penghitungan jumlah mikroorganisme dengan metode spleting palet. Terdapat 100 koloni pada cawan yang diinkubasi dari pengenceran 10⁻³ (1:1000) dan dengan volume yang ditanam 0,2 mL. Berapa CFU/mL mikroorganisme di dalam cawan tersebut?",
+    question: "QC Industri Insan Jaya Muda sedang melakukan penghitungan jumlah mikroorganisme dengan metode spleting palet. Terdapat 100 koloni pada cawan yang diinkubasi dari pengenceran 10⁻³ (1:1000) dan dengan volume yang ditanam 0,2 mL. Berapa CFU/mL mikroorganisme di dalam cawan tersebut?",
     img: "",
     options: ["100.000", "1.000.000", "1.500.000", "500,000", "250.000"],
     answer: 3
@@ -19525,7 +19525,7 @@ let questions = [
     answer: 1
 },
 {
-    question: "Seorang apoteker QC Industri Raih sedang melakukan analisis pseudoefedrin menggunakan kromatografi gas dengan suhu oven yang terprogram. Jika suhu awal 175°C selama 10 menit, kondisi akhir suhu 475°C selama 10 menit, dan kenaikan suhu diatur 10°C/menit, maka perlu waktu tunggu sejak waktu penginjeksian sampai akhir kromatogram. Berapa menit waktu yang diperlukan kondisi awal sampai dengan selesai kondisi akhir?",
+    question: "Seorang apoteker QC Industri Insan Jaya Muda sedang melakukan analisis pseudoefedrin menggunakan kromatografi gas dengan suhu oven yang terprogram. Jika suhu awal 175°C selama 10 menit, kondisi akhir suhu 475°C selama 10 menit, dan kenaikan suhu diatur 10°C/menit, maka perlu waktu tunggu sejak waktu penginjeksian sampai akhir kromatogram. Berapa menit waktu yang diperlukan kondisi awal sampai dengan selesai kondisi akhir?",
     img: "",
     options: ["15 menit", "30 menit", "50 menit", "60 menit", "120 menit"],
     answer: 2
@@ -19549,7 +19549,7 @@ let questions = [
     answer: 2
 },
 {
-    question: "Apoteker QC Industri Raih akan membuat asam fosfat pH 7 dari asam fosfat dan Natrium dihidrogen fosfat. Berapa volume asam fosfat 0,2 M yang perlu ditambahkan apabila akan dibuat asam fosfat pH 7 sebanyak 400 mL dengan natrium dihidrogen fosfat 0,4 M? (Ka=10⁻⁶)",
+    question: "Apoteker QC Industri Insan Jaya Muda akan membuat asam fosfat pH 7 dari asam fosfat dan Natrium dihidrogen fosfat. Berapa volume asam fosfat 0,2 M yang perlu ditambahkan apabila akan dibuat asam fosfat pH 7 sebanyak 400 mL dengan natrium dihidrogen fosfat 0,4 M? (Ka=10⁻⁶)",
     img: "",
     options: ["40 mL", "80 mL", "160 mL", "200 mL", "400 mL"],
     answer: 1
@@ -19585,7 +19585,7 @@ let questions = [
     answer: 2
 },
 {
-    question: "Apoteker QC Industri Raih sedang melakukan pengujian dengan KLT. Didapatkan sampel tidak terelusi saat ditotolkan, sampel hanya diam, dan tidak bergerak dari tempat awal penotolan. Apakah yang bukan penyebab hal tersebut?",
+    question: "Apoteker QC Industri Insan Jaya Muda sedang melakukan pengujian dengan KLT. Didapatkan sampel tidak terelusi saat ditotolkan, sampel hanya diam, dan tidak bergerak dari tempat awal penotolan. Apakah yang bukan penyebab hal tersebut?",
     img: "10t.png",
     options: ["Terdapatnya kontaminasi", "Kondisi kromatografi tidak sesuai", "Sampel terlalu pekat", "Sampel terlalu sedikit", "Kualitas plat KLT"],
     answer: 3
@@ -19717,7 +19717,7 @@ let questions = [
     answer: 0
 },
 {
-    question: "Raih Apoteker sedang melakukan analisis senyawa obat menggunakan HPLC. Tipe HPLC yang digunakan adalah RP (Reversed Phase) yaitu fase terbalik. Fase gerak yang dipakai metanol: air (40:60) dengan fase diam silika-18. Maka di antara senyawa di atas, manakah secara berurutan yang akan terelusi lebih dulu dengan waktu retensi yang lebih singkat?",
+    question: "Insan Jaya Muda Apoteker sedang melakukan analisis senyawa obat menggunakan HPLC. Tipe HPLC yang digunakan adalah RP (Reversed Phase) yaitu fase terbalik. Fase gerak yang dipakai metanol: air (40:60) dengan fase diam silika-18. Maka di antara senyawa di atas, manakah secara berurutan yang akan terelusi lebih dulu dengan waktu retensi yang lebih singkat?",
     img: "32t.png",
     options: ["Alphahydroxysalmeterol - parahidrofenitoin - fenil aceton", "Parahidrofenitoin - alphahydroxysalmeterol - fenil aceton", "fenil aceton - Parahidrofenitoin - Alphahydroxysalmeterol", "Alphahydroxysalmeterol - fenil aceton - Parahidrofenitoin", "Alphahydroxysalmeterol - parahidrofenitoin - fenil aceton"],
     answer: 2
@@ -19862,7 +19862,7 @@ let questions = [
     answer: 0
 },
 {
-    question: "Raih Apoteker sedang melakukan analisis terhadap struktur obat kurkumin. Kurkumin memiliki senyawa analog THPGV-O. Berdasarkan gambaran struktur di atas, berapa jumlah akseptor ikatan hidrogen pada senyawa tersebut?",
+    question: "Insan Jaya Muda Apoteker sedang melakukan analisis terhadap struktur obat kurkumin. Kurkumin memiliki senyawa analog THPGV-O. Berdasarkan gambaran struktur di atas, berapa jumlah akseptor ikatan hidrogen pada senyawa tersebut?",
     img: "6p.png",
     options: ["2", "3", "4", "5", "6"],
     answer: 4
@@ -20084,7 +20084,7 @@ let questions = [
     answer: 2
 },
 {
-    question: "Jamu RAIH TOP JAYA akan didaftarkan untuk dilakukan registrasi sebagai obat rajangan yang diseduh untuk diminum. Salah satu syarat pengujian adalah harus ≤10³ koloni/g. Bakteri manakah yang sebagai parameter pengujian tersebut?",
+    question: "Jamu Insan Jaya Muda TOP JAYA akan didaftarkan untuk dilakukan registrasi sebagai obat rajangan yang diseduh untuk diminum. Salah satu syarat pengujian adalah harus ≤10³ koloni/g. Bakteri manakah yang sebagai parameter pengujian tersebut?",
     img: "",
     options: ["Shigella", "Salmonella", "Clostridia", "Enterobacteriaceae", "Escherichia coli"],
     answer: 3
@@ -20096,7 +20096,7 @@ let questions = [
     answer: 1
 },
 {
-    question: "Apoteker Industri Raih sedang menghitung IC50 ekstrak manggis dengan data sebagai berikut. Berapakah nilai IC50 (ppm) ekstrak tersebut?",
+    question: "Apoteker Industri Insan Jaya Muda sedang menghitung IC50 ekstrak manggis dengan data sebagai berikut. Berapakah nilai IC50 (ppm) ekstrak tersebut?",
     img: "45p.png",
     options: ["1,197", "12,41", "31,4", "3,93", "10,36"],
     answer: 2
@@ -20150,7 +20150,7 @@ let questions = [
     answer: 1
 },
 {
-    question: "Bagian RnD Industri Raih lagi melakukan formasi pembentukan kloramfenikol sukinat. Apakah tujuan pembentukan kloramfenikol sukinat?",
+    question: "Bagian RnD Industri Insan Jaya Muda lagi melakukan formasi pembentukan kloramfenikol sukinat. Apakah tujuan pembentukan kloramfenikol sukinat?",
     img: "4t.png",
     options: ["Menutupi rasa pahit sediaan", "Memperpanjang kerja obat dalam tubuh", "Meningkatkan kelarutan obat dalam tubuh", "Mencegah proses oksidasi kloramfenikol", "Meningkatkan stabilitas kloramfenikol dalam tubuh"],
     answer: 2
@@ -20162,7 +20162,7 @@ let questions = [
     answer: 4
 },
 {
-    question: "QC Industri Raih melakukan pengujian kadar sari larut air simplisia kunyit sebanyak 100 g yang telah dimaserasi selama 24 jam dengan pelarut 100 mL. Didapatkan filtrat 20 mL dan diuapkan pada suhu 104°C, kemudian didapatkan bobot akhir 10 g. Berapa % kadar sari larut airnya?",
+    question: "QC Industri Insan Jaya Muda melakukan pengujian kadar sari larut air simplisia kunyit sebanyak 100 g yang telah dimaserasi selama 24 jam dengan pelarut 100 mL. Didapatkan filtrat 20 mL dan diuapkan pada suhu 104°C, kemudian didapatkan bobot akhir 10 g. Berapa % kadar sari larut airnya?",
     img: "",
     options: ["25", "50", "100", "10", "5"],
     answer: 1
@@ -20240,7 +20240,7 @@ let questions = [
     answer: 3
 },
 {
-    question: "Jamu RAIH MANTUL akan didaftarkan untuk dilakukan registrasi sebagai obat serbuk yang diseduh untuk diminum. Salah satu syarat pengujian adalah harus ≤ 10 koloni/g. Bakteri manakah yang sebagai parameter pengujian tersebut?",
+    question: "Jamu Insan Jaya Muda MANTUL akan didaftarkan untuk dilakukan registrasi sebagai obat serbuk yang diseduh untuk diminum. Salah satu syarat pengujian adalah harus ≤ 10 koloni/g. Bakteri manakah yang sebagai parameter pengujian tersebut?",
     img: "",
     options: ["Shigella", "Salmonella", "Clostridia", "Enterobacteriaceae", "Escherichia coli"],
     answer: 4
@@ -20384,13 +20384,13 @@ let questions = [
     answer: 3
 },
 {
-    question: "QC Industri Raih sedang melakukan uji ekstrak menggunakan reaksi folin ciocalteu. Senyawa apakah yang sedang dilakukan identifikasi oleh bagian QC?",
+    question: "QC Industri Insan Jaya Muda sedang melakukan uji ekstrak menggunakan reaksi folin ciocalteu. Senyawa apakah yang sedang dilakukan identifikasi oleh bagian QC?",
     img: "",
     options: ["Alkaloid", "Terpenoid", "Tanin", "Antrakuinon", "Fenol"],
     answer: 4
 },
 {
-    question: "PBF Raih melakukan penerimaan obat bahan alam lisensi. Masuk kategori manakah obat tradisional tersebut?",
+    question: "PBF Insan Jaya Muda melakukan penerimaan obat bahan alam lisensi. Masuk kategori manakah obat tradisional tersebut?",
     img: "",
     options: ["Obat empiris", "Jamu", "Obat herbal terstandar", "Obat bahan alam lainnya", "Fitofarmaka"],
     answer: 3
@@ -20439,7 +20439,7 @@ let questions = [
     answer: 0
 },
 {
-    question: "Divisi RnD suatu industri farmasi RAIH sedang mengembangkan produk tablet dengan bahan aktif CTM yang memiliki sifat alir dan kompresibilitas buruk. Sediaan diinginkan berwarna kuning untuk mempermudah skrining visual. Metode yang digunakan adalah granulasi basah. Apakah keuntungan menggunakan granulasi basah pada sediaan tersebut?",
+    question: "Divisi RnD suatu industri farmasi Insan Jaya Muda sedang mengembangkan produk tablet dengan bahan aktif CTM yang memiliki sifat alir dan kompresibilitas buruk. Sediaan diinginkan berwarna kuning untuk mempermudah skrining visual. Metode yang digunakan adalah granulasi basah. Apakah keuntungan menggunakan granulasi basah pada sediaan tersebut?",
     img: "",
     options: ["Menekan biaya produksi", "Proses produksi jauh lebih cepat", "Cocok untuk bahan yang termolabil", "Granul memiliki sifat alir dan kompresibilitas yang baik", "Menurunkan kemungkinan terjadinya migrasi pewarna"],
     answer: 3
@@ -20655,7 +20655,7 @@ let questions = [
     answer: 3
 },
 {
-    question: "Saat proses produksi tablet di Industri Raih, didapatkan hasil pemeriksaan QC sebagai berikut: <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Parameter</th> <th style='padding: 8px;'>Hasil</th> </tr> <tr> <td>Disolusi</td> <td>Memenuhi syarat</td> </tr> <tr> <td>Bobot</td> <td>Memenuhi syarat</td> </tr> <tr> <td>Waktu Hancur</td> <td>Memenuhi syarat</td> </tr> <tr> <td>Ketebalan Tablet</td> <td>Tidak Memenuhi syarat</td> </tr> </table> <br> Apakah solusi mengatasi masalah di atas?",
+    question: "Saat proses produksi tablet di Industri Insan Jaya Muda, didapatkan hasil pemeriksaan QC sebagai berikut: <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Parameter</th> <th style='padding: 8px;'>Hasil</th> </tr> <tr> <td>Disolusi</td> <td>Memenuhi syarat</td> </tr> <tr> <td>Bobot</td> <td>Memenuhi syarat</td> </tr> <tr> <td>Waktu Hancur</td> <td>Memenuhi syarat</td> </tr> <tr> <td>Ketebalan Tablet</td> <td>Tidak Memenuhi syarat</td> </tr> </table> <br> Apakah solusi mengatasi masalah di atas?",
     img: "",
     options: ["Kecepatan mesin cetak dipercepat", "Mengganti posisi die", "Menambah filler pada tablet", "Meningkatkan tekanan punch atas", "Mengurangi kuantitas granul di hopper"],
     answer: 3
@@ -20739,7 +20739,7 @@ let questions = [
     answer: 2
 },
 {
-    question: "Industri Raih dengan melakukan QC pada tablet dan didapatkan tablet mengalami capping/terbelah. Setelah dilakukan telusur dari bagian RnD dinyatakan formula tablet yang digunakan bagus. kemungkinan terjadi permasalahan saat proses cetak. Apa rekomendasi yang dapat mengatasi masalah tersebut?",
+    question: "Industri Insan Jaya Muda dengan melakukan QC pada tablet dan didapatkan tablet mengalami capping/terbelah. Setelah dilakukan telusur dari bagian RnD dinyatakan formula tablet yang digunakan bagus. kemungkinan terjadi permasalahan saat proses cetak. Apa rekomendasi yang dapat mengatasi masalah tersebut?",
     img: "2s.png",
     options: ["Lakukan pengadukan selama proses produksi", "Mengurangi kuantitas granul pada Hopper", "Mengurangi kecepatan pengempaan", "Mengganti Die", "Mengurangi tekanan pengempaan"],
     answer: 2
@@ -20841,7 +20841,7 @@ let questions = [
     answer: 3
 },
 {
-    question: "QC industri RAIH melakukan pemeriksaan LOD granul, didapatkan hasil LOD 1,2%. Kemudian QC mengembalikan hasil tersebut karena tidak memenuhi syarat. Apa solusi yang dapat dilakukan bagian produksi?",
+    question: "QC industri Insan Jaya Muda melakukan pemeriksaan LOD granul, didapatkan hasil LOD 1,2%. Kemudian QC mengembalikan hasil tersebut karena tidak memenuhi syarat. Apa solusi yang dapat dilakukan bagian produksi?",
     img: "",
     options: ["Melakukan optimasi proses pengeringan", "Mengurangi jumlah pengikat", "Menambah jumlah lubrikan", "Melakukan penyemprotan pelarut ke granul", "Menambahkan jumlah penghancur luar"],
     answer: 3
@@ -20865,7 +20865,7 @@ let questions = [
     answer: 2
 },
 {
-    question: "Industri Raih akan membuat tablet ibuprofen dengan metode granulasi basah. Air yang digunakan untuk proses granulasi sediaan non steril tersebut adalah?",
+    question: "Industri Insan Jaya Muda akan membuat tablet ibuprofen dengan metode granulasi basah. Air yang digunakan untuk proses granulasi sediaan non steril tersebut adalah?",
     img: "",
     options: ["Purified water", "Purified water filter 0,22 µm", "Air bebas CO2", "Water for injection", "Highly purified water"],
     answer: 0
@@ -20883,7 +20883,7 @@ let questions = [
     answer: 2
 },
 {
-    question: "Bagian RnD Industri Raih lagi merancang kemasan untuk sediaan dengan sifat higroskopis dengan data sebagai berikut: <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Kemasan</th> <th style='padding: 8px;'>MVTR</th> <th style='padding: 8px;'>CO2</th> </tr> <tr> <td>PET</td> <td>2,0</td> <td>540</td> </tr> <tr> <td>HDPE</td> <td>0,5</td> <td>18000</td> </tr> <tr> <td>PVC</td> <td>3,0</td> <td>380</td> </tr> <tr> <td>PP</td> <td>0,7</td> <td>7000</td> </tr> <tr> <td>PS</td> <td>10</td> <td>18700</td> </tr> </table> <br> Jenis bahan kemasan terbaik yang dapat digunakan adalah?",
+    question: "Bagian RnD Industri Insan Jaya Muda lagi merancang kemasan untuk sediaan dengan sifat higroskopis dengan data sebagai berikut: <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Kemasan</th> <th style='padding: 8px;'>MVTR</th> <th style='padding: 8px;'>CO2</th> </tr> <tr> <td>PET</td> <td>2,0</td> <td>540</td> </tr> <tr> <td>HDPE</td> <td>0,5</td> <td>18000</td> </tr> <tr> <td>PVC</td> <td>3,0</td> <td>380</td> </tr> <tr> <td>PP</td> <td>0,7</td> <td>7000</td> </tr> <tr> <td>PS</td> <td>10</td> <td>18700</td> </tr> </table> <br> Jenis bahan kemasan terbaik yang dapat digunakan adalah?",
     img: "",
     options: ["PET", "HDPE", "PVC", "PP", "PS"],
     answer: 1
@@ -20913,7 +20913,7 @@ let questions = [
     answer: 1
 },
 {
-    question: "Industri Raih akan melakukan perencanaan produksi antibiotik Sefepim. Diketahui sefepim sangat mudah terhidrolisis. Apakah jenis wadah gelas yang dapat digunakan?",
+    question: "Industri Insan Jaya Muda akan melakukan perencanaan produksi antibiotik Sefepim. Diketahui sefepim sangat mudah terhidrolisis. Apakah jenis wadah gelas yang dapat digunakan?",
     img: "",
     options: ["Tipe I", "Tipe II", "Tipe III", "Tipe IV", "Tipe NP"],
     answer: 0
@@ -20937,7 +20937,7 @@ let questions = [
     answer: 1
 },
 {
-    question: "QC industri Raih sedang melakukan waktu hancur tablet sublingual ISDN dengan hasil sebagai berikut: <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Tablet</th> <th style='padding: 8px;'>Waktu hancur (detik)</th> </tr> <tr> <td>A</td> <td>200</td> </tr> <tr> <td>B</td> <td>60</td> </tr> <tr> <td>C</td> <td>80</td> </tr> <tr> <td>D</td> <td>120</td> </tr> <tr> <td>E</td> <td>210</td> </tr> <tr> <td>F</td> <td>130</td> </tr> </table> <br> Bagaimana hasil waktu hancur industri raih?",
+    question: "QC industri Insan Jaya Muda sedang melakukan waktu hancur tablet sublingual ISDN dengan hasil sebagai berikut: <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Tablet</th> <th style='padding: 8px;'>Waktu hancur (detik)</th> </tr> <tr> <td>A</td> <td>200</td> </tr> <tr> <td>B</td> <td>60</td> </tr> <tr> <td>C</td> <td>80</td> </tr> <tr> <td>D</td> <td>120</td> </tr> <tr> <td>E</td> <td>210</td> </tr> <tr> <td>F</td> <td>130</td> </tr> </table> <br> Bagaimana hasil waktu hancur industri Insan Jaya Muda?",
     img: "",
     options: ["Hasil waktu hancur diterima", "Hasil tidak diterima karena A dan E bermasalah, lanjut uji kedua", "Hasil tidak diterima karena B dan C bermasalah, lanjut uji kedua", "Hasil tidak diterima karena D dan F bermasalah, lanjut uji kedua", "Hasil waktu hancur ditolak"],
     answer: 4
@@ -21058,7 +21058,7 @@ let questions = [
     answer: 4
 },
 {
-    question: "Industri Raih sedang melakukan formulasi gel lidah buaya. Setelah dilakukan formulasi ternyata didapati sediaan gel keruh. Apakah eksipien yang dapat ditambahkan untuk meningkatkan kejernihan gel tersebut?",
+    question: "Industri Insan Jaya Muda sedang melakukan formulasi gel lidah buaya. Setelah dilakukan formulasi ternyata didapati sediaan gel keruh. Apakah eksipien yang dapat ditambahkan untuk meningkatkan kejernihan gel tersebut?",
     img: "",
     options: ["Dimetikon", "Klorokresol", "NaOH", "Propilenglikol", "Vaselin"],
     answer: 3
@@ -21148,13 +21148,13 @@ let questions = [
     answer: 4
 },
 {
-    question: "Apoteker di Industri RAIH sedang melakukan optimasi formula sediaan injeksi dengan komposisi Morfin HCI 10 mg/mL dan Na-EDTA 1%. Digunakan NaCl 0,9% sebagai pengisotonis sebanyak 250 mL. Diketahui PTB Morfin HCl=0,0015° Na-EDTA 0,0013°. Berapakah jumlah NaCl yang harus ditambahkan pada formula tersebut agar mencapai kondisi isotonis?",
+    question: "Apoteker di Industri Insan Jaya Muda sedang melakukan optimasi formula sediaan injeksi dengan komposisi Morfin HCI 10 mg/mL dan Na-EDTA 1%. Digunakan NaCl 0,9% sebagai pengisotonis sebanyak 250 mL. Diketahui PTB Morfin HCl=0,0015° Na-EDTA 0,0013°. Berapakah jumlah NaCl yang harus ditambahkan pada formula tersebut agar mencapai kondisi isotonis?",
     img: "",
     options: ["1,847 g", "2,187 g", "2,245 g", "2,486 g", "2,539 g"],
     answer: 2
 },
 {
-    question: "Seorang apoteker industri RAIH ingin mengetahui volume sirup dalam suatu botol dengan data pengukuran sebagai berikut: <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Item</th> <th style='padding: 8px;'>Berat</th> </tr> <tr> <td>Bobot botol kosong</td> <td>16 gram</td> </tr> <tr> <td>Bobot botol + sampel sirup</td> <td>100 gram</td> </tr> <tr> <td>Bobot piknometer kosong</td> <td>10 gram</td> </tr> <tr> <td>Bobot piknometer + air</td> <td>20 gram</td> </tr> <tr> <td>Bobot piknometer + sampel sirup</td> <td>24 gram</td> </tr> </table> <br> Berapakah volume (mL) sediaan sirup dalam botol?",
+    question: "Seorang apoteker industri Insan Jaya Muda ingin mengetahui volume sirup dalam suatu botol dengan data pengukuran sebagai berikut: <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Item</th> <th style='padding: 8px;'>Berat</th> </tr> <tr> <td>Bobot botol kosong</td> <td>16 gram</td> </tr> <tr> <td>Bobot botol + sampel sirup</td> <td>100 gram</td> </tr> <tr> <td>Bobot piknometer kosong</td> <td>10 gram</td> </tr> <tr> <td>Bobot piknometer + air</td> <td>20 gram</td> </tr> <tr> <td>Bobot piknometer + sampel sirup</td> <td>24 gram</td> </tr> </table> <br> Berapakah volume (mL) sediaan sirup dalam botol?",
     img: "",
     options: ["10", "20", "40", "50", "60"],
     answer: 4
@@ -21196,7 +21196,7 @@ let questions = [
     answer: 0
 },
 {
-    question: "Bagian penelitian dan pengembangan industri RAIH sedang mengembangkan formula sediaan krim ekstrak lidah buaya sebagai berikut: <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Bahan</th> <th style='padding: 8px;'>Konsentrasi (%)</th> </tr> <tr> <td>Ekstrak lidah buaya</td> <td>40</td> </tr> <tr> <td>Asam stearat</td> <td>15</td> </tr> <tr> <td>Mineral oil</td> <td>30</td> </tr> <tr> <td>Emulgator</td> <td>5</td> </tr> <tr> <td>Nipagin</td> <td>0,18</td> </tr> <tr> <td>Nipasol</td> <td>0,02</td> </tr> <tr> <td>Aqua purificata</td> <td>ad 100</td> </tr> </table> <br> Diketahui nilai HLB butuh sediaan adalah 12,67. Manakah kombinasi emulgator yang tepat?",
+    question: "Bagian penelitian dan pengembangan industri Insan Jaya Muda sedang mengembangkan formula sediaan krim ekstrak lidah buaya sebagai berikut: <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Bahan</th> <th style='padding: 8px;'>Konsentrasi (%)</th> </tr> <tr> <td>Ekstrak lidah buaya</td> <td>40</td> </tr> <tr> <td>Asam stearat</td> <td>15</td> </tr> <tr> <td>Mineral oil</td> <td>30</td> </tr> <tr> <td>Emulgator</td> <td>5</td> </tr> <tr> <td>Nipagin</td> <td>0,18</td> </tr> <tr> <td>Nipasol</td> <td>0,02</td> </tr> <tr> <td>Aqua purificata</td> <td>ad 100</td> </tr> </table> <br> Diketahui nilai HLB butuh sediaan adalah 12,67. Manakah kombinasi emulgator yang tepat?",
     img: "",
     options: ["Sodium lauril sulfat (HLB 40,0) dan Tween 80 (HLB 15,0)", "Sodium lauril sulfat (HLB 40,0) dan Asam Oleat (HLB 1,0)", "Tween 80 (HLB 15,0) dan Span 80 (HLB 4,3)", "Tween 80 (HLB 15,0) dan Asam Oleat (HLB 1,0)", "Span 80 (HLB 4,3) dan Asam Oleat (HLB 1,0)"],
     answer: 2
@@ -21406,7 +21406,7 @@ let questions = [
     answer: 0
 },
 {
-    question: "Industri Raih sedang melakukan formulasi gel dengan basis gel karbomer. Pembentukan gel dengan basis karbomer sangat dipengaruhi oleh pH. Manakah eksipen yang berfungsi sebagai pH stabilizer (alkalizing agent) untuk sediaan tersebut?",
+    question: "Industri Insan Jaya Muda sedang melakukan formulasi gel dengan basis gel karbomer. Pembentukan gel dengan basis karbomer sangat dipengaruhi oleh pH. Manakah eksipen yang berfungsi sebagai pH stabilizer (alkalizing agent) untuk sediaan tersebut?",
     img: "",
     options: ["HPMC", "Na benzoat", "Gliserol", "TEA", "Asam Stearat"],
     answer: 3
@@ -21502,7 +21502,7 @@ let questions = [
     answer: 1
 },
 {
-    question: "Formulator industri Raih sedang melakukan formulasi gel dengan basis karbomer. Supaya basis gel mengental (neutralizing agent), apakah yang harus ditambahkan kedalam formulasi gel tersebut?",
+    question: "Formulator industri Insan Jaya Muda sedang melakukan formulasi gel dengan basis karbomer. Supaya basis gel mengental (neutralizing agent), apakah yang harus ditambahkan kedalam formulasi gel tersebut?",
     img: "",
     options: ["HPMC", "Na benzoat", "Gliserol", "KOH", "Asam Stearat"],
     answer: 3
@@ -21653,7 +21653,7 @@ let questions = [
     answer: 2
 },
 {
-    question: "Pasien berusia 10 tahun datang bersama ibunya ke apotek RAIH dengan membawa resep sebagai berikut: <br> R/ Parasetamol 200 mg <br> CTM 2 mg <br> Mf pulv dtd No. XII <br> S 3dd 1 Pulv. <br><br> Berapa jumlah masing-masing tablet Parasetamol, dan CTM yang dibutuhkan jika di apotek yang tersedia adalah PCT 500 mg, dan CTM 4 mg untuk membuat resep tersebut?",
+    question: "Pasien berusia 10 tahun datang bersama ibunya ke apotek Insan Jaya Muda dengan membawa resep sebagai berikut: <br> R/ Parasetamol 200 mg <br> CTM 2 mg <br> Mf pulv dtd No. XII <br> S 3dd 1 Pulv. <br><br> Berapa jumlah masing-masing tablet Parasetamol, dan CTM yang dibutuhkan jika di apotek yang tersedia adalah PCT 500 mg, dan CTM 4 mg untuk membuat resep tersebut?",
     img: "",
     options: ["4 Tablet PCT, dan 5 Tablet CTM", "4 Tablet PCT, dan 6 Tablet CTM", "5 Tablet PCT, dan 6 Tablet CTM", "6 Tablet PCT, dan 6 Tablet CTM", "5 Tablet PCT, dan 5 Tablet CTM"],
     answer: 2
@@ -21701,13 +21701,13 @@ let questions = [
     answer: 1
 },
 {
-    question: "Seorang ibu hamil datang ke RS Raih dengan keluhan gatal di kaki terutama sela-sela jari kaki, kulit kaki bersisik, basah, dan mengelupas. Pasien didiagnosis tinea pedis. Apa obat oral yang tepat untuk pasien?",
+    question: "Seorang ibu hamil datang ke RS Insan Jaya Muda dengan keluhan gatal di kaki terutama sela-sela jari kaki, kulit kaki bersisik, basah, dan mengelupas. Pasien didiagnosis tinea pedis. Apa obat oral yang tepat untuk pasien?",
     img: "",
     options: ["Flukonazol 400 mg", "Flukonazol 150 mg", "Itrakonazol", "Griseofulvin", "Terbinafin"],
     answer: 4
 },
 {
-    question: "Apoteker sedang melakukan analisis penggunaan antibiotik di bangsal anak RS Raih selama 1 tahun, didapatkan data sebagai berikut: <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Regimen</th> <th style='padding: 8px;'>Pasien</th> <th style='padding: 8px;'>LOS</th> </tr> <tr> <td>Amoksisilin 3 x 0.5 g (5 hr)</td> <td>P1</td> <td>10 hr</td> </tr> <tr> <td>Seftriakson 1 x 2 g (5 hr)</td> <td>P2</td> <td>10 hr</td> </tr> <tr> <td>Seftriakson 1 x 2 g (5 hr)</td> <td>P3</td> <td>8 hr</td> </tr> </table> <br> Berapakah total nilai DDD 100 patient-days jika diketahui DDD WHO amoksisilin = 1 g, dan seftriakson = 2 g?",
+    question: "Apoteker sedang melakukan analisis penggunaan antibiotik di bangsal anak RS Insan Jaya Muda selama 1 tahun, didapatkan data sebagai berikut: <br><br> <table border='1' style='width:100%; border-collapse: collapse; question-align: center;'> <tr style='background-color: #f2f2f2;'> <th style='padding: 8px;'>Regimen</th> <th style='padding: 8px;'>Pasien</th> <th style='padding: 8px;'>LOS</th> </tr> <tr> <td>Amoksisilin 3 x 0.5 g (5 hr)</td> <td>P1</td> <td>10 hr</td> </tr> <tr> <td>Seftriakson 1 x 2 g (5 hr)</td> <td>P2</td> <td>10 hr</td> </tr> <tr> <td>Seftriakson 1 x 2 g (5 hr)</td> <td>P3</td> <td>8 hr</td> </tr> </table> <br> Berapakah total nilai DDD 100 patient-days jika diketahui DDD WHO amoksisilin = 1 g, dan seftriakson = 2 g?",
     img: "",
     options: ["12,5", "91,07", "44,64", "62,5", "22,32"],
     answer: 3
@@ -21749,7 +21749,7 @@ let questions = [
     answer: 3
 },
 {
-    question: "Seorang pasien datang ke apotek RAIH dengan keluhan flu dan batuk, pasien sudah pernah menebus resep dengan obat cetirizine dan asetilsistein, lalu pasien ingin membeli Kembali obat tersebut tanpa resep, apa yang harus dilakukan sebagai apoteker?",
+    question: "Seorang pasien datang ke apotek Insan Jaya Muda dengan keluhan flu dan batuk, pasien sudah pernah menebus resep dengan obat cetirizine dan asetilsistein, lalu pasien ingin membeli Kembali obat tersebut tanpa resep, apa yang harus dilakukan sebagai apoteker?",
     img: "",
     options: ["Hanya memberikan setirizine karena asetilsistein tidak termasuk OWA", "Hanya memberikan asetilsistein karena setirizine tidak termasuk OWA", "Tidak memberikan keduanya karena asetilsistein dan setirizine tidak termasuk OWA", "Memberikan keduanya karena asetilsistein dan setirizine termasuk OWA", "Memberikan keduanya karena asetilsistein dan setirizine termasuk obat bebas terbatas"],
     answer: 4
@@ -21767,7 +21767,7 @@ let questions = [
     answer: 3
 },
 {
-    question: "Seorang pasien jarang melepas kaus kaki sehabis futsal kemudian kakinya gatal, merah, dan bau. Pasien datang ke Apotek Raih dan menanyakan sediaan topikal apa yang cocok untuk kondisi pasien tersebut?",
+    question: "Seorang pasien jarang melepas kaus kaki sehabis futsal kemudian kakinya gatal, merah, dan bau. Pasien datang ke Apotek Insan Jaya Muda dan menanyakan sediaan topikal apa yang cocok untuk kondisi pasien tersebut?",
     img: "23fip.png",
     options: ["Ketokonazol", "Betametason", "Gentamisin", "Kloramfenikol", "Asiklovir"],
     answer: 0
@@ -22290,7 +22290,7 @@ let questions = [
   answer: 3
 },
 {
-  question: "Pasien malaria diberikan injeksi artesunat di RS RAIH. 3 hari dirawat, pasien membaik dan dokter akan melakukan penggantian terapi ke oral. Obat apa yang yang dapat disarankan apoteker?",
+  question: "Pasien malaria diberikan injeksi artesunat di RS Insan Jaya Muda. 3 hari dirawat, pasien membaik dan dokter akan melakukan penggantian terapi ke oral. Obat apa yang yang dapat disarankan apoteker?",
   img: "",
   options: ["Kina", "DHP", "Klorokuin", "Meflokuin", "Doksisiklin"],
   answer: 1
@@ -22302,7 +22302,7 @@ let questions = [
   answer: 3
 },
 {
-  question: "Pasien Hepatitis B dengan komplikasi CKD sedang dirawat di RSUD RAIH. Apa rekomendasi antivirus untuk mengatasi infeksi hepatitis B pada pasien?",
+  question: "Pasien Hepatitis B dengan komplikasi CKD sedang dirawat di RSUD Insan Jaya Muda. Apa rekomendasi antivirus untuk mengatasi infeksi hepatitis B pada pasien?",
   img: "",
   options: ["Tenofovir", "Telbivudine", "Interferon alfa", "Entecavir", "Lamivudine"],
   answer: 3
@@ -22482,7 +22482,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Pasien baru didiagnosis oleh dokter di puskemas Raih, menderita TB + HIV. Beliau mengaku kebingungan tentang aturan pakai obat yang akan dikonsumsinya. Beliau bertanya pada anda sebagai apoteker di puskesmas. Bagaimana aturan pakai obat-obatan tersebut?",
+  question: "Pasien baru didiagnosis oleh dokter di puskemas Insan Jaya Muda, menderita TB + HIV. Beliau mengaku kebingungan tentang aturan pakai obat yang akan dikonsumsinya. Beliau bertanya pada anda sebagai apoteker di puskesmas. Bagaimana aturan pakai obat-obatan tersebut?",
   img: "",
   options: ["Pengobatan TB dan ARV dimulai bersamaan", "Pengobatan TB dimulai terlebih dahulu, kemudian pengobatan ARV menyusul dalam 2-8 minggu pertama pengobatan TB", "Pengobatan ARV dalam 2 minggu pertama pengobatan TB", "Pengobatan ARV dimulai terlebih dahulu, kemudian dilanjutkan dengan pengobatan TB sesegera mungkin dalam 8 minggu pertama pengobatan ARV", "Pengobatan TB dimulai terlebih dahulu, kemudian dilanjutkan dengan pengobatan ARV sesegera mungkin dalam 8 minggu pertama pengobatan TB"],
   answer: 1
@@ -22560,13 +22560,13 @@ let questions = [
   answer: 3
 },
 {
-  question: "Seorang pasien dirawat di HCU RS Raih. Pasien mendapatkan terapi Vankomisin, saat pemberian awal pasien diberikan Loading Dose Vankomisin. Apakah tujuan pemberian antibiotik secara Loading Dose? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien dirawat di HCU RS Insan Jaya Muda. Pasien mendapatkan terapi Vankomisin, saat pemberian awal pasien diberikan Loading Dose Vankomisin. Apakah tujuan pemberian antibiotik secara Loading Dose? (UKMPPAI Februari 2025)",
   img: "",
   options: ["Karena vankomisin termasuk antibiotik TIME DEPENDENT", "Mempercepat kadar tunak", "Mencegah resistensi vankomisin", "Mencegah toksisitas vankomisin", "Meminimalisir efek samping vankomisin"],
   answer: 1
 },
 {
-  question: "Seorang pasien pria 30 tahun datang ke poliklinik paru RS Raih. Pasien didiagnosis TB Laten. Apakah rekomendasi pengobatan yang dapat diberikan kepada pasien?",
+  question: "Seorang pasien pria 30 tahun datang ke poliklinik paru RS Insan Jaya Muda. Pasien didiagnosis TB Laten. Apakah rekomendasi pengobatan yang dapat diberikan kepada pasien?",
   img: "",
   options: ["2HRZE/ 4HR", "2HRZE/ 10HR", "INH 6-9 bulan", "Rifampisin 6-9 bulan", "2RHES/ 6RH"],
   answer: 2
@@ -22812,7 +22812,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Sepasang suami istri datang ke RS RAIH, diketahui suami HIV (+), istri HIV (-). Pasien menanyakan obat untuk pencegahan HIV pada istri karena pasien bersenggama tanpa pengaman, apa rekomendasi obat yang dapat diberikan?",
+  question: "Sepasang suami istri datang ke RS Insan Jaya Muda, diketahui suami HIV (+), istri HIV (-). Pasien menanyakan obat untuk pencegahan HIV pada istri karena pasien bersenggama tanpa pengaman, apa rekomendasi obat yang dapat diberikan?",
   img: "",
   options: ["TDF + FTC + LPV/r", "TDF + 3TC + NVP", "AZT + TDF + EFV", "AZT + 3TC + LPV/r", "TDF + FTV + NVP"],
   answer: 0
@@ -22867,7 +22867,7 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang wanita 45 tahun dirawat di RS RAIH dengan diagnosis stroke kardioemboli. Pasien diberikan terapi warfarin, namun beberapa hari penggunaan muncul lebam pada pasien. Dokter bertanya kepada apoteker obat pengganti yang dapat digunakan, apa rekomendasi terapi yang tepat untuk diberikan? (TO UKMPPAI Juni 2024)",
+  question: "Seorang wanita 45 tahun dirawat di RS Insan Jaya Muda dengan diagnosis stroke kardioemboli. Pasien diberikan terapi warfarin, namun beberapa hari penggunaan muncul lebam pada pasien. Dokter bertanya kepada apoteker obat pengganti yang dapat digunakan, apa rekomendasi terapi yang tepat untuk diberikan? (TO UKMPPAI Juni 2024)",
   img: "",
   options: ["Aspirin", "Apixaban", "Klopidogrel", "Heparin", "Manitol"],
   answer: 1
@@ -23005,7 +23005,7 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang pasien di RS RAIH untuk operasi pengangkatan tumor. Diketahui pasien riwayat stroke iskemik dan rutin mengonsumsi aspirin. Pasien tersebut bertanya kepada apoteker saat visite, apakah pasien tersebut masih boleh mengonsumsi aspirin sebelum operasi dilakukan? (TO UKMPPAI Juni 2024)",
+  question: "Seorang pasien di RS Insan Jaya Muda untuk operasi pengangkatan tumor. Diketahui pasien riwayat stroke iskemik dan rutin mengonsumsi aspirin. Pasien tersebut bertanya kepada apoteker saat visite, apakah pasien tersebut masih boleh mengonsumsi aspirin sebelum operasi dilakukan? (TO UKMPPAI Juni 2024)",
   img: "",
   options: ["Aspirin harus dihentikan 24 jam sebelum operasi", "Aspirin harus dihentikan 48 jam sebelum operasi", "Aspirin harus dihentikan 3 hari sebelum operasi", "Aspirin harus dihentikan 5 hari sebelum operasi", "Aspirin dikonsumsi seperti biasa sebelum operasi"],
   answer: 4
@@ -23101,7 +23101,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien dibawah ke RS RAIH oleh keluarganya dengan keadaan tidak sadarkan diri. Saat diperiksa pasien tersebut mengalami stroke iskemik dengan tekanan darah 200/105 mmHg. Saat ditanyakan pasien merasa sakit kepala and mati rasa 2 jam yang lalu. Dokter berencana ingin memberikan alteplase pada pasien tetapi terkendala karena tekanan darah pasien masih tinggi, kemudian dokter berkonsultasi dengan apoteker untuk obat antihipertensi pasien agar alteplase dapat diberikan. Apa obat yang dapat direkomendasikan apoteker kepada dokter untuk hal tersebut? (UKMPPAI Agustus 2024)",
+  question: "Seorang pasien dibawah ke RS Insan Jaya Muda oleh keluarganya dengan keadaan tidak sadarkan diri. Saat diperiksa pasien tersebut mengalami stroke iskemik dengan tekanan darah 200/105 mmHg. Saat ditanyakan pasien merasa sakit kepala and mati rasa 2 jam yang lalu. Dokter berencana ingin memberikan alteplase pada pasien tetapi terkendala karena tekanan darah pasien masih tinggi, kemudian dokter berkonsultasi dengan apoteker untuk obat antihipertensi pasien agar alteplase dapat diberikan. Apa obat yang dapat direkomendasikan apoteker kepada dokter untuk hal tersebut? (UKMPPAI Agustus 2024)",
   img: "",
   options: ["Kaptopril", "Nikardipin", "Propranolol", "Hidroklortiazide", "Norepinefrin"],
   answer: 1
@@ -23173,7 +23173,7 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang pasien STEMI mendapatkan terapi DAPT (dual antiplatelet therapy) yaitu Aspirin + Ticagrelor. Ternyata stok Ticagrelor habis di RS RAIH. Apoteker ingin merekomendasikan terapi pengganti ticagrelor, apa rekomendasi apoteker kepada dokter? (TO UKMPPAI November 2024)",
+  question: "Seorang pasien STEMI mendapatkan terapi DAPT (dual antiplatelet therapy) yaitu Aspirin + Ticagrelor. Ternyata stok Ticagrelor habis di RS Insan Jaya Muda. Apoteker ingin merekomendasikan terapi pengganti ticagrelor, apa rekomendasi apoteker kepada dokter? (TO UKMPPAI November 2024)",
   img: "",
   options: ["Clopidogrel", "Warfarin", "Dypridamole", "Ticlopidine", "Prasugrel"],
   answer: 4
@@ -23203,7 +23203,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang pasien di RS RAIH untuk operasi pengangkatan tumor, diketahui pasien riwayat stroke iskemik dan rutin mengonsumsi Klopidogrel. Pasien tersebut bertanya kepada apoteker saat visite, apakah pasien tersebut masih boleh mengonsumsi Klopidogrel sebelum operasi dilakukan? (TO UKMPPAI Juni 2024)",
+  question: "Seorang pasien di RS Insan Jaya Muda untuk operasi pengangkatan tumor, diketahui pasien riwayat stroke iskemik dan rutin mengonsumsi Klopidogrel. Pasien tersebut bertanya kepada apoteker saat visite, apakah pasien tersebut masih boleh mengonsumsi Klopidogrel sebelum operasi dilakukan? (TO UKMPPAI Juni 2024)",
   img: "",
   options: ["Klopidogrel harus dihentikan 24 jam sebelum operasi", "Klopidogrel harus dihentikan 48 jam sebelum operasi", "Klopidogrel harus dihentikan 3 hari sebelum operasi", "Klopidogrel harus dihentikan 5 hari sebelum operasi", "Klopidogrel dikonsumsi seperti biasa sebelum operasi"],
   answer: 3
@@ -23221,7 +23221,7 @@ let questions = [
   answer: 2
 },
 {
-  question: "Seorang pasien N-STEMI datang ke IGD RS RAIH. Dokter ingin memberikan terapi Fondaparinux, ternyata stok obat tersebut habis di RS RAIH. Apoteker ingin merekomendasikan terapi pengganti Fondaparinux, apa rekomendasi apoteker kepada dokter? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien N-STEMI datang ke IGD RS Insan Jaya Muda. Dokter ingin memberikan terapi Fondaparinux, ternyata stok obat tersebut habis di RS Insan Jaya Muda. Apoteker ingin merekomendasikan terapi pengganti Fondaparinux, apa rekomendasi apoteker kepada dokter? (UKMPPAI Februari 2025)",
   img: "",
   options: ["Alteplase", "DAPT (dual antiplatelet therapy)", "Enoxaparin", "UFH", "Warfarin"],
   answer: 2
@@ -23233,7 +23233,7 @@ let questions = [
   answer: 1
 },
 {
-  question: "Seorang pasien pria berusia 55 tahun sedang menerima pelayanan konseling obat di RS RAIH. Pasien mendapatkan terapi sebagai berikut : Sefiksim 2 x 200 mg, Vitamin C 1 x 250 mg, Candesartan 1 x 8 mg, Amlodipine 1 x 5 mg, Simvastatin 1 x 40 mg. Setelah penelusuran literatur terdapat interaksi Amlodipine + Simvastatin. Bagaimana tindakan yang harus dilakukan apoteker?",
+  question: "Seorang pasien pria berusia 55 tahun sedang menerima pelayanan konseling obat di RS Insan Jaya Muda. Pasien mendapatkan terapi sebagai berikut : Sefiksim 2 x 200 mg, Vitamin C 1 x 250 mg, Candesartan 1 x 8 mg, Amlodipine 1 x 5 mg, Simvastatin 1 x 40 mg. Setelah penelusuran literatur terdapat interaksi Amlodipine + Simvastatin. Bagaimana tindakan yang harus dilakukan apoteker?",
   img: "",
   options: ["Konfirmasi ke dokter untuk penggantian obat amlodipine", "Jarakkan pemberian amlodipine dengan simvastatin", "Lanjutkan konseling pada pasien karena interaksinya masih aman", "Saat konseling disampaikan untuk obat simvastatin dikonsumsi bila perlu malam hari", "Konfirmasi ke dokter untuk penurunan dosis simvastatin"],
   answer: 4
@@ -23450,7 +23450,7 @@ let questions = [
   answer: 2
 },
 {
-  question: "Laki-laki usia 40 tahun (TB 160 cm, BB 100 kg) CrCl 25 mL/menit, diberikan sitagliptin. Sediaan di Apotek Raih tersedia sitagliptin 100 mg. Berapakah rekomendasi dosis yang harus diberikan ke pasien?",
+  question: "Laki-laki usia 40 tahun (TB 160 cm, BB 100 kg) CrCl 25 mL/menit, diberikan sitagliptin. Sediaan di Apotek Insan Jaya Muda tersedia sitagliptin 100 mg. Berapakah rekomendasi dosis yang harus diberikan ke pasien?",
   img: "",
   options: ["GFR < 30-45, 1½ tab once daily dose", "GFR 30, ¼ tab once daily dose", "GFR < 30-45, 2 tab once daily dose", "GFR < 30-45, 1 tab once daily dose", "GFR <30, ¼ tab once daily dose"],
   answer: 1
@@ -23822,7 +23822,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien CKD datang ke IGD RS Raih dengan diagnosis hiperkalemia akut. Apa rekomendasi terapi yang dapat diberikan?",
+  question: "Seorang pasien CKD datang ke IGD RS Insan Jaya Muda dengan diagnosis hiperkalemia akut. Apa rekomendasi terapi yang dapat diberikan?",
   img: "",
   options: ["Kalsium karbonat", "KCL 7,46%", "Magnesium sulfat", "Sevelamer", "Insulin"],
   answer: 4
@@ -23966,7 +23966,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang berusia 19 tahun datang ke poliklinik RS Raih. Pasien pucat dan sering merasa lelah. Pasien didiagnosa anemia, kemudian dr memberikan terapi asam folat dan vitamin C. Apa tujuan kombinasi 2 obat tersebut?",
+  question: "Seorang berusia 19 tahun datang ke poliklinik RS Insan Jaya Muda. Pasien pucat dan sering merasa lelah. Pasien didiagnosa anemia, kemudian dr memberikan terapi asam folat dan vitamin C. Apa tujuan kombinasi 2 obat tersebut?",
   img: "",
   options: ["Meningkatkan penyerapan asam folat", "Mencegah penguraian vitamin C", "Mencegah penguraian Hemoglobin", "Meningkatkan jumlah asam folat dalam bentuk aktif", "Mempercepat metabolisme zat besi"],
   answer: 3
@@ -24069,7 +24069,7 @@ let questions = [
     answer: 0
   },
   {
-    question: "Seorang wanita datang ke poliklinik jiwa RS RAIH karena kecemasan yang dialaminya, pasien beberapa kali berkeinginan untuk bunuh diri. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat antidepresan yang memiliki ESO insiden rasa ingin bunuh diri paling tinggi, sehingga dokter tidak meresepkan obat tersebut. Apa obat yang harus dihindari tersebut? (TO UKMPPAI Juni 2024)",
+    question: "Seorang wanita datang ke poliklinik jiwa RS Insan Jaya Muda karena kecemasan yang dialaminya, pasien beberapa kali berkeinginan untuk bunuh diri. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat antidepresan yang memiliki ESO insiden rasa ingin bunuh diri paling tinggi, sehingga dokter tidak meresepkan obat tersebut. Apa obat yang harus dihindari tersebut? (TO UKMPPAI Juni 2024)",
     img: "",
     options: ["Venlafaxine", "Escitalopram", "Amitriptiline", "Levomilnacipran", "Imipramin"],
     answer: 0
@@ -24093,7 +24093,7 @@ let questions = [
     answer: 4
   },
   {
-    question: "Seorang ibu hamil trimester 3 datang ke poliklinik jiwa RS RAIH karena kecemasan yang dialaminya. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat golongan SSRI yang akan diberikan, apakah obat yang harus dihindari kepada ibu hamil tersebut?",
+    question: "Seorang ibu hamil trimester 3 datang ke poliklinik jiwa RS Insan Jaya Muda karena kecemasan yang dialaminya. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat golongan SSRI yang akan diberikan, apakah obat yang harus dihindari kepada ibu hamil tersebut?",
     img: "",
     options: ["Fluoxetine", "Sertralin", "Fluvoxamin", "Citalopram", "Paroxetin"],
     answer: 4
@@ -24381,7 +24381,7 @@ let questions = [
     answer: 4
   },
   {
-    question: "Anak 6 tahun kejang dibawa ke IGD RS Raih. Pasien sudah diberi diazepam injeksi dan injeksi fenitoin tetapi kejang masih berlanjut. Apa rekomendasi dari apoteker untuk terapi selanjutnya?",
+    question: "Anak 6 tahun kejang dibawa ke IGD RS Insan Jaya Muda. Pasien sudah diberi diazepam injeksi dan injeksi fenitoin tetapi kejang masih berlanjut. Apa rekomendasi dari apoteker untuk terapi selanjutnya?",
     img: "",
     options: ["Midazolam", "Gabapentin", "Fenobarbital", "Lamotrigin", "Propofol"],
     answer: 2
@@ -24399,7 +24399,7 @@ let questions = [
     answer: 1
   },
   {
-    question: "Seorang pasien pria 27 tahun datang ke poliklinik jiwa RS RAIH karena kecemasan yang dialaminya, pasien baru melangsungkan pernikahan beberapa bulan yang lalu. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat antidepresan yang efek samping disfungsi seksual yang paling sedikit mengingat latar belakang pasien yang baru saja menikah. Apa rekomendasi apoteker? (TO UKMPPAI Juni 2024)",
+    question: "Seorang pasien pria 27 tahun datang ke poliklinik jiwa RS Insan Jaya Muda karena kecemasan yang dialaminya, pasien baru melangsungkan pernikahan beberapa bulan yang lalu. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat antidepresan yang efek samping disfungsi seksual yang paling sedikit mengingat latar belakang pasien yang baru saja menikah. Apa rekomendasi apoteker? (TO UKMPPAI Juni 2024)",
     img: "",
     options: ["Mirtazapine", "Escitalopram", "Amitriptiline", "Levomilnacipran", "Paroxetin"],
     answer: 0
@@ -24537,7 +24537,7 @@ let questions = [
     answer: 0
   },
   {
-    question: "Seorang pasien datang ke poliklinik jiwa RS RAIH karena kecemasan yang dialaminya, pasien menderita insomnia. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat golongan SSRI yang efek samping insomnia paling sedikit. Apa rekomendasi apoteker? (TO UKMPPAI Juni 2024)",
+    question: "Seorang pasien datang ke poliklinik jiwa RS Insan Jaya Muda karena kecemasan yang dialaminya, pasien menderita insomnia. Setelah konsultasi, dokter mendiagnosis pasien Generalized Anxiety Disorder (GAD). Dokter berkonsultasi dengan apoteker untuk obat golongan SSRI yang efek samping insomnia paling sedikit. Apa rekomendasi apoteker? (TO UKMPPAI Juni 2024)",
     img: "",
     options: ["Fluoxetine", "Sertralin", "Fluvoxamin", "Citalopram", "Paroxetine"],
     answer: 4
@@ -24904,7 +24904,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Pasien mengalami asma berat dan dibawa ke RS RAIH. Saat ini pasien mendapatkan terapi ICS. Karena pasien telah membaik, dokter ingin mengganti ICS dengan terapi oral. Apa rekomendasi apoteker?",
+  question: "Pasien mengalami asma berat dan dibawa ke RS. Saat ini pasien mendapatkan terapi ICS. Karena pasien telah membaik, dokter ingin mengganti ICS dengan terapi oral. Apa rekomendasi apoteker?",
   img: "",
   options: ["Salbutamol", "Aminofilin", "Prednisolon", "Kromolin", "Zafirlukast"],
   answer: 2
@@ -25018,7 +25018,7 @@ let questions = [
   answer: 3
 },
 {
-  question: "Seorang pasien datang ke IGD RS Raih dini hari dengan keluhan nyeri ulu hati yang tidak tertahankan oleh pasien. Setelah diperiksa dokter, ternyata pasien mengalami kenaikan asam lambung. Apakah rekomendasi terapi yang diberikan kepada pasien?",
+  question: "Seorang pasien datang ke IGD RS Insan Jaya Muda dini hari dengan keluhan nyeri ulu hati yang tidak tertahankan oleh pasien. Setelah diperiksa dokter, ternyata pasien mengalami kenaikan asam lambung. Apakah rekomendasi terapi yang diberikan kepada pasien?",
   img: "",
   options: ["Omeprazole", "Antasida", "Sukralfat", "Misoprostol", "Ranitidin"],
   answer: 4
@@ -25042,7 +25042,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang pasien anak datang ke Apotek Raih dengan kondisi mata cekung dan keinginan untuk terus minum. Pasien berumur 8 bulan dengan berat badan 7 kg. Berapa mL pemberian larutan oralit pada pasien?",
+  question: "Seorang pasien anak datang ke Apotek Insan Jaya Muda dengan kondisi mata cekung dan keinginan untuk terus minum. Pasien berumur 8 bulan dengan berat badan 7 kg. Berapa mL pemberian larutan oralit pada pasien?",
   img: "",
   options: ["100-200", "200-450", "450-800", "800-960", "960-1600"],
   answer: 2
@@ -25060,7 +25060,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien dilakukan tindakan bedah rektum di RS Raih. Apa rekomendasi terapi pasien supaya tidak terjadi konstipasi pasca bedah rectum?",
+  question: "Seorang pasien dilakukan tindakan bedah rektum di RS Insan Jaya Muda. Apa rekomendasi terapi pasien supaya tidak terjadi konstipasi pasca bedah rectum?",
   img: "",
   options: ["Laktulosa", "Bisakodil", "Paraffin", "Lubiproston", "Psyllium"],
   answer: 2
@@ -25078,7 +25078,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien datang ke Apotek Raih untuk konsultasi obat bersama apoteker. Pasien rutin mengonsumsi obat lambung dan sudah 5 hari tidak bisa BAB. Manakah obat lambung yang memiliki efek samping konstipasi? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien datang ke Apotek Insan Jaya Muda untuk konsultasi obat bersama apoteker. Pasien rutin mengonsumsi obat lambung dan sudah 5 hari tidak bisa BAB. Manakah obat lambung yang memiliki efek samping konstipasi? (UKMPPAI Februari 2025)",
   img: "",
   options: ["Sukralfat", "Omeprazole", "Ranitidin", "Simetikon", "Misoprostol"],
   answer: 0
@@ -25114,7 +25114,7 @@ let questions = [
   answer: 0
 },
 {
-  question: "Seorang pasien lansia mual muntah 3x datang ke poliklinik umum Raih. Dokter ingin memberikan obat untuk mengatasi kondisi tersebut, apakah rekomendasi obat yang dapat diberikan kepada pasien? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien lansia mual muntah 3x datang ke poliklinik umum Insan Jaya Muda. Dokter ingin memberikan obat untuk mengatasi kondisi tersebut, apakah rekomendasi obat yang dapat diberikan kepada pasien? (UKMPPAI Februari 2025)",
   img: "",
   options: ["Metoklopramid", "Hiosin", "Piridoksin", "Dimehidrinat", "Domperidone"],
   answer: 4
@@ -25150,7 +25150,7 @@ let questions = [
   answer: 4
 },
 {
-  question: "Seorang pasien datang ke poliklinik mata RS RAIH dengan diagnosis glaukoma sudut terbuka. Pasien rutin menggunakan timolol, tetapi tidak ada perbaikan. Apa terapi pengganti yang dapat digunakan pasien? (UKMPPAI Februari 2025)",
+  question: "Seorang pasien datang ke poliklinik mata RS Insan Jaya Muda dengan diagnosis glaukoma sudut terbuka. Pasien rutin menggunakan timolol, tetapi tidak ada perbaikan. Apa terapi pengganti yang dapat digunakan pasien? (UKMPPAI Februari 2025)",
   img: "",
   options: ["Latanoprost", "Brimonidin", "Pilokarpin", "Manitol", "Gliserin"],
   answer: 0
@@ -25180,7 +25180,7 @@ let questions = [
   answer: 3
 },
 {
-  question: "Anak umur 3 tahun mengalami pilek & hidung tersumbat, datang kepoliklinik RS RAIH. Apakah obat yang dapat diberikan dokter kepada pasien tersebut? (TO UKMPPAI November 2024)",
+  question: "Anak umur 3 tahun mengalami pilek & hidung tersumbat, datang kepoliklinik RS Insan Jaya Muda. Apakah obat yang dapat diberikan dokter kepada pasien tersebut? (TO UKMPPAI November 2024)",
   img: "",
   options: ["Normal saline", "Pseudoefedrin", "Fenilpropanolamin", "Olopatadin", "Montelukast"],
   answer: 0
