@@ -105,16 +105,19 @@ body {
 .question-text {
     font-size: 1.2rem; 
     line-height: 1.5;
-    margin-bottom: 20px;
     font-weight: 700;
     width: 90%;
+}
+
+.question-text p{
+    margin-bottom: 0;
 }
 
 
 .question-text table {
     width: 100%;
     border-collapse: collapse;
-    margin: 15px 0;
+    margin: 0;
     font-size: 0.9rem; 
     font-weight: normal;
     color: #333;

@@ -24645,6 +24645,606 @@ let questions = [
     answer: 2
   },
 
+{
+    question: "Seorang pasien didiagnosis dokter mengalami glaukoma primer sudut terbuka sejak 1 tahun yang lalu. Pasien mendapatkan terapi tetes mata latanoprost. Setelah menjalani terapi, tekanan intraokular pasien sudah terkontrol < 21 mmHg. Kapan monitoring tekanan intraokular kembali dapat dilakukan?",
+    img: "",
+    options: ["Setiap 2 - 4 minggu", "Setiap 4 - 6 minggu", "Setiap 6 - 8 minggu", "Setiap 1 - 2 bulan", "Setiap 3 - 4 bulan"],
+    answer: 4
+  },
+  {
+    question: "Pasien geriatri umur 68 tahun menderita tukak lambung. Pasien juga diketahui menderita CKD stage IV. Nilai GFR pasien 20 mL/menit. Dokter meminta saran apoteker terkait terapi yang efektif dan aman untuk kondisi ginjal pasien. Sebagai seorang apoteker, terapi yang dapat disarankan yaitu?",
+    img: "",
+    options: ["Sucralfat", "Antasida", "Ranitidin", "Misoprostol", "Lansoprazol"],
+    answer: 4
+  },
+  {
+    question: "Seorang pria berusia 50 tahun mengeluh merasa lemas dan sulit makan. Pada saat pemeriksaan kondisi tubuh mengalami hepatomegali, jaundice yang disertai adanya pembengkakan. Dokter mendiagnosis pasien mengalami sirosis hepatis. Pada bagian perut pasien saat ini menumpuk cairan sehingga perut terlihat membuncit. Oleh dokter pasien hendak diberikan obat untuk mengatasi hal tersebut. Apa obat yang apoteker sarankan untuk pasien?",
+    img: "",
+    options: ["Spironolakton dan kalium", "Spironolakton dan furosemide", "Spironolakton dan HCT", "HCT dan Kalium", "HCT dan furosemide"],
+    answer: 1
+  },
+  {
+    question: "Pasien mengalami ensefalopati hepatik, lalu diberikan asam amino dan laktulosa. Parameter apa yang digunakan untuk mengetahui efektivitas terapi? (UKAI Agustus 2022)",
+    img: "",
+    options: ["Tingkat kesadaran pasien", "Refleks", "Tekanan darah", "SGPT", "SGOT"],
+    answer: 0
+  },
+  {
+    question: "Seorang pasien laki-laki usia 58 tahun didiagnosis dokter mengalami penyakit glaukoma dengan keluhan pandangan berkabut, fotophobia, dan sakit kepala. Dokter meresepkan obat tetes mata yang mengandung pilokarpin HCl 2%. Bagaimana mekanisme aksi obat tersebut? (UKAI Agustus 2022)",
+    img: "",
+    options: ["Inhibitor enzim kolinesterase", "Antagonis reseptor beta adrenergik", "Inhibitor enzim karbonik anhidrase", "Agonis reseptor alfa adrenergic", "Agonis reseptor kolinergik"],
+    answer: 4
+  },
+  {
+    question: "Seorang anak berusia 1,5 tahun mengalami diare hingga 6 kali sehari sejak 2 hari yang lalu. Ibunya sudah memberikan oralit dan zink tetapi belum ada perbaikan. Ibu tersebut kemudian datang ke apotek berencana membeli loperamid tetapi tidak diberikan oleh apoteker. Apa alasan apoteker tidak memberikan obat?",
+    img: "",
+    options: ["Loperamid adalah obat keras yang harus dengan resep dokter", "Loperamid dikontraindikasikan untuk anak di bawah 2 tahun", "Loperamid berisiko menyebabkan ketergantungan", "Loperamid adalah psikotropika yang rentan disalahgunakan", "Loperamid tidak digunakan untuk diare non-spesifik"],
+    answer: 1
+  },
+  {
+    question: "Perempuan berusia 34 tahun pergi ke klinik mengeluhkan batuk tidak berdahak selama 2 hari yang lalu. Dokter akan meresepkan obat antitusif. Sebagai apoteker obat apa yang direkomendasikan?",
+    img: "",
+    options: ["Amonium klorida", "Ambroksol", "Noskapin", "Bromhexin", "Asetilsistein"],
+    answer: 2
+  },
+  {
+    question: "Seorang pasien laki-laki 50 tahun dibawa ke IGD karena mengeluhkan pandangan kabur, sakit kepala, disertai mual dan muntah. Setelah dilakukan pemeriksaan, dokter mendiagnosis pasien mengalami glaukoma sudut tertutup akut. Sebagai apoteker, obat apa yang dapat disarankan untuk pasien tersebut?",
+    img: "",
+    options: ["Timolol", "Bimatoprost", "Dorzolamide", "Pilokarpin", "Asetazolamid IV"],
+    answer: 4
+  },
+  {
+    question: "Pasien laki-laki umur 20 tahun mengeluh sesak napas. Dia punya riwayat asma yang timbul karena cuaca dingin. Dokter memberikan obat yang dapat menstabilkan sel mast supaya tidak terjadi pelepasan histamin. Obat tersebut adalah?",
+    img: "",
+    options: ["Kromolin", "Omalizumab", "Albuterol", "Budenosid", "Ipratropium"],
+    answer: 0
+  },
+  {
+    question: "Salah satu pilihan obat kanker adalah golongan antimetabolit yang bekerja dengan menghambat fase sintesis siklus sel. Yang bukan merupakan obat golongan antimetabolit adalah?",
+    img: "",
+    options: ["Metotreksat", "6-merkaptopurin", "5-fluorourasil", "Doxorubisin", "Gemcitabine"],
+    answer: 3
+  },
+  {
+    question: "Seorang pasien laki-laki dirawat di Burn Unit akibat luka bakar parah yang dideritanya. Untuk mencegah perdarahan mukosa akibat stress (stress-related mucosal bleeding). Obat apa yang akan disarankan pada dokter?",
+    img: "",
+    options: ["Lansoprazole", "Antasida", "Bismuth Subsalisilat", "Simetidin", "Sukralfat"],
+    answer: 0
+  },
+  {
+    question: "Industri farmasi sedang mengembangkan sediaan omeprazole dikombinasi dengan natrium bikarbonat. Apa tujuan kombinasi obat tersebut?",
+    img: "12spsp.png",
+    options: ["Untuk menurunkan pH lambung", "Untuk meningkatkan distribusi obat di sistemik", "Untuk membantu mengurangi gelembung gas di lambung", "Meningkatkan absorbsi omeprazole", "Meningkatkan metabolisme omeprazole"],
+    answer: 3
+  },
+  {
+    question: " Seorang ibu berusia 40 tahun datang ke apotek dan menanyakan cara penggunaan spacer device. Manakah cara penggunaan spacer device di bawah ini yang tidak tepat?",
+    img: "",
+    options: ["Segera menghirup dari spacer setelah penyemprotan", "Penekanan dosis tunggal", "Alat harus dibersihkan sebulan sekali", "Alat harus rutin dibersihkan setiap hari", "Alat harus diganti setiap 6-12 bulan"],
+    answer: 3
+  },
+  {
+    question: "Seorang anak usia 6 tahun mempunyai riwayat asma, pergi jalan-jalan ke luar kota dengan suhu dingin. Sediaan apa yang paling tepat untuk dibawa oleh pasien tersebut sebagai antisipasi jika terjadi serangan asma?",
+    img: "",
+    options: ["Ipratropium bromide inhalasi", "Prednisone tablet", "Inhalasi budesonide-formoterol", "Inhalasi salbutamol", "Inhalasi flutikason furoat"],
+    answer: 3
+  },
+  {
+    question: "Pasien penderita PPOK diberikan obat tambahan yaitu Roflumilast dan bertanya kepada apoteker apa fungsi dari obat tersebut, karena selama ini dia hanya menggunakan inhalasi salbutamol. Apa manfaat dari pemberian Roflumilast?",
+    img: "",
+    options: ["Antiinflamasi", "Antibiotik", "Suplemen", "Bronkodilator", "Vasodilator"],
+    answer: 0
+  },
+  {
+    question: "Seorang wanita 27 tahun mengalami pilek karena alergi cuaca dingin dan diberikan tetes hidung nafazolin. Berapa lama batas penggunaan obat tersebut?",
+    img: "",
+    options: ["1 hari", "3 hari", "6 hari", "9 hari", "12 hari"],
+    answer: 1
+  },
+  {
+    question: "Seorang wanita dengan usia kehamilan 20 minggu datang ke apotek. Wanita tersebut sudah makan cukup serat dan masih sulit untuk buang air besar. Pasien tersebut meminta obat untuk mengatasi konstipasi yang dialaminya dengan cepat. Apa obat yang direkomendasikan untuk wanita itu?",
+    img: "",
+    options: ["Isphagula sekam", "laktulosa", "Gliserin", "Bisacodyl oral", "Sorbitol enema"],
+    answer: 4
+  },
+  {
+    question: "Seorang pasien wanita 45 tahun berkonsultasi ke dokter mata terkait gangguan penglihatan yang dialaminya. Dokter mendiagnosis pasien mengalami glaukoma primer sudut terbuka. Dokter memberikan obat tetes mata yang berisi timolol. Bagaimakah mekanisme kerja obat tersebut?",
+    img: "",
+    options: ["Meningkatkan aliran keluar uveoscleral", "Kontraksi pupil", "Meningkatkan tekanan osmosis", "Menurunkan produksi aqueous humor", "Meningkatkan aliran keluar trabekula"],
+    answer: 3
+  },
+  {
+    question: "Seorang pria berusia 23 tahun datang ke apotek. Pasien mengeluh perih dan rasa terbakar pada perut, perut kembung dan sendawa terasa pahit, serta saat muntah terdapat sedikit darah. Rasa ini terjadi terutama pada malam hari. Apa obat yang direkomendasikan untuk pasien tersebut dan bagaimana cara mengonsumsinya?",
+    img: "",
+    options: ["Omeprazole dikonsumsi 30 menit sebelum makan malam", "Lansoprazole dikonsumsi 30 menit sebelum makan pagi", "Ranitidine dikonsumsi 15 menit sebelum makan malam", "Antasida dikonsumsi 2 jam setelah makan malam", "Sukralfat dikonsumsi 30 menit sebelum makan"],
+    answer: 0
+  },
+  {
+    question: "Seorang pasien wanita 28 tahun didiagnosis dokter mengalami glaukoma primer sudut terbuka. Saat ini, pasien dalam kondisi hamil 9 minggu. Dokter bertanya kepada apoteker terkait obat yang aman diberikan pada pasien. Sebagai apoteker, obat apa yang dapat disarankan untuk pasien tersebut?",
+    img: "",
+    options: ["Pilokarpin", "Dorzolamide", "Latanoprost", "Timolol", "Brimonidine"],
+    answer: 4
+  },
+  {
+    question: "Seorang pasien datang ke dokter mengeluhkan mudah mengantuk dan mulut kering setelah menggunakan klorfeniramin maleat untuk mengobati rhinitis alergi yang dialaminya. Dokter bertanya kepada apoteker terkait alternatif obat yang dapat diberikan kepada pasien. Sebagai apoteker, obat apa yang dapat disarankan untuk pasien tersebut?",
+    img: "",
+    options: ["Desloratadin", "Difenhidramin", "Prometazin", "Cetirizin", "Clemastin"],
+    answer: 0
+  },
+  {
+    question: "Pasien menerima terapi Siklofosfamid untuk pengobatan kanker. Efek samping apakah yang dapat muncul dari penggunaan obat tersebut?",
+    img: "",
+    options: ["Kardiomiopati", "Cystisis hemoragic", "Mielosupresi", "Trombositopenia", "Hiperurisemia"],
+    answer: 1
+  },
+  {
+    question: "Seorang laki-laki datang ke apotek mengeluhkan mata perih terkena iritasi ringan karena debu. Obat tetes mata apa yang disarankan?",
+    img: "",
+    options: ["Tetrahidrozolin HCl", "Polimiksin", "Latanaprost", "Kloramfenikol", "Neomisin"],
+    answer: 0
+  },
+  {
+    question: "Seorang pasien pilek dan mengonsumsi Pseudoefedrin. Setelah beberapa hari pasien mengeluhkan jantung berdebar dan sakit kepala. Setelah dilakukan pemeriksaan pasien mengalami hipertensi. Bagaimana mekanisme Pseudoefedrin menyebabkan kenaikan tekanan darah? (TO UKMPPAI November 2024)",
+    img: "",
+    options: ["Agonis Alfa 1", "Agonis Alfa 2", "Antagonis Alfa 2", "Antagonis Beta 1", "Antagonis Beta 2"],
+    answer: 0
+  },
+  {
+    question: "Seorang pasien wanita 56 tahun, berat badan 73 kg, dan tinggi 168 cm, menderita kanker ovarian stage 3 serta menerima regimen terapi CT (Carboplatin Taxon) yang terdiri dari carboplatin dan paclitaxel. Rumus yang digunakan untuk menentukan dosis carboplatin adalah?",
+    img: "",
+    options: ["Body Surface Area (BSA)", "Rumus Calvert (AUC)", "Rumus Cockroft & Gault", "Rumus Cowling", "Rumus Du Bois and Du Bois"],
+    answer: 1
+  },
+{
+  question: "Seorang pasien laki-laki 25 tahun mengeluhkan iritasi mata yang dialaminya. Kondisi mata pasien merah, bengkak, serta berair. Pasien didiagnosis mengalami konjungtivitis. Pasien diberikan tetes mata yang mengandung antibiotik dan diketahui memiliki alergi penilisin. Obat yang tepat diberikan adalah?",
+  img: "",
+  options: ["Levofloksasin MD", "Erythromycin ED", "Chloramphenicol ED", "Ofloxacin ED", "Tobramycin ED"],
+  answer: 2
+},
+{
+  question: "Seorang ibu datang ke apotek meminta rekomendasi apoteker untuk anaknya yang berumur 4 tahun mengenai obat apa yang perlu disediakan di rumah ketika terjadi serangan asma kambuh. Apoteker memberikan saran obat dan meminta ibu untuk membawa anaknya ke dokter untuk meminta resep obat tersebut. Obat tersebut adalah golongan?",
+  img: "",
+  options: ["Inhaler salbutamol", "Inhaler formoterol", "Inhaler tiotropium bromida", "Inhaler budesonide-formoterol", "Tablet teofilin"],
+  answer: 0
+},
+{
+  question: "Bapak Y sering mengonsumsi makanan yang dapat meningkatkan kadar gas pada tubuh. Ia merasa perutnya lama-lama kembung dan terasa tidak enak. Pasien datang ke apotek X dan diberikan obat antasida. Zat apakah yang mampu mengatasi kondisi tersebut?",
+  img: "",
+  options: ["Alumunium hidroksida", "Attapulgit", "Kaolin", "Pectin", "Dimethicon"],
+  answer: 4
+},
+{
+  question: "Seorang pasien laki-laki usia 65 tahun mengeluhkan hidung meler dan gatal yang tidak kunjung membaik. Pasien memiliki riwayat alergi terhadap debu dan hipertensi. Dokter mendiagnosis pasien mengalami rhinitis alergi. Sebagai apoteker, obat apakah yang dapat disarankan untuk pasien tersebut?",
+  img: "",
+  options: ["Prometazin", "Loratadin", "Difenhidramin", "Pseudoefedrin", "Fenilefrin"],
+  answer: 1
+},
+{
+  question: "Seorang perempuan memeriksakan diri ke dokter dengan keluhan mata panas, perih, dan sering berair. Pasien mengaku sering menggunakan softlens yang dicuci dengan air aqua. Dokter mendiagnosis pasien terkena keratitis. Obat tetes mata yang tepat adalah?",
+  img: "",
+  options: ["Tetrahydrozoline", "Tobramicyn", "Timolol", "Levofloksasin", "Latanoprost"],
+  answer: 3
+},
+{
+  question: "Pasien glaukoma menerima obat untuk menurunkan tekanan intraokular. Setelah beberapa hari menggunakan, terjadi perubahan warna iris mata menjadi coklat kekuningan. Obat apa yang menyebabkan perubahan tersebut?",
+  img: "31spsp.png",
+  options: ["Betaxolol", "Brimonidin", "Pilokarpin", "Latanoprost", "Dorzolamid"],
+  answer: 3
+},
+{
+  question: "Seorang anak berusia 6 tahun mengalami sesak nafas dan sering mengeluarkan dahak yang tidak berwarna. Ayah dari anak ini merupakan perokok aktif dan sering merokok di dalam rumahnya. Setelah diperiksa, anak ini menderita PPOK. Obat apakah yang diberikan saat anak mengalami sesak nafas?",
+  img: "",
+  options: ["Salbutamol inhaler", "Budesonide inhaler", "Teofilin inhaler", "Prednisolon tablet", "Amoksisilin tablet"],
+  answer: 0
+},
+{
+  question: "Seorang apoteker bagian R&D industri sedang mengembangkan sediaan inhalasi salbutamol dan melakukan studi mengenai structure-activity relationship dari salbutamol. Salbutamol memiliki struktur dasar yang sama dengan epinefrin, yaitu β-fenil etilamin. Epinefrin bekerja pada reseptor adrenergik α-1, α-2,β-1, dan β-2. Salbutamol memiliki perbedaan struktur dengan epinefrin, yang mana menyebabkan salbutamol bekerja spesifik sebagai agonis reseptor β-2. Gugus apa dari salbutamol yang menyebabkan kerja spesifik tersebut? (UKAI Februari 2023)",
+  img: "33spsp.png",
+  options: ["Gugus N-tersier butil", "Gugus metil pada amin", "Gugus hidroksi pada posisi meta cincin fenil", "Gugus hidroksi pada karbon β", "Gugus benzen"],
+  answer: 0
+},
+{
+  question: "Seorang ibu hamil rutin menggunakan inhalasi flutikason untuk mengontrol asmanya. Ibu tersebut datang ke apotek dengan keluhan adanya lesi putih pada lidah dan pipi bagian dalamnya. Sebagai apoteker, edukasi apa yang anda berikan?",
+  img: "",
+  options: ["Ganti obat dengan inhalasi budesonide", "Ganti obat dengan inhalasi formoterol", "Ganti dengan flutikason oral", "Sikat gigi sebelum inhalasi flutikason", "Penggunaan spacer device setiap kali memakai inhalasi flutikason"],
+  answer: 4
+},
+{
+  question: "Dalam pencegahan stress ulcer, dokter meresepkan omeprazol kapsul untuk seorang pasien yang dirawat di ICU dan terpasang NGT (nasogastric tube). Perawat bertanya bagaimana administrasi obat?",
+  img: "",
+  options: ["Kapsul dibuka, granul dilarutkan dalam NaHCO3", "Cangkang kapsul dilepas, granul dilarutkan alkohol", "Kapsul langsung dimasukkan ke dalam NGT karena jika dibuka mempengaruhi pelepasannya", "Kapsul dibuka, granul digerus menyerupai serbuk", "Cangkang kapsul dilepas, granul dimasukkan ke dalam NGT"],
+  answer: 0
+},
+{
+  question: "Pasien wanita mengeluhkan kondisi matanya dan didiagnosis glaukoma sudut terbuka oleh dokter. Dokter memberikan sediaan yang mengandung latanoprost. Bagaimana mekanisme kerja obat tersebut? (UKAI Agustus 2022)",
+  img: "",
+  options: ["Mencegah peningkatan IOP", "Menurunkan pengeluaran trabekular pada aqueus humor", "Menurunkan aqueus humor pada siliaris mata", "Meningkatkan aliran keluar uveoscleral", "Meningkatkan aqueus humor pada siliaris mata"],
+  answer: 3
+},
+{
+  question: "Seorang pasien wanita usia 20 tahun mengeluhkan hidung meler dan gatal. Keluhan terutama dirasakan saat udara dingin. Pasien didiagnosis dokter mengalami rhinitis alergi. Dokter akan memberikan obat antihistamin intranasal. Obat apakah yang dapat diberikan pada pasien tersebut?",
+  img: "",
+  options: ["Cetirizin", "Bepotastine", "Klorfeniramin maleat", "Loratadin", "Azelastin"],
+  answer: 4
+},
+{
+  question: "Seorang pasien datang ke IGD dengan diagnosis glaukoma. Pasien tersebut mendapatkan terapi menggunakan Pilokarpin dalam bentuk ocusert. Melalui apakah absorbsi obat bekerja?",
+  img: "38spsp.png",
+  options: ["Pupil", "Konjungtiva", "Kornea", "Retina", "Lensa"],
+  answer: 1
+},
+{
+  question: "Seorang pasien wanita membawa pulang obat atas keluhan gangguan saluran cerna yang dialaminya. Sesampai di rumah, pasien segera minum obat. Keesokan hari, pasien mengalami efek samping berupa otot tangan dan kaki tiba-tiba berkontraksi sendiri, tremor, dan mata berkedip-kedip dengan cepat. Apa obat saluran cerna yang memiliki efek samping tersebut?",
+  img: "",
+  options: ["Ondansetron", "Metoklopramid", "Ranitidin", "Antasida", "Omeprazole"],
+  answer: 1
+},
+{
+  question: "Seorang perempuan hamil 9 minggu mengeluh sakit perut. Diketahui pasien memiliki riwayat gangguan pada saluran pencernaannya. Golongan obat gastrointestinal yang dikontraindikasikan pada ibu hamil karena dapat membuat keguguran adalah?",
+  img: "",
+  options: ["Antagonis reseptor H2", "Antasida", "Pompa proton inhibitor", "Analog prostaglandin", "Pelindung mukosa"],
+  answer: 3
+},
+{
+  question: "Pasien diberikan obat lansoprazole dan antasida. Sebagai apoteker, bagaimana menjelaskan aturan minum obat tersebut kepada pasien?",
+  img: "",
+  options: ["Antasida diminum terlebih dahulu, ½ jam kemudian lansoprazol", "Lansoprazole diminum terlebih dahulu, 1 jam kemudian antasida", "Diminum bersamaan", "Antasida diminum sebelum makan dan lansoprazole sesudah makan", "Lansoprazole diminum sebelum makan dan antasida sesudah makan"],
+  answer: 4
+},
+{
+  question: "Seorang pria berusia 21 tahun memulai program etoposide, ifosfamide, cisplatin, dan mesna for pengobatan kanker testis metastatik. Dalam regimen juga termasuk ondansetron for pencegahan mual dan muntah. Tiga hari memasuki siklus pertama, pasien mengeluh telinga berdenging dan kesulitan mendengar. Ahli onkologi mencurigai pasien mengalami efek samping karena salah satu obat-obatan. Manakah dari obat berikut ini yang menyebabkan gejala pasien?",
+  img: "",
+  options: ["Cisplatin", "Etoposide", "Ifosfamide", "Mesna", "Ondansetron"],
+  answer: 0
+},
+{
+  question: "Seorang ibu datang ke apotek membeli sirup dimenhydrinate for anaknya yang akan bepergian menggunakan kereta. Ibu tersebut bertanya, bagaimana cara penggunaan obat yang efektif?",
+  img: "",
+  options: ["Obat diminum 30 menit sebelum berangkat", "Obat diminum saat akan berangkat", "Obat diminum ketika mulai terasa mual", "Obat diminum 30 menit sebelum makan", "Obat diminum 60 menit sebelum berangkat"],
+  answer: 0
+},
+{
+  question: "Pasien mengalami asma berat dan dibawa ke RS RAIH. Saat ini pasien mendapatkan terapi ICS. Karena pasien telah membaik, dokter ingin mengganti ICS dengan terapi oral. Apa rekomendasi apoteker?",
+  img: "",
+  options: ["Salbutamol", "Aminofilin", "Prednisolon", "Kromolin", "Zafirlukast"],
+  answer: 2
+},
+{
+  question: "Seorang pasien wanita 23 tahun mengeluhkan mata merah dan gatal. Setelah dilakukan pemeriksaan, pasien didiagnosis mengalami konjungtivitis alergi. Dokter akan memberikan terapi antihistamin optalmik. Obat apakah yang dapat diberikan pada pasien tersebut?",
+  img: "",
+  options: ["Loratadin", "Cetirizin", "Olopatadin", "Klorfeniramin maleat", "Deksametason"],
+  answer: 2
+},
+{
+  question: "Seorang pasien usia 65 tahun masuk rumah sakit. Pasien didiagnosis oleh dokter mengalami kanker getah bening. Dokter memberikan obat yang spesifik pada fase G2. Obat kanker apa yang diberikan?",
+  img: "",
+  options: ["Prokarbazin", "Sitarabin", "Metotreksat", "Paklitaksel", "Bleomisin"],
+  answer: 4
+},
+{
+  question: "Seorang perempuan 30 tahun mengalami asma dan mendapatkan terapi asma menggunakan obat oral. Berdasarkan riwayat penyakit, pasien juga menderita DM. Obat manakah yang dapat memicu peningkatkan kadar glukosa darah pasien tersebut?",
+  img: "",
+  options: ["Salbutamol", "Flutikason", "Beclomethasone", "Ipratropium bromida", "Cromolin"],
+  answer: 0
+},
+{
+  question: "Seorang pasien datang memeriksakan diri ke dokter dengan keluhan mata bengkak, merah, dan nyeri. Dokter menjelaskan bahwa terjadi inflamasi pada konjungtivita pasien, yang kemungkinan disebabkan karena alergi. Obat apakah yang dapat diberikan untuk inflamasi pada konjungtiva karena alergi?",
+  img: "",
+  options: ["Antazolin", "Tobramisin sulfat", "Asiklovir", "Pilokarpin", "Timolol"],
+  answer: 0
+},
+{
+  question: "Seorang pasien lansia pergi ke rumah sakit karena keluhan konstipasi yang dialaminya. Dokter kemudian menjelaskan bahwa pasien mengalami konstipasi kronis disertai dengan tonus usus yang parah. Sebagai apoteker, obat apa yang direkomendasikan untuk pasien?",
+  img: "",
+  options: ["Minyak jarak", "Phenolphtalein", "Sorbitol", "Minyak mineral", "Magnesium hidroksida"],
+  answer: 2
+},
+{
+  question: "Seorang laki-laki usia 18 tahun datang ke apotek untuk menebus resep yang berisi loperamide. Pasien mengeluhkan mengalami diare. Bagaimanakah mekanisme kerja obat tersebut?",
+  img: "",
+  options: ["Melapisi dinding saluran pencernaan", "Memblok reseptor asetilkolin", "Menekan pertumbuhan bakteri penyebab diare", "Memblok kanal ion kalsium dan berikatan dengan reseptor opioid", "Menjaga keseimbangan cairan tubuh"],
+  answer: 3
+},
+{
+  question: "Seorang bapak berusia 56 tahun, tinggi badan 165 cm, dan beratnya 60 kg menderita penyakit sirosis hati, asites, dan ensefalopati hepatik. Pasien diberikan obat laktulosa 500 mg 3 x sehari. Apa indikasi dari laktulosa tersebut?",
+  img: "",
+  options: ["Asites", "Ensefalopati hepatik", "Sirosis hati", "Pencahar", "Gangguan pencernaan"],
+  answer: 1
+},
+{
+  question: "Seorang pasien wanita 45 tahun berkonsultasi ke dokter mata terkait gangguan penglihatan yang dialaminya. Dokter mendiagnosis pasien mengalami glaukoma primer sudut terbuka. Dokter memberikan obat tetes mata latanaprost. 2 hari kemudian pasien datang kembali dengan keluhan tidak cocok dengan obat yang diresepkan dan mengalami reaksi hipersensitivitas. Dokter akan mengganti obat dan berdiskusi dengan apoteker terkait pilihan obat yang paling tepat. Apa rekomendasi anda? (UKAI Februari 2023)",
+  img: "",
+  options: ["Betaxolol", "Brimonidin", "Pilokarpin", "Bimatoprost", "Dorzolamid"],
+  answer: 0
+},
+{
+  question: "Seorang pasien datang ke apotek mengeluhkan tekanan darah yang akhir-akhir ini sering tinggi. Pasien memiliki riwayat glaukoma dan rutin menggunakan obat tetes mata yang diresepkan oleh dokter. Obat apa yang dapat menyebabkan keluhan tersebut?",
+  img: "",
+  options: ["Pilokarpin", "Latanoprost", "Timolol", "Brinzolamide", "Asetazolamide"],
+  answer: 0
+},
+{
+  question: "Seorang laki laki 22 tahun menjalani terapi pengobatan asma kronis. Setelah penggunaan obat asma, terjadi peningkatan kadar SGOT dan SGPT. Obat asma apakah yang menyebabkan perubahan tersebut?",
+  img: "",
+  options: ["Zileuton", "Salbutamol", "Betametason", "Bromheksin", "Kromolin"],
+  answer: 0
+},
+{
+  question: "Seorang pasien laki-laki usia 50 tahun dilarikan ke RS dengan keluhan demam dan nyeri perut. Beliau menderita sirosis hepatik dengan komplikasi asites, kondisi perut yang membesar berisi cairan. Dokter mencurigai adanya Spontaneous Bacterial Peritonitis sehingga hendak memberikan antibiotik empiris yang cukup mencakup tiga patogen yang paling sering ditemui yaitu E. coli, K. pneumoniae, dan pneumococci. Dokter bertanya pada anda sebagai apoteker, antibiotik apa yang dapat anda rekomendasikan untuk menangani keluhan tersebut?",
+  img: "",
+  options: ["Cefotaxime 2 gram setiap 8 jam", "Metronidazole 500 mg setiap 8 jam", "Ciprofloksasin 500 mg setiap 12 jam", "Amikasin 250 mg setiap 12 jam", "Vancomycin 600 mg setiap 12 jam"],
+  answer: 0
+},
+{
+  question: "Seorang wanita 62 tahun memiliki riwayat glaukoma sudut terbuka. Dia secara tidak sengaja meneteskan pilokarpin berlebihan ke matanya. Manakah akibat dari tindakan tersebut?",
+  img: "",
+  options: ["Kontraksi otot polos bronkus", "Menurunkan motilitas gastrointestinal", "Dilatasi pembuluh darah", "Midriasis", "Konstipasi"],
+  answer: 2
+},
+{
+  question: "Seorang pasien laki-laki usia 56 tahun mengalami glaukoma sudut terbuka dengan riwayat hipertensi dan gagal ginjal. Dokter memberikan terapi latanoprost. Indikator apa yang diperlukan untuk memantau efektivitas terapi? (UKAI Agustus 2022)",
+  img: "",
+  options: ["Tekanan darah", "Tekanan intraokular", "Serum kreatinin", "Profil darah", "BUN"],
+  answer: 1
+},
+{
+  question: "Seorang pasien menderita GERD dan rutin mengonsumsi lansoprazole selama hampir 10 minggu. Parameter apa yg harus dimonitor jika menggunakan lansoprazole jangka panjang? (TO UKMPPAI November 2024)",
+  img: "",
+  options: ["Densitas tulang", "SGOT/SGPT", "LDL", "Gula darah", "Asam folat"],
+  answer: 0
+},
+{
+  question: "Seorang pria berusia 62 tahun datang ke ruang gawat darurat dengan keluhan sesak napas dan pusing. Pemeriksaan lebih lanjut mengungkapkan takiaritmia. Pasien baru-baru ini mulai menggunakan moxifloxacin untuk penanganan infeksi saluran pernapasan atas dan apoteker khawatir bahwa gejalanya disebabkan oleh interaksi obat dengan obat asmanya. Manakah dari obat-obatan berikut yang kemungkinan besar dikonsumsi pasien untuk pengelolaan asma?",
+  img: "",
+  options: ["Albuterol", "Budesonide", "Omalizumab", "Prednison", "Teofilin"],
+  answer: 4
+},
+{
+  question: "Seorang pasien GERD merasa tidak nyaman karena sering kali bersendawa. Apa rekomendasi terapi untuk kondisi pasien tersebut?",
+  img: "",
+  options: ["Ranitidine", "Vonoprazan", "Rebamipide", "Baclofen", "Lansoprazole"],
+  answer: 3
+},
+{
+  question: "Obat lambung yang bekerja dengan kompetitif mengikat situs pengikatan K+ pada enzim H+/K+-ATPase (proton pump) di membrane sel parietal lambung dengan onset kerja paling cepat yaitu?",
+  img: "",
+  options: ["Lansoprazole", "Esomeprazol", "Pantoprazol", "Rabeprazol", "Vonoprazan"],
+  answer: 4
+},
+{
+  question: "Seorang pasien kanker menjalani kemoterapi. Setelah dilakukan kemoterapi, pasien tersebut mengalami diare. Dokter menanyakan obat apa yang dapat digunakan untuk mengatasi diare pasien tersebut. Apa obat yang direkomendasikan untuk pasien tersebut?",
+  img: "",
+  options: ["Bismuth subsalicylate", "Polycarbophill", "Difenoksilat", "Ocreotide", "Colestiramine"],
+  answer: 3
+},
+{
+  question: "Seorang pasien datang ke IGD RS Raih dini hari dengan keluhan nyeri ulu hati yang tidak tertahankan oleh pasien. Setelah diperiksa dokter, ternyata pasien mengalami kenaikan asam lambung. Apakah rekomendasi terapi yang diberikan kepada pasien?",
+  img: "",
+  options: ["Omeprazole", "Antasida", "Sukralfat", "Misoprostol", "Ranitidin"],
+  answer: 4
+},
+{
+  question: "Ibu hamil trimester 2 mengalami GERD dan sudah menggunakan lansoprazol, tetapi asam lambung masih naik ke kerongkongan. Apakah rekomendasi obat tambahan yang dapat diberikan kepada pasien? (TO UKMPPAI November 2024)",
+  img: "",
+  options: ["Metoklopramide", "Antasida", "Sukralfat", "Domperidone", "Ranitidin"],
+  answer: 0
+},
+{
+  question: "Seorang bapak berusia 50 tahun rutin menggunakan inhaler yang mengandung budesonide dosis rendah dan formoterol. Setelah dilakukan evaluasi, dokter meresepkan obat budesonide inhaler dosis rendah untuk penggunaan selanjutnya. Berapa lamakah waktu minimal untuk menentukan step down pengobatan asma?",
+  img: "",
+  options: ["1 bulan", "2 bulan", "3 bulan", "4 bulan", "5 bulan"],
+  answer: 2
+},
+{
+  question: "Seorang pasien laki-laki 30 tahun diberikan obat takrolimus oleh dokter pasca transplantasi organ ginjal yang dialaminya. Apa tujuan pemberian takrolimus pada kasus di atas?",
+  img: "",
+  options: ["Sebagai imunosuppresan", "Kortikosteroid", "Sebagai antibodi monoklonal", "Sebagai Imunosupresan antiproliferative", "Sebagai penghambat kalsineurin pencegahan adanya respon penolakan organ pada penerima transplantasi hati dan ginjal"],
+  answer: 4
+},
+{
+  question: "Seorang pasien anak datang ke Apotek Raih dengan kondisi mata cekung dan keinginan untuk terus minum. Pasien berumur 8 bulan dengan berat badan 7 kg. Berapa mL pemberian larutan oralit pada pasien?",
+  img: "",
+  options: ["100-200", "200-450", "450-800", "800-960", "960-1600"],
+  answer: 2
+},
+{
+  question: "Seorang anak berusia 10 tahun mendapatkan terapi nebulizer untuk mengatasi asma akut berat. Ternyata nebulizer yang diresepkan perlu diencerkan terlebih dahulu. Manakah di bawah ini yang merupakan pengencer nebulizer?",
+  img: "",
+  options: ["Larutan NaCl 0,9% steril", "Larutan NaCl 3% steril", "Larutan NaCl 0,45% steril", "Larutan aquades steril", "Larutan aqua for injection"],
+  answer: 0
+},
+{
+  question: "Pasien kanker diberikan terapi oleh dokter yaitu obat siklofosfamid. Agar mencegah terjadinya efek samping pendarahan kandung kemih, maka pasien diberikan? (UKAI Agustus 2022)",
+  img: "",
+  options: ["Mesna", "Leukovorin", "Deksametason", "Antagonis reseptor H2", "Allopurinol"],
+  answer: 0
+},
+{
+  question: "Seorang pasien dilakukan tindakan bedah rektum di RS Raih. Apa rekomendasi terapi pasien supaya tidak terjadi konstipasi pasca bedah rectum?",
+  img: "",
+  options: ["Laktulosa", "Bisakodil", "Paraffin", "Lubiproston", "Psyllium"],
+  answer: 2
+},
+{
+  question: "Pasien laki-laki berusia 60 tahun mengeluhkan susah BAB sejak seminggu yang lalu. Pasien sudah menggunakan obat dengan kandungan sorbitol, tetapi tidak efektif. Obat apa yang akan dipilihkan?",
+  img: "",
+  options: ["PEG", "Bisakodil", "Na docusate", "Psyllium", "Sodium fosfat"],
+  answer: 1
+},
+{
+  question: "Seorang pasien diare tidak ada tanda-tanda infeksi, sudah diberikan attapulgit namun masih tetap diare. Apakah rekomendasi terapi yang dapat digunakan untuk mengatasi kondisi diare pasien?",
+  img: "",
+  options: ["Loperamide", "Kaolin pektin", "Zink", "Okreotid", "Bismuth subsalisilat"],
+  answer: 0
+},
+{
+  question: "Seorang pasien datang ke Apotek Raih untuk konsultasi obat bersama apoteker. Pasien rutin mengonsumsi obat lambung dan sudah 5 hari tidak bisa BAB. Manakah obat lambung yang memiliki efek samping konstipasi? (UKMPPAI Februari 2025)",
+  img: "",
+  options: ["Sukralfat", "Omeprazole", "Ranitidin", "Simetikon", "Misoprostol"],
+  answer: 0
+},
+{
+  question: "Pasien mengalami perdarahan saluran cerna akibat penggunaan NSAID. Dokter mengatakan NSAID belum memungkinkan untuk dihentikan. Apa terapi tambahan yang akan anda sarankan?",
+  img: "",
+  options: ["Omeprazole", "Simetidin", "Ranitidin", "Sukralfat", "Antasida"],
+  answer: 0
+},
+{
+  question: "Seorang pasien perempuan terkena kanker dan mendapatkan kemoterapi injeksi yang memiliki mekanisme kerja dengan mengikat tubulin pada metaphase. Apakah agen kemoterapi yang dimaksud?",
+  img: "",
+  options: ["Alkilating agen", "Antimetabolit", "Taxan", "Alkaloid vinka", "Topoisomerase inhibitor"],
+  answer: 3
+},
+{
+  question: "Seorang pasien didiagnosis spontaneous bacterial peritonitis (SBP). Dokter ingin memberikan antibiotik profilaksis kepada pasien, ternyata pasien alergi betalaktam. Apakah rekomendasi antibiotik yang dapat diberikan kepada pasien?",
+  img: "",
+  options: ["Seftriakson", "Gentamisin", "Metronidazol", "Kotrimoksazol", "Siprofloksasin"],
+  answer: 4
+},
+{
+  question: "Seorang pasien sirosis hepatis mengalami komplikasi hipertensi portal dan dokter berencana memberikan terapi beta blocker. Apa rekomendasi terapi beta blocker dengan efektivitas paling bagus?",
+  img: "",
+  options: ["Propranolol", "Nadolol", "Carvedilol", "Bisoprolol", "Labetalol"],
+  answer: 2
+},
+{
+  question: "Pasien didiagnosis tukak lambung infeksi H. Pylori. Pasien juga alergi terhadap omeprazole. Apa pengganti obat lambung pada pasien?",
+  img: "",
+  options: ["Antagonis reseptor H2", "Antasida", "Bismuth", "Analog prostaglandin", "Pelindung mukosa"],
+  answer: 0
+},
+{
+  question: "Seorang pasien lansia mual muntah 3x datang ke poliklinik umum Raih. Dokter ingin memberikan obat untuk mengatasi kondisi tersebut, apakah rekomendasi obat yang dapat diberikan kepada pasien? (UKMPPAI Februari 2025)",
+  img: "",
+  options: ["Metoklopramid", "Hiosin", "Piridoksin", "Dimehidrinat", "Domperidone"],
+  answer: 4
+},
+{
+  question: "Seorang anak 2 tahun mengalami diare dengan kondisi feses tidak memiliki bercak darah. Selain diberikan oralit, anak tersebut juga diberikan sirup zinc. Bagaimana dosis dan lama penggunaan sirup zinc tersebut? (UKAI Agustus 2022)",
+  img: "",
+  options: ["10 mg setiap 3-4 kali sehari selama 7-14 hari", "20 mg setiap 2-4 kali sehari selama 5 hari", "10 mg setiap buang air besar selama 3 hari", "20 mg setiap hari selama 10-14 hari", "10 mg setiap 1-3 kali sehari selama 14 hari"],
+  answer: 3
+},
+{
+  question: "Seorang wanita datang ke dokter dengan keluhan nyeri pada ulu hati, dada terasa terbakar, dan mual muntah. Dokter ingin memberikan obat yang mempercepat pengosongan lambung. Obat apakah yang anda sarankan?",
+  img: "",
+  options: ["Sukralfat", "Misoprostol", "Antasida", "Metoklopramid", "Ranitidin"],
+  answer: 3
+},
+{
+  question: "Seorang pria berusia 65 tahun datang kerumah sakit. Pasien mengeluh BAB sebanyak 3 kali sehari dengan darah. Saat dilakukan cek lab, ESR menunjukkan nilai < 30. Dokter mendiagnosis pasien mengalami ulcerative colitis dengan derajat ringan. Sebagai apoteker, apa obat yang direkomendasikan untuk pasien tersebut?",
+  img: "",
+  options: ["Sulfasalazine", "Prednisone", "Infliximab", "Cyclosporine", "Certolizumab"],
+  answer: 0
+},
+{
+  question: "Seorang pasien asma rutin mengonsumsi obat anti asma. Setelah beberapa hari pasien mengalami gejala jantung berdebar. Apakah obat anti asma yang menyebabkan kondisi tersebut? (TO UKMPPAI November 2024)",
+  img: "",
+  options: ["Salbutamol", "Aminofilin", "Prednisolon", "Kromolin", "Zafirlukast"],
+  answer: 0
+},
+{
+  question: "Seorang ibu datang ke apotek untuk berkonsultasi mengenai pengobatan anaknya yang berusia 6 tahun. Dua hari yang lalu, ibu membeli sirup ibuprofen untuk mengobati demam anaknya. Anak tersebut memiliki riwayat penyakit asma dengan riwayat pengobatan inhalasi salbutamol (prn) and inhalasi salmeterol-fluticasone. Demam pada anaknya sudah membaik, tetapi pasien mengalami serangan asma terus menerus. DRP apakah yang kemungkinan terjadi pada pasien?",
+  img: "",
+  options: ["Toleransi inhalasi salbutamol", "Toleransi inhalasi salmeterol-fluticasone", "Interaksi Ibuprofen dengan salbutamol", "Interaksi Ibuprofen dengan salmeterol-fluticasone", "Efek samping dari Ibuprofen"],
+  answer: 4
+},
+{
+  question: "Seorang pasien datang ke poliklinik mata RS RAIH dengan diagnosis glaukoma sudut terbuka. Pasien rutin menggunakan timolol, tetapi tidak ada perbaikan. Apa terapi pengganti yang dapat digunakan pasien? (UKMPPAI Februari 2025)",
+  img: "",
+  options: ["Latanoprost", "Brimonidin", "Pilokarpin", "Manitol", "Gliserin"],
+  answer: 0
+},
+{
+  question: "Seorang pasien wanita usia 20 tahun menderita rhinitis alergi. Gejala pasien bersifat kronis serta dipicu oleh alergen debu and tungau. Obat apa yang apoteker rekomendasikan untuk pasien tersebut?",
+  img: "",
+  options: ["Intranasal flutikason fumarat", "Intranasal ipratropium bromide", "Intranasal azelastin", "Intranasal kromolin sodium", "Pseudoefedrin oral"],
+  answer: 0
+},
+{
+  question: "Seorang pasien diagnosis glaukoma sudut terbuka rutin menggunakan obat. Setelah beberapa minggu penggunaan pasien susah berkemih and didapati pasien mengalami batu ginjal. Obat manakah yang menyebabkan hal tersebut? (TO UKMPPAI November 2024)",
+  img: "",
+  options: ["Pilokarpin", "Dorzolamide", "Latanoprost", "Timolol", "Brimonidine"],
+  answer: 1
+},
+{
+  question: "Seorang wanita usia 30 tahun datang ke apotek membawa resep obat tetes telinga for anaknya yang berusia 3 tahun. Apoteker menjelaskan cara penggunaan obat tersebut for anaknya. Bagaimana cara penggunaan obat tersebut?",
+  img: "",
+  options: ["Daun telinga ditarik ke belakang and ke atas", "Daun telinga ditarik ke belakang and ke bawah", "Daun telinga ditarik 90°", "Daun telinga ditarik lurus ke depan", "Daun telinga tidak perlu ditarik"],
+  answer: 1
+},
+{
+  question: "Seorang pasien asma eksaserbasi dengan nilai labor IgE = 43 IU/mL. Apakah rekomendasi terapi yang dapat diberikan kepada pasien? (UKMPPAI Februari 2025)",
+  img: "",
+  options: ["Salbutamol", "Budesonide", "Formeterol", "Omalizumab", "Ipratropium"],
+  answer: 3
+},
+{
+  question: "Anak umur 3 tahun mengalami pilek & hidung tersumbat, datang kepoliklinik RS RAIH. Apakah obat yang dapat diberikan dokter kepada pasien tersebut? (TO UKMPPAI November 2024)",
+  img: "",
+  options: ["Normal saline", "Pseudoefedrin", "Fenilpropanolamin", "Olopatadin", "Montelukast"],
+  answer: 0
+},
+{
+  question: "Pasien mengonsumsi obat flu karena sudah mengalami pilek 2 hari. Pasien akan melakukan tes kesehatan CPNS and didapatkan positif palsu saat pasien melakukan tes narkoba. Obat flu apakah yang menyebabkan kondisi tersebut? (TO UKMPPAI November 2024)",
+  img: "",
+  options: ["Ketotifen", "Pseudoefedrin", "Setirizin", "Klorfeniramin", "Olopatadin"],
+  answer: 1
+},
+{
+  question: "Seorang pasien sesekali mengalami sesak nafas and dahak jernih tidak berwarna. Pasien didiagnosis menderita PPOK stabil. Pasien tidak diberikan inhalasi kortikosteroid. Dokter meminta saran kepada apoteker terkait obat tambahan yang diberikan untuk mengurangi gejala and menurunkan eksaserbasi. Apakah obat yang diberikan?",
+  img: "",
+  options: ["Salbutamol", "Azitromisin", "Amoksisilin", "Metilprednisolon", "N-Asetilsistein"],
+  answer: 4
+},
+{
+  question: "Seorang pasien wanita 25 tahun didiagnosis dokter mengalami rhinitis alergi and mendapatkan terapi oxymetazoline nasal spray yang digunakan selama 5 hari. Efek samping apa yang dapat terjadi jika obat tersebut digunakan lebih dari 5 hari?",
+  img: "",
+  options: ["Hipertensi", "Mulut kering", "Sakit kepala", "Rebound congestion", "Takikardi"],
+  answer: 3
+},
+{
+  question: "Seorang wanita hamil masuk dalam periode kehamilan trimester akhir, mengeluhkan batuk kuat yang mengganggu. Pasien mengeluh tidak ada gejala lain yang menyertai. Dokter meresepkan codein for pasien. Apa yang apoteker rekomendasikan and sarankan kepada dokter terkait pengobatan tersebut?",
+  img: "",
+  options: ["Penggunaan tidak dalam waktu panjang", "Penggunaan tidak untuk trimester akhir", "Penggunaan dosis codein sebaiknya diturunkan", "Penggunaan dosis sebaiknya dosis tinggi", "Penggunaan digantikan dengan dextromethorphan"],
+  answer: 4
+},
+{
+  question: "Seorang pasien Tn. D menderita heart burn karena GERD and diresepkan obat for menurunkan asam lambung. Setelah 4 bulan pemakaian, pasien merasakan adanya pembesaran abnormal pada bagian dada. Obat apakah yang menyebabkan efek samping tersebut?",
+  img: "",
+  options: ["Simetidine", "Famotidin", "Misoprostol", "Esomeprazol", "Rebamipid"],
+  answer: 0
+},
+{
+  question: "Seorang wanita datang ke apotek membeli obat for keluhan batuk berdahak yang sudah dialaminya selama 2 hari. Pasien sedang hamil dengan usia kehamilan 6 minggu. Pasien juga sedang menjalani pengobatan hipertensi. Obat batuk apa yang direkomendasikan oleh apoteker?",
+  img: "",
+  options: ["Asetilsistein", "Amonium klorida", "Guaifenasin", "Dextrometrofan", "Succus Liquiritae"],
+  answer: 0
+},
+{
+  question: "Seorang pasien laki-laki usia 45 tahun datang ke apotek for menebus resep yang berisi obat for mengatasi gangguan pencernaan yang dialaminya. Salah satu obat yang diresepkan dapat menyebabkan feses menjadi hitam. Obat apa yang berpotensi menyebabkan efek tersebut?",
+  img: "",
+  options: ["Antasida", "Loperamide", "Sukralfat", "Simetidine", "Bismuth subsalisilat"],
+  answer: 4
+},
+{
+  question: "Seorang wanita pergi ke rumah sakit dengan keluhan adanya benjolan yang semakin membesar di payudara kirinya. Setelah dilakukan pemeriksaan and biopsi, dokter menjelaskan bahwa pasien tersebut mengalami kanker payudara stage II and direkomendasikan kemoterapi dengan tamoksifen. Bagaimana mekanisme kerja obat tersebut?",
+  img: "",
+  options: ["Menghambat sintesis DNA", "Antagonis reseptor progesterone", "Agonis reseptor estrogen", "Menghambat proliferasi sel", "Antagonis reseptor estrogen"],
+  answer: 4
+},
+{
+  question: "Seorang pria akan melakukan perjalanan ke luar negeri dengan pesawat and datang ke apotek membeli obat anti mual and muntah karena mabuk perjalanan. Obat apa yang anda sarankan? (UKAI Februari 2023)",
+  img: "",
+  options: ["Ondansentron", "Metoklopramid", "Pyridoxin HCl", "Dimehidrinate", "Domperidon"],
+  answer: 3
+},
+{
+  question: "Seorang apoteker di apotek sedang memberikan informasi efek samping obat pada seorang pasien (usia 39 tahun) pada saat menyerahkan obat dexamethasone 0,5 mg (2 x 1) for terapi pemeliharaan asma kronis. Apoteker mengatakan bahwa salah satu efek samping obat ini adalah moonface. Bagaimanakah mekanisme aksi obat dalam memicu terjadinya efek samping tersebut?",
+  img: "",
+  options: ["Obat meningkatkan retensi natrium and air di dalam tubuh", "Obat meningkatkan sekresi natrium and air di dalam tubuh", "Obat menurunkan sekresi kortisol dari kelenjar korteks adrenal", "Obat menyebabkan gangguan distribusi lemak di dalam tubuh", "Obat meningkatkan sekresi kortisol dari kelenjar korteks adrenal"],
+  answer: 4
+},
 
 
 
