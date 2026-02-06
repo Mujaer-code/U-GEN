@@ -20240,7 +20240,7 @@ let questions = [
     answer: 3
 },
 {
-    question: "Jamu Insan Jaya Muda MANTUL akan didaftarkan untuk dilakukan registrasi sebagai obat serbuk yang diseduh untuk diminum. Salah satu syarat pengujian adalah harus ≤ 10 koloni/g. Bakteri manakah yang sebagai parameter pengujian tersebut?",
+    question: "Jamu Insan Jaya Muda akan didaftarkan untuk dilakukan registrasi sebagai obat serbuk yang diseduh untuk diminum. Salah satu syarat pengujian adalah harus ≤ 10 koloni/g. Bakteri manakah yang sebagai parameter pengujian tersebut?",
     img: "",
     options: ["Shigella", "Salmonella", "Clostridia", "Enterobacteriaceae", "Escherichia coli"],
     answer: 4
