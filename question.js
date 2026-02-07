@@ -7742,7 +7742,7 @@ let questions = [
 
   {
     question: "Bapak M. (50 th, 60 kg, 160 cm) dirawat di RS. Hasil laboratorium menunjukkan nilai serum kreatinin 5 mg/dl. Berapa nilai Clcr (Creatinine Clearance) pasien tersebut menggunakan rumus Cockcroft-Gault?",
-    answer: "14", // Hitung: ((140-50) * 60) / (72 * 5) = 5400 / 360 = 15. Namun secara klinis pembulatan atau kondisi pasien sering mendekati angka ini.
+    answer: "15", // Hitung: ((140-50) * 60) / (72 * 5) = 5400 / 360 = 15. Namun secara klinis pembulatan atau kondisi pasien sering mendekati angka ini.
     options: ["5", "10", "15", "20", "25"]
   },
   {
