@@ -108,7 +108,7 @@ function showQuestions(index) {
     const jawabanDulu = userAnswers[index];
     const teksOpsi = el.innerText.trim();
 
-    // LOGIKA PINTAR: Cek apakah answer itu angka atau teks
+
     let teksJawabanBenar;
     if (typeof currentQuestion.answer === 'number') {
       teksJawabanBenar = currentQuestion.options[currentQuestion.answer];
@@ -205,13 +205,17 @@ function showResultBox(){
   home.classList.remove('deactive');
 }
 
-
+function muteAudio (){
+  correctSound.muted = true;
+  wrongSound.muted = true;
+}
 
 const muteX = document.querySelector('.mute-x');
 
 // Mute
 muteX.onclick = () => {
   muteAudio();
+   alert("Sound Effect telah dimatikan!");
 }
 
 
