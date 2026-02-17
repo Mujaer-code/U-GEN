@@ -2875,7 +2875,7 @@ let questions = [
 },
 {
   question: "Seorang wanita usia 25 tahun dengan riwayat hipertensi kronis datang ke dokter untuk berkonsultasi karena pasien baru menikah dan sedang merencanakan kehamilan. Pasien saat ini mengkonsumsi valsartan 80 mg 1 kali sehari dengan TD terkontrol 130/80 mmHg. Dokter berdiskusi dengan apoteker terkait pemilihan obat yang tepat untuk pasien. Pasien diketahui memiliki riwayat major depressive disorder dan rutin mengkonsumsi sertraline. Apa rekomendasi yang tepat?",
-  answer: "Mengganti valsartan dengan metildopa",
+  answer: "Mengganti valsartan nifedipin oral extended-release",
   options: [
     "Mengganti valsartan dengan nifedipin oral immediate-release",
     "Mengganti valsartan nifedipin oral extended-release",
@@ -4861,17 +4861,6 @@ let questions = [
       "Isosorbid mononitrat",
       "Asetosal",
       "Heparin"
-    ]
-  },
-  {
-    "question": "Pasien laki-laki 50 tahun mengalami STEMI (ST-Elevation Myocardial Infarction). Terapi awal untuk dilatasi pembuluh darah koroner adalah?",
-    "answer": "Aspirin",
-    "options": [
-      "Aspirin",
-      "Propanolol",
-      "Clopidogrel",
-      "Ticagrelor",
-      "ISDN"
     ]
   },
 
@@ -7108,7 +7097,7 @@ let questions = [
   },
   {
     question: "Pasien membawa copy resep Salbutamol dan Codipront (detur). Apa yang dilakukan apoteker?",
-    answer: "Obat tidak diberikan",
+    answer: "Salah satu obat diberikan",
     options: ["Obat tidak diberikan karena stok kosong", "Menolak resep", "Salah satu obat diberikan", "Obat tidak diberikan", "Diumpan ke apotek sebelah"]
   },
   {
@@ -7193,7 +7182,7 @@ let questions = [
   },
   {
     question: "Famotidin 30 mg termasuk kategori manakah dalam daftar obat?",
-    answer: "Daftar obat wajib apotek 2",
+    answer: "DOWA 3",
     options: ["DOWA 1", "Obat narkotika", "Obat bebas", "DOWA 2", "DOWA 3"]
   },
   {
@@ -7218,8 +7207,15 @@ let questions = [
   },
   {
     question: "Pasien tidak sanggup menebus antibiotik mahal. Apa yang dilakukan apoteker?",
-    answer: "mengganti dengan obat generik atas persetujuan pasien dan atau dokter",
-    options: ["dengan persetujuan pasien dan dokter", "dengan persetujuan pasien dan atau dokter", "dengan persetujuan pasien atau dokter", "Kembali ke dokter", "Berikan antibiotik lain"]
+    answer: "Mengganti dengan obat generik yang ekuivalen dengan persetujuan pasien dan atau dokter",
+    options: [
+  "Mengganti dengan obat generik yang ekuivalen dengan persetujuan pasien dan atau dokter",
+  "Mengganti obat setelah mendapat persetujuan dokter",
+  "Mengganti obat setelah mendapat persetujuan pasien dan dokter",
+  "Mengembalikan pasien ke dokter penulis resep",
+  "Memberikan antibiotik lain tanpa mengubah resep"
+]
+
   },
   {
     question: "Seorang wanita ingin membeli pil KB (pengulangan). Apa yang dilakukan Apoteker?",
@@ -7233,7 +7229,7 @@ let questions = [
   },
   {
     question: "Berapa lama dokumen Narkotika harus disimpan di Apotek?",
-    answer: "3 tahun",
+    answer: "5 tahun",
     options: ["5 tahun", "3 tahun", "2 tahun", "1 tahun", "6 tahun"]
   },
   {
@@ -7725,8 +7721,8 @@ let questions = [
   },
   {
     question: "Berapa lama BUD (Beyond Use Date) untuk sediaan pulveres (puyer) menurut standar?",
-    answer: "1 bulan", // Secara standar farmasi umum 1 bulan (30 hari)
-    options: ["1 Minggu", "4 minggu", "6 bulan", "2 minggu", "3 bulan"]
+    answer: "1 bulan",
+    options: ["1 Minggu", "1 bulan", "6 bulan", "2 minggu", "3 bulan"]
   },
   {
     question: "Berapa lama BUD injeksi digoksin sesudah direkonstitusi?",
@@ -8245,17 +8241,7 @@ let questions = [
       "Itrakonazole"
     ]
   },
-  {
-    question: "Seorang anak berumur 4 tahun didiagnosa terkena kurap (tinea corporis). Manakah di antara pilihan berikut yang merupakan pilihan terapi (catatan: pilihan a-e adalah antibiotik/OAT, namun dalam konteks soal ini biasanya merujuk pada kekeliruan pilihan jawaban atau mencari obat yang bukan antibiotik bakteri)?",
-    answer: "Kotrimoksazol", // Catatan: Secara klinis kurap diobati antijamur, namun dalam pilihan yang tersedia, soal ini sering muncul di ujian dengan konteks eliminasi atau kesalahan tipografi.
-    options: [
-      "Amoksisilin",
-      "Penisilin",
-      "Kotrimoksazol",
-      "Eritromisin",
-      "Rifampisin"
-    ]
-  },
+
   {
     question: "Anak laki-laki 7 tahun dengan dermatitis atopik mengalami efek terbakar setelah penggunaan hidrokortison jangka panjang. Dokter meminta rekomendasi terapi lini kedua golongan Calcineurin Inhibitor. Apa obat yang tepat?",
     answer: "Salep takrolimus 0,03%", // Untuk anak-anak (2-15 tahun) digunakan konsentrasi 0,03%
@@ -8862,7 +8848,7 @@ let questions = [
   },
   {
     question: "Nn. SW (22 tahun) telah 2 tahun didiagnosis penyakit asma oleh dokter. Pasien rutin menjalani terapi untuk pengobatan asma yang dideritanya, namun beberapa waktu terakhir pasien mengeluh mengalami infeksi jamur pada mulutnya. Apakah obat yang dapat menyebabkan efek samping tersebut?",
-    answer: "Inhalari flutikason",
+    answer: "Inhalasi flutikason",
     options: ["Inhalasi albuterol", "Tablet zafirlukast", "Tablet metilprednisolon", "Inhalasi flutikason", "Tablet teofilin"]
   },
   {
@@ -9454,7 +9440,7 @@ let questions = [
     options: ["GABA", "Natrium ", "Dopamin ", "Serotonin ", "Kalsium"]
   },
   {
-    question: "Pasien (perempuan, 37 thn) datang ke apotek membawa resep Fluoksetin 20 mg (1dd1) dari dokter Spesialis Kesehatan Jiwa. Fluoksetin merupan obat golongan SSRI (Selective Serotonin Reuptake Inhibitor) Informasi apakah yang disampaikan kepada pasien berkaitan dengan waktu minum obat Fluoksetin.",
+    question: "Pasien (perempuan, 37 thn) datang ke apotek membawa resep Fluoksetin 20 mg (1dd1) dari dokter Spesialis Kesehatan Jiwa. Fluoksetin merupan obat golongan SSRI (Selective Serotonin Reuptake Inhibitor) Informasi apakah yang disampaikan kepada pasien berkaitan dengan waktu minum obat Fluoksetin?",
     answer: "Pagi, sesudah makan ",
     options: ["Malam, saat akan tidur ", "Saat makan", "Pagi, sesudah makan ", "Boleh diminum setiap waktu", "Siang sesudah makan"]
   },
@@ -9590,7 +9576,7 @@ let questions = [
   },
   {
     question: "Seorang pasien mengalami psikosis dengan sering mendengar sesuatu bisikan-bisikan yang tak nyata dan sulit membedakan antara imajinasi dan kenyataan. Gejala ini terjadi setelah ia kalah dalam pilkada beberapa waktu yang lalu. Pasien juga mengalami gejala waham yang mengakibatkan ia beberapa kali naik ke mimbar untuk berpidato. Dokter mendiagnosa pasien mengalami skizofrenia. Terapi apa yang sesuai untuk pasien?",
-    answer: "Haloperidol",
+    answer: "Risperidone",
     options: ["Klorpromazin", "Clozapin", "Trifluoperazine", "Risperidone", "Haloperidol"]
   },
 
@@ -9972,11 +9958,7 @@ let questions = [
     answer: "5,9",
     options: ["3,9", "4,5", "5,9", "6,3", "7,4"]
   },
-  {
-    question: "Dalam pembuatan suppositoria dengan basis Oleum cacao terkandung 0,2 g aminofilin sebagai zat aktif. Jumlah suppositoria yang dibuat sebanyak 15 suppositoria dengan berat masing-masing 3 gram. Jika koefisien Oleum cacao adalah 0,86, berapakah jumlah Oleum cacao yang digunakan?",
-    answer: "38,70",
-    options: ["30,33", "36,12", "38,70", "33,33", "31,13"]
-  },
+
   {
     question: "Bagian RnD industri obat tradisional melakukan pemeriksaan angka lempeng total terhadap sediaan sirup obat batuk yang baru dikembangkannnya. Berapakah total angka lempeng total untuk sediaan jamu tersebut?",
     answer: "2,02 x 104",
@@ -10027,11 +10009,7 @@ let questions = [
     answer: "Filtrasi membrane",
     options: ["Autoklaf selama 15 menit", "Autoklaf selama 30 menit", "Oven selama 15 menit", "Oven selama 30 menit", "Filtrasi membrane"]
   },
-  {
-    question: "Bagian QC industri melakukan pemeriksaan efektivitas pengawet sirup Bromhexin HCl. Berapakah total angka lempeng total untuk sirup Bromhexin tersebut?",
-    answer: "2,24 x 105",
-    options: ["103", "1,9 x 104", "2,24 x 105", "2,02 x 106", "Terlalu banyak untuk dihitung"]
-  },
+
   {
     question: "Suatu industri farmasi sedang melakukan riset pembuatan larutan isotonik dextrose NaCl dengan bahan dextrose anhidrat 0.25% sebanyak 1 L. NaCl yang dibutuhkan untuk mencapai kondisi isotonis adalah … gr (E dextrose = 0.18)",
     answer: "8.55",
@@ -10072,11 +10050,7 @@ let questions = [
     answer: "Sineresis",
     options: ["Swelling", "Plastis", "Rigiditas", "Elastisitas", "Sineresis"]
   },
-  {
-    question: "Dilakukan uji volume sedimentasi pada suspensi cefixim. Didapatkan hasil bahwa volume akhir = volume awal. Maka, volume sedimentasinya adalah….",
-    answer: "1",
-    options: ["0", "0,5", "1", "2", "5"]
-  },
+
   {
     question: "Diketahui nilai AUC0-32 dari obat X sebesar 85,95 mg.jam/L dengan konstanta eliminasi sebesar 0,03496/jam. Kadar obat dalam darah pada saat waktu terakhir sampling ditemukan sebesar 1,6 mg/L. Berapakah AUC0-∞",
     answer: "131,716",
@@ -10442,9 +10416,9 @@ let questions = [
     options: ["Kelas A", "Kelas C", "Kelas E", "Kelas B", "Kelas D"]
   },
   {
-    question: "Suatu industry melakukan disolusi terbanding terhadap produk copy. Dari hasil disolusi didapatkan presentase sebesar 79, 81, 83, 86, 91. Menurut pustaka, nilai tidak kurang dari 80% (Q). Alasan obat tersebut ditolak atau tidak memenuhi persyaratan?",
+    question: "Suatu industry melakukan disolusi terbanding terhadap produk copy. Dari hasil disolusi didapatkan presentase sebesar 79, 81, 85, 83, 86, 91. Dengan Q sebesar 75%. Alasan obat tersebut ditolak atau tidak memenuhi persyaratan?",
     answer: "Ditolak karena terdapat 1 yang dibawah 80%",
-    options: ["Ditolak karena terdapat 1 yang dibawah 80%", "Ditolak karena terdapat 3 yang dibawah 85%", "Ditolak karena terdapat 5 yang dibawah 90%", "Ditolak karena hanya 1 yang diatas 90%"]
+    options: ["Ditolak karena terdapat 1 yang dibawah 80%", "Ditolak karena terdapat 3 yang dibawah 85%", "Ditolak karena terdapat 5 yang dibawah 90%", "Ditolak karena hanya 1 yang diatas 90%", "Ditolak karena hanya ada 4 sediaan yang bernilai 80%"]
   },
   {
     question: "Suatu industri farmasi sedang memproduksi obat dengan menggunakan suatu mesin. Pada proses produksi ditemukan sisa digoksin pada mesin tersebut. Apa tindakan yang harus dilakukan agar hal tersebut tidak terulang kembali pada proses produksi obat selanjutnya?",
@@ -11482,7 +11456,7 @@ let questions = [
     options: ["Berikatan dengan lemak subkutan", "Membentuk presipitasi tempat penyuntikan injeksi", "Membentuk ikatan albumin interstisial", "Membentuk struktur heksimer", "Membentuk ikatan albumin plasma"]
   },
   {
-    question: "Pasien mengonsumsi Rifampisin (induser enzim) dan Glimepirid. Gula darah tidak turun karena interaksi tersebut. Fase interaksi manakah yang terjadi?",
+    question: "Pasien mengonsumsi Rifampisin (inducer enzim) dan Glimepirid. Gula darah tidak turun karena interaksi tersebut. Fase interaksi manakah yang terjadi?",
     answer: "Metabolisme",
     options: ["Metabolisme", "Absorbsi", "Ekskresi ginjal", "Interaksi dengan plasma", "Interaksi dengan kadar darah"]
   },
@@ -25247,7 +25221,993 @@ let questions = [
 },
 
 
+///SEMI SOLID
+{
+   question: "Bagian Riset dan Pengembangan (R&D) industri farmasi sedang mengembangkan sediaan krim untuk mengatasi kulit kering parah (xerosis). Formulator ingin menambahkan eksipien yang mekanisme kerjanya spesifik membentuk lapisan hidrofobik di permukaan kulit untuk menahan penguapan air (TEWL) secara fisik. Manakah bahan di bawah ini yang paling tepat dipilih untuk fungsi tersebut?",
+   img: "",
+   options: ["Asam hialuronat", "Gliserol", "Dimetikon", "Propilenglikol", "Vaseline album"],
+   answer: 4
+},
+{
+    question: "Seorang Apoteker di bagian QC sedang menguji viskositas sebuah sediaan gel yang memiliki karakteristik aliran plastis. Dari hasil pengukuran dengan viskometer, diketahui nilai yield value (f) sebesar 6.000 dyne/cm². Pada saat shearing stress (F) ditingkatkan hingga 10.500 dyne/cm², terbentuk rate of shear (G) sebesar 150 detik⁻¹.\n\nBerapakah nilai viskositas plastis (U) dari sediaan tersebut?",
+    img: "",
+    options: ["15 poise", "25 poise", "30 poise", "35 poise", "45 poise"],
+    answer: 2
+},
+{
+   question: "Seorang apoteker di bagian QC melakukan evaluasi tipe emulsi pada sediaan krim pemutih wajah. Ia menggunakan pewarna Methylene Blue yang diteteskan pada sediaan. Hasil pengamatan mikroskopis menunjukkan pewarna tersebut terlarut merata dalam fase luar dan mendispersionkan warna biru ke seluruh sediaan. Apakah kesimpulan tipe krim dan contoh sediaan yang memiliki karakteristik tipe emulsi tersebut?",
+   img: "",
+   options: ["Tipe M/A, contoh: Shaving Cream", "Tipe A/M, contoh: Emollient Cream", "Tipe A/M, contoh: Cold Cream", "Tipe M/A, contoh: Cold Cream", "Tipe Ganda A/M/A, contoh: Vanishing Cream"],
+   answer: 0
+},
+{
+   question: "Dalam pembuatan krim anti-inflamasi dengan zat aktif yang bersifat asam, formulator harus memilih basis fase minyak yang kompatibel agar stabilitas sediaan terjaga. Manakah kombinasi basis fase minyak di bawah ini yang paling tepat digunakan untuk bahan obat yang bersifat asam tersebut?",
+   img: "",
+   options: ["Gliserin dan Propilenglikol", "Na Tetraborat dan TEA", "Viscolam dan NaOH", "Tween 80 dan Span 80", "Paraffin liquidum dan Cera flava"],
+   answer: 4
+},
+{
+   question: "Sebuah industri farmasi memproduksi krim dengan metode peleburan. Pada tahap pencampuran akhir, terjadi masalah Cracking dimana fase air dan minyak terpisah secara permanen segera setelah proses selesai. Setelah investigasi, ditemukan bahwa kesalahan terjadi pada proses produksi. Manakah penyebab paling mungkin dari kejadian tersebut?",
+   img: "",
+   options: ["Fase air ditambahkan ke fase minyak dalam keadaan dingin", "Suhu peleburan terlalu tinggi mencapai 90°C", "Penambahan fase air dilakukan terlalu lambat", "Pengadukan dilakukan terlalu cepat menggunakan homogenizer", "Suhu kedua fase saat pencampuran berbeda secara signifikan"],
+   answer: 4
+},
+{
+   question: "Apoteker sedang merancang formula krim pelembab (moisturizer) dan ingin memberikan klaim Cooling Sensation saat diaplikasikan ke kulit. Eksipien manakah yang harus dimasukkan ke dalam formula untuk mencapai efek farmasetik tersebut secara optimal?",
+   img: "",
+   options: ["Ceramide", "Sorbitol", "Asam Stearat", "Lanolin", "BHA"],
+   answer: 1
+},
+{
+   question: "Dilakukan uji stabilitas dipercepat menggunakan metode Cycling Test pada sediaan krim antibiotik. Sampel disimpan pada kondisi ekstrim bolak-balik untuk melihat kemungkinan terjadinya kristalisasi atau kondisi berawan. Bagaimanakah protokol suhu dan durasi yang tepat untuk satu siklus pengujian tersebut?",
+   img: "",
+   options: ["Suhu 4°C selama 24 jam kemudian suhu 40°C selama 24 jam", "Suhu 4°C selama 12 jam kemudian suhu 40°C selama 12 jam", "Suhu ruang selama 24 jam kemudian suhu oven 60°C selama 24 jam", "Suhu 25°C selama 24 jam kemudian suhu 40°C selama 24 jam", "Suhu 0°C selama 6 jam kemudian suhu 45°C selama 6 jam"],
+   answer: 0
+},
+{
+   question: "Sebuah krim wajah tipe M/A mengandung zat aktif yang rentan terhadap oksidasi. Untuk mencegah ketengikan pada fase minyaknya, formulator menambahkan antioksidan. Manakah dari bahan berikut yang berfungsi sebagai antioksidan dalam sediaan krim?",
+   img: "",
+   options: ["EDTA", "Tokoferol", "Trietanolamin", "Titan oksida", "Metil paraben"],
+   answer: 1
+},
+{
+   question: "Pasien datang ke apotek mengeluhkan krim yang dibelinya terasa kasar di kulit setelah disimpan selama 2 minggu. Apoteker menduga terjadi instabilitas fisik berupa pertumbuhan partikel padat akibat perubahan suhu penyimpanan. Fenomena apakah yang sedang terjadi dan uji evaluasi apa yang paling prediktif untuk mendeteksi masalah ini sejak tahap R&D?",
+   img: "",
+   options: ["Inversi fase - Uji Pewarnaan", "Creaming - Uji Sentrifugasi", "Flokulasi - Uji Organoleptis", "Kristalisasi - Cycling Test", "Pemisahan fase - Uji Pengenceran"],
+   answer: 3
+},
+{
+   question: "Formulator ingin membuat sediaan krim dengan zat aktif yang bersifat basa kuat. Untuk membentuk basis sabun in-situ yang stabil, ia memerlukan kombinasi asam lemak dan agen pembasa. Berdasarkan penggolongan basis fase air untuk obat bersifat basa, manakah eksipien yang tepat untuk dipilih?",
+   img: "",
+   options: ["Vaseline Flavum", "Adeps Lanae", "Trietanolamin", "Cera Alba", "Asam Asetat"],
+   answer: 2
+},
+{
+   question: "Dalam proses pembuatan krim menggunakan metode Emulsifikasi, urutan pencampuran sangat krusial untuk terbentuknya emulsi yang stabil dan homogen. Bagaimanakah prosedur pencampuran yang benar sesuai dengan pedoman Metode Pembuatan?",
+   img: "",
+   options: ["Komponen minyak dan air dipanaskan terpisah, lalu didinginkan sebelum dicampur", "Komponen minyak ditambahkan perlahan ke dalam komponen air, lalu diaduk cepat", "Seluruh komponen dicampur sekaligus dalam satu wadah lalu dipanaskan", "Zat aktif dilarutkan dalam air, kemudian dituang ke dalam fase minyak dingin", "Komponen air ditambahkan perlahan-lahan ke dalam komponen minyak, lalu aduk hingga mengental"],
+   answer: 4
+},
+{
+   question: "Suatu sediaan krim kosmetik mengandung Ceramide dan Asam Stearat sebagai bahan utama. Berdasarkan fungsi eksipien dalam formulasi sediaan semisolid, apa peran utama dari kedua bahan tersebut terhadap kondisi kulit pengguna?",
+   img: "",
+   options: ["Sebagai emolien untuk melembutkan kulit dan mengisi celah sel", "Sebagai pengawet antimikroba", "Sebagai agen pengkelat logam", "Sebagai humektan untuk menarik air dari udara", "Meningkatkan penetrasi zat aktif"],
+   answer: 0
+},
+{
+   question: "Industri farmasi melakukan uji tipe krim pada produk Foundation Cream. Ketika dilakukan uji pengenceran (dilution test) dengan menambahkan air suling ke dalam sampel krim, ternyata krim dapat bercampur homogen dengan air tanpa terjadi pemisahan. Apa kesimpulan dari evaluasi ini?",
+   img: "",
+   options: ["Krim mengalami inversi fase", "Krim mengandung emulgator ganda", "Krim tidak stabil", "Krim tipe M/A", "Krim tipe A/M"],
+   answer: 3
+},
+{
+   question: "Sediaan krim mata rentan mengalami degradasi oksidatif yang dikatalisis oleh keberadaan ion logam berat dalam air yang digunakan. Untuk mengatasi hal ini, formulator menambahkan eksipien penunjang. Manakah bahan di bawah ini yang berfungsi sebagai Pengkompleks untuk mengikat ion logam?",
+   img: "",
+   options: ["Tween 80", "BHT", "Propil paraben", "Titan Oksida", "EDTA"],
+   answer: 4
+},
+{
+   question: "Seorang apoteker sedang menimbang bahan untuk membuat krim tabir surya. Ia membutuhkan bahan yang berfungsi memblokir sinar UV  (Sunscreen agent). Berdasarkan daftar eksipien berikut, manakah yang memiliki fungsi tersebut?",
+   img: "",
+   options: ["Tokoferol", "Titan Oksida", "Asam Hialuronat", "Natrium Benzoat", "Benzalkonium Klorida"],
+   answer: 1
+},
+{
+   question: "Dalam formulasi krim, terdapat istilah Ciri Khas fisik yang membedakannya dengan sediaan gel atau salep tertentu. Bagaimanakah ciri khas visual dari sediaan krim?",
+   img: "",
+   options: ["Cair seperti losion", "Berbentuk serbuk halus", "Transparan dan jernih", "Tidak transparan", "Berwarna kuning transparan"],
+   answer: 3
+},
+{
+   question: "Sebuah krim tipe A/M sedang diuji menggunakan pewarna Sudan III. Bagaimanakah hasil pengamatan yang diharapkan jika tipe krim tersebut benar adalah A/M?",
+   img: "",
+   options: ["Pewarna hanya mewarnai globul-globul air di bagian dalam", "Warna biru akan terlarut merata dalam sediaan", "Terbentuk cincin warna di permukaan", "Warna merah akan terlarut merata dalam sediaan", "Pewarna tidak larut dan membentuk gumpalan"],
+   answer: 3
+},
+{
+   question: "Untuk meningkatkan akseptabilitas pasien, formulator menambahkan Viscolam ke dalam sediaan krim. Termasuk ke dalam golongan basis fase apakah bahan Viscolam tersebut dan untuk jenis zat aktif apa?",
+   img: "",
+   options: ["Pengawet universal", "Fase Minyak untuk zat aktif Basa", "Fase Air untuk zat aktif Asam", "Fase Air untuk zat aktif Basa", "Fase Minyak untuk zat aktif Asam"],
+   answer: 3
+},
+{
+   question: "Pada metode pembuatan krim dengan teknik peleburan, suhu merupakan parameter kritis. Berapakah rentang suhu yang direkomendasikan untuk meleburkan zat aktif bersama eksipien agar tercampur homogen tanpa merusak bahan?",
+   img: "",
+   options: ["70-75°C", "121°C", "90-100°C", "40-45°C", "50-60°C"],
+   answer: 0
+},
+{
+   question: "Krim Cold Cream merupakan sediaan kosmetik klasik yang memberikan efek sejuk karena penguapan air. Secara struktur emulsi, termasuk tipe apakah sediaan Cold Cream ini?",
+   img: "",
+   options: ["Tipe Suspensi", "Tipe Minyak dalam Air (M/A)", "Tipe Larutan", "Tipe Mikroemulsi", "Tipe Air dalam Minyak (A/M)"],
+   answer: 4
+},
+{
+   question: "Seorang apoteker mencampur Tween 80 dan Span 80 untuk mendapatkan nilai HLB butuh yang sesuai bagi emulsi krimnya. Termasuk dalam kategori eksipien apakah kombinasi Tween dan Span tersebut?",
+   img: "",
+   options: ["Emulgator", "Humektan", "Basis fase minyak", "Emolien", "Oklusif"],
+   answer: 0
+},
+{
+   question: "Pada formulasi krim, sering ditambahkan Ketostearil alkohol. Selain berfungsi sebagai pengental, apa fungsi utamanya bahan tersebut?",
+   img: "",
+   options: ["Sebagai Humektan", "Sebagai Tabir Surya", "Sebagai Emulgator", "Sebagai Pengawet", "Sebagai Antioksidan"],
+   answer: 2
+},
+{
+   question: "Jika sebuah krim tipe M/A dibiarkan terbuka, terjadi penguapan air yang signifikan sehingga sediaan menjadi kering. Untuk memperlambat proses ini dan menjaga konsistensi sediaan serta kelembaban kulit, eksipien apa yang paling krusial peranannya sebagai water-holder?",
+   img: "",
+   options: ["Metil paraben", "BHA", "Paraffin solid", "Propilenglikol", "Span 60"],
+   answer: 3
+},
+{
+   question: "Pada tahap evaluasi akhir, apoteker menemukan bahwa emulsi krim mengalami Creaming yang jika dikocok kembali bisa bercampur, namun pada kasus parah bisa menjadi Cracking. Faktor penyebab utama pemisahan dua fase adalah ketidaksesuaian komponen tertentu. Komponen apakah yang dimaksud?",
+   img: "",
+   options: ["Pengawet tidak sesuai", "Emulgator tidak sesuai", "Pewarna tidak sesuai", "Antioksidan tidak sesuai", "Humektan tidak sesuai"],
+   answer: 1
+},
+{
+   question: "Seorang pasien menderita dermatitis atopik kronis dengan kondisi kulit yang sangat kering dan bersisik. Dokter meminta apoteker membuatkan salep yang bersifat oklusif kuat untuk menahan penguapan air dari kulit dan sediaan ini diharapkan bertahan lama di kulit meskipun sulit dicuci dengan air. Berdasarkan penggolongan basis salep, manakah eksipien yang paling tepat dipilih sebagai basis utama?",
+   img: "",
+   options: ["Vaselin Putih", "Tragakan", "Polietilen Glikol", "Adeps Lanae", "Vanishing Cream"],
+   answer: 0
+},
+{
+   question: "Dalam pembuatan salep racikan untuk gatal, terdapat bahan aktif Menthol yang memiliki karakteristik larut dalam basis minyak. Agar sediaan homogen dan tidak terjadi rekristalisasi, bagaimanakah prosedur pencampuran yang benar sesuai aturan pembuatan?",
+   img: "",
+   options: ["Menthol dilebur bersama seluruh basis hingga cair lalu diaduk", "Menthol dilarutkan dalam basis, bila perlu dengan pemanasan", "Menthol dijadikan serbuk halus dengan ayakan mesh 100 lalu ditaburkan", "Menthol dilarutkan dalam air panas lalu dicampur basis", "Menthol dicampur dengan etanol terlebih dahulu"],
+   answer: 1
+},
+{
+   question: "Bagian Quality Control (QC) industri farmasi menemukan bahwa bets produksi salep Hidrokortison memiliki tekstur yang kasar karena terbentuk kristal dan konsistensi sediaan menjadi terlalu keras dibandingkan standar. Setelah menelusuri bets produksi, ditemukan ketidaksesuaian pada tahap produksi. Apakah penyebab dari kondisi sediaan tersebut?",
+   img: "",
+   options: ["Pengadukan dilakukan terlalu cepat saat panas", "Pendinginan dilakukan terlalu lambat", "Suhu peleburan terlalu tinggi", "Tidak ditambahkan antioksidan", "Pendinginan dilakukan terlalu cepat"],
+   answer: 4
+},
+{
+   question: "Apoteker di R&D sedang mengembangkan sediaan salep mata antibiotik. Salah satu tantangan sediaan mata adalah waktu kontak yang singkat karena kedipan mata. Eksipien apakah yang dapat ditambahkan untuk meningkatkan viskositas sekaligus memperlama waktu kontak obat dengan selaput lendir mata?",
+   img: "",
+   options: ["HPMC", "Lauric Acid", "Natrium Benzoat", "Dimethicone", "Benzalkonium Klorida"],
+   answer: 0
+},
+{
+   question: "Seorang apoteker menerima resep salep yang mengandung zat aktif Neomisin Sulfat yang sangat mudah larut dalam air. Basis yang digunakan adalah campuran Vaselin dan Lanolin. Bagaimanakah teknik inkorporasi neomisin sulfat ke dalam basis tersebut agar terdispersi homogen?",
+   img: "",
+   options: ["Larutkan zat aktif dalam air, lalu tambahkan ke basis salep", "Larutkan zat aktif dalam basis yang sudah dicairkan", "Campurkan zat aktif dengan pelarut organik, lalu uapkan", "Gerus zat aktif bersamaan dengan basis yang beku", "Gerus halus zat aktif, ayak dengan pengayak no. 100, lalu campur ke basis"],
+   answer: 0
+},
+{
+   question: "Dalam formulasi salep, seringkali diperlukan basis yang mampu mengemulsikan air ke dalam fase minyak (Water in Oil emulsion) agar dapat membawa zat aktif yang dilarutkan dalam air. Basis manakah di bawah ini yang tergolong Basis Serap yang memiliki kemampuan tersebut?",
+   img: "",
+   options: ["Setostearyl alkohol", "Adeps Lanae", "PGA", "Parafin padat", "Vaselin Kuning"],
+   answer: 1
+},
+{
+   question: "Zat aktif Zink Oksida tidak larut dalam air maupun dalam basis salep hidrokarbon. Untuk membuat salep Zink Oksida yang halus dan tidak mengiritasi kulit, langkah persiapan apa yang wajib dilakukan pada zat aktif sebelum dicampur ke basis?",
+   img: "",
+   options: ["Dicampur dengan air hingga membentuk pasta", "Dilarutkan dalam alkohol 96%", "Dilarutkan dengan pemanasan tinggi", "Digerus langsung di atas mortir panas", "Dijadikan serbuk dan diayak"],
+   answer: 4
+},
+{
+   question: "Selama proses mixing skala besar menggunakan mixer berkecepatan tinggi, terbentuk banyak gelembung udara yang terperangkap dalam sediaan salep, yang dapat memengaruhi bobot jenis dan penampilan. Eksipien manakah yang harus ditambahkan formulator untuk mengatasi masalah ini?",
+   img: "",
+   options: ["Dimethicone", "Klorokresol", "Tokoferol", "Benzalkonium klorida", "Adeps lanae"],
+   answer: 0
+},
+{
+   question: "Produk salep yang mengandung minyak nabati dilaporkan mengalami perubahan bau menjadi tengik setelah penyimpanan 3 bulan. Apoteker menyimpulkan terjadi reaksi oksidasi pada fase minyak. Solusi formulasi apa yang paling tepat untuk bets berikutnya?",
+   img: "",
+   options: ["Mengganti basis dengan PEG", "Menambahkan HPMC", "Melakukan pendinginan cepat", "Menambahkan BHT", "Menambahkan Klorokresol"],
+   answer: 3
+},
+{
+   question: "Seorang mahasiswa farmasi sedang melakukan identifikasi sediaan di laboratorium. Ia mengamati sediaan setengah padat yang memiliki komposisi fase minyak sangat dominan (mencapai 80%) dan terasa sangat lengket/berminyak. Berdasarkan definisi farmakope, sediaan apakah ini?",
+   img: "",
+   options: ["Krim tipe A/M", "Gel", "Cerata", "Pasta", "Salep"],
+   answer: 4
+},
+{
+   question: "Diperlukan sediaan topikal berbentuk salep yang tidak berminyak, mudah dibersihkan dari kulit, dan digunakan untuk menghantarkan obat pada luka bakar basah. Apoteker memilih basis yang tergolong Larut Air. Contoh basis manakah yang masuk dalam kategori ini?",
+   img: "",
+   options: ["Parafin cair", "PEG", "Vaselin Album", "Setostearyl alkohol", "Lanolin"],
+   answer: 1
+},
+{
+   question: "Bagian QC melakukan serangkaian pengujian pada produk jadi salep. Parameter yang diuji meliputi penampilan visual (warna/bau), kekentalan, derajat keasaman, kemampuan menyebar di kulit, dan kehalusan partikel. Manakah parameter evaluasi yang dimaksud dengan uji kehalusan partikel atau distribusi zat aktif?",
+   img: "",
+   options: ["Organoleptis", "Viskositas", "Uji daya sebar", "Homogenitas", "Uji daya lekat"],
+   answer: 3
+},
+{
+   question: "Dalam pembuatan salep basis hidrokarbon dengan metode peleburan, campuran basis yang telah meleleh sempurna harus diaduk terus menerus. Sampai kapankah proses pengadukan ini harus dilakukan untuk mencegah pemisahan fase atau kristalisasi parsial?",
+   img: "",
+   options: ["Sampai warnanya berubah menjadi putih", "Sampai dingin", "Sampai terbentuk massa lembek", "Sampai suhu mencapai 60°C", "Selama 15 menit tepat"],
+   answer: 1
+},
+{
+   question: "Formulator ingin membuat sediaan yang secara definisi masuk kategori basis salep, namun memiliki sifat dapat dicuci dengan air agar nyaman digunakan pasien kosmetik. Bahan manakah yang diklasifikasikan sebagai basis Dapat dicuci air?",
+   img: "",
+   options: ["Setostearyl alkohol", "Vaselin Flavum", "PGA", "Tragakan", "Adeps Lanae"],
+   answer: 0
+},
+{
+   question: "Sediaan salep mata harus steril dan terlindung dari kontaminasi mikroba selama penggunaan. Oleh karena itu ditambahkan pengawet. Pengawet manakah yang lazim digunakan untuk sediaan Salep Mata?",
+   img: "",
+   options: ["Metil Paraben", "Fenol", "Na Benzoat", "Benzalkonium Klorida", "Formalin"],
+   answer: 3
+},
+{
+   question: "Seorang Apoteker di bagian Produksi industri farmasi sedang mengawasi pembuatan sediaan salep dengan basis hidrokarbon. Setelah proses peleburan basis pada suhu 70°C dan pencampuran zat aktif dilakukan, sistem pendingin pada tangki pencampur mengalami gangguan teknis sehingga suhu sediaan turun sangat lambat. Apa yang akan terjadi secara fisik pada sediaan salep jika proses pendinginan dilakukan terlalu lambat?",
+   img: "",
+   options: ["Sediaan menjadi lembek", "Sediaan menjadi berbuih", "Sediaan menjadi sangat keras dan rapuh", "Sediaan berubah warna", "Sediaan menjadi tengik"],
+   answer: 0
+},
+{
+   question: "Selain Dimethicone dan Simethicone, terdapat asam lemak tertentu yang juga memiliki fungsi sebagai agen antifoaming dalam pembuatan salep. Asam lemak manakah itu?",
+   img: "",
+   options: ["Asam Benzoat", "Lauric Acid", "Asam Salisilat", "Asam Oleat", "Asam Stearat"],
+   answer: 1
+},
+{
+   question: "Dokter bertanya kepada apoteker mengenai karakteristik pelepasan obat dari sediaan salep dibandingkan sediaan topikal lain. Keunggulan apa yang dimiliki salep dibandingkan sediaan topikal lain?",
+   img: "",
+   options: ["Tidak ada penetrasi obat", "Penetrasi cepat hilang", "Fase air lebih besar, penetrasi lambat", "Fase minyak lebih besar, penetrasi optimal", "Penetrasi minimal, hanya di permukaan"],
+   answer: 3
+},
+{
+   question: "PGA (Pulvis Gummi Arabici) dan Tragakan sering diasosiasikan dengan pembuatan emulsi atau suspensi, namun dalam klasifikasi basis salep/semisolid, kedua bahan tersebut dikategorikan ke dalam kelompok basis apa?",
+   img: "",
+   options: ["Basis Berlemak", "Basis Hidrokarbon", "Basis Dapat Dicuci Air", "Basis Serap", "Basis Larut Air"],
+   answer: 4
+},
+{
+   question: "Untuk mencegah terjadinya permasalahan pembentukan kristal dalam produksi salep, parameter apa yang harus dikontrol dengan ketat sebagai solusinya?",
+   img: "",
+   options: ["Jumlah pengawet", "Penambahan kosolven", "Kecepatan pengadukan", "Proses pendinginan", "Pemilihan wadah"],
+   answer: 3
+},
+{
+   question: "Dalam sebuah resep tertulis bahan Lanolin. Apoteker mengetahui bahan ini memiliki afinitas terhadap air meskipun ia sendiri berupa lemak. Termasuk kategori basis apakah Lanolin ini?",
+   img: "",
+   options: ["Serap", "Basis Gel", "Hidrokarbon", "Larut Air", "Basis Sabun"],
+   answer: 0
+},
+{
+   question: "Apoteker di industri farmasi ingin membuat sediaan salep menggunakan basis parafin. Termasuk basis apakah salep tersebut?",
+   img: "",
+   options: ["Basis Larut Air", "Basis Krim", "Basis Hidrokarbon", "Basis Serap", "Basis Emulsi"],
+   answer: 2
+},
+{
+   question: "Seorang apoteker R&D sedang mengembangkan gel antinyeri menggunakan gelling agent sintetik berupa polimer dengan rantai silang panjang (cross-link) yang bersifat asam. Agar sistem gel terbentuk sempurna dan mencapai viskositas yang diinginkan, apoteker harus menambahkan bahan penetral basa untuk mencapai pH 4-6. Apakah nama gelling agent dan bahan penetral yang dimaksud?",
+   img: "",
+   options: ["Karbomer dan Trietanolamin", "HPMC dan Asam Stearat", "Tragakan dan Gliserol", "Na CMC dan Natrium Benzoat", "Bentonit dan NaOH"],
+   answer: 0
+},
+{
+   question: "Sebuah produk gel aloe vera yang disimpan di gudang dilaporkan mengalami penyusutan volume dan terlihat ada cairan yang keluar membasahi permukaan gel. Berdasarkan analisis formulator, hal ini disebabkan konsentrasi polimer pembentuk matriks yang terlalu rendah. Apakah istilah untuk fenomena instabilitas ini?",
+   img: "",
+   options: ["Imbibition", "Creaming", "Swelling", "Syneresis", "Sedimentasi"],
+   answer: 3
+},
+{
+   question: "Apoteker sedang merancang sediaan Emulgel untuk penggunaan topikal. Sifat alir (rheologi) manakah yang dianggap paling ideal untuk sediaan emulgel agar mudah dikeluarkan dari tube namun tidak menetes saat dioleskan?",
+   img: "",
+   options: ["Pseudoplastis", "Tiksotropik", "Dilatan", "Newton", "Plastis"],
+   answer: 1
+},
+{
+   question: "Industri farmasi ingin mengembangkan produk gel herbal dengan konsep All Natural. Formulator menghindari penggunaan polimer sintetis maupun turunan selulosa. Manakah kelompok gelling agent di bawah ini yang seluruhnya termasuk dalam kategori Gum Alam?",
+   img: "",
+   options: ["Viscolam, HPC, Pectin", "Na Alginat, Karagenan, Guar Gum", "HPMC, Na CMC, Gelatin", "Bentonit, Veegum, Laponite", "Karbomer, Pectin, Tragakan"],
+   answer: 1
+},
+{
+   question: "Seorang teknisi farmasi membuat gel menggunakan HPMC. Sesuai prosedur pembuatan, langkah pertama yang ia lakukan adalah mendispersikan HPMC ke dalam air panas. Apa tujuan spesifik dari penggunaan air panas pada tahap awal tersebut?",
+   img: "",
+   options: ["Untuk melarutkan zat aktif", "Untuk mengembangkan gelling agent", "Untuk mengaktifkan pengawet", "Untuk menetralkan pH", "Untuk mencegah sineresis"],
+   answer: 1
+},
+{
+   question: "Mahasiswa farmasi melakukan evaluasi sediaan gel. Ia menimbang berat awal gel sebesar 5 gram. Setelah didiamkan dalam cairan tertentu, gel menyerap cairan sehingga berat akhirnya menjadi 15 gram. Berapakah indeks swelling dari sediaan tersebut?",
+   img: "",
+   options: ["0,5", "10,0", "3,0", "2,0", "1,0"],
+   answer: 3
+},
+{
+   question: "Pasien mengeluh kulitnya terasa panas dan kering setelah menggunakan sediaan gel antijerawat. Formulator menyadari perlunya menambahkan eksipien yang berfungsi mengikat air serta memberikan efek dingin dan lembab saat digunakan. Bahan manakah yang paling tepat?",
+   img: "",
+   options: ["Karbomer", "Propilenglikol", "Dimetikon", "Metil Paraben", "Trietanolamin"],
+   answer: 1
+},
+{
+   question: "Gelatin kering dan selulosa kering sering digunakan dalam sediaan semi solid. Karena konsentrasi pelarutnya sangat rendah dan bentuknya padat, sediaan ini diklasifikasikan sebagai tipe gel apa?",
+   img: "",
+   options: ["Hydrogel", "Emulgel", "Xerogel", "Organogel", "Inorganic Gel"],
+   answer: 2
+},
+{
+   question: "Dalam formulasi suspensi tiksotropik, sering digunakan gelling agent anorganik yang berasal dari tanah liat (clays). Manakah di bawah ini yang termasuk dalam kategori gelling agent tersebut?",
+   img: "",
+   options: ["Gelatin", "Veegum", "Karbopol", "Tragakan", "Na CMC"],
+   answer: 1
+},
+{
+   question: "Saat dilakukan uji stabilitas, ditemukan bahwa gelling agent dalam sediaan mengabsorpsi cairan dari lingkungan namun tidak diikuti dengan peningkatan volume gel yang signifikan. Fenomena fisik apakah yang terjadi?",
+   img: "",
+   options: ["Sedimentasi", "Syneresis", "Bleeding", "Swelling", "Imbibition"],
+   answer: 4
+},
+{
+   question: "Bagian QC sedang melakukan uji daya sebar pada sediaan gel analgetik. Prosedur yang dilakukan adalah menekan sejumlah tertentu gel di antara dua kaca dengan pemberat. Parameter apa yang diukur untuk menentukan nilai daya sebarnya?",
+   img: "",
+   options: ["Kekuatan tekanan yang dibutuhkan", "Waktu pelepasan gel dari kaca", "Berat gel yang tersisa", "Waktu yang dibutuhkan gel untuk menyebar", "Diameter gel pada kaca"],
+   answer: 4
+},
+{
+   question: "Dari hasil evaluasi, diketahui bahwa daya sebar gel antiseptik sangat buruk. Formulator menggunakan Karbopol sebagai basis. Langkah reformulasi apa yang disarankan untuk memperbaiki daya sebar tersebut?",
+   img: "",
+   options: ["Menambah konsentrasi Karbopol", "Menambahkan pengawet", "Menambah konsentrasi TEA", "Mengurangi konsentrasi Basis", "Mengganti pelarut dengan minyak"],
+   answer: 3
+},
+{
+   question: "Seorang mahasiswa bertanya tentang karakteristik visual utama yang membedakan sediaan Gel murni dengan Krim atau Pasta. Karakteristik visual apa yang paling menonjol dari gel?",
+   img: "",
+   options: ["Buram dan berminyak", "Transparan", "Mengkilap seperti logam", "Berwarna coklat", "Berwarna putih susu"],
+   answer: 1
+},
+{
+   question: "Apoteker memilih gelling agent yang merupakan derivat selulosa. Bahan ini dimodifikasi secara kimia dari bahan alam agar sifat fisiknya lebih stabil. Manakah contoh gelling agent yang termasuk kategori semisintetis ini?",
+   img: "",
+   options: ["Guar gum", "Bentonit", "Pectin", "Na CMC", "Carbomer"],
+   answer: 3
+},
+{
+   question: "Secara definisi formulasi, sediaan gel memiliki kandungan air yang sangat tinggi dibandingkan sediaan semisolid lainnya. Berapakah batas minimal kadar air pada sediaan gel?",
+   img: "",
+   options: ["30%", "50%", "90%", "100%", "70%"],
+   answer: 4
+},
+{
+   question: "Jika zat aktif yang digunakan dalam gel tidak tahan panas (termolabil), metode pembuatan manakah yang harus dipilih dan bagaimana prosedurnya?",
+   img: "",
+   options: ["Metode pengembangan panas, kembangkan gelling agent di air mendidih", "Metode tanpa pemanasan, campur bahan pada keadaan dingin hingga homogen", "Metode emulsi, panaskan fase minyak dan air terpisah", "Metode fusi, leburkan basis lalu dinginkan", "Metode triturasi panas"],
+   answer: 1
+},
+{
+   question: "Selain sebagai pengetur pH untuk karbomer, Trietanolamin juga memiliki fungsi lain pada sediaan gel. Apakah fungsi tersebut?",
+   img: "",
+   options: ["Sebagai pengawet antimikroba", "Meningkatkan viskositas secara drastis", "Meningkatkan stabilitas gel", "Sebagai humektan", "Sebagai emolien"],
+   answer: 2
+},
+{
+   question: "Meskipun gel didominasi fase air, penambahan emolien sering dilakukan untuk mencegah kulit menjadi kering. Bahan manakah di bawah ini yang berfungsi sebagai emolien dengan mekanisme mengisi celah pada sel kulit dengan lipid?",
+   img: "",
+   options: ["Glycerol", "HPMC", "Methyl Paraben", "Ceramide", "Sorbitol"],
+   answer: 3
+},
+{
+   question: "Dalam uji daya lekat gel, sediaan diletakkan pada object glass dan ditekan. Apa parameter ukur yang dicatat untuk menentukan daya lekatnya?",
+   img: "",
+   options: ["Waktu pelepasan gel", "Berat beban yang dibutuhkan", "Perubahan warna", "Jumlah gel yang menempel", "Diameter sebaran"],
+   answer: 0
+},
+{
+   question: "Pada sediaan gel yang mengandung partikel padat seperti gel scrub atau suspensi gel, terdapat risiko fase padat terpisah dari matriks gelnya. Apa istilah permasalahan ini?",
+   img: "",
+   options: ["Inversion", "Imbibition", "Syneresis", "Swelling", "Sedimentasi"],
+   answer: 4
+},
+{
+   question: "Karbomer adalah polimer yang populer karena menghasilkan gel yang bening. Namun, secara kimia ia memiliki gugus polimer dengan rantai silang panjang (cross-link). Apa yang harus dilakukan pada karbomer agar gel dapat terbentuk?",
+   img: "",
+   options: ["Harus diaduk dengan kecepatan sangat tinggi", "Harus ditambahkan asam kuat", "Harus dipanaskan hingga 100°C", "Harus dicampur dengan alkohol", "Harus dinetralisasi"],
+   answer: 4
+},
+{
+   question: "Bentonit magma adalah contoh sediaan gel yang diklasifikasikan berdasarkan sifat fasa koloidnya. Masuk ke dalam kategori apakah Bentonit magma ini?",
+   img: "",
+   options: ["Organogel", "Xerogel", "Organik", "Polimer", "Anorganik"],
+   answer: 4
+},
+{
+   question: "Jika sediaan gel menggunakan air sebagai pelarut utama dan ditujukan untuk zat aktif yang larut air seperti Gelatin, sediaan tersebut disebut?",
+   img: "",
+   options: ["Hydrogel", "Organogel", "Xerogel", "Cream", "Emulgel"],
+   answer: 0
+},
+{
+   question: "Eksipien tertentu ditambahkan untuk membentuk lapisan protektif yang mengunci kelembaban (oklusif). Dari beberapa bahan berikut manakah yang merupakan bahan yang bersifat oklusif?",
+   img: "",
+   options: ["Vaselin", "Gliserol", "Karbomer", "HPMC", "TEA"],
+   answer: 0
+},
+{
+   question: "Apoteker melakukan In Process Control (IPC) pada sediaan gel. Parameter evaluasi fisik standar apa saja untuk sediaan gel pada tahan IPC?",
+   img: "",
+   options: ["Organoleptis, Kadar zat aktif, Uji sterilitas", "Viskositas, Titik leleh, Uji kebocoran", "pH, Bobot jenis, Uji pirogen", "Organoleptis, Viskositas, pH, Homogenitas", "Daya sebar, Daya lekat, Uji disolusi"],
+   answer: 3
+},
+{
+   question: "Apa definisi yang tepat dari peristiwa Swelling pada sediaan gel?",
+   img: "",
+   options: ["Fase padat terpisah dari fase cair", "Gel menyerap cairan tanpa perubahan volume", "Gel menyerap cairan sehingga volume gel bertambah", "Gel mengkerut dan cairan keluar", "Gel berubah warna karena oksidasi"],
+   answer: 2
+},
+{
+   question: "Industri farmasi sedang mengembangkan sediaan pasta gigi untuk gigi sensitif. Sesuai dengan definisi farmakope, sediaan pasta harus memiliki karakteristik \"High Solid Content\" agar memberikan konsistensi yang kaku. Berapakah persentase minimum kadar zat padat yang harus ada dalam formulasi tersebut?",
+   img: "",
+   options: ["10%", "20%", "50%", "30%", "70%"],
+   answer: 1
+},
+{
+   question: "Bagian Quality Control (QC) melakukan uji kebocoran tube pada sediaan salep mata kloramfenikol. Pada tahap pertama, diambil 10 tube dan diuji sesuai prosedur standar. Hasilnya ditemukan 1 tube mengalami kebocoran kecil di bagian lipatan. Apa keputusan yang harus diambil oleh Mustofa sebagai supervisor QC berdasarkan hasil tersebut?",
+   img: "",
+   options: ["Menolak bets tersebut (Reject) secara langsung", "Mengulangi pengujian dengan 30 tube baru", "Melakukan pengujian ulang dengan tambahan 20 tube baru", "Melakukan pengujian ulang dengan tambahan 10 tube baru", "Meluluskan bets tersebut karena batas toleransi adalah 1 tube"],
+   answer: 2
+},
+{
+   question: "Seorang apoteker melakukan evaluasi Isi Minimum pada sediaan Gel Jerawat kemasan 10 gram. Pada tahap 1, diperoleh data bahwa seluruh wadah memiliki isi bersih rata-rata sesuai etiket, namun ada 1 wadah yang isinya hanya 92% dari etiket. Bagaimana status keberterimaan sediaan tersebut?",
+   img: "",
+   options: ["Lanjut ke Tahap 2 karena ada satu wadah di bawah 95%", "Memenuhi Syarat", "Tidak Memenuhi Syarat karena ada yang di bawah 100%", "Memenuhi Syarat karena batas minimumnya adalah 85%", "TMS karena untuk bobot < 60g tidak boleh ada yang kurang dari etiket"],
+   answer: 1
+},
+{
+   question: "Tim R&D ingin meningkatkan kemampuan sediaan gel natrium diklofenak dalam menembus lapisan stratum corneum kulit agar efek analgetiknya lebih cepat terasa. Zat tambahan manakah yang berfungsi sebagai Penetration Enhancer?",
+   img: "",
+   options: ["DMSO", "Carbomer", "Na CMC", "Gum Arab", "Tragakan"],
+   answer: 0
+},
+{
+   question: "Apoteker QC industri farmasi melakukan pengujian Tahap 2 pada uji kebocoran tube salep mata, total tube yang diuji adalah 30 tube (10 tahap 1 + 20 tahap 2). Ditemukan total ada 2 tube yang bocor dari keseluruhan 30 tube tersebut. Apa kesimpulan akhir dari uji ini?",
+   img: "",
+   options: ["Lulus bersyarat", "Perlu uji ulang tahap 3", "Tergantung lokasi kebocorannya", "Tidak Memenuhi Syarat", "Memenuhi Syarat"],
+   answer: 4
+},
+{
+   question: "Seorang pasien datang dengan resep pasta Zinc Oxide (ZnO). Apoteker mengetahui bahwa sediaan ini termasuk tipe \"Pasta Berlemak\". Manakah basis yang paling mungkin digunakan dalam sediaan pasta tipe ini?",
+   img: "",
+   options: ["Pasta Na CMC", "Parafin Cair", "Gelatin", "Polietilen Glikol", "Vaselin"],
+   answer: 4
+},
+{
+   question: "Industri kosmetik memproduksi krim pijat dalam kemasan pot besar seberat 250 gram. Pada evaluasi isi minimum Tahap 1, salah satu wadah ditemukan memiliki isi bersih 93% dari yang tertera di etiket. Apakah sediaan ini lulus tahap 1?",
+   img: "",
+   options: ["Tidak Lulus, langsung reject", "Tidak Lulus Tahap 1, harus lanjut Tahap 2", "Lulus, karena rata-rata masih sesuai", "Lulus, karena batasnya 93%", "Lulus, karena batasnya 90%"],
+   answer: 1
+},
+{
+   question: "Dalam formulasi gel mata, diperlukan bahan yang dapat meningkatkan kekentalan sediaan tanpa mengiritasi, agar waktu kontak obat pada kornea lebih lama. Bahan manakah yang diklasifikasikan sebagai Viscosity Enhancer?",
+   img: "",
+   options: ["DMSO", "Sorbitol", "Na CMC", "Asam Stearat", "Propilenglikol"],
+   answer: 2
+},
+{
+   question: "Seorang analis QC sedang menyetting oven untuk keperluan uji kebocoran tube salep antibiotik. Sesuai prosedur farmakope, bagaimanakah pengaturan suhu dan durasi waktu yang tepat?",
+   img: "",
+   options: ["Suhu 60°C selama 2 jam", "Suhu 60°C selama 8 jam", "Suhu 37°C selama 24 jam", "Suhu 40°C selama 8 jam", "Suhu 100°C selama 1 jam"],
+   answer: 1
+},
+{
+   question: "Formulator ingin membuat sediaan pasta yang mudah dibersihkan dari pakaian pasien dan tidak lengket, untuk mengobati lesi basah. Ia memilih basis yang tergolong \"Larut Air\". Manakah basis yang dimaksud?",
+   img: "",
+   options: ["Parafin putih", "Bees wax", "Polietilen Glikol", "Parafin cair", "Lanolin"],
+   answer: 2
+},
+{
+   question: "Pada evaluasi Tahap 2 Isi Minimum (total 30 wadah) untuk sediaan salep 10 gram, ditemukan data sebagai berikut:\n\n1. Rata-rata isi bersih: 100% dari etiket.\n2. Terdapat 2 wadah yang isinya 88% dari etiket. Bagaimana kesimpulannya?",
+   img: "",
+   options: ["Memenuhi Syarat", "Lulus karena 88% mendekati 90%", "Lulus karena rata-rata bagus", "Tidak Memenuhi Syarat", "Perlu uji ulang tahap 3"],
+   answer: 3
+},
+{
+   question: "Agar hasil uji kebocoran valid, posisi peletakan tube di dalam oven harus diatur secara spesifik. Bagaimanakah posisi yang benar?",
+   img: "",
+   options: ["Horizontal di atas kain penyerap", "Horizontal di atas nampan logam", "Berdiri vertikal dengan tutup di atas", "Berdiri vertikal dengan tutup di bawah", "Digantung di rak oven"],
+   answer: 0
+},
+{
+   question: "Apoteker ingin membuat pasta yang dapat menyerap cairan luka namun tetap memiliki sifat basis berlemak. Ia memilih basis Lanolin. Termasuk golongan basis apakah Lanolin?",
+   img: "",
+   options: ["Absorbsi", "Hidrokarbon", "Basis Gel", "Larut air", "Dapat dicuci air"],
+   answer: 0
+},
+{
+   question: "Sebuah salep antibiotik mengalami masalah \"Hardening\" atau sediaan menjadi terlalu keras dan terbentuk kristal kasar. Supervisor produksi menduga ada kesalahan pada Cooling Rate. Apa penyebabnya?",
+   img: "",
+   options: ["Pendinginan terlalu lambat", "Suhu peleburan kurang tinggi", "Pendinginan terlalu cepat", "Pengadukan terlalu cepat", "Kekurangan fase minyak"],
+   answer: 2
+},
+{
+   question: "Terdapat sediaan pasta yang dibuat dengan basis gel pembentuk film seperti Natrium Karboksimetilselulosa (Na CMC). Disebut apakah tipe pasta ini?",
+   img: "",
+   options: ["Pasta Anorganik", "Pasta Oklusif", "Pasta Tidak Berlemak", "Pasta Hidrokarbon", "Pasta Berlemak"],
+   answer: 2
+},
+{
+   question: "Dalam sediaan suspensi atau pasta, Gum sering digunakan untuk menjaga partikel tetap terdispersi. Apakah fungsi gum pada sediaan tersebut?",
+   img: "",
+   options: ["Preservative", "Viscosity Enhancer", "Penetration Enhancer", "Solubilizer", "Emulsifier"],
+   answer: 1
+},
+{
+   question: "Seorang Apoteker di industri kosmetik sedang merancang formula pasta gigi untuk anak-anak. Salah satu kriteria utamanya adalah basis harus aman jika tidak sengaja tertelan dan memiliki rasa yang akseptabel. Apoteker memilih menggunakan Sorbitol dalam konsentrasi yang cukup tinggi. Selain memberikan rasa manis, Sorbitol berfungsi sebagai apa dalam sediaan tersebut?",
+   img: "",
+   options: ["Antioksidan", "Pengawet", "Gelling Agent Sintetis", "Penetration Enhancer", "Viscosity Enhancer"],
+   answer: 3
+},
+{
+   question: "Seorang apoteker di bagian R&D sebuah industri farmasi sedang melakukan optimasi formula sediaan Pasta. Apoteker tersebut memilih basis yang secara karakteristik fisikokimia merupakan senyawa hidrokarbon sintetik, namun dalam klasifikasi basis pasta, bahan ini termasuk ke dalam kelompok basis yang \"Dapat dicuci dengan air\". Bahan manakah yang dimaksud oleh apoteker tersebut?",
+   img: "",
+   options: ["PEG", "Bees wax", "Parafin putih", "Vaselin kuning", "Lanolin"],
+   answer: 2
+},
+{
+   question: "Seorang apoteker di bagian QC sedang mengevaluasi sifat alir sediaan Salep Hidrokortison menggunakan viskometer. Data diplot menjadi kurva Rheogram seperti gambar di atas. Grafik menunjukkan kurva tidak dimulai dari titik nol (0,0), melainkan memotong sumbu X pada angka tertentu, kemudian naik secara linier. Titik perpotongan pada sumbu X tersebut dikenal sebagai parameter apa dan sediaan termasuk tipe aliran apa?",
+   img: "yieldvalue.png",
+   options: ["Yield Value - Plastis", "Hysteresis - Tiksotropik", "Viscosity - Newtonian", "Rate of Shear - Pseudoplastis", "Shearing Stress - Dilatan"],
+   answer: 0
+},
+{
+   question: "Dalam proses produksi skala besar, teknisi melaporkan bahwa motor mixer terbakar saat mencoba mengaduk sediaan Pasta Gigi dengan kecepatan tinggi. Padahal saat diaduk pelan, sediaan tampak lunak. Fenomena apa yang terjadi pada viskositas sediaan tersebut?",
+   img: "",
+   options: ["Viskositas naik saat shear rate naik (Dilatan)", "Viskositas turun saat shear rate naik (Pseudoplastis)", "Viskositas naik seiring waktu (Rheopeksi)", "Viskositas turun seiring waktu (Tiksotropik)", "Viskositas konstan (Newtonian)"],
+   answer: 0
+},
+{
+   question: "Bagian R&D sedang merancang suspensi injeksi antibiotik intramuskular. Sediaan diharapkan cair dan mudah melewati jarum suntik saat disuntikkan, namun segera kembali mengental saat berada di dalam otot untuk membentuk depot obat yang stabil. Profil rheologi manakah yang paling ideal untuk sediaan ini?",
+   img: "",
+   options: ["Tiksotropik", "Dilatan", "Newtonian", "Plastis", "Pseudoplastis"],
+   answer: 0
+},
+{
+   question: "Apoteker membuat suspensi antasida menggunakan suspending agent dari golongan polimer alam yaitu Gom Arab dan Tragakan. Saat dievaluasi, sediaan ini menunjukkan sifat \"makin dikocok, makin encer\" namun kurvanya dimulai tepat dari titik nol. Termasuk golongan aliran apakah ini?",
+   img: "pseudoplastis.png",
+   options: ["Plastis", "Pseudoplastis", "Rheopeksi", "Dilatan", "Newtonian"],
+   answer: 1
+},
+{
+   question: "Seorang mahasiswa melakukan uji viskositas pada Sirup Simplex menggunakan viskometer cup and bob dengan berbagai kecepatan putar (rpm). Didapatkan hasil bahwa nilai viskositasnya tetap konstan meskipun rpm dinaikkan. Apa kesimpulan jenis aliran sirup tersebut?",
+   img: "newtonian.png",
+   options: ["Pseudoplastis", "Newtonian", "Plastis", "Tiksotropik", "Dilatan"],
+   answer: 1
+},
+{
+   question: "Sediaan Magma Magnesia diketahui memiliki perilaku unik dimana sediaan yang awalnya encer, jika dikocok terus menerus justru menjadi lebih kental dan membentuk struktur gel kembali dengan cepat. Apa kesimpulan jenis aliran tersebut?",
+   img: "",
+   options: ["Tiksotropi", "Plastisitas", "Elastisitas", "Rheopeksi", "Dilatansi"],
+   answer: 3
+},
+{
+   question: "Seorang Apoteker di bagian Kontrol Kualitas (QC) sebuah industri farmasi sedang melakukan evaluasi stabilitas fisik sediaan Lotio yang baru diproduksi. Pengujian dilakukan menggunakan viskometer tipe bola jatuh untuk melihat perilaku aliran sediaan. Setelah dilakukan pengaliran dan data diplot ke dalam grafik antara Shearing Stress (Sumbu X) dan Rate of Shear (Sumbu Y), didapatkan profil kurva seperti diatas. Berdasarkan grafik tersebut, fenomena apakah yang terjadi pada sediaan tersebut?",
+   img: "rheopeksi.png",
+   options: ["Sediaan bersifat Newtonian", "Sediaan menjadi lebih kental setelah dikocok", "Sediaan adalah Rheopeksi", "Sediaan mengalami drying (pengeringan)", "Sediaan memerlukan waktu untuk kembali ke struktur semula (Tiksotropik)"],
+   answer: 2
+},
+{
+   question: "Sebuah sediaan emulsi minyak ikan dirancang agar stabil secara fisik saat disimpan, namun mudah dituang saat botol dibalik. Jenis aliran apa yang umumnya dimiliki oleh sediaan Emulsi?",
+   img: "",
+   options: ["Plastis", "Rheopeksi", "Dilatan", "Newtonian", "Tiksotropik"],
+   answer: 4
+},
+{
+   question: "Perhatikan karakteristik grafik hubungan Shearing Stress (X) dan Rate of Shear (Y) pada sediaan suspensi gom di atas. Kurva dimulai dari titik (0,0) dan melengkung cembung ke atas (lereng makin curam). Apa arti fisik dari lengkungan tersebut?",
+   img: "tiksotropik.png",
+   options: ["Viskositas tidak berubah", "Perlu gaya awal untuk mengalir", "Terjadi padatan mendadak", "Hambatan mengalir makin besar seiring pengadukan", "Hambatan mengalir makin kecil seiring pengadukan"],
+   answer: 4
+},
+{
+   question: "Mengapa sediaan krim atau salep tidak tumpah dari tube yang terbuka jika tidak dipencet, padahal posisinya dibalik?",
+   img: "",
+   options: ["Karena alirannya Dilatan", "Karena memiliki viskositas yang sangat rendah", "Karena alirannya Newtonian", "Karena pengaruh gravitasi nol", "Karena memiliki Yield Value"],
+   answer: 4
+},
+{
+   question: "Apoteker sedang melakukan reformulasi sediaan Eliksir Paracetamol. Pelarut campur yang digunakan adalah Etanol dan Propilenglikol. Apa tipe aliran yang pasti dimiliki oleh sediaan berbentuk larutan jernih seperti ini?",
+   img: "",
+   options: ["Viskoelastis", "Non-Newtonian", "Plastis", "Time Dependent", "Newtonian"],
+   answer: 4
+},
+{
+   question: "Sodium alginat adalah polimer yang digunakan sebagai pengental. Larutan polimer ini tidak memiliki yield value, tetapi viskositasnya menurun secara signifikan pada kecepatan geser tinggi. Termasuk kategori apakah ini?",
+   img: "",
+   options: ["Dilatan", "Pseudoplastis", "Plastis", "Rheopeksi", "Tiksotropik"],
+   answer: 1
+},
+{
+   question: "Pasta Zink Oksida memiliki kandungan zat padat hingga 50%. Saat dioleskan dengan cepat/kuat, sediaan ini terasa semakin keras dan kaku. Sifat rheologi apa yang menyebabkan fenomena ini?",
+   img: "",
+   options: ["Plasticity", "Yield Value", "Shear Thinning", "Dilatan", "Thixotropy"],
+   answer: 3
+},
+{
+   question: "Dalam studi rheologi, terdapat dua parameter utama. Salah satunya didefinisikan sebagai \"perbedaan kecepatan antara 2 bidang cairan\". Parameter apakah itu?",
+   img: "",
+   options: ["Viscosity", "Shearing Stress", "Yield Value", "Fluidity", "Rate of Shear"],
+   answer: 4
+},
+{
+   question: "Apa perbedaan utama antara aliran Pseudoplastis dengan Tiksotropik, mengingat keduanya sama-sama memiliki sifat \"makin dikocok makin encer\"?",
+   img: "tsp.png",
+   options: ["Tiksotropik Time Dependent, Pseudoplastis Time Independent", "Pseudoplastis punya yield value, Tiksotropik tidak", "Pseudoplastis Time Dependent, Tiksotropik Time Independent", "Tidak ada perbedaan", "Tiksotropik makin kental, Pseudoplastis makin encer"],
+   answer: 0
+},
+{
+   question: "Pada aliran plastis, kemiringan (slope) kurva linier setelah melampaui yield value disebut sebagai?",
+   img: "yieldvalue.png",
+   options: ["Tiksotropi", "Viskositas Plastis", "Fluiditas", "Viskositas Semu", "Viskositas Kinematik"],
+   answer: 1
+},
+{
+   question: "Meskipun suspensi umumnya merupakan sifat aliran pseudoplastis, suspensi dengan kadar padatan tinggi (>50%) dan sistem terdeflokulasi seringkali menunjukkan sifat aliran yang menyulitkan proses penuangan karena mengeras saat diaduk. Apa tipe alirannya?",
+   img: "dilatan.png",
+   options: ["Dilatan", "Tiksotropik", "Newtonian", "Pseudoplastis", "Plastis"],
+   answer: 0
+},
+{
+   question: "Manakah sediaan di bawah ini yang mengalami transformasi Sol-Gel-Sol (Rheopeksi)?",
+   img: "",
+   options: ["Sirup", "Emulsi", "Krim", "Pasta Gigi", "Magma Magnesia"],
+   answer: 4
+},
+{
+   question: "Dalam evaluasi mutu fisik sediaan semisolid, uji daya sebar sering dilakukan. Sediaan krim yang baik harus mudah menyebar. Parameter rheologi apa yang berbanding terbalik dengan kemudahan menyebar?",
+   img: "",
+   options: ["pH", "Rate of Shear", "Koefisien partisi", "Suhu", "Viskositas"],
+   answer: 4
+},
+{
+   question: "Departemen Pengawasan Mutu (QC) di sebuah industri farmasi sedang melakukan validasi metode penetapan bobot jenis untuk produk Sirup Ibuprofen menggunakan piknometer. Analis melakukan pengukuran dengan data sebagai berikut:<br><table border='1' style='border-collapse: collapse; width: 100%; question-align: center;'><thead><tr style='background-color: #f2f2f2;'><th>Parameter</th><th>Berat (g)</th></tr></thead><tbody><tr><td>Bobot piknometer kosong yang bersih dan kering</td><td>15,250 g</td></tr><tr><td>Bobot piknometer yang diisi penuh air suling pada suhu 25°C</td><td>40,250 g</td></tr><tr><td>Bobot piknometer yang diisi penuh sampel sirup pada suhu 25°C</td><td>46,500 g</td></tr></tbody></table><br>Bobot sediaan sirup dalam satu botol kemasan = 150,000 g. Diketahui bahwa volume etiket yang tertera pada kemasan adalah 120 mL. Berdasarkan perhitungan bobot jenis dan volume aktual sediaan, kesimpulan apa yang paling tepat terkait kesesuaian volume sediaan tersebut terhadap volume etiket? ( BJ air = 1,00 g/cm³)",
+   img: "",
+   options: ["Volume aktual sediaan adalah 120,0 mL, sehingga tepat memenuhi volume etiket.", "Volume aktual sediaan adalah 115,4 mL, sehingga sediaan tidak memenuhi syarat volume etiket (under-filled).", "Volume aktual sediaan adalah 107,1 mL, sehingga sediaan harus dimusnahkan karena deviasi volume yang ekstrem.", "Volume aktual sediaan adalah 125,0 mL, sehingga sediaan memenuhi syarat karena berlebih dari volume etiket.", "Volume aktual sediaan adalah 120,0 mL, namun bobot jenis tidak memenuhi spesifikasi standar farmakope."],
+   answer: 0
+},
+{
+   question: "Dalam pengembangan sediaan Sirup Paracetamol, formula dirancang memiliki Bobot Jenis (BJ) 1,20 g/mL. Untuk memastikan sediaan memenuhi syarat Volume Terpindahkan, R&D melakukan simulasi pengisian. Jika volume etiket adalah 60 mL, dan mesin pengisi diatur berdasarkan bobot, berapakah rentang bobot pengisian minimum dan maksimum yang harus disetting agar volume sediaan berada pada rentang tepat 100% hingga 105% dari volume etiket?",
+   img: "",
+   options: ["100,0 gram hingga 105,0 gram", "60,0 gram hingga 63,0 gram", "72,0 gram hingga 75,6 gram", "50,0 gram hingga 52,5 gram", "72,0 gram hingga 72,5 gram"],
+   answer: 2
+},
+{
+   question: "Seorang Apoteker QC melakukan uji Volume Terpindahkan Tahap 1 pada sediaan Suspensi Antasida (Wadah Dosis Ganda). Volume etiket adalah 150 mL. Hasil pengukuran volume dari 10 wadah adalah sebagai berikut: 152, 153, 151, 150, 155, 148, 142, 153, 154, 150 mL. Analis melaporkan bahwa rata-rata volume adalah 150,8 mL. Apa status mutu sediaan tersebut?",
+   img: "",
+   options: ["Memenuhi Syarat (MS), karena rata-rata > 100% dan hanya 1 wadah < 95%.", "Tidak Memenuhi Syarat (TMS), karena terdapat wadah dengan volume < 95%.", "Lanjut ke Tahap 2, namun harus dilakukan kalibrasi ulang alat ukur terlebih dahulu.", "Lanjut ke Tahap 2, karena rata-rata > 100% dan terdapat 1 wadah < 95% namun tidak ada yang < 90%.", "Tidak Memenuhi Syarat (TMS), karena terdapat wadah dengan volume < 90%."],
+   answer: 3
+},
+{
+   question: "Bagian produksi mengalami masalah capping pada botol sirup, sehingga dicurigai terjadi penguapan atau kebocoran yang mempengaruhi volume. QC melakukan sampling acak untuk uji Volume Terpindahkan (Tahap 1). Diketahui: Volume Etiket (VE) = 100 mL. Hasil ukur 10 wadah: 98, 99, 97, 98, 99, 98, 97, 99, 98, 97 mL. Tentukan kesimpulan uji tersebut!",
+   img: "",
+   options: ["Memenuhi Syarat, karena volume rata-rata masuk dalam rentang keberterimaan farmakope (95-110%).", "Tidak Memenuhi Syarat, karena rata-rata volume kurang dari 100% VE.", "Lanjut ke Tahap 2", "Tidak Memenuhi Syarat, karena harus ada minimal satu wadah yang volumenya 100% VE.", "Memenuhi Syarat, karena tidak ada satupun wadah yang < 95% VE (semua > 95 mL)."],
+   answer: 2
+},
+{
+   question: "Bagian R&D sedang mengembangkan sediaan Emulsi Minyak Ikan untuk suplemen anak. Formulator memilih menggunakan Gom Arab sebagai emulgator utama dengan konsentrasi 10%. Dalam laporan studi pre-formulasi, formulator menjelaskan bahwa emulgator ini bekerja dengan cara meningkatkan viskositas dan membentuk lapisan pelindung di sekeliling globul minyak untuk mencegah coalescence. Berdasarkan jenis emulgator yang digunakan, bagaimanakah mekanisme pembentukan lapisan pelindung tersebut pada antarmuka fase?",
+   img: "",
+   options: ["Menurunkan tegangan antarmuka secara drastis sehingga energi bebas permukaan mendekati nol.", "Mengadsorpsi pada antarmuka dalam bentuk partikel-partikel padat halus yang tidak larut.", "Membentuk kompleks inklusi dengan molekul minyak untuk mencegah kontak dengan air.", "Membentuk lapisan film multimolekuler yang kuat dan tebal di sekeliling droplet.", "Membentuk lapisan film monomolekuler yang tersusun rapat pada antarmuka minyak-air."],
+   answer: 3
+},
+{
+   question: "Seorang Apoteker di industri farmasi steril sedang memproduksi sediaan Intravenous Fat Emulsion (IVFE) untuk nutrisi parenteral total (TPN). Formula tersebut menggunakan Egg Lecithin yang dimurnikan sebagai zat pengemulsi utama. Mengingat rute pemberiannya adalah intravena, ukuran globul harus sangat kecil dan stabil. Apa mekanisme Lesitin dalam menstabilkan sistem emulsi tersebut sesuai dengan sifat fisikokimianya?",
+   img: "",
+   options: ["Mengubah potensial Zeta menjadi positif agar globul saling tolak-menolak dengan sel darah.", "Membentuk film multimolekuler yang kaku untuk menahan tekanan osmotik darah.", "Meningkatkan viskositas fase pendispersi secara signifikan untuk menghambat pergerakan globul Brown.", "Mengendap pada permukaan globul sebagai partikel padat halus.", "Membentuk film monomolekuler yang fleksibel pada antarmuka minyak dan air."],
+   answer: 4
+},
+{
+   question: "Dalam pengembangan sediaan losio kalamin untuk gatal-gatal, formulator menggunakan Bentonit Magma sebagai bahan pensuspensi sekaligus penstabil sistem emulsi minyak dalam air (o/w). Bentonit diketahui tidak larut dalam air maupun minyak, namun mampu menstabilkan sediaan secara efektif. Berdasarkan mekanismenya, bagaimana Bentonit mencegah penggabungan fase terdispersi?",
+   img: "",
+   options: ["Dengan teradsorpsi pada antarmuka membentuk lapisan film berupa partikel padat.", "Dengan menurunkan tegangan permukaan air secara signifikan seperti surfaktan sintetis.", "Dengan melarutkan sebagian fase minyak ke dalam struktur kristalnya.", "Dengan membentuk film monomolekuler yang sangat tipis antar fase.", "Dengan membentuk lapisan film multimolekuler dari rantai polimer panjang."],
+   answer: 0
+},
+{
+   question: "Seorang mahasiswa farmasi sedang melakukan percobaan membuat emulsi menggunakan kombinasi Tween 80 dan Span 80. Sebelum penambahan emulgator, minyak dan air terpisah dengan cepat segera setelah pengocokan dihentikan. Setelah penambahan kombinasi Surfaktan tersebut, terbentuk emulsi yang stabil. Apa prinsip termodinamika utama yang mendasari mekanisme kerja emulgator golongan surfaktan ini dalam proses emulsifikasi awal?",
+   img: "",
+   options: ["Membentuk lapisan tebal multimolekuler yang mencegah kontak antar globul secara sterik.", "Menyelimuti droplet dengan partikel padat untuk memberikan hambatan mekanik.", "Meningkatkan viskositas fase luar agar pergerakan droplet menjadi lambat.", "Meningkatkan energi bebas permukaan sehingga droplet cenderung mempertahankan bentuk bulatnya.", "Menurunkan tegangan antarmuka fase minyak dan air sehingga memudahkan pemecahan globul menjadi lebih kecil."],
+   answer: 4
+},
+{
+   question: "Suatu sediaan emulsi oral menggunakan Gelatin sebagai emulgator. Pada uji stabilitas dipercepat, sediaan menunjukkan pemisahan fase. Formulator menduga pH sediaan tidak sesuai dengan titik isoelektrik gelatin, yang menyebabkan kegagalan pembentukan lapisan pelindung pada globul minyak. Jika kondisi pH sudah diperbaiki dan emulgator bekerja optimal, struktur pelindung seperti apa yang seharusnya terbentuk oleh Gelatin di sekeliling droplet minyak?",
+   img: "",
+   options: ["Lapisan film yang tersusun dari beberapa lapis molekul hidrokoloid terhidrasi (Multimolekuler).", "Lapisan ganda listrik (Double layer) yang menghasilkan potensial Nernst tinggi.", "Lapisan partikel padat halus yang terbasahi sebagian oleh minyak dan air (Partikulat).", "Lapisan tunggal molekul amphiphilic yang berorientasi tegak lurus (Monomolekuler).", "Lapisan misel sferis yang melarutkan sebagian minyak (Solubilisasi)."],
+   answer: 0
+},
+{
+   question: "Bagian RnD industri farmasi sedang mengembangkan formula sediaan krim ekstrak lidah biawak sebagai berikut: R/ Ekstrak lidah biawak 40%, Asam stearat 15%, Mineral oil 30%, Emulgator 5%, Nipagin 0,18%, Nipasol 0,02%, Aqua purificata ad 100. Diketahui nilai HLB butuh sediaan adalah 12,67. Terdapat beberapa kombinasi emulgator yang tersedia. Manakah kombinasi emulgator yang tepat?",
+   img: "",
+   options: ["Sodium Lauril Sulfat (HLB 40,0) dan Tween 80 (HLB 15,0)", "Tween 80 (HLB 15,0) dan Span 80 (HLB 4,3)", "Sodium Lauril Sulfat (HLB 40,0) dan Asam Oleat (HLB 1,0)", "Span 80 (HLB 4,3) dan Asam Oleat (HLB 1,0)", "Tween 80 (HLB 15,0) dan Asam Oleat (HLB 1,0)"],
+   answer: 1
+},
+{
+   question: "Bagian Pengawasan Mutu (QC) menerima sampel emulsi Night Cream tanpa label yang jelas. Untuk mengidentifikasi tipe emulsi secara cepat, analis melakukan Uji Pewarnaan menggunakan larutan Methylene Blue. Sampel diletakkan di atas kaca arloji, kemudian ditetesi larutan pewarna tersebut dan diaduk perlahan. Hasil pengamatan mikroskopis menunjukkan bahwa partikel warna biru tidak larut merata, melainkan tampak bergerombol di permukaan globul, sementara latar belakang sediaan tetap tidak berwarna. Apakah kesimpulan tipe emulsi tersebut?",
+   img: "",
+   options: ["Emulsi telah rusak (Cracking).", "Emulsi tipe Minyak dalam Air (M/A).", "Emulsi Ganda (A/M/A).", "Emulsi tipe Air dalam Minyak (A/M).", "Tidak bisa disimpulkan"],
+   answer: 3
+},
+{
+   question: "Seorang Apoteker di bagian QC sedang melakukan uji stabilitas dipercepat pada sediaan Emulsi Santan Kelapa (Minyak dalam Air). Pada pengamatan mikroskopis hari ke-14, terlihat fenomena di mana lapisan film antarmuka globul telah pecah. Hal ini menyebabkan globul-globul minyak bergabung menjadi tetesan yang sangat besar dan akhirnya memisah sempurna membentuk lapisan minyak di permukaan yang tidak dapat disatukan kembali meski dikocok dengan kuat. Bagaimanakah urutan proses fisika yang benar yang menyebabkan Cracking tersebut?",
+   img: "",
+   options: ["Coalescence → Flocculation → Demulsifikasi → Breaking", "Flokulasi → Coalescence → Cracking", "Creaming → Flokulasi → Inversi Fasa → Cracking", "Inversi Fasa → Coalescence → Breaking → Sedimentasi", "Sedimentasi → Creaming → Coalescence → Cracking"],
+   answer: 1
+},
+{
+   question: "Industri kosmetik memproduksi Body Lotion tipe M/A yang distabilkan menggunakan emulgator sabun Natrium Stearat. Karena kesalahan teknis, operator menambahkan larutan elektrolit Kalsium Klorida (CaCl2) ke dalam tangki pencampuran dalam jumlah yang signifikan. Setelah pengadukan selesai, Apoteker mengamati bahwa tekstur sediaan berubah drastis menjadi lebih berminyak dan lengket, serta uji hantaran listrik menunjukkan sediaan tidak lagi menghantarkan arus. Fenomena apa yang terjadi pada sediaan tersebut sesuai prinsip kimia emulgator?",
+   img: "",
+   options: ["Terjadi Inversi Fasa, di mana emulsi berubah dari tipe M/A menjadi tipe A/M akibat terbentuknya Kalsium Stearat.", "Terjadi Coalescence, di mana elektrolit merusak lapisan film natrium stearat sehingga minyak memisah.", "Terjadi Breaking, karena Kalsium Klorida mengendapkan Natrium Stearat sebagai padatan yang tidak aktif.", "Terjadi Inversi Fasa, di mana emulsi berubah dari tipe A/M menjadi tipe M/A karena penambahan elektrolit.", "Terjadi Creaming, karena penambahan garam meningkatkan berat jenis fase air secara signifikan."],
+   answer: 0
+},
+{
+   question: "Dalam evaluasi produk Emulsi Vitamin A, data Particle Size Analyzer (PSA) menunjukkan adanya peningkatan diameter rata-rata droplet yang signifikan dari 2 µm menjadi 15 µm per satuan menit selama uji stres. Secara visual belum terjadi pemisahan fase total, namun ukuran droplet terus membesar akibat penggabungan antar globul. Jika kondisi ini dibiarkan, sediaan akan menuju ke tahap breaking. Apa solusi yang harus dilakukan pada tahap formulasi untuk mengatasi masalah peningkatan ukuran droplet ini?",
+   img: "",
+   options: ["Penyeragaman ukuran partikel.", "Penurunan viskositas medium agar partikel lebih bebas bergerak.", "Penambahan elektrolit untuk menebalkan lapisan listrik rangkap.", "Penambahan emulgator baru untuk membentuk lapisan film ganda.", "Penambahan pengawet untuk mencegah pertumbuhan mikroba."],
+   answer: 0
+},
+{
+   question: "Satu bets sediaan Liquid Paraffin Emulsion mengalami kegagalan total di mana fase minyak dan air terpisah sempurna menjadi dua lapisan dan tidak dapat disatukan kembali. Apoteker Penanggung Jawab memutuskan untuk melakukan formulasi ulang untuk bets berikutnya agar lapisan antarmuka globul tidak mudah pecah. Solusi formulasi manakah yang direkomendasikan untuk mencegah pecahnya lapisan antarmuka tersebut?",
+   img: "",
+   options: ["Penambahan emulgator atau surfaktan.", "Menurunkan suhu penyimpanan sediaan di gudang.", "Menambahkan zat peningkat viskositas seperti CMC.", "Meningkatkan kecepatan pengadukan saat proses produksi.", "Melakukan penyeragaman ukuran partikel dengan koloid mill."],
+   answer: 0
+},
+{
+   question: "Bagian R&D sedang mengembangkan sediaan Gel Natrium Diklofenak. Saat uji evaluasi fisik, gel yang dihasilkan terlalu cair dan tidak mampu mempertahankan bentuknya saat dioleskan pada kulit, sehingga waktu kontak obat menjadi sangat singkat. Formulator memutuskan untuk menambahkan eksipien yang bekerja dengan cara mengembang dalam air dan membentuk jalinan struktur matriks untuk menahan fasa cair. Bahan manakah yang paling tepat dipilih untuk mengatasi masalah rheologi tersebut?",
+   img: "",
+   options: ["Dimetil Sulfoksida", "Sorbitol", "Polietilen Glikol 400", "Propilenglikol", "Natrium Carboxymethyl Cellulose"],
+   answer: 4
+},
+{
+   question: "Seorang Apoteker sedang memformulasikan sediaan transdermal patch Fentanil untuk nyeri kanker. Apoteker menambahkan senyawa Dimetil Sulfoksida ke dalam matriks patch. Apakah fungsi dari bahan tersebut dalam formula ini?",
+   img: "",
+   options: ["Surfactant.", "Penetration Enhancer.", "Preservative.", "Viscosity Enhancer.", "Chelating Agent."],
+   answer: 1
+},
+{
+   question: "Dalam pengembangan sediaan Suspensi Antasida, formulator menemukan bahwa partikel zat aktif mengendap terlalu cepat sehingga sulit dituang dengan dosis seragam. Berdasarkan Hukum Stokes, salah satu cara memperlambat sedimentasi adalah dengan meningkatkan viskositas medium pendispersi. Formulator berencana menggunakan bahan alam dari getah tanaman. Manakah eksipien di bawah ini yang termasuk dalam golongan Viscosity Enhancer jenis Gum?",
+   img: "",
+   options: ["Propilenglikol", "Carbomer 940", "Sorbitol", "Acacia", "Gliserol"],
+   answer: 3
+},
+{
+   question: "Suatu krim antijamur mengandung zat aktif Mikonazol Nitrat yang bekerja lokal di epidermis. Formulator menambahkan Propilenglikol sebanyak 15% ke dalam sediaan. Dalam dokumen Master Formula, Apoteker harus menuliskan alasan penambahan Propilenglikol tersebut terkait efikasi obat. Alasan manakah yang paling tepat sesuai fungsi eksipien?",
+   img: "",
+   options: ["Sebagai Penetration Enhancer.", "Sebagai Buffering Agent.", "Sebagai Chelating Agent.", "Sebagai Emulgator.", "Sebagai Antioxidant."],
+   answer: 0
+},
+{
+   question: "Industri farmasi sedang memproduksi sediaan Gel Hand Sanitizer berbasis alkohol. Untuk mendapatkan konsistensi gel yang transparan dan kental, digunakan Carbomer sebagai gelling agent. Namun, formulator juga ingin menambahkan bahan lain yang berfungsi ganda: sebagai humektan sekaligus membantu penetrasi bahan aktif ke pori-pori kulit. Berdasarkan daftar eksipien berikut, manakah bahan yang memiliki klasifikasi sebagai Penetration Enhancer?",
+   img: "",
+   options: ["Carbomer 934", "Tragacanth", "Xanthan Gum", "Sorbitol", "Natrium CMC"],
+   answer: 3
+},
+{
+   question: "Bagian R&D sedang mengembangkan sediaan cair oral untuk antibiotik Sefiksim. Berdasarkan data pra-formulasi, diketahui Sefiksim memiliki cincin beta-laktam yang tidak stabil dalam air dan memiliki kelarutan yang sangat rendah. Oleh karena itu, formulator memutuskan membuat sediaan Suspensi Kering (Dry Syrup) yang direkonstitusi saat akan digunakan. Secara kimiawi, reaksi degradasi apa yang paling dihindari dengan memformulasikan zat tersebut dalam bentuk kering dibandingkan suspensi cair siap pakai?",
+   img: "",
+   options: ["Fotolisis.", "Hidrolisis.", "Oksidasi.", "Polimerisasi.", "Isomerisasi."],
+   answer: 1
+},
+{
+   question: "Dalam pembuatan suspensi oftalmik Hidrokortison, ukuran partikel sangat kritis untuk mencegah iritasi mata. Formulator memilih Metode Presipitasi untuk mendapatkan partikel yang sangat halus. Proses manakah di bawah ini yang menggambarkan urutan kerja metode presipitasi yang benar?",
+   img: "",
+   options: ["Zat aktif dicampur kering dengan bahan pensuspensi, kemudian air ditambahkan sekaligus.", "Zat aktif digerus dalam lumpang dengan sedikit air hingga terbentuk pasta, lalu diencerkan dengan mucilago.", "Zat aktif dipanaskan hingga meleleh, lalu disemprotkan ke dalam air dingin.", "Zat aktif dilarutkan dalam pelarut organik, kemudian larutan ini dituang perlahan ke dalam air sambil diaduk.", "Zat aktif disuspensikan dalam minyak, kemudian diemulsikan ke dalam air menggunakan emulgator kuat."],
+   answer: 3
+},
+{
+   question: "Bagian R&D sedang melakukan uji stabilitas jangka panjang pada sediaan Suspensi Antasida. Pada bulan-bulan awal, sediaan tampak sangat elegan dengan penampilan keruh yang homogen dan pengendapan yang sangat lambat. Namun, pada akhir bulan ke-12, ditemukan endapan keras di dasar botol yang membentuk massa padat (cake). Saat dilakukan uji redispersi dengan pengocokan kuat mekanik dan manual, endapan tersebut tidak dapat terdispersi kembali dan tetap menempel di dasar botol. Berdasarkan karakteristik tersebut, apakah sistem pembentukan suspensi yang diterapkan pada formula awal?",
+   img: "",
+   options: ["Sistem Flokulasi.", "Sistem Prepitasi.", "Sistem Dispersi.", "Sistem Deflokulasi.", "Sistem Kombinasi."],
+   answer: 3
+},
+{
+   question: "Seorang Apoteker merekonstitusi sediaan Dry Syrup Antibiotik Sefiksim untuk pasien anak. Setelah ditambah air dan dikocok, terbentuk suspensi yang terdispersi baik. Namun, Apoteker mengamati bahwa hanya dalam waktu 5 menit setelah didiamkan, partikel obat sudah mengendap kembali ke dasar botol dan cairan di atasnya menjadi jernih. Saat dikocok perlahan, endapan tersebut sangat mudah menyebar kembali menjadi homogen. Berdasarkan fenomena fisik tersebut, mengapa sistem suspensi ini dikategorikan sebagai sistem Flokulasi?",
+   img: "",
+   options: ["Karena partikel membentuk agregat longgar (flok) yang cepat mengendap namun mudah diredispersi kembali.", "Karena viskositas pembawa sangat tinggi sehingga menahan partikel tetap melayang dalam waktu lama.", "Karena partikel mengendap lambat dan membentuk susunan partikel yang rapat dan kaku.", "Karena sediaan tersebut tidak memerlukan suspending agent dalam formulanya.", "Karena partikel berada dalam wujud terpisah satu sama lain (diskret) sehingga menolak gaya gravitasi."],
+   answer: 0
+},
+{
+   question: "Formulator sedang memperbaiki sediaan suspensi Ibuprofen yang menggunakan sistem Deflokulasi. Masalah utama yang dihadapi adalah risiko terjadinya caking jika sediaan disimpan lama di gudang distribusi. Formulator memutuskan untuk mengubah sistem suspensi untuk mencegah pemadatan endapan. Bahan tambahan apa yang paling tepat ditambahkan untuk mengubah potensial zeta partikel dan memicu pembentukan flok yang longgar?",
+   img: "",
+   options: ["Menambahkan Wetting Agent.", "Menambahkan Suspending Agent.", "Menambahkan pengawet.", "Menambahkan Flocculating Agent.", "Menambahkan sukrosa."],
+   answer: 3
+},
+{
+   question: "Sediaan Jamu dalam kemasan botol diproduksi secara massal menggunakan sistem Flokulasi agar endapannya tidak mengeras. Namun, bagian QC mengeluhkan bahwa sediaan terlalu cepat mengendap, sehingga dikhawatirkan pasien akan menuang dosis yang tidak seragam. Apa solusi formulasi yang paling tepat untuk memperbaiki kekurangan sistem flokulasi tanpa mengubah sifat flokulasinya?",
+   img: "",
+   options: ["Mengganti pelarut air dengan alkohol.", "Menghilangkan semua elektrolit dalam formula.", "Menambahkan Anticaking agent.", "Menambahkan Viscosity Enhancer.", "Menggerus partikel jamu menjadi ukuran nano."],
+   answer: 3
+},
+{
+   question: "Seorang Apoteker R&D sedang melakukan optimasi formula suspensi antasida menggunakan suspending agent kombinasi. Untuk mengevaluasi kestabilan fisik, dilakukan pengukuran Volume Sedimentasi (F) dengan cara memasukkan 100 mL sediaan ke dalam gelas ukur tertutup. Setelah didiamkan selama 30 hari, teramati bahwa volume endapan yang terbentuk adalah 98 mL, dan cairan supernatan di bagian atasnya jernih. Berdasarkan parameter Penafsiran Hasil, berapakah nilai F dan apa kesimpulan status stabilitas sediaan tersebut?",
+   img: "",
+   options: ["Nilai F = 0,02; Sediaan mengalami deflokulasi karena supernatan jernih.", "Nilai F = 0,98; Sediaan buruk karena nilai F harus tepat sama dengan 1,00.", "Nilai F = 0,98; Sediaan mengalami caking karena endapan terlalu tinggi.", "Nilai F = 0,98; Sediaan berada dalam Flocculation equilibrium dan merupakan sediaan yang baik.", "Nilai F = 1,02; Terjadi jaringan Floc yang sangat longgar."],
+   answer: 3
+},
+{
+   question: "Seorang Apoteker sedang mereformulasi sediaan Suspensi Ibuprofen yang sebelumnya ditarik dari pasaran karena masalah irreversible caking. Apoteker tersebut ingin menambahkan flocculating agent dari golongan Clay ke dalam formula baru untuk menstabilkan struktur endapan. Berdasarkan daftar inventaris gudang bahan baku di bawah ini, manakah eksipien yang harus diambil oleh Apoteker tersebut?",
+   img: "",
+   options: ["Natrium CMC", "Kalium Dihydrogen Fosfat", "Natrium Lauril Sulfat", "Bentonit", "Tragakan"],
+   answer: 3
+},
+{
+   question: "Dalam dokumen Master Formula sediaan Suspensi Sulfametoksazol, tertulis komposisi bahan sebagai berikut: Sulfametoksazol, Polisorbat 80, Sirup Simplex, Aqua Purificata. Saat dilakukan evaluasi rutin, sediaan mengalami caking. Apoteker menyarankan untuk mengevaluasi peran Polisorbat 80 dalam formula tersebut. Apakah peran ganda Polisorbat 80 dalam konteks pencegahan caking?",
+   img: "",
+   options: ["Sebagai Pengawet untuk mencegah degradasi mikroba yang menyebabkan caking.", "Sebagai Clay yang membentuk struktur jaringan gel dalam air.", "Sebagai Elektrolit kuat yang memecah ikatan antar partikel padat.", "Sebagai Pemanis untuk meningkatkan densitas fase air.", "Sebagai Surfaktan yang bekerja menurunkan tegangan permukaan sekaligus menurunkan zeta potensial untuk membentuk flok."],
+   answer: 4
+},
+{
+   question: "Bagian Pengawasan Mutu (QC) sedang melakukan pengujian kadar Acid Neutralizing Capacity pada sediaan Suspensi Antasida. Sejumlah sampel setara dosis dipipet, kemudian ditambahkan 30 mL larutan HCl 1,0 N berlebih. Campuran diaduk hingga reaksi netralisasi selesai. Kelebihan asam yang tersisa kemudian dititrasi balik dengan larutan NaOH 0,5 N. Jika volume titran NaOH yang dibutuhkan hingga mencapai titik akhir titrasi adalah 20 mL, berapakah Total mEq kapasitas penetralan asam sediaan tersebut?",
+   img: "",
+   options: ["10 mEq", "40 mEq", "15 mEq", "25 mEq", "20 mEq"],
+   answer: 4
+},
+{
+   question: "Industri farmasi sedang mendaftarkan produk baru berupa sediaan Eleksir Parasetamol untuk penurun demam. Target populasi pasien utama adalah balita usia 2 hingga 5 tahun. Regulatory affairs melakukan verifikasi formula terhadap pedoman FDA terkait batasan konsentrasi alkohol. Berapakah batas maksimal konsentrasi alkohol (% v/v) yang diperbolehkan dalam sediaan tersebut agar lolos registrasi?",
+   img: "",
+   options: ["Maksimal 10,0%", "Maksimal 5,0%", "Maksimal 2,0%", "Maksimal 0,5%", "Tidak boleh mengandung alkohol sama sekali (0%)."],
+   answer: 3
+},
+{
+   question: "Apoteker di bagian QC sedang melakukan pengecekan kadar alkohol pada produk akhir \"Elixir Multivitamin Dewasa\" untuk usia > 12 tahun. Hasil kromatografi gas menunjukkan kadar etanol dalam sediaan adalah 8,5%. Bagaimanakah kesimpulan status mutu produk tersebut berdasarkan batasan FDA?",
+   img: "",
+   options: ["Memenuhi Syarat (MS), karena sediaan dewasa tidak memiliki batasan alkohol.", "Tidak Memenuhi Syarat (TMS), karena batas maksimal untuk semua usia adalah 5%.", "Evaluasi Ulang, karena kadar alkohol harus tepat 10%.", "Memenuhi Syarat (MS), karena batas maksimal untuk usia > 12 tahun dan dewasa adalah 10%.", "Tidak Memenuhi Syarat (TMS), karena batas maksimal dewasa adalah 0,5%."],
+   answer: 3
+},
+{
+   question: "Zat aktif Fenobarbital memiliki sifat sukar larut dalam air namun mudah larut dalam etanol. Formulator memutuskan membuat sediaan Eleksir menggunakan campuran pelarut air, etanol, dan gliserin. Secara fisikokimia, bagaimanakah mekanisme kerja campuran pelarut tersebut dalam meningkatkan kelarutan zat aktif?",
+   img: "",
+   options: ["Membentuk kompleks inklusi antara zat aktif dan pelarut.", "Meningkatkan pH sediaan untuk membentuk garam fenobarbital yang larut air.", "Menurunkan konstanta dielektrik campuran agar sesuai dengan polaritas zat aktif.", "Menurunkan tegangan permukaan antara partikel zat padat dan pelarut.", "Meningkatkan konstanta dielektrik campuran agar menyerupai konstanta dielektrik air."],
+   answer: 2
+},
+{
+   question: "Bagian R&D sedang merancang sediaan Eleksir Teofilin dengan komposisi pelarut campur sebagai berikut: Formula terdiri dari: Etanol: 30% Air: 70%. Diketahui KD Etanol = 25,7 dan KD Air = 80,4. Berapakah nilai KD Campuran dari sistem pelarut tersebut?",
+   img: "",
+   options: ["58,50", "63,99", "53,05", "106,10", "42,11"],
+   answer: 1
+},
+{
+   question: "Diketahui formula sediaan cair oral sebagai berikut: R/ Etanol 10% Gliserin 10% Propilen Glikol 5% Air ad 100% .(Diketahui KD: Etanol=25,7; Gliserin=43,0; Propilen Glikol=33,0; Air=80,4). Berapakah Konstanta Dielektrik (KD) campuran dari pembawa tersebut?",
+   img: "",
+   options: ["55,45", "80,10", "74,21", "68,82", "60,30"],
+   answer: 3
+},
+{
+   question: "Bagian R&D sedang mengembangkan formula Antasida Forte. Setiap 5 mL sediaan dirancang mengandung kombinasi bahan aktif sebagai berikut: • Magnesium Hidroksida (MgOH): 650 mg • Aluminium Hidroksida (AlOH): 500 mg\n \nApoteker melakukan perhitungan teoritis ANC berdasarkan data pustaka bahan baku: • Tiap 325 mg MgOH setara dengan 11,1 mEq asam. • Tiap 1 gram AlOH setara dengan 25 mEq asam.\n \nBerapakah total mEq kapasitas penetralan asam teoritis untuk satu dosis (5 mL) sediaan tersebut?",
+   img: "",
+   options: ["23,66 mEq", "18,05 mEq", "47,20 mEq", "36,10 mEq", "34,70 mEq"],
+   answer: 4
+},
+{
+   question: "Bagian formulasi sedang melakukan optimasi sistem emulgator untuk sediaan krim topikal. Formulator menggunakan kombinasi dua surfaktan dengan konsentrasi dalam formula akhir sebagai berikut: • Tween: 3% (HLB = 15) • Span: 1% (HLB = 6,7)\n \nUntuk memastikan sistem emulgator ini cocok dengan fase minyak yang digunakan, formulator perlu mengetahui nilai HLB campuran dari kombinasi tersebut. Berapakah nilai HLB Campuran yang dihasilkan?",
+   img: "",
+   options: ["11,250", "13,400", "10,850", "12,925", "9,675"],
+   answer: 3
+},
+{
+   question: "Seorang Apoteker R&D sedang menghitung laju sedimentasi sediaan suspensi Kalamin untuk memastikan stabilitas fisiknya. Berdasarkan data evaluasi partikel dan reologi pembawa, diperoleh data sebagai berikut: • Diameter partikel rata-rata (d) = 5×10−4 cm • Berat jenis partikel (p) = 3,0 g/cm³ • Berat jenis media (p0​) = 1,0 g/cm³ • Gravitasi (g) = 981 cm/s² • Viskositas media (η) = 0,5 Poise (g/cm·s)\n \nMenggunakan Persamaan Hukum Stokes, berapakah kecepatan sedimentasi (V) yang akan terjadi pada sediaan tersebut?",
+   img: "",
+   options: ["4,90×10⁻⁵ cm/s", "1,09×10⁻⁴ cm/s", "9,81×10⁻⁴ cm/s", "2,72×10⁻⁵ cm/s", "5,45×10⁻⁵ cm/s"],
+   answer: 4
+},
+{
+   question: "Seorang formulator sedang merancang sediaan krim dengan komposisi fase minyak dan emulgator sebagai berikut: • Stearyl alcohol: 3,5 g (RHLB 14) • Adeps lanae: 2,5 g (RHLB 10) • Paraffin liquid: 30 g (RHLB 12) • Emulgator (Tween & Span): 15 g • Aqua: ad qs\n \nDiketahui HLB Tween adalah 15 dan HLB Span adalah 4,3. Berapakah berat masing-masing Tween dan Span yang dibutuhkan agar sesuai dengan HLB butuh fase minyak tersebut?",
+   img: "",
+   options: ["Tween 12,05 gram dan Span 2,95 gram", "Tween 4,14 gram dan Span 10,86 gram", "Tween 7,75 gram dan Span 2,95 gram", "Tween 11,25 gram dan Span 3,75 gram", "Tween 10,86 gram dan Span 4,14 gram"],
+   answer: 4
+},
+{
+   question: "Bagian R&D sedang memformulasikan 100 gram sediaan emulsi dengan komposisi pada tabel berikut: <table border='1' style='border-collapse: collapse; width: 100%;'><tr><td style='padding: 8px;'>Minyak</td><td style='padding: 8px;'>20%</td></tr><tr><td style='padding: 8px;'>Emulgator</td><td style='padding: 8px;'>3%</td></tr><tr><td style='padding: 8px;'>Air</td><td style='padding: 8px;'>ad 100 gram</td></tr></table>\n \nDiketahui nilai HLB Butuh untuk fase minyak tersebut adalah 7. Tersedia dua jenis emulgator, yaitu Tween (HLB 16) dan Span (HLB 4,3). Berapa gram jumlah masing-masing Tween dan Span yang harus ditimbang untuk membuat sediaan tersebut?",
+   img: "",
+   options: ["Tween 2,308 gram dan Span 0,692 gram", "Tween 0,550 gram dan Span 2,450 gram", "Tween 1,800 gram dan Span 1,200 gram", "Tween 0,692 gram dan Span 2,308 gram", "Tween 1,250 gram dan Span 1,750 gram"],
+   answer: 3
+},
+{
+   question: "Dalam pengembangan suspensi Sefiksim, formulator menetapkan target spesifikasi kecepatan pengendapan (V) maksimal adalah 1×10−4 cm/s agar sediaan tetap homogen saat dituang. Parameter fisik bahan baku dan lingkungan adalah sebagai berikut: Diameter partikel (d) = 1×10−3 cm, Selisih berat jenis partikel dan media (p−p0​) = 0,9 g/cm³, Gravitasi (g) = 1000 cm/s² \n \n. Berapakah nilai viskositas (n) minimal yang harus dicapai oleh pembawa (vehicle) agar target stabilitas tersebut terpenuhi?",
+   img: "",
+   options: ["0,05 Poise", "10,0 Poise", "0,5 Poise", "1,8 Poise", "5,0 Poise"],
+   answer: 2
+},
+{
+   question: "Seorang Apoteker Penanggung Jawab Mutu sedang mengevaluasi data uji Volume Terpindahkan Tahap 1 untuk sediaan Sirup Multivitamin (Wadah Dosis Ganda) dengan Volume Etiket (VE) 60 mL. Uji dilakukan terhadap 10 wadah dengan hasil volume pada tabel sebagai berikut: \n \n• Wadah 1-10: 61 mL, 62 mL, 60 mL, 63 mL, 60 mL, 61 mL, 62 mL, 60 mL, 56 mL, 55 mL.\n \n. Tentukan keputusan yang harus diambil oleh Apoteker berdasarkan kriteria keberterimaan Volume Terpindahkan!",
+   img: "",
+   options: ["Rata-rata 100% VE; Lulus uji Tahap 1 karena volume rata-rata memenuhi syarat.", "Rata-rata 100% VE; Lanjutkan ke uji Tahap 2 karena volume rata-rata sama dengan 100% tetapi ada 1 wadah di bawah 95%.", "Rata-rata 98,3% VE; Tidak memenuhi syarat (TMS) karena volume rata-rata kurang dari 100% VE.", "Rata-rata 100% VE; Lanjutkan ke uji Tahap 2 karena terdapat wadah dengan volume < 95% namun tidak ada yang < 90%.", "Rata-rata 100% VE; Tidak memenuhi syarat (TMS) karena ada 2 wadah dengan volume < 95% VE."],
+   answer: 4
+},
+{
+   question: "Sebuah industri farmasi memproduksi Sirup Kering (Dry Syrup) Antibiotik untuk rekonstitusi (Wadah Dosis Ganda). Setelah direkonstitusi sesuai petunjuk (add 50 mL air), volume akhir yang tertera di etiket adalah 60 mL. Apoteker QC melakukan uji volume terpindahkan pada tahap 2 (total 30 botol). Hasil: • Rata-rata volume dari 30 botol = 60,1 mL. • Terdapat 1 botol dengan volume 56 mL. • Terdapat 1 botol dengan volume 53 mL. • Sisa botol lainnya > 58 mL.\n \nApakah bets tersebut dapat diluluskan?",
+   img: "",
+   options: ["Ya, Lulus. Karena 56 mL masih > 90% VE dan 53 mL > 85% VE.", "Ya, Lulus. Karena rata-rata > 60 mL dan hanya 2 botol yang bermasalah.", "Perlu dilakukan uji ulang (re-test) dari awal karena hasil meragukan.", "Tidak, Gagal. Karena terdapat lebih dari 1 botol dengan volume < 95% VE.", "Tidak, Gagal. Karena terdapat botol dengan volume < 90% VE."],
+   answer: 4
+},
+{
+   question: "Bagian Pengawasan Mutu (QC) sedang melakukan evaluasi post-market terhadap sediaan Suspensi Sukralfat yang ditarik dari peredaran untuk pengecekan rutin stabilitas fisik. Pada dasar botol, terlihat adanya endapan yang cukup tebal. Analis melakukan uji kemampuan redispersi dengan cara membalikkan botol 180 derajat dan mengocoknya menggunakan tangan dengan kecepatan konstan. Hasil pengamatan mencatat: • Pada detik ke-20: Masih terlihat gumpalan endapan di dasar botol. • Pada detik ke-35: Endapan baru terdispersi sempurna dan sediaan menjadi homogen kembali.\n \nBerdasarkan standar Kemampuan Redispersi, bagaimanakah kesimpulan status mutu sediaan tersebut?",
+   img: "",
+   options: ["Tidak Memenuhi Syarat, karena suspensi yang baik harus terdispersi instan (kurang dari 10 detik) saat botol dibalik.", "Tidak Memenuhi Syarat, karena sediaan seharusnya terdispersi sempurna maksimal 30 detik.", "Memenuhi Syarat, karena waktu redispersi di bawah 1 menit masih masuk dalam kategori sediaan cair yang dapat diterima secara farmasetik.", "Memenuhi Syarat, karena yang terpenting adalah endapan tidak membentuk caking (massa keras), berapapun waktu pengocokannya.", "Memenuhi Syarat, karena perbedaan waktu 5 detik dianggap tidak signifikan (toleransi alat ukur)."],
+   answer: 1
+},
+{
+   question: "Seorang Apoteker R&D sedang menentukan tegangan permukaan (γ) dari sediaan eliksir paracetamol menggunakan metode Kenaikan Kapiler. Data pengukuran laboratorium adalah sebagai berikut: • Kenaikan cairan dalam pipa kapiler (h) = 3,0 cm. • Jari-jari pipa kapiler (r) = 0,5 mm. • Massa jenis eliksir (p) = 1,0 g/cm³. • Gravitasi (g) = 9,8 m/s². • Cairan dianggap membasahi dinding kapiler dengan sempurna (Sudut kontak θ=0∘, sehingga cosθ=1).\n \nBerapakah nilai Tegangan Permukaan (γ) sediaan tersebut (N/m)?",
+   img: "",
+   options: ["0,0735 N/m", "0,1470 N/m", "0,0367 N/m", "7,3500 N/m", "73,50 N/m"],
+   answer: 0
+},
+{
+   question: "Apoteker R&D sedang melakukan studi pra-formulasi untuk zat aktif baru X. Data kelarutan menunjukkan: • Kelarutan dalam air: 1 bagian larut dalam 15.000 bagian air. • Stabilitas: Stabil terhadap hidrolisis air. • Target sediaan: Cairan oral untuk anak-anak.\n \nBentuk sediaan apa yang paling rasional untuk dikembangkan?",
+   img: "",
+   options: ["Sediaan Suspensi.", "Sediaan Eliksir.", "Sediaan Sirup.", "Sediaan Effervescent.", "Sediaan Emulsi."],
+   answer: 0
+},
+{
+   question: "Seorang Apoteker sedang mereview formula sediaan topikal dan mengelompokkan eksipien berdasarkan fungsinya. Berikut adalah ekstrak dokumen formula: • Bahan P: Gliserol • Bahan Q: Na CMC • Bahan R: PEG 400\n \nBagaimanakah pasangan yang tepat antara bahan dan fungsi utamanya?",
+   img: "",
+   options: ["Bahan P adalah Penetration Enhancer; Bahan Q adalah Viscosity Enhancer.", "Bahan P adalah Viscosity Enhancer; Bahan Q adalah Penetration Enhancer.", "Bahan Q adalah Viscosity Enhancer; Bahan R adalah Viscosity Enhancer.", "Bahan P adalah Viscosity Enhancer; Bahan R adalah Penetration Enhancer.", "Bahan Q adalah Penetration Enhancer; Bahan R adalah Penetration Enhancer."],
+   answer: 0
+},
+{
+   question: "Dalam perhitungan rheologi aliran plastis, digunakan rumus: U = F−f/G​. Apa makna dari variabel f dalam rumus tersebut yang membedakannya dengan aliran Newtonian?",
+   img: "",
+   options: ["Viskositas Plastis", "Koefisien Tiksotropi", "Shearing Stress", "Rate of Shear", "Yield Value"],
+   answer: 4
+},
+{
+   question: "Bagian R&D sedang mengembangkan sediaan Lotion Pelembap dengan komposisi fase minyak sebagai berikut: • Mineral oil: 5 g (RHLB = 11) • Castor oil: 20 g (RHLB = 14) • Jojoba oil: 25 g (RHLB = 6) • Emulgator: 20 g • Aqua: ad 100 g\n \nUntuk mendapatkan sediaan yang stabil, formulator harus menghitung nilai HLB Butuh campuran dari fase minyak tersebut. Berapakah nilai RHLB campurannya?",
+   img: "",
+   options: ["9,7", "11,5", "12,1", "9,0", "10,3"],
+   answer: 0
+},
+{
+   question: "Bagian Pengawasan Mutu sebuah industri kosmetik melakukan evaluasi isi minimum terhadap produk Body Butter dengan etiket 100 gram. Pada pengujian Tahap 1, diperoleh hasil sebagai berikut: \n \n• Tidak ada satu pun wadah yang isinya kurang dari 95% dari label.\n \n• Rata-rata isi dari 10 wadah tersebut adalah 99 gram.\n \nBerdasarkan hasil evaluasi tersebut, apa keputusan yang harus diambil oleh Apoteker tersebut?",
+   img: "",
+   options: ["Lulus bersyarat", "Uji ulang dari awal", "Memenuhi Syarat", "Tidak Memenuhi Syarat", "Lanjut ke Tahap 2"],
+   answer: 4
+},
+{
+   question: "Seorang Apoteker di laboratorium Fisika Farmasi sedang mengukur tegangan permukaan sediaan Suspensi Ibuprofen menggunakan Tensiometer Du Noüy. Karena cincin standar rusak, ia menggunakan cincin cadangan dengan spesifikasi yang berbeda. Data pengukuran adalah sebagai berikut: • Jari-jari cincin (R) = 1,90 cm. • Gaya tarik maksimum yang terbaca pada alat (F) = 1850 dyne. • Faktor koreksi (f) = 0,92. • Konstanta π = 3,14.\n \nBerapakah nilai Tegangan Permukaan (γ) dari suspensi tersebut?",
+   img: "",
+   options: ["155,0 dyne/cm", "71,3 dyne/cm", "38,8 dyne/cm", "77,5 dyne/cm", "142,6 dyne/cm"],
+   answer: 1
+},
+{
+   question: "Seorang formulator sedang menentukan tegangan permukaan dari surfaktan baru menggunakan Tensiometer Du Noüy. Hasil pembacaan pada skala alat menunjukkan gaya sebesar 1570 dyne. Spesifikasi cincin platinum-iridium yang digunakan adalah: • Keliling lingkaran cincin (L) = 6,0 cm. • Faktor Koreksi (F) = 0,90.\n \nBerapakah nilai Tegangan Permukaan Sebenarnya (γcorr​) dari cairan tersebut?",
+   img: "",
+   options: ["117,7 dyne/cm", "235,5 dyne/cm", "130,8 dyne/cm", "261,6 dyne/cm", "145,3 dyne/cm"],
+   answer: 0
+},
+{
+   question: "Dalam validasi proses pembuatan Cleansing Milk (tipe M/A) dan Cold Cream (tipe A/M), Apoteker melakukan uji kontrol kualitas sederhana menggunakan Uji Kertas Saring. Setitik sampel dari Bets X dan Bets Y diteteskan secara terpisah ke atas kertas saring Whatman. Hasil pengamatan setelah 1 menit: • Bets X: Tetesan menyebar dengan cepat dan area basah meluas secara signifikan. • Bets Y: Tetesan tetap bertengger di titik awal dan penyebaran sangat lambat/minimal.\n \nBerdasarkan karakteristik penyebaran tersebut, manakah identifikasi yang tepat untuk kedua bets tersebut?",
+   img: "",
+   options: ["Bets X adalah Cold Cream (A/M); Bets Y adalah Cleansing Milk (M/A).", "Bets X adalah Cleansing Milk (M/A); Bets Y adalah Cold Cream (A/M).", "Kedua bets adalah tipe M/A, namun Bets X memiliki viskositas yang lebih rendah.", "Hasil tidak dapat disimpulkan karena kertas saring hanya valid untuk menguji kadar minyak, bukan tipe emulsi.", "Kedua bets adalah tipe A/M, namun Bets X memiliki tegangan permukaan yang lebih tinggi."],
+   answer: 1
+},
+{
+   question: "Seorang Apoteker diminta membuat sediaan emulsi dengan berat total sediaan 50 gram. Formula tersebut menggunakan kombinasi emulgator dengan konsentrasi total 5%. Data emulgator yang digunakan adalah: • Polysorbate 80 (HLB 15) • Sorbitan monooleat (HLB 4,3)\n \nJika diketahui nilai HLB Butuh untuk formula tersebut adalah 12,1. Berapakah berat masing-masing Polysorbate 80 dan Sorbitan monooleat yang harus ditimbang?",
+   img: "",
+   options: ["Polysorbate 80 = 1,82 gram; Sorbitan monooleat = 0,68 gram", "Polysorbate 80 = 3,64 gram; Sorbitan monooleat = 1,36 gram", "Polysorbate 80 = 0,68 gram; Sorbitan monooleat = 1,82 gram", "Polysorbate 80 = 1,25 gram; Sorbitan monooleat = 1,25 gram", "Polysorbate 80 = 2,10 gram; Sorbitan monooleat = 0,40 gram"],
+   answer: 0
+},
+{
+   question: "Seorang Apoteker diminta menghitung jumlah bahan baku Propilenglikol yang dibutuhkan untuk memproduksi 1000 botol sirup. \n \n• Volume etiket per botol = 60 mL. \n \n• Target kelebihan volume (overage) per botol agar lolos uji Volume Terpindahkan = 2%. \n \n• Kandungan Propilenglikol dalam formula = 15% v/v. • BJ Propilenglikol = 1,038 g/mL. \n \nBerapa Kilogram (kg) Propilenglikol yang harus ditimbang untuk 1 bets (1000 botol)?",
+   img: "",
+   options: ["9,53 kg", "9,36 kg", "9,00 kg", "9,18 kg", "10,50 kg"],
+   answer: 0
+}
 
+/// END SEMISOLID
 
 
 
