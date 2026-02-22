@@ -328,17 +328,7 @@ let questions = [
       "Osteoporosis"
     ]
   },
-  {
-    question: "Pasien mengalami mual dan nyeri perut saat minum OAT mengandung rifampisin. Bagaimana waktu minum OAT yang tepat untuk menghindari efek samping?",
-    answer: "Menelan OAT sebelum tidur",
-    options: [
-      "Menelan OAT sebelum tidur",
-      "Menelan OAT sebelum makan",
-      "Menelan OAT saat perut kosong",
-      "Menelan OAT bersama air putih",
-      "Menelan OAT di pagi hari"
-    ]
-  },
+
   {
     question: "Mekanisme aksi antibiotik ciprofloxacin pada infeksi E. coli adalah?",
     answer: "Menghambat DNA gyrase",
@@ -829,7 +819,7 @@ let questions = [
 },
 {
   question: "Seorang pasien wanita hamil usia kehamilan 9 minggu mengalami demam, nyeri perut, diare lebih dari 8 kali sehari dengan feses berlendir dan sedikit berdarah. Dokter mendiagnosis infeksi amoeba. Obat apa yang disarankan?",
-  answer: "Paramomisin",
+  answer: "Metronidazole",
   options: [
     "Amoksisilin",
     "Metronidazole",
@@ -1622,7 +1612,7 @@ let questions = [
 
 {
   question: "Wanita sedang hamil 30 minggu telah pulang dari Papua 1 minggu sebelumnya didapati menderita Malaria. Obat apakah yang tepat untuk pasien tersebut?",
-  answer: "Klorokuin",
+  answer: "Kuinin",
   options: [
     "Piramisin",
     "Kuinin",
@@ -1910,7 +1900,7 @@ let questions = [
   },
   {
     question: "Antibiotik empiris yang dapat diberikan pada pasien sepsis akibat ISK adalah?",
-    answer: "Levofloxacin",
+    answer: "Gentamisin",
     options: [
       "Levofloxacin",
       "Amoksiklav",
@@ -2086,7 +2076,7 @@ let questions = [
   ]
 },
 {
-  question: "Seorang pasien laki-laki 25 tahun mengeluh nyeri saat buang air kecil dan demam selaam 4 hari. Dokter mendiagnosa pasien mengalami ISK. Rekomendasi yang tepat untuk pasien tersebut?",
+  question: "Seorang pasien laki-laki 25 tahun mengeluh nyeri saat buang air kecil dan demam selama 4 hari. Dokter mendiagnosa pasien mengalami ISK. Rekomendasi yang tepat untuk pasien tersebut?",
   answer: "Ciprofloxacin",
   options: [
     "Ciprofloxacin",
@@ -2302,7 +2292,7 @@ let questions = [
 },
 {
   question: "Seorang wanita berusia 28 tahun datang ke klinik dengan keluhan gatal dan rasa terbakar di sekitar selangkangan, yang semakin parah dalam beberapa hari terakhir. Pemeriksaan fisik menunjukkan adanya bercak kemerahan, bersisik, dan terdapat sedikit kelembaban pada kulit di area lipatan paha. Dokter mendiagnosis pasien mengalami infeksi jamur pada kulit (tinea cruris). Obat apa yang tepat untuk mengatasi infeksi jamur pada pasien tersebut?",
-  answer: "Krim butenafin",
+  answer: "Krim clotrimazole",
   options: [
     "Krim clotrimazole",
     "Krim mikonazol",
@@ -3229,7 +3219,7 @@ let questions = [
   },
   {
     question: "Seorang Bapak (50 th, BB 60 kg, TB 160 cm) mengeluh pusing kepala, beliau mengaku memiliki HT. Setelah dicek TD 159/100 mmHg, kadar gula acak 200, dan creatinin 4,8. Dokter telah memberikan ibesartan 300 (1 x 1). Dokter meminta pendapat apoteker untuk memberikan obat HT golongan diuretik. Sebagai apoteker, obat apa yg anda berikan ?",
-    answer: "Hidroklotiazid",
+    answer: "Furosemide",
     options: [
       "Hidroklotiazid",
       "Furosemide",
@@ -3318,7 +3308,7 @@ let questions = [
   },
   {
     question: "Seorang pasien laki-laki berusia 40 tahun menderita hipertensi dan mengeluhkan adanya efek samping disfungsi ereksi. Obat apakah yang memberikan efek samping tersebut?",
-    answer: "Spironolacton",
+    answer: "Bisoprolol",
     options: [
       "Hidroclorothiazide",
       "Bisoprolol",
@@ -3504,7 +3494,7 @@ let questions = [
   },
   {
     question: "Obat hipertensi yang dapat meningkatkan nilai total kolesterol dan trigliserida adalah",
-    answer: "Bisoprolol",
+    answer: "Nadolol",
     options: ["Acebutolol", "Bisoprolol", "Prazosin", "Nadolol", "Labetalol"]
   },
   {
@@ -3544,8 +3534,8 @@ let questions = [
     options: ["CCB", "ACEI", "Beta bloker", "Alfa bloker", "Furosemide"]
   },
   {
-    question: "Wanita umur 62 tahun didiagnosis gagal ginjal 1 tahun dan menderita hipertensi selama 10 tahun. Tiga bulan terakhir tidak terkontrol dan terus meningkat, perlu tambahan terapi kombinasi. Obat apakah yang dikontraindikasikan pasien tersebut?",
-    answer: "Verapamil",
+    question: "Wanita umur 62 tahun didiagnosis gagal ginjal 1 tahun dan menderita hipertensi selama 10 tahun serta sedang menggunakan kaptopril. Tiga bulan terakhir tidak terkontrol dan terus meningkat, perlu tambahan terapi kombinasi. Obat apakah yang dikontraindikasikan pasien tersebut?",
+    answer: "Valsartan",
     options: ["Metoprolol", "Furosemide", "Verapamil", "Lisinopril", "Valsartan"]
   },
   {
@@ -3656,7 +3646,7 @@ let questions = [
 },
 {
   question: "Seorang laki-laki berumur 55 tahun masuk RS dengan diagnosis hipertensi dan CKD. Tekanan darah pasien belum mencapai target setelah pemberian kaptopril. Dokter meminta saran pada apoteker terkait terapi tambahan. Apakah obat yang tepat?",
-  answer: "Irbesartan",
+  answer: "Amlodipin",
   options: [
     "Lisinopril",
     "Irbesartan",
@@ -4372,7 +4362,6 @@ let questions = [
       "Dobutamine",
       "Epinefrin",
       "Nalokson",
-      "NaCl 0,9 %",
       "Glukosa 40%",
       "Fentanyl"
     ]
@@ -4523,7 +4512,7 @@ let questions = [
 
   {
     "question": "Wanita umur 53 tahun didiagnosa coronary acute syndrome (STEMI) dan diberikan fondaparinux selama 5 hari. Parameter apa yang harus diperhatikan selama mengkonsumsi obat tersebut?",
-    "answer": "Fungsi ginjal",
+    "answer": "Waktu pendarahan",
     "options": [
       "Nyeri dada",
       "Tekanan darah",
@@ -4666,7 +4655,7 @@ let questions = [
   },
   {
     "question": "Wanita hamil 2 bulan dengan kadar D-dimer tinggi membutuhkan antikoagulan yang aman. Obat apa yang tepat direkomendasikan?",
-    "answer": "Heparin",
+    "answer": "Enoksaparin",
     "options": [
       "Fondaparinux",
       "Enoksaparin",
@@ -4698,28 +4687,7 @@ let questions = [
     ]
   },
 
-  {
-    "question": "Wanita umur 53 tahun didiagnosa coronary acute syndrome (STEMI) dan diberikan fondaparinux selama 5 hari. Parameter apa yang harus diperhatikan selama mengkonsumsi obat tersebut?",
-    "answer": "Fungsi ginjal",
-    "options": [
-      "Nyeri dada",
-      "Tekanan darah",
-      "Fungsi ginjal",
-      "Saturasi oksigen",
-      "Waktu pendarahan"
-    ]
-  },
-  {
-    "question": "Seorang pria didiagnosa stroke iskemik dan diberikan alteplase IV 2,5 jam setelah gejala muncul. Bagaimana mekanisme kerja obat tersebut?",
-    "answer": "Fibrinolitik",
-    "options": [
-      "Antinyeri",
-      "Antirombolitik",
-      "Antiplatelet",
-      "Fibrinolitik",
-      "Antikoagulan"
-    ]
-  },
+  
   {
     "question": "Pasien wanita 46 tahun menggunakan warfarin untuk stroke. Apoteker memonitor nilai INR. Apa interpretasi nilai INR jika di atas nilai normal?",
     "answer": "Risiko terjadi pendarahan karena darah terlalu encer",
@@ -4786,17 +4754,7 @@ let questions = [
       "Injeksi manitol"
     ]
   },
-  {
-    "question": "Pasien mengonsumsi klopidogrel dan omeprazole secara bersamaan. Bagaimana dampak interaksi obat yang terjadi?",
-    "answer": "Efektivitas klopidogrel berkurang",
-    "options": [
-      "Efektivitas klopidogrel berkurang",
-      "Efektivitas klopidogrel bertambah",
-      "Efektivitas omeprazole meningkat",
-      "Efektivitas omeprazole berkurang",
-      "Semua efektivitas obat tetap"
-    ]
-  },
+ 
   {
     "question": "Pasien diberikan terapi akarbosa dan digoksin. Apa interaksi obat yang dihasilkan?",
     "answer": "Penurunan konsentrasi serum digoksin oleh akarbosa",
@@ -5587,7 +5545,7 @@ let questions = [
   },
   {
     "question": "Seorang pasien HIV yang sebelumnya stabil menggunakan regimen Tenofovir + Lamivudine + Efavirens mengeluhkan gangguan neuropsikiatri berupa mimpi buruk dan perubahan mood yang signifikan. Viral load terkontrol dan fungsi organ lain normal. Dokter memutuskan mengganti satu obat berdasarkan prinsip farmakoterapi. Regimen baru yang paling tepat adalah?",
-    "answer": "Zidovudin + Lamivudine + Efavirens",
+    "answer": "Tenofovir + Lamivudine + Nevirapine",
     "options": [
       "Zidovudin + Emtricitabine + Nevirapine",
       "Tenofovir + Lamivudine + Nevirapine",
@@ -5918,7 +5876,7 @@ let questions = [
   },
   {
     "question": "Seorang ODHA dewasa mengalami anemia berat setelah menggunakan regimen berbasis Zidovudin. Pasien memiliki riwayat gangguan ginjal sehingga Tenofovir tidak dapat digunakan. Berdasarkan prinsip penatalaksanaan efek samping AZT, pendekatan farmakoterapi yang paling tepat adalah?",
-    "answer": "Mengganti Zidovudin dengan Abacavir",
+    "answer": "Menggunakan Zidovudin dosis rendah",
     "options": [
       "Menghentikan seluruh terapi ARV",
       "Mengganti Zidovudin dengan Abacavir",
@@ -5951,7 +5909,7 @@ let questions = [
   },
   {
     "question": "Seorang ODHA laki-laki 46 tahun menjalani terapi ARV berbasis Zidovudin, Lamivudin, dan Nevirapine. Setelah beberapa bulan, pasien mengalami kelelahan, mudah memar, dan epistaksis ringan. Pemeriksaan darah menunjukkan anemia dan trombositopenia. Berdasarkan profil efek samping obat, obat manakah yang paling mungkin berkontribusi terhadap kondisi ini?",
-    "answer": "Lamivudin",
+    "answer": "Zidovudin",
     "options": [
       "Zidovudin",
       "Nevirapine",
@@ -6197,8 +6155,8 @@ let questions = [
 ///START MATA HIDUNG
   {
     question: "Seorang paisen glaukoma diberikan resep berisi obat Latanoprost. Bagaimana mekanisme kerja latanoprost?",
-    answer: "Meningkatkan outflow uveosderal",
-    options: ["Meningkatkan tekanan intraokular", "Mengurangi outflow uveosderal", "Meningkatkan outflow uveosderal", "Menurunkan produksi akuos mata", "Meningkatkan produksi akuos mata"]
+    answer: "Meningkatkan outflow uveosceleral",
+    options: ["Meningkatkan tekanan intraokular", "Mengurangi outflow uveosceleral", "Meningkatkan outflow uveosceleral", "Menurunkan produksi akuos mata", "Meningkatkan produksi akuos mata"]
   },
   {
     question: "Seorang pasien glaukoma mendapatkan resep timolol. Ia kemdian bertanya kepada apoteker terkait obat yang didapatkannya tersebut. Bagaimana mekanisme kerja dari timolol pada pasien dengan glaukoma?",
@@ -6513,7 +6471,7 @@ let questions = [
   {
     question: "Obat batuk berdahak apa yang paling tepat direkomendasikan untuk pasien hipertensi?",
     answer: "Bromhexine",
-    options: ["Dextromethorphan", "Guaifenesin", "Codeine", "Diphenhydramine", "Bromhexine"]
+    options: ["Dextromethorphan", "Pseudoefedrin", "Codeine", "Diphenhydramine", "Bromhexine"]
   },
   {
     question: "Pasien asma mengalami serangan akut. Pasien memiliki risiko takikardia dan tidak memberikan respons terhadap obat adrenergik. Apa penanganan yang tepat?",
@@ -6577,7 +6535,7 @@ let questions = [
   },
   {
     question: "Seorang pasien menderita asma dan hipertensi. Obat hipertensi apa yang aman digunakan?",
-    answer: "Hidroklortiazid",
+    answer: "Valsartan",
     options: ["Valsartan", "Verapamil", "Diltiazem", "Nifedipin", "Hidroklortiazid"]
   },
   {
@@ -6588,7 +6546,7 @@ let questions = [
   {
     question: "Seorang pasien asma diberikan salbutamol nebulizer. Parameter laboratorium apa yang harus dipantau ketat?",
     answer: "Kadar ion kalium",
-    options: ["Kadar ion natrium", "Kadar ion kalium", "Kadar ion magnesium", "Kadar O2 darah"]
+    options: ["Kadar ion natrium", "Kadar ion kalium", "Kadar ion magnesium", "Kadar O2 darah", "Kadar ion fosfat"]
   },
   {
     question: "Seorang kakek penderita PPOK menerima resep obat. Ia mengeluhkan konstipasi, mulut kering dan takikardia. Obat apa yang dimaksud?",
@@ -6748,7 +6706,7 @@ let questions = [
     options: ["Berat badan pasien", "Umur pasien", "Luas permukaan tubuh pasien", "Prosentase terhadap dosis dewasa", "Diekstrapolasikan dari dosis lazim orang Dewasa"]
   },
   {
-    question: "Pasien laki-laki (73thn) menderita kanker paru stage IV menderima regimen kemoterapi gemcitabine 1000 mg/m2 Intra Vena dan cisplatin 100 mg/m2 Intra Vena. Jika diketahui luas permukaan tubuh pasien tersebut 1,65 m2, berapakah dosis cisplatin yang diberikan?",
+    question: "Pasien laki-laki (73thn) menderita kanker paru stage IV menderima regimen kemoterapi gemcitabine 100 mg/m2 Intra Vena. Jika diketahui luas permukaan tubuh pasien tersebut 1,65 m2, berapakah dosis yang diberikan?",
     answer: "165 mg",
     options: ["165 mg", "1,65 mg", "1650 mg", "1,00 gram", "100 mg"]
   },
@@ -7037,13 +6995,13 @@ let questions = [
   },
   {
     question: "Berapakah ukuran lemari yang disyaratkan untuk penyimpanan narkotika?",
-    answer: "40 (samping) x 80 (muka) x 100 (tinggi)",
+    answer: "40x80x100",
     options: ["50x80x100", "50x90x100", "40x80x100", "40x90x100", "60x80x100"]
   },
   {
     question: "Lembaga manakah yang berwenang dalam mengeluarkan STRA (Surat Tanda Registrasi Apoteker)?",
-    answer: "Komite Farmasi Nasional (KFN)",
-    options: ["Ikatan Profesi Apoteker (IAI)", "Dinkes Kab/Kota", "Komite Farmasi Nasional (KFN)", "Dinkes Provinsi", "BPOM"]
+    answer: "Konsil Kefarmasian",
+    options: ["Ikatan Profesi Apoteker (IAI)", "Dinkes Kab/Kota", "Konsil Kefarmasian", "Dinkes Provinsi", "BPOM"]
   },
   {
     question: "Pasien ingin membeli 1 botol sirup prekursor (lingkaran biru). Informasi sebelumnya dokter pernah meresepkan. Apa yang harus dilakukan Apoteker?",
@@ -7337,7 +7295,7 @@ let questions = [
   },
   {
     question: "Salinan resep: <br>Iter 1x<br>R/ betahistine 6 mg No. X (det orig)<br>R/ domperidone No. X (det 5)<br>Hari ini pasien ingin mengambil sisa obat domperidone. Keterangan yang ditulis pada salinan resep terbaru adalah?",
-    answer: "det 10",
+    answer: "det orig",
     options: ["det 5", "det 10", "det orig, iter 1x", "Detur", "det orig"]
   },
   {
@@ -7386,11 +7344,7 @@ let questions = [
     answer: "2 oC sampai 8 oC",
     options: ["di bawah 2 oC", "2 oC sampai 8 oC", "8 oC sampai 15 oC", "15 oC sampai 30 oC", "Diatas 30 oC"]
   },
-  {
-    question: "R/ Luminal 0,01 g, Phenobarbital 0,03 g, m.f pulv dtd No. XV. Tersedia Luminal 30 mg, berapa tablet yang dibutuhkan? (Luminal & Phenobarbital adalah obat yang sama)",
-    answer: "20",
-    options: ["5", "7", "3", "2", "20"]
-  },
+
   {
     question: "Pasien 55 th (BB 48 kg). Injeksi artesunat 60 mg/6 ml diberikan 6 kali selama 5 hari dengan dosis 2,4 mg/kgBB. Berapa ampul yang harus disediakan?",
     answer: "12",
@@ -7466,7 +7420,7 @@ let questions = [
   },
   {
     question: "Berapa Beyond Use Date (BUD) sediaan krim racikan menurut USP (jika tidak ada data stabilitas spesifik)?",
-    answer: "30 hari", // Krim (semi padat mengandung air) umumnya 30 hari atau 4 minggu
+    answer: "30 hari", 
     options: ["7 hari", "14 hari", "30 hari", "3 bulan", "6 bulan"]
   },
   {
@@ -7476,12 +7430,12 @@ let questions = [
   },
   {
     question: "Copy resep cotrimoxazol iter 3x. Pasien sedang menebus resep ketiga (pengambilan ke-4: Ori + Iter1 + Iter2 + Iter3). Apa tanda yang diberikan pada copy resep?",
-    answer: "Det", // Karena iter 3x sudah habis seluruhnya (total 4 kali pengambilan)
+    answer: "Det", 
     options: ["Det orig", "Det orig + iter 1 x", "Det orig + iter 2 x", "Det orig + iter 3 x", "Det"]
   },
   {
     question: "Signa tetes mata: s 4 dd gtt 2 os. Apa instruksi yang disampaikan kepada pasien?",
-    answer: "Gunakan 4 kali sehari 2 tetes pada mata kiri", // os (oculus sinister) = mata kiri
+    answer: "Gunakan 4 kali sehari 2 tetes pada mata kiri", 
     options: [
       "Gunakan 4 kali sehari 2 tetes pada mata kiri",
       "Gunakan 4 kali sehari 2 tetes pada mata kanan",
@@ -7674,7 +7628,7 @@ let questions = [
   },
   {
     question: "Rekonstitusi injeksi digoksin 0,25 mg dilakukan di LAF. Berapa batas waktu penggunaan (BUD) sediaan tersebut?",
-    answer: "24 jam setelah rekonstitusi",
+    answer: "48 jam setelah rekonstitusi",
     options: [
       "30 menit setelah rekonsitusi",
       "24 jam setelah rekonstitusi",
@@ -7720,8 +7674,8 @@ let questions = [
     options: ["Toksisitas", "Mutagenik", "Karsinogenik", "Teratogenik", "Iritatif"]
   },
   {
-    question: "Berapa lama BUD (Beyond Use Date) untuk sediaan pulveres (puyer) menurut standar?",
-    answer: "1 bulan",
+    question: "Jika obat diracik pada bulan Desember 2024. ED obat yaitu Desember 2025. Berapa lama BUD (Beyond Use Date) untuk sediaan pulveres (puyer) menurut standar?",
+    answer: "3 bulan",
     options: ["1 Minggu", "1 bulan", "6 bulan", "2 minggu", "3 bulan"]
   },
   {
@@ -7759,7 +7713,7 @@ let questions = [
   },
   {
     question: "Produksi Injeksi Vitamin C yang akan didistribusikan memiliki kode golongan obat berupa...",
-    answer: "Lingkaran merah dengan huruf K", // Injeksi adalah obat keras
+    answer: "Lingkaran merah dengan huruf K", 
     options: [
       "Lingkaran Biru tua",
       "Palang merah",
@@ -7770,27 +7724,27 @@ let questions = [
   },
   {
     question: "Dibuat sediaan lotio di apotek pada tanggal 2 Mei 2016. Jika tidak ada informasi stabilitas khusus, kapan BUD sediaan tersebut?",
-    answer: "2 Juni 2016", // Sediaan topikal cair/semi padat racikan umumnya 30 hari
+    answer: "2 Juni 2016",
     options: ["16 Mei 2016", "2 Agustus 2016", "2 Juni 2016", "2 Desember 2016", "2 November 2016"]
   },
   {
     question: "Seorang Ibu membawa anaknya (BB 10 kg) untuk menggunakan obat cacing. Dosis yang seharusnya 10 mg/kgbb. Sediaan yang tersedia 25 mg/ml. Berapa volume yang dibutuhkan?",
-    answer: "4 ml", // Hitung: (10kg * 10mg) = 100mg. Volume = 100mg / 25mg/ml = 4 ml.
+    answer: "4 ml", 
     options: ["4 ml", "6 ml", "8 ml", "10 ml", "12 ml"]
   },
   {
     question: "Resep meminta Hidrogen Peroksida 5% sebanyak 30 ml. Persediaan di apotek adalah Hidrogen Peroksida 30%. Berapa ml persediaan yang dibutuhkan?",
-    answer: "5", // Hitung: (5% * 30ml) / 30% = 150 / 30 = 5 ml
+    answer: "5", 
     options: ["0,5", "1", "3", "5", "10"]
   },
   {
     question: "Salep diracik 1 Juni 2016 dengan bahan A (ED 1 th lagi) dan B (ED 2 th lagi). Kapan batas maksimal penggunaan salep tersebut?",
-    answer: "1 September 2016", // Salep racikan BUD max 90 hari (3 bulan) jika bahan aktif stabil
+    answer: "1 Juli 2016", 
     options: ["1 Juli 2016", "1 Juni 2017", "1 September 2016", "1 Agustus 2016", "1 November 2016"]
   },
   {
     question: "Pasien mendapat Digoxin IV 0,14 mg/hari. Jika diganti ke Digoxin Oral (Bioavailabilitas = 0,7), berapa mg dosis oralnya?",
-    answer: "0,2", // Hitung: Dosis IV / F = 0,14 / 0,7 = 0,2 mg
+    answer: "0,2", 
     options: ["0,1", "0,2", "0,3", "0,4", "0,5"]
   },
   {
@@ -7827,7 +7781,7 @@ let questions = [
   {
     question: "Nomor registrasi Loratadin DKL3017364926189. Arti huruf 'L' pada kode tersebut menunjukkan:",
     answer: "Produk lokal",
-    options: ["Produk luar negeri", "Produk untuk pemakaian luar", "Produk local", "Produk luar biasa", "Produk lisensi"]
+    options: ["Produk luar negeri", "Produk untuk pemakaian luar", "Produk lokal", "Produk luar biasa", "Produk lisensi"]
   },
   {
     question: "Petugas farmasi IGD menyerahkan 1 ampul lidokain langsung untuk kebutuhan pasien saat itu. Apa nama sistem distribusi ini?",
@@ -7852,7 +7806,7 @@ let questions = [
   },
   {
     question: "Ketokonazol mudah larut dalam asam. Jika diminum bersamaan dengan antasida, apa yang akan terjadi?",
-    answer: "Efek ketokonazole berkurang", // Antasida menaikkan pH lambung, menurunkan kelarutan ketokonazol
+    answer: "Efek ketokonazole berkurang", 
     options: [
       "Efek antasida berkurang",
       "Efek ketokonazole berkurang",
@@ -8452,7 +8406,7 @@ let questions = [
   },
 
   {
-    question: "Pasien anak perempuat 6 tahun mengalami BAB sudah 3x sehari dari kemarin. Dengan feses cair seperti cucian beras dan tidak berdarah. Ibunya datang ke apotek untuk meminta obat yang dapat mengobati anaknya. Anda sebagai seorang apoteker memberikan rekomendasi?",
+    question: "Pasien anak perempuan 6 tahun mengalami BAB sudah 3x sehari dari kemarin. Dengan feses cair seperti cucian beras dan tidak berdarah. Ibunya datang ke apotek untuk meminta obat yang dapat mengobati anaknya. Anda sebagai seorang apoteker memberikan rekomendasi?",
     answer: "Memberikan oralit kemudian pergi ke dokter",
     options: [
       "Memberikan zinc 10 mg tab selama 10-14 hari",
@@ -8540,8 +8494,8 @@ let questions = [
     ]
   },
   {
-    question: "Pasien anak berusai 2 tahun mengalami diare spesifik yang disebabkan oleh E.coli. Antibiotik apa yang sesuai untuk pasien tersebut?",
-    answer: "Kotrimoksazol",
+    question: "Pasien anak berusia 2 tahun mengalami diare spesifik yang disebabkan oleh E.coli. Antibiotik apa yang sesuai untuk pasien tersebut?",
+    answer: "Azitromisin",
     options: [
       "Kloramfenikol",
       "Azitromisin",
@@ -8767,7 +8721,7 @@ let questions = [
   },
   {
     question: "Seorang Mahasiswi perempuan 21 tahun yang sedang sibuk menghadapi tugas akhir datang ke apotek ingin membeli obat untuk menyembuhkan keluhan yang dialaminya yaitu mual, kembung, perih dan perasaan tidak enak pada ulu hati sejak dua bulan terakhir. Pasien mengaku sudah minum obat antasida tetapi tidak ada perbaikan. Obat apakah yang diberikan apoteker di apotek kepada pasien tersebut..",
-    answer: "Ranitidin",
+    answer: "Lansoprazole",
     options: ["Ondansetron", "Lansoprazole", "Ranitidin", "Loratadine", "Loperamide"]
   },
   {
@@ -8873,7 +8827,7 @@ let questions = [
   },
   {
     question: "Seorang remaja laki-laki berusia 22 tahun datang ke dokter, pasien bercerita bahwa baru saja kembali dari liburan bersama teman-temannya, dalam perjalan pulang hingga waktu berkonsultasi dengan dokter, remaja tersebut mengaku merasakan sesak nafas dan mengi serta batuk berdahak yang tak kunjung reda. Dokter mendiagnosa menderita PPOK. Antibiotik apa yang efektif untuk PPOK ?",
-    answer: "Cefixim",
+    answer: "Eritromisin",
     options: ["Cefixim", "Metronidazole", "Kloramfenikol", "Eritromisin", "Cefadroksil"]
   },
 
@@ -9071,7 +9025,7 @@ let questions = [
   },
   {
     question: "Seorang ibu muda ingin membeli obat kontrasepsi oral yang berisi levonogestrel dan etinilestradiol sebanyak 3 strip. Pasien ini adalah pasien yang sebelumnya membawa resep obat yang sama pada apotek anda, diresepkan 1 strip, dan setelah melihat obatnya bertanda obat keras, apa yang anda lakukan terhadap kasus tersebut?",
-    answer: "Memberi 3 strip dan menganjurkan pasien control ke dokter setiap 6 bulan",
+    answer: "Memberi 1 strip dan menganjurkan pasien control ke dokter setiap 6 bulan",
     options: [
       "Memberi 1 strip dan menganjurkan pasien control ke dokter setiap 3 bulan",
       "Memberi 1 strip dan menganjurkan pasien control ke dokter setiap 6 bulan",
@@ -9729,7 +9683,7 @@ let questions = [
   },
   {
     question: "Apa obat yang tepat untuk pasien dengan kejang berulang dalam waktu lama dengan riwayat tidak patuh antiepilepsi oral?",
-    answer: "Fenobarbital",
+    answer: "Diazepam",
     options: ["Diazepam", "Carbamazepine", "Valproat", "Fenobarbital", "Lamotrigine"]
   },
   {
@@ -9739,7 +9693,7 @@ let questions = [
   },
   {
     question: "Seorang pasien lansia berusia 72 tahun dengan riwayat epilepsi fokal kompleks mengalami peningkatan frekuensi kejang meskipun sudah mengonsumsi valproic acid secara teratur. Dokter meminta apoteker untuk mengevaluasi kemungkinan penyebab kegagalan terapi. Pemeriksaan laboratorium menunjukkan pasien mengalami hipoalbuminemia dan sedang menjalani pengobatan dengan beberapa obat lain yang dimetabolisme oleh enzim CYP450. Faktor manakah yang paling mungkin berkontribusi terhadap kegagalan terapi pada pasien ini?",
-    answer: "Peningkatan kadar bebas valproic acid akibat hipoalbuminemia",
+    answer: "Penurunan kadar efektif valproic acid akibat induksi enzim CYP450 oleh obat lain",
     options: [
       "Hipometabolisme valproic acid akibat usia lanjut",
       "Peningkatan kadar bebas valproic acid akibat hipoalbuminemia",
@@ -9893,9 +9847,9 @@ let questions = [
   },
   {
     question: "Pasien laki-laki berusia 19 tahun sudah 3 bulan didiagnosa epilepsi dan diberikan fenitoin oleh dokter. Setelah diselidiki ternyata pasien tidak patuh minum obat karena tidak nyaman dengan efek samping obat tersebut. Efek samping apa yang dicurigai?",
-    answer: "Huperplasia gingivalis",
+    answer: "Hiperplasia gingivalis",
     options: [
-      "Huperplasia gingivalis",
+      "Hiperplasia gingivalis",
       "Gangguan ginja",
       "Metabolik asidosis",
       "Gangguan penglihatan",
@@ -10284,9 +10238,9 @@ let questions = [
     options: ["1,0 : 1,0", "1,2 : 0,8", "1,4 : 0,6", "1,1 : 0,9", "1,3 : 0,7"]
   },
   {
-    question: "Seorang pasien dengan berat 65 kg datang ke klinik dan membutuhkan 2,400 ml cairan RL. Berapa tetes infus yang dibutuhkan jika cairan pasien mesti dicapai dalam waktu 12 jam dan faktor tetes 15 tetes/ml?",
-    answer: "50 ml",
-    options: ["60 ml", "40 ml", "65 ml", "55 ml", "50 ml"]
+    question: "Seorang pasien dengan berat 65 kg datang ke klinik dan membutuhkan 2,400 ml cairan RL. Berapa kecepatan tetes infus yang dibutuhkan jika cairan pasien mesti dicapai dalam waktu 12 jam dan faktor tetes 15 tetes/ml?",
+    answer: "50 tetes/menit",
+    options: ["60 tetes/menit", "40 tetes/menit", "65 tetes/menit", "55 tetes/menit", "50 tetes/menit"]
   },
   {
     question: "Industri Farmasi melakukan validasi proses metode pengujian tablet simetidin. Hasil persen recoverynya 98-102%. Parameter yang diuji adalah?",
@@ -10299,16 +10253,7 @@ let questions = [
     options: ["25 derajat, RH 75%", "35 derajat, RH 75%", "45 derajat, RH 75%", "30 derajat, RH 75%", "40 derajat, RH 75%"]
   },
 
-  {
-    question: "Sebuah industri farmasi akan memproduksi tablet ibuprofen yang dibuat dengan metode granulasi basah. Granul yang diperoleh sebanyak 18 kg (kadar air 1%) dan akan dicetak menjadi tablet dengan bobot 450 mg. Berapa jumlah tablet ibuprofen yang dapat dihasilkan?",
-    answer: "39.600 tablet",
-    options: ["17.400 tablet", "39.600 tablet", "41.800 tablet", "28.500 tablet", "40.700 tablet"]
-  },
-  {
-    question: "Industri farmasi sedang melakukan produksi tablet hisap vitamin C dengan bentuk kemasan strip. Agar memenuhi aturan CPOB maka pada saat pengemasan pada blister perlu dilakukan pada kelas yang sesuai. Pada kelas mana proses tersebut dilakukan?",
-    answer: "Kelas E",
-    options: ["Kelas A", "Kelas C", "Kelas E", "Kelas B", "Kelas D"]
-  },
+
   {
     question: "Sebuah industri farmasi ingin memproduksi injeksi antibiotik. Produksi injeksi antibiotic dilakukan pada bangunan terpisah yang dilengkapi system AHU (Air Handling Unit). Mengapa produksi injeksi antibiotik dilakukan pada bangunan terpisah?",
     answer: "Untuk menghindari reaksi hipersensifitas",
@@ -10319,11 +10264,7 @@ let questions = [
     answer: "Zona IVB",
     options: ["Zona I", "Zona II", "Zona III", "Zona IVA", "Zona IVB"]
   },
-  {
-    question: "Persyaratan uji stabilitas dipercepat terdapat pada 3 titik yaitu",
-    answer: "0, 3, dan 6 bulan",
-    options: ["0, 3, dan 6 bulan", "3, 6, dan 9 bulan", "0, 6, dan 12 bulan", "6, 12, dan 24 bulan", "12, 24 dan 32 bulan"]
-  },
+
   {
     question: "Suatu produksi obat epinefrin diratrat dalam bentuk sediaan aerosol, untuk mempertahankan mutu perlukan kualifikasi. Tahapan kualifikasi sesuai CPOB?",
     answer: "Kualifikasi desain,instalasi, operasional, kinerja",
@@ -10365,7 +10306,7 @@ let questions = [
     options: ["1 Agustus 2017", "3 Agustus 2017", "5 Agustus 2017", "2 Agustus 2017", "4 Agustus 2017"]
   },
   {
-    question: "Tablet paracetamol telah diproduksi rutin selama 5 tahun. Namun, tahun 2018 zat pengikat diubah untuk meningkatkan desintegrasi. Apakah jenis validasi yang digunakan?",
+    question: "Tablet paracetamol telah diproduksi rutin selama 5 tahun. Namun, tahun ini zat pengikat diubah untuk meningkatkan desintegrasi. Apakah jenis validasi yang digunakan?",
     answer: "Validasi ulang",
     options: ["Validasi prospektif", "Validasi ulang", "Validasi konkuren", "Validasi lanjutan", "Validasi retrospektif"]
   },
@@ -10492,7 +10433,7 @@ let questions = [
   },
   {
     question: "R n D akan melakukan pengembagan tablet dengan data formulasi tahan panas, kompaktibilitas elastis, daya alir baik. Metode apa yang cocok?",
-    answer: "Granulasi kering",
+    answer: "Granualsi basah dengan pelarut air",
     options: ["Granualsi basah dengan pelarut air", "Granulasi basah dengan pelarut bukan air", "Granulasi kering", "Granulasi kering dengan penyalutan", "Cetak langsung"]
   },
   {
@@ -10871,8 +10812,8 @@ let questions = [
   },
   {
     question: "Sebanyak 20 mg zat aktif dalam suspensi terurai mengikuti kinetika orde nol dengan k = 0,50 mg/jam. Berapa jam usia simpan (t90) sediaan tersebut?",
-    answer: "4", // Perhitungan: t90 = (0,1 * Co) / k = (0,1 * 20) / 0,5 = 4 jam. (Catatan: Pilihan di soal asli mungkin keliru, namun 4 jam adalah hasil teknisnya)
-    options: ["40", "30", "50", "20", "10"] 
+    answer: "4", 
+    options: ["4", "3", "5", "2", "1"] 
   },
   {
     question: "Pasien (50 th, 85 kg) diberikan infus antibiotik dengan kadar efektif (Css) 0,350 μg/ml. Klirens = 30 L/jam. Berapakah kecepatan infus (R) dalam mg/jam?",
@@ -10880,13 +10821,13 @@ let questions = [
     options: ["20,5", "25,5", "10,5", "5,5", "15,5"]
   },
   {
-    question: "Uji bioekivalensi studi menyilang 2 way memerlukan periode washout. Jika waktu paruh (t1/2) obat adalah 2 jam, berapa jam minimal periode washout (minimal 5-7 x t1/2)?",
-    answer: "12", // 5-7 x 2 jam = 10-14 jam. Pilihan terdekat dan aman adalah 12.
+    question: "Uji bioekivalensi studi menyilang 2 way memerlukan periode washout. Jika waktu paruh (t1/2) obat adalah 2 jam, berapa jam minimal periode washout?",
+    answer: "10", 
     options: ["8", "12", "4", "6", "10"]
   },
   {
     question: "Diketahui k=0,07/jam; Vd=40L; Cpss=20mg/L; sisa obat di plasma=10mg/L. Berapa kecepatan infus (R) yang dibutuhkan untuk mencapai Cpss tersebut?",
-    answer: "28", // R = Css * k * Vd = 20 * 0,07 * 40 = 56 mg/jam (total), namun karena sudah ada sisa 10mg/L, tambahan yang dibutuhkan mengikuti rumus selisih.
+    answer: "56", 
     options: ["18", "20", "28", "56", "76"]
   },
   {
@@ -10930,17 +10871,17 @@ let questions = [
 ///START FARMAKOKIMIA
   {
     question: "Bagian QC dari industri farmasi melakukan uji bahan baku Ketoprofen dengan spektro UV-Vis. Didapatkan nilai absorban 0,6 (ukuran kuvet 1 cm). Didapatkan nilai a (1%, 1 cm) = 400. Berapa % kadar Ketoprofen tersebut?",
-    answer: "0,15",
+    answer: "0,0015",
     options: ["0,0015", "0,015", "0,15", "1,5", "15"]
   },
   {
-    question: "Bagian QC melakukan uji kadar Antalgin injeksi dengan spektro UV-Vis. Larutan uji diambil 1 ml dilarutkan ad 100 ml. Larutan tersebut diambil 5 ml diencerkan ad 100 ml. Serapan sampel 0,505, serapan baku Antalgin 10 ppm adalah 0,202. Berapakah kadar (dalam ppm) Antalgin dalam sediaan asli tersebut?",
+    question: "Bagian QC melakukan uji kadar Antalgin injeksi dengan spektro UV-Vis. Larutan uji 100 mL diambil 1 ml dilarutkan ad 100 ml. Larutan tersebut diambil 5 ml diencerkan ad 100 ml. Serapan sampel 0,505, serapan baku Antalgin 10 ppm adalah 0,202. Berapakah mg Antalgin dalam sediaan asli tersebut?",
     answer: "500",
     options: ["25", "50", "125", "500", "625"]
   },
   {
     question: "Apakah metode titrasi yang digunakan dalam penetapan kadar Ammonium Klorida (NH4Cl)?",
-    answer: "Alkalimetri",
+    answer: "Argentometri",
     options: ["Asidimetri", "Alkalimetri", "Argentometri", "Kompleksometri", "Iodometri"]
   },
   {
@@ -11045,7 +10986,7 @@ let questions = [
     options: ["23", "2300", "230000", "230", "23000"]
   },
   {
-    question: "Obat X 800 mg dilarutkan dalam 200 ml. Dipipet 1 ml ad 50 ml. Diambil 20 ml ad 100 ml. Absorbansi 0.6 dengan regresi y=0.1x - 1. Berapa % kadar yang diperoleh?",
+    question: "Obat X 800 mg dilarutkan dalam 200 ml. Dipipet 1 ml ad 50 ml. Diambil 20 ml ad 100 ml. Absorbansi 0.6 dengan regresi y = 0.1x - 1. Berapa % kadar yang diperoleh?",
     answer: "100 %",
     options: ["95 %", "100 %", "105%", "98 %", "102%"]
   },
@@ -11181,7 +11122,7 @@ let questions = [
   },
   {
     question: "Suatu rumah sakit akan melakukan pengadaan tablet cetirizine setiap 6 bulan sekali dengan waktu tunggu 2 bulan, rata-rata penggunaan tiap bulan sebanyak 1000 tablet. Berapa stock minimal saat pengadaan?",
-    answer: "2000",
+    answer: "4000",
     options: ["2000", "4000", "6000", "8000", "10000"]
   },
   {
@@ -11377,7 +11318,7 @@ let questions = [
   },
   {
     question: "Pria (30 th) menderita DM dengan riwayat penyakit Gagal Ginjal Kronis (GGK) stage 2. Manakah rekomendasi obat yang paling tepat dan aman untuk kondisi fungsi ginjal pasien tersebut?",
-    answer: "Pioglitazon",
+    answer: "Empaglifozin",
     options: ["Metformin", "Glibenklamid", "Empaglifozin", "Acarbose", "Pioglitazon"]
   },
   {
@@ -11542,7 +11483,7 @@ let questions = [
     options: ["Sel alpha pankreas", "Sel beta pankreas", "Sel gamma pankreas", "Sel delta pankreas", "Sel endokrin"]
   },
   {
-    question: "Pasien penderita DM Tipe 2 mengalami gejala lemas, berkeringat, dingin, lapar, gemetar (hipoglikemia). Obat antidiabetes golongan sulfonilurea manakah yang paling mungkin menyebabkan efek samping tersebut?",
+    question: "Pasien penderita DM Tipe 2 mengalami gejala lemas, berkeringat, dingin, lapar, gemetar (hipoglikemia). Obat antidiabetes manakah yang paling mungkin menyebabkan efek samping tersebut?",
     answer: "Glibenklamid",
     options: ["Metformin", "Nataglinide", "Pioglitazon", "Dapafliglozin", "Glibenklamid"]
   },
@@ -11598,7 +11539,7 @@ let questions = [
   },
   {
     question: "Wanita (75 tahun, BB 60 kg, Serum Kreatinin 1 mg/dl). Berapa klirens kreatinin (ClCr) pasien tersebut menggunakan rumus Cockcroft-Gault?",
-    answer: "44.06 mL/menlt", // Perhitungan: ((140-75)*60 / (72*1)) * 0.85 = 46.04 * 0.85 = 39.13? (Opsi b mendekati hasil pembulatan/variasi konstanta)
+    answer: "46.04 mL/menit",
     options: ["46.04 mL/menit", "44.06 mL/menlt", "50.12 mL/menit", "60.43 mL/menit", "54.03 mL/menit"]
   },
   {
@@ -11734,8 +11675,8 @@ let questions = [
   },
   {
     question: "Target HbA1c secara umum menurut PERKENI/ADA untuk sebagian besar pasien dewasa tidak hamil dengan DM tipe 2 adalah:",
-    answer: "HbA1c < 7%", // Opsi yang paling mendekati secara medis adalah < 7, namun di pilihan tersedia < 6.5 atau 7-8. Secara klinis < 7% adalah standar.
-    options: ["HbA1c < 6,5%", "HbA1c 7-8%", "HbA1c < 8%", "HbA1c < 9%", "E. HbA1c 9-10%"]
+    answer: "HbA1c < 7%", 
+    options: ["HbA1c < 6,5%", "HbA1c < 7%", "HbA1c < 8%", "HbA1c < 9%", "E. HbA1c 9-10%"]
   },
 
   {
@@ -11771,7 +11712,7 @@ let questions = [
   {
     question: "Seorang pria (55 th) dengan DM tipe 2 dan osteopenia. Obat diabetes melitus manakah yang harus dihindari karena risiko penurunan kepadatan tulang dan fraktur?",
     answer: "Pioglitazone",
-    options: ["Pioglitazon", "Metformin", "Glibenklamid", "Vildagliptin", "Semaglutid"]
+    options: ["Pioglitazone", "Metformin", "Glibenklamid", "Vildagliptin", "Semaglutid"]
   },
   {
     question: "Seorang pasien DM tipe 2 mengalami neuropati perifer (rasa terbakar dan nyeri tajam). Apa terapi lini pertama yang paling tepat untuk mengurangi nyeri tersebut?",
