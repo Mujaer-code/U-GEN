@@ -2143,7 +2143,7 @@ let questions = [
 },
 {
   question: "Seorang pasien 26 tahun terkena ISK. Dokter meresepkan antibiotik kontrimoksazol yang berisi kombinasi sulfametoksazol dan trimetoprim. Berapakah dosis kedua kombinasi tersebut?",
-  answer: "400 mg dan 60 mg",
+  answer: "200 mg dan 40 mg",
   options: [
     "100 mg dan 25 mg",
     "200 mg dan 40 mg",
@@ -3118,16 +3118,16 @@ let questions = [
     ]
   },
   {
-    question: "Seorang pasien pria usia 60 tahun didiagnosis hipertensi esensial dan diberi terapi dengan kombinasi losartan dan spironolakton. Setelah satu bulan, hasil laboratorium menunjukkan kadar kalium 5,8 mmol/L (batas normal: 3,5-5,0 mmol/L). Obat apa yang kemungkinan besar menyebabkan hiperkalemia pada pasien ini?",
-    answer: "Valsartan",
-    options: [
-      "Amlodipin",
-      "Bisoprolol",
-      "Valsartan",
-      "Furosemid",
-      "Hidroklortiazid"
-    ]
-  },
+  question: "Seorang pasien pria usia 60 tahun didiagnosis hipertensi esensial dan mendapat terapi kombinasi losartan dan spironolakton. Setelah satu bulan terapi, hasil laboratorium menunjukkan kadar kalium 5,8 mmol/L (nilai normal: 3,5–5,0 mmol/L). Obat manakah yang paling berperan menyebabkan hiperkalemia pada pasien tersebut?",
+  answer: "Spironolakton",
+  options: [
+    "Amlodipin",
+    "Bisoprolol",
+    "Spironolakton",
+    "Furosemid",
+    "Hidroklortiazid"
+  ]
+},
   {
     question: "Seorang pria berusia 58 tahun dengan riwayat diabetes mellitus tipe 2 selama 12 tahun datang ke klinik untuk evaluasi fungsi ginjal. Pemeriksaan lab menunjukkan kadar albuminuria 120 mg/g dan laju filtrasi glomerulus (eGFR) 52 mL/min/1.73 m². Pasien saat ini mengonsumsi metformin dan memiliki riwayat hipertensi yang terkontrol dengan amlodipin. Dokter ingin memulai terapi yang dapat menurunkan progresivitas penyakit ginjal dan mengurangi proteinuria. Obat apakah yang paling direkomendasikan sebagai terapi lini pertama untuk kondisi pasien ini?",
     answer: "Lisinopril",
@@ -6953,11 +6953,7 @@ let questions = [
 ///END ONKOLOGI
 
 //START PELAYANAN FARMASI
-  {
-    question: "Berapa ml Gentian violet yang dibutuhkan apabila di apotek tersebut tersedia sediaan gentian violet 0,5% untuk membuat 500 ml larutan 1:100.000?",
-    answer: "1",
-    options: ["0,01", "0,1", "1", "10", "100"]
-  },
+
   {
     question: "R/ Captopril 25 mg No. XX. Iter 2x. S 2dd1 pc. Det orig. Berapakah jumlah obat yang masih dapat ditebus oleh pasien?",
     answer: "40 tablet",
@@ -7095,8 +7091,8 @@ let questions = [
   },
   {
     question: "Dimanakah STRA (Surat Tanda Registrasi Apoteker) bisa dibuat/diterbitkan?",
-    answer: "KFN",
-    options: ["Dinas kesehatan RI", "Balai POM", "Badan POM", "IAI", "KFN"]
+    answer: "Konsil",
+    options: ["Dinas kesehatan RI", "Balai POM", "Badan POM", "IAI", "Konsil"]
   },
   {
     question: "Berapa tahun masa berlaku SIPA (Surat Ijin Praktek Apoteker)?",
@@ -7207,7 +7203,7 @@ let questions = [
   },
   {
     question: "Pasien ingin membeli sirup paracetamol untuk anak. Tindakan apoteker?",
-    answer: "Obat diberikan karena paracetamol obat bebas",
+    answer: "Obat diberikan (bebas)",
     options: ["Obat diberikan (bebas)", "Obat diberikan (bebas terbatas)", "Karena DOWA", "Tidak diberikan (Keras)", "Tidak diberikan (Narkotika)"]
   },
   {
@@ -7859,7 +7855,7 @@ let questions = [
   },
   {
     question: "Pasien hamil minum suplemen Zat Besi (Ferros) bersama teh manis, namun Hb tetap rendah. Mengapa hal ini terjadi?",
-    answer: "Teh dan ferros membentuk senyawa Kompleks", // Tanin dalam teh mengikat zat besi
+    answer: "Teh dan ferros membentuk senyawa Kompleks", 
     options: [
       "Teh meningkatkan metabolisme ferros",
       "Teh meningkatkan klirens ferros",
@@ -7886,12 +7882,12 @@ let questions = [
   },
   {
     question: "Apoteker bertanya pada pasien: 'Apakah dokter menjelaskan tentang cara penggunaan obat?'. Teknik bertanya ini disebut...",
-    answer: "pertanyaan verifikasi", // Atau bagian dari 'Three Prime Questions'
+    answer: "pertanyaan verifikasi", 
     options: ["pertanyaan empati", "pertanyaan open ended", "pertanyaan closes ended", "pertanyaan verifikasi", "pertanyaan klarifikasi"]
   },
   {
     question: "Seorang pria susah BAB selama 3 hari. Apoteker memberikan bisacodyl tablet. Kapan waktu minum yang disarankan?",
-    answer: "Diminum di malam hari sebelum tidur", // Agar efek muncul di pagi hari (onset 6-12 jam)
+    answer: "Diminum di malam hari sebelum tidur", 
     options: [
       "Diminum di pagi hari setelah makan",
       "Diminum di pagi hari setelah bangun tidur",
@@ -7901,13 +7897,13 @@ let questions = [
     ]
   },
   {
-    question: "Dimana Metadon (Narkotika) harus disimpan di apotek?",
+    question: "Dimana Metadon harus disimpan di apotek?",
     answer: "Lemari narkotika",
     options: ["Di etalase", "Di rak kaca", "Di rak obat keras", "Lemari psikotropika", "Lemari narkotika"]
   },
   {
     question: "Anak 2 th butuh Paracetamol 120 mg. Sediaan sirup 80 mg/mL. Berapa mL sirup untuk sekali minum?",
-    answer: "1,5", // Hitung: 120 / 80 = 1,5 ml
+    answer: "1,5", 
     options: ["1", "2", "2,5", "1,5", "3"]
   },
 
@@ -9909,8 +9905,8 @@ let questions = [
   },
   {
     question: "Seorang perempuan 60 th dirawat di RS dengan diagnosis sepsis. Hasil pemeriksaan kultur darah pasien menunjukkan bahwa bakteri hanya sensitif terhadap gentamisin. Klirens kreatinin pasien 50 ml/menit. Pasien diberikan gentamisin 100 mg secara infus intermitten. Css gentamisin adalah 9 mg/ml dan waktu paruh gentamisin adalah 5 jam. Berapakah konsentrasi gentamisin setelah 4 jam pemberian infus?",
-    answer: "5,9",
-    options: ["3,9", "4,5", "5,9", "6,3", "7,4"]
+    answer: "3,8",
+    options: ["3,8", "4,5", "5,9", "6,3", "7,4"]
   },
 
   {
@@ -10841,9 +10837,9 @@ let questions = [
     options: ["Larutan sejati", "Emulsi", "Suspensi", "Efervesen", "Dry syrup"]
   },
   {
-    question: "Pasien kanker prostat diberi morfin. Vd=250 L (asumsi unit L), F=25%, Cp=150 ug/L. Berapa dosis awal (D = Cp * Vd / F)?",
-    answer: "150 mg", // Perhitungan: (150 ug/L * 250 L) / 0,25 = 150.000 ug = 150 mg.
-    options: ["20-30 mg", "50-60 mg", "30–40 mg", "60-70 mg", "150 mg"]
+    question: "Pasien kanker prostat diberi morfin. Vd=250 L (asumsi unit L), F=25%, Cp=150 ug/L. Berapa dosis awal?",
+    answer: "150 mg",
+    options: ["30 mg", "60 mg", "40 mg", "70 mg", "150 mg"]
   },
   {
     question: "Dibutuhkan krim 0,05% asam salisilat sebanyak 20 g. Tersedia tube 10 g dengan kadar yang sama (0,05%). Berapa tube yang digunakan?",
