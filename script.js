@@ -14,30 +14,21 @@ let userAnswers = [];
 
 
 function resetProgress() {
-    // 1. Hapus data dari memori browser
     localStorage.removeItem("quizProgress");
-
-    // 2. Kembalikan variabel ke nilai awal
     questionCount = 0;
     questionOrder = [];
     userAnswers = [];
-    
     alert("Progress telah dihapus. Soal akan diacak dan silahkan belajar lagi");
 }
 
 
-// 3. Fungsi untuk update tampilan di HTML
+//Fungsi untuk update tampilan di HTML
 function updateProgress() {
-   // Supaya mulai dari 1, bukan 0
    const nomorAktif = questionCount + 1;
    const totalSoal = questions.length;
 
   document.getElementById('display-nomor').innerText = `${nomorAktif} / ${totalSoal}`;
 }
-
-
-// Panggil fungsi ini setiap kali tombol "Next" diklik
-
 
 
 // Load progress jika ada
